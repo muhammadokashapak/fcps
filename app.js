@@ -221,6 +221,11 @@ function updateTimerDisplay() {
     const m = Math.floor(quizState.timeLeft / 60).toString().padStart(2, '0');
     const s = (quizState.timeLeft % 60).toString().padStart(2, '0');
     document.getElementById('time-display').innerText = `${m}:${s}`;
+    if(quizState.timeLeft <= 60 && quizState.timeLeft > 0) {
+        document.getElementById('quiz-timer').classList.add('danger');
+    } else {
+        document.getElementById('quiz-timer').classList.remove('danger');
+    }
 }
 
 function buildNavGrid() {
