@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FCPS Pro - Part 1 QBank</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- SCREEN: USER PORTAL -->
+    <div id="user-screen" class="screen portal-layout active">
+        <aside class="sidebar" id="main-sidebar">
+            <div class="brand">
+                <i class="fa-solid fa-stethoscope"></i>
+                <span>FCPS Pro</span>
+            </div>
+            
+            <nav class="nav-menu">
+                <a href="#" class="nav-link active" onclick="switchUserTab('dash', this); return false;"><i class="fa-solid fa-chart-line"></i> Dashboard</a>
+                <a href="#" class="nav-link" onclick="switchUserTab('qbank', this); return false;"><i class="fa-solid fa-book-medical"></i> Question Bank</a>
+                <a href="#" class="nav-link" onclick="switchUserTab('mistakes', this); return false;"><i class="fa-solid fa-clipboard-question"></i> Review Mistakes</a>
+                <a href="#" class="nav-link" onclick="switchUserTab('analytics', this); return false;"><i class="fa-solid fa-chart-simple"></i> My Analytics</a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="user-info-sm">
+                    <div class="avatar"><i class="fa-solid fa-user-doctor"></i></div>
+                    <div class="details">
+                        <strong id="display-username">Guest User</strong>
+                        <span>FCPS Part 1 Aspirant</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        
+        <main class="main-content" id="main-content-area">
+            <header class="topbar">
+                <h2 id="topbar-title">Dashboard</h2>
+                <div class="topbar-actions">
+                    <button class="btn-icon"><i class="fa-regular fa-bell"></i></button>
+                    <div class="user-badge"><i class="fa-solid fa-user-doctor"></i></div>
+                </div>
+            </header>
+            
+            <div class="content-body">
+                <!-- TAB: DASHBOARD -->
+                <div id="tab-dash" class="user-tab">
+                    <div class="welcome-banner">
+                        <div>
+                            <h3 id="welcome-text">Welcome back, Doctor!</h3>
+                            <p>Ready to conquer FCPS Part 1? Let's practice.</p>
+                        </div>
+                        <button class="btn btn-light" onclick="switchUserTab('qbank', document.querySelectorAll('.nav-link')[1])">Start Test</button>
+                    </div>
+                    
+                    <div class="stats-grid mt-4">
+                        <div class="stat-card">
+                            <div class="icon bg-primary-light text-primary"><i class="fa-solid fa-file-pen"></i></div>
+                            <div class="info">
+                                <h4>Attempted MCQs</h4>
+                                <h2 id="user-attempted-mcqs">0</h2>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="icon bg-success-light text-success"><i class="fa-solid fa-bullseye"></i></div>
+                            <div class="info">
+                                <h4>Overall Accuracy</h4>
+                                <h2 id="user-accuracy">0%</h2>
+                            </div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="icon bg-warning-light text-warning"><i class="fa-solid fa-unlock-keyhole"></i></div>
+                            <div class="info">
+                                <h4>Unseen MCQs</h4>
+                                <h2 id="user-unseen-mcqs">0</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- TAB: QUESTION BANK -->
+                <div id="tab-qbank" class="user-tab hidden">
+                    <div class="qbank-config card p-4">
+                        <h3><i class="fa-solid fa-sliders"></i> Generate New Test</h3>
+                        <p class="text-muted">Select your test parameters below. Immersive Mode will activate automatically.</p>
+                        
+                        <div class="config-grid mt-4">
+                            <div class="input-group">
+                                <label>Number of Questions</label>
+                                <select id="qb-count" class="form-select">
+                                    <option value="10">10 Questions (Quick Review)</option>
+                                    <option value="25">25 Questions</option>
+                                    <option value="50" selected>50 Questions (Half Block)</option>
+                                    <option value="100">100 Questions (Full Block)</option>
+                                </select>
+                            </div>
+                            
+                            <div class="input-group">
+                                <label>Test Mode</label>
+                                <select id="qb-mode" class="form-select">
+                                    <option value="0">Tutor Mode (Untimed, immediate feedback)</option>
+                                    <option value="60" selected>Timed Mock Test (60s/Q, Immersive Focus)</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <button class="btn btn-primary btn-lg mt-4 w-100" onclick="generateQuiz()">
+                            <i class="fa-solid fa-play"></i> Start Test
+                        </button>
+                    </div>
+                </div>
+
+                <!-- TAB: REVIEW MISTAKES -->
+                <div id="tab-mistakes" class="user-tab hidden">
+                    <div class="d-flex justify-content-between mb-3">
+                        <div>
+                            <h3>Mistakes Bank</h3>
+                            <p class="text-muted">Review the questions you answered incorrectly to improve retention.</p>
+                        </div>
+                        <button class="btn btn-outline-danger" onclick="clearMistakes()">Clear Mistakes</button>
+                    </div>
+                    <div id="mistakes-container" class="mt-4">
+                        <!-- Mistakes injected here -->
+                    </div>
+                </div>
+                
+                <!-- TAB: ANALYTICS -->
+                <div id="tab-analytics" class="user-tab hidden">
+                    <div class="card p-4">
+                        <h3><i class="fa-solid fa-chart-line"></i> Performance Analytics</h3>
+                        <div class="mt-4 d-flex align-items-center gap-4">
+                            <div class="circular-progress">
+                                <span id="analytic-accuracy">0%</span>
+                            </div>
+                            <div>
+                                <h4>Overall Competency</h4>
+                                <p class="text-muted">Target is >70% for FCPS Part 1</p>
+                            </div>
+                        </div>
+                        <hr class="my-4">
+                        <button class="btn btn-outline-danger" onclick="resetUserProgress()"><i class="fa-solid fa-rotate-left"></i> Reset All Progress</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- SCREEN: QUIZ INTERFACE (Immersive Mode) -->
+    <div id="quiz-screen" class="screen quiz-layout">
+        <aside class="quiz-sidebar" id="quiz-sidebar">
+            <div class="quiz-sidebar-header">
+                <h3>Test Navigator</h3>
+                <div id="quiz-timer" class="timer-badge hidden"><i class="fa-regular fa-clock"></i> <span id="time-display">00:00</span></div>
+            </div>
+            <div class="nav-grid" id="nav-grid">
+                <!-- Nav boxes injected here -->
+            </div>
+            <div class="quiz-sidebar-footer">
+                <button class="btn btn-outline w-100" onclick="quitQuiz()">Submit/Quit Test</button>
+            </div>
+        </aside>
+        
+        <main class="quiz-main">
+            <div class="q-header">
+                <div class="q-meta">
+                    <span class="q-number">Question <span id="q-curr">1</span> of <span id="q-total">50</span></span>
+                    <!-- Note: Source reference removed to simulate real exam -->
+                </div>
+                <div class="q-actions">
+                    <button class="btn-icon-lg" id="btn-flag" title="Flag for Review"><i class="fa-regular fa-flag"></i></button>
+                </div>
+            </div>
+            
+            <div class="q-body">
+                <h3 class="q-text" id="q-text">Loading question...</h3>
+                <div class="options-container" id="options-container">
+                    <!-- Options injected here -->
+                </div>
+            </div>
+            
+            <div class="explanation-container hidden" id="explanation-container">
+                <h4><i class="fa-solid fa-lightbulb text-warning"></i> Explanation</h4>
+                <p id="exp-text"></p>
+            </div>
+            
+            <div class="q-footer">
+                <button class="btn btn-outline" id="btn-prev" onclick="goPrev()"><i class="fa-solid fa-chevron-left"></i> Previous</button>
+                <button class="btn btn-primary" id="btn-next" onclick="goNext()">Next <i class="fa-solid fa-chevron-right"></i></button>
+            </div>
+        </main>
+    </div>
+
+    <!-- SCREEN: RESULTS -->
+    <div id="res-screen" class="screen center-layout">
+        <div class="res-card">
+            <div class="res-header">
+                <i class="fa-solid fa-square-poll-vertical text-primary fa-4x mb-3"></i>
+                <h2>Test Completed</h2>
+                <h1 id="res-pct" class="text-primary mt-2">0%</h1>
+            </div>
+            
+            <div class="res-stats mt-4">
+                <div class="r-stat"><span class="r-val text-success" id="res-cor">0</span><span class="r-lbl">Correct</span></div>
+                <div class="r-stat"><span class="r-val text-danger" id="res-inc">0</span><span class="r-lbl">Incorrect</span></div>
+                <div class="r-stat"><span class="r-val text-muted" id="res-omit">0</span><span class="r-lbl">Omitted</span></div>
+            </div>
+            
+            <div class="res-actions mt-4 d-flex gap-3">
+                <button class="btn btn-outline w-100" onclick="startReview()">Review Questions</button>
+                <button class="btn btn-primary w-100" onclick="exitToPortal()">Back to Portal</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="questions.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
