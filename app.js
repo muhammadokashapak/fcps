@@ -120,12 +120,7 @@ let quizState = {
     timerInt: null, timeLeft: 0, isReview: false, mode: 0, penaltiesApplied: 0
 };
 
-// Anti-Cheat Mechanisms
-document.addEventListener("visibilitychange", () => {
-    if(screens.quiz.classList.contains('active') && !quizState.isReview && document.visibilityState === 'hidden') {
-        applyCheatingPenalty();
-    }
-});
+// Anti-Cheat Mechanisms (Tab switching penalty removed as requested)
 screens.quiz.addEventListener("contextmenu", e => { if(!quizState.isReview) e.preventDefault(); });
 screens.quiz.addEventListener("copy", e => { if(!quizState.isReview) e.preventDefault(); });
 screens.quiz.addEventListener("paste", e => { if(!quizState.isReview) e.preventDefault(); });
@@ -284,9 +279,10 @@ function renderQ() {
         div.className = 'q-opt';
         div.innerHTML = `<span class="opt-lbl">${p}.</span><span class="opt-txt">${txt}</span>`;
         
-        if(ans || quizState.isReview) div.classList.add('locked');
+        const shouldLock = quizState.isReview || (ans && quizState.mode === 0);
+        if(shouldLock) div.classList.add('locked');
         
-        if(!quizState.isReview && !ans) {
+        if(!shouldLock) {
             div.addEventListener('click', () => {
                 quizState.answers[quizState.currentIndex] = { val: p, isCorrect: p === q.correct_answer, fullText: txt };
                 updateNavStyles(); renderQ();
