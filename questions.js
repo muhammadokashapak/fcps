@@ -1,4 +1,4 @@
-const bankData = [
+window.bankData = [
   {
     "id": 1,
     "category": "Anatomy - Head and Neck, Posterior Triangle",
