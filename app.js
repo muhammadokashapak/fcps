@@ -279,7 +279,7 @@ function renderQ() {
         div.className = 'q-opt';
         div.innerHTML = `<span class="opt-lbl">${p}.</span><span class="opt-txt">${txt}</span>`;
         
-        const shouldLock = quizState.isReview || (ans && quizState.mode === 0);
+        const shouldLock = quizState.isReview || (ans && quizState.mode > 0);
         if(shouldLock) div.classList.add('locked');
         
         if(!shouldLock) {
