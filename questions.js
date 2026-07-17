@@ -32436,5 +32436,9805 @@ window.bankData = [
     ],
     "correct_answer": "A",
     "explanation": "Fluoroquinolones possess a unique toxic mechanism that disrupts collagen and cartilage structural integrity, strongly predisposing patients to sudden, spontaneous tendon rupture."
+  },
+  {
+    "id": 2318,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receiving chemotherapy develops exquisitely painful tingling in the hands and feet. Which of the following agents is most characteristically implicated in this specific toxicity?",
+    "options": [
+      "Cyclophosphamide",
+      "Doxorubicin",
+      "Bleomycin",
+      "Methotrexate",
+      "Cisplatin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Cisplatin characteristically causes a very painful peripheral neuropathy."
+  },
+  {
+    "id": 2319,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hospitalized patient forcefully bites his tongue during a sudden convulsive episode while receiving intravenous antimicrobials. Which of the following drugs most likely precipitated this event?",
+    "options": [
+      "Imipenem/cilastatin",
+      "Ciprofloxacin",
+      "Erythromycin",
+      "Rifampin",
+      "Amphotericin B"
+    ],
+    "correct_answer": "A",
+    "explanation": "Imipenem/cilastatin is heavily associated with seizures."
+  },
+  {
+    "id": 2320,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young female utilizing topiramate for prophylactic migraine control presents with sudden visual changes. Which of the following descriptions best aligns with her likely medication-induced visual disturbance?",
+    "options": [
+      "Yellow-tinged vision",
+      "Luminous phenomena",
+      "Blurred vision and diplopia",
+      "Blue-tinged vision",
+      "Optic neuritis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Topiramate causes blurred vision, diplopia, and haloes. Digoxin causes yellow, PDE-5 inhibitors blue, and ivabradine luminous phenomena."
+  },
+  {
+    "id": 2321,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During routine examination, a schizophrenic patient exhibits a cogwheel rigidity of the right arm. Beyond typical antipsychotics, which of the following agents can frequently induce a similar Parkinson-like syndrome?",
+    "options": [
+      "Bupropion",
+      "Metoclopramide",
+      "Topiramate",
+      "Isoniazid",
+      "Tramadol"
+    ],
+    "correct_answer": "B",
+    "explanation": "Metoclopramide and antipsychotics are classic causes of a Parkinson-like syndrome."
+  },
+  {
+    "id": 2322,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 14-year-old undergoing treatment for delayed physical maturation presents with papilledema and persistent headaches. Which of the following antibiotic classes is also known to precipitate this specific syndrome?",
+    "options": [
+      "Penicillins",
+      "Macrolides",
+      "Aminoglycosides",
+      "Fluoroquinolones",
+      "Tetracyclines"
+    ],
+    "correct_answer": "E",
+    "explanation": "Growth hormones, vitamin A, and tetracyclines can cause idiopathic intracranial hypertension."
+  },
+  {
+    "id": 2323,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following a prolonged chemotherapeutic course, a patient inexplicably develops severe renal tubular acidosis and aminoaciduria. Which of the following is the most probable offending agent?",
+    "options": [
+      "Cyclophosphamide",
+      "Ifosfamide",
+      "Carmustine",
+      "Bleomycin",
+      "Busulfan"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ifosfamide, cisplatin, expired tetracyclines, and tenofovir can cause Fanconi syndrome."
+  },
+  {
+    "id": 2324,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old male develops an acute kidney injury accompanied by eosinophiluria after starting a new medication for severe dyspepsia. Which of the following medication classes is most likely responsible?",
+    "options": [
+      "Aminoglycosides",
+      "Macrolides",
+      "Tetracyclines",
+      "Proton pump inhibitors",
+      "Fluoroquinolones"
+    ],
+    "correct_answer": "D",
+    "explanation": "The '5 P's' of interstitial nephritis include Proton pump inhibitors, Penicillins/cephalosporins, Pee (diuretics), Pain-free (NSAIDs), and rifamPin."
+  },
+  {
+    "id": 2325,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient aggressively managed for a chronic condition demonstrates a new, profound restrictive pattern on pulmonary function tests. Which of the following drugs most likely accounts for this restrictive complication?",
+    "options": [
+      "Isoniazid",
+      "Topiramate",
+      "Busulfan",
+      "Digoxin",
+      "Metoclopramide"
+    ],
+    "correct_answer": "C",
+    "explanation": "Busulfan, methotrexate, nitrofurantoin, carmustine, bleomycin, and amiodarone all can induce pulmonary fibrosis."
+  },
+  {
+    "id": 2326,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An individual with an extensive history of alcohol use experiences profound flushing, tachycardia, and nausea shortly after drinking a beer while taking a medication. What class of drug is he most likely utilizing?",
+    "options": [
+      "Repaglinide",
+      "Sitagliptin",
+      "Pioglitazone",
+      "A 2nd-generation sulfonylurea",
+      "A 1st-generation sulfonylurea"
+    ],
+    "correct_answer": "E",
+    "explanation": "1st-generation sulfonylureas, metronidazole, procarbazine, and certain cephalosporins can cause a disulfiram-like reaction."
+  },
+  {
+    "id": 2327,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A septic patient receives combination antimicrobial and diuretic therapy but precipitously develops profound deafness and rising serum creatinine. Which combined toxicological effect was most likely amplified?",
+    "options": [
+      "Nephrotoxicity and ototoxicity",
+      "Tardive dyskinesia",
+      "Disulfiram-like reaction",
+      "Antimuscarinic toxicity",
+      "Pulmonary fibrosis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Aminoglycosides, loop diuretics, cisplatin, amphotericin, and vancomycin share the capacity to induce both nephrotoxicity and ototoxicity."
+  },
+  {
+    "id": 2328,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An ophthalmologist administers a topical agent to purposefully decrease a patient's pupillary diameter. Which of the following agents achieves this exact parasympathomimetic outcome?",
+    "options": [
+      "Tropicamide",
+      "Pilocarpine",
+      "Meperidine",
+      "Scopolamine",
+      "Cocaine"
+    ],
+    "correct_answer": "B",
+    "explanation": "Parasympathomimetics like pilocarpine cause miosis via sphincter muscle contraction."
+  },
+  {
+    "id": 2329,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with stable anticoagulation on warfarin suddenly experiences subtherapeutic INR levels after a neurologist initiates a new daily medication. Which of the following drugs is most likely responsible?",
+    "options": [
+      "Valproate",
+      "Phenytoin",
+      "Cimetidine",
+      "Isoniazid",
+      "Ketoconazole"
+    ],
+    "correct_answer": "B",
+    "explanation": "Phenytoin induces the cytochrome P-450 system, accelerating the metabolism of substrates like warfarin."
+  },
+  {
+    "id": 2330,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient chronically consumes excessive amounts of alcohol over several decades. How does this specific long-term behavior influence the cytochrome P-450 enzyme system?",
+    "options": [
+      "It acts primarily as an inhibitor.",
+      "It acts exclusively as a substrate but not an inducer.",
+      "It has no discernible metabolic effect.",
+      "It solely inhibits the metabolism of macrolides.",
+      "It acts as a potent inducer."
+    ],
+    "correct_answer": "E",
+    "explanation": "Chronic alcohol overuse acts as a cytochrome P-450 inducer, whereas acute overuse acts as an inhibitor."
+  },
+  {
+    "id": 2331,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pulmonologist prescribes theophylline, but the patient later receives ciprofloxacin for a severe urinary tract infection, resulting in theophylline toxicity. What is the mechanism of this specific drug-drug interaction?",
+    "options": [
+      "Ciprofloxacin induces the metabolism of theophylline.",
+      "Ciprofloxacin inhibits the metabolism of theophylline.",
+      "Theophylline induces the metabolism of ciprofloxacin.",
+      "Theophylline inhibits the metabolism of ciprofloxacin.",
+      "Neither drug meaningfully affects the cytochrome P-450 system."
+    ],
+    "correct_answer": "B",
+    "explanation": "Ciprofloxacin is a cytochrome P-450 inhibitor (part of 'SICK FACES'), which prevents the breakdown of theophylline, causing toxicity."
+  },
+  {
+    "id": 2332,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An edematous patient presents with a known, severe anaphylactic allergy to sulfonamide antibiotics. Which of the following diuretic agents poses the greatest structural risk of an allergic cross-reaction?",
+    "options": [
+      "Furosemide",
+      "Spironolactone",
+      "Eplerenone",
+      "Amiloride",
+      "Triamterene"
+    ],
+    "correct_answer": "A",
+    "explanation": "Furosemide, thiazides, and acetazolamide are sulfa drugs and pose a risk to patients with sulfa allergies."
+  },
+  {
+    "id": 2333,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A virologist isolates a compound named 'sofosbuvir' to target a highly resistant strain of hepatitis C. What precise viral mechanism is primarily targeted based entirely on this drug's suffix?",
+    "options": [
+      "NS5A inhibition",
+      "NS3/4A inhibition",
+      "Protease inhibition",
+      "Integrase inhibition",
+      "NS5B inhibition"
+    ],
+    "correct_answer": "E",
+    "explanation": "The suffix '-buvir' specifically designates an NS5B inhibitor in hepatitis C treatment."
+  },
+  {
+    "id": 2334,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An oncologist switches a patient's regimen to a Topoisomerase I inhibitor. Which of the following specific drug suffixes guarantees the agent belongs to this exact pharmacological class?",
+    "options": [
+      "-tecan",
+      "-poside",
+      "-rubicin",
+      "-taxel",
+      "-mustine"
+    ],
+    "correct_answer": "A",
+    "explanation": "The suffix '-tecan' denotes a Topoisomerase I inhibitor, such as irinotecan."
+  },
+  {
+    "id": 2335,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient relies heavily on sumatriptan for aborting debilitating migraines. The therapeutic efficacy of this compound relies exclusively on agonism at which specific receptor subtype?",
+    "options": [
+      "5-HT3 receptor",
+      "5-HT1B/1D receptor",
+      "D2 receptor",
+      "H1 receptor",
+      "NK1 receptor"
+    ],
+    "correct_answer": "B",
+    "explanation": "Drugs ending in '-triptan' are 5-HT1B/1D receptor agonists."
+  },
+  {
+    "id": 2336,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A diabetic patient begins a medication ending in '-gliflozin'. What exact biochemical alteration is primarily expected in the patient's renal tubules?",
+    "options": [
+      "SGLT-2 inhibition",
+      "DPP-4 inhibition",
+      "PPAR-gamma activation",
+      "GLP-1 receptor agonism",
+      "Potassium channel closure"
+    ],
+    "correct_answer": "A",
+    "explanation": "The suffix '-gliflozin' signifies an SGLT-2 inhibitor."
+  },
+  {
+    "id": 2337,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient frequently complains of refractory acid reflux and is prescribed esomeprazole. Based strictly on standard nomenclature, what is the drug's mechanism?",
+    "options": [
+      "Proton pump inhibition",
+      "Prostaglandin agonism",
+      "5-HT3 receptor blockade",
+      "NK1 receptor antagonism",
+      "H2 receptor antagonism"
+    ],
+    "correct_answer": "A",
+    "explanation": "The suffix '-prazole' reliably indicates a proton pump inhibitor."
+  },
+  {
+    "id": 2338,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with aggressive multiple sclerosis is prescribed a biologic agent ending in '-zumab'. What structural characteristic is intrinsically defined by this exact suffix?",
+    "options": [
+      "Chimeric human-mouse construct",
+      "Fully murine derivation",
+      "Humanized monoclonal nature",
+      "Recombinant non-antibody protein",
+      "Fully human derivation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The suffix '-zumab' indicates a humanized monoclonal antibody."
+  },
+  {
+    "id": 2339,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A woman with metastatic breast cancer begins palbociclib therapy. The suffix '-ciclib' dictates that this small molecule inhibitor explicitly targets which of the following?",
+    "options": [
+      "Tyrosine kinase",
+      "Proteasome",
+      "BRAF kinase",
+      "Poly(ADP-ribose) polymerase",
+      "Cyclin-dependent kinase"
+    ],
+    "correct_answer": "E",
+    "explanation": "The suffix '-ciclib' specifically identifies a cyclin-dependent kinase (CDK) inhibitor."
+  },
+  {
+    "id": 2340,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Anakinra is administered to a patient with severe rheumatoid arthritis. The unique suffix '-kinra' places this drug definitively into which of the following functional categories?",
+    "options": [
+      "Interleukin-2 agonist/analog",
+      "Interleukin receptor antagonist",
+      "Monoclonal antibody targeting TNF-alpha",
+      "Tyrosine kinase inhibitor",
+      "Proteasome inhibitor"
+    ],
+    "correct_answer": "B",
+    "explanation": "The suffix '-kinra' denotes an interleukin receptor antagonist."
+  },
+  {
+    "id": 2341,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with atrial fibrillation is initiated on apixaban for stroke prophylaxis. What step in the coagulation cascade is directly and exclusively targeted based on its suffix?",
+    "options": [
+      "Direct thrombin inhibition",
+      "Direct factor Xa inhibition",
+      "Antithrombin III activation",
+      "Plasminogen activation",
+      "Angiotensin converting enzyme inhibition"
+    ],
+    "correct_answer": "B",
+    "explanation": "The suffix '-xaban' explicitly identifies a direct factor Xa inhibitor."
+  },
+  {
+    "id": 2342,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient routinely utilizes loratadine for seasonal allergies. What specific receptor interaction is governed by drugs terminating in the '-tadine' suffix?",
+    "options": [
+      "H1 receptor antagonism",
+      "H2 receptor antagonism",
+      "Aromatase inhibition",
+      "5-alpha-reductase inhibition",
+      "Endothelin receptor antagonism"
+    ],
+    "correct_answer": "A",
+    "explanation": "The suffix '-tadine' signifies an H1-antagonist."
+  },
+  {
+    "id": 2343,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Investigators comb through historical medical records to compare the previous asbestos exposure rates of individuals who recently died of mesothelioma against individuals who died of unrelated causes. What design does this investigation fundamentally employ?",
+    "options": [
+      "Retrospective cohort study",
+      "Cross-sectional study",
+      "Case series",
+      "Case-control study",
+      "Ecological study"
+    ],
+    "correct_answer": "D",
+    "explanation": "Comparing a group with a disease (cases) to a group without (controls) retrospectively for prior exposure defines a case-control study."
+  },
+  {
+    "id": 2344,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A research group identifies 5,000 healthy individuals, documenting their daily red meat consumption, and monitors them for two decades to track the eventual onset of colon cancer. What specific study framework is utilized here?",
+    "options": [
+      "Cross-sectional study",
+      "Case-control study",
+      "Ecological study",
+      "Adoption study",
+      "Cohort study"
+    ],
+    "correct_answer": "E",
+    "explanation": "Comparing a group with an exposure to a group without an exposure to observe the future development of disease is a cohort study."
+  },
+  {
+    "id": 2345,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A statistician correlates the national average salt intake of various countries with their respective national stroke incidence, falsely assuming this proves salt causes stroke in specific individuals. This error of interpretation is technically termed:",
+    "options": [
+      "Observer-expectancy bias",
+      "Ecological fallacy",
+      "Hawthorne effect",
+      "Berkson bias",
+      "Lead-time bias"
+    ],
+    "correct_answer": "B",
+    "explanation": "Applying population-level data from an ecological study to individuals incorrectly is known as an ecological fallacy."
+  },
+  {
+    "id": 2346,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a trial for a novel antipsychotic, the lead investigator hands identically packaged pills to subjects, unaware if they are active drug or placebo. What exact methodological standard does this enforce?",
+    "options": [
+      "Single-blinding",
+      "Double-blinding",
+      "Triple-blinding",
+      "Open label design",
+      "Crossover trial design"
+    ],
+    "correct_answer": "B",
+    "explanation": "When neither the researcher interacting with subjects nor the subjects themselves know the group assignments, it is double-blinded."
+  },
+  {
+    "id": 2347,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a surgical outcomes trial, subjects randomized to immediate surgery refuse the procedure and instead receive conservative care, yet their outcomes are still statistically analyzed within the surgery cohort. What analytical framework dictates this specific approach?",
+    "options": [
+      "As-treated analysis",
+      "Per-protocol analysis",
+      "Intention-to-treat analysis",
+      "Stratified analysis",
+      "Crude analysis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Intention-to-treat analysis dictates that all subjects are analyzed according to their original, randomly assigned treatment, regardless of compliance."
+  },
+  {
+    "id": 2348,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pharmaceutical company finally receives approval to test a highly experimental gene therapy on a small group of 15 healthy human volunteers, slowly escalating the dose. What primary objective dominates this specific trial phase?",
+    "options": [
+      "Pharmacodynamics via microdosing",
+      "Efficacy compared to standard of care",
+      "Maximum tolerable dose and safety",
+      "Long-term or rare adverse effects",
+      "Efficacy in a large population"
+    ],
+    "correct_answer": "C",
+    "explanation": "Phase 1 trials involve a small number of healthy volunteers or patients to primarily assess safety, determine maximum tolerable dose, and observe dose escalation."
+  },
+  {
+    "id": 2349,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A widely utilized anti-inflammatory drug is suddenly withdrawn from the market five years after initial FDA approval due to newly discovered, extremely rare cardiovascular events. This data was fundamentally gathered during which trial phase?",
+    "options": [
+      "Phase 0",
+      "Phase 1",
+      "Phase 2",
+      "Phase 3",
+      "Phase 4"
+    ],
+    "correct_answer": "E",
+    "explanation": "Phase 4 represents postmarketing surveillance that provides data on long-term or rare adverse effects after FDA approval."
+  },
+  {
+    "id": 2350,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A study conclusively demonstrates that smoking two packs of cigarettes daily results in a significantly higher risk of emphysema than smoking half a pack daily. Which of the Bradford Hill criteria does this strictly satisfy?",
+    "options": [
+      "Specificity",
+      "Temporality",
+      "Consistency",
+      "Biological gradient",
+      "Plausibility"
+    ],
+    "correct_answer": "D",
+    "explanation": "The biological gradient criterion dictates that a greater effect is observed with a greater exposure to the presumed cause (dose-response relationship)."
+  },
+  {
+    "id": 2351,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A clinician prescribes an FDA-approved antiepileptic drug specifically to treat a patient's severe, refractory bipolar depression, a condition for which the drug has no formal approval. This practice is most accurately classified as:",
+    "options": [
+      "Off-label drug use",
+      "Investigational new drug use",
+      "Compassionate use",
+      "Placebo effect",
+      "Phase 0 testing"
+    ],
+    "correct_answer": "A",
+    "explanation": "Using an approved drug for a disease, population, or dosage not specifically approved by the FDA is defined as off-label drug use."
+  },
+  {
+    "id": 2352,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a case-control study, 30 out of 50 patients with melanoma report frequent severe childhood sunburns, whereas only 10 out of 50 healthy controls report similar exposure. What is the precise odds ratio of prior severe sunburns in patients with melanoma?",
+    "options": [
+      "6.0",
+      "1.5",
+      "3.0",
+      "9.0",
+      "12.0"
+    ],
+    "correct_answer": "A",
+    "explanation": "Odds ratio = ad/bc. Cases: a=30, c=20. Controls: b=10, d=40. OR = (30 * 40) / (20 * 10) = 1200 / 200 = 6.0."
+  },
+  {
+    "id": 2353,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A cohort study discovers that 10% of patients receiving a placebo develop an infection, while only 2% of patients receiving a novel vaccine develop the same infection. What is the relative risk reduction provided by the vaccine?",
+    "options": [
+      "0.08",
+      "0.10",
+      "0.20",
+      "0.80",
+      "0.98"
+    ],
+    "correct_answer": "D",
+    "explanation": "RR = 2% / 10% = 0.2. RRR = 1 - RR = 0.80. Alternatively, RRR = (ARC - ART)/ARC = (0.10 - 0.02)/0.10 = 0.80."
+  },
+  {
+    "id": 2354,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Clinical data shows that 5% of unvaccinated individuals contract a specific strain of influenza during winter, compared to 1% of vaccinated individuals. How many patients must be vaccinated to prevent one additional case of influenza?",
+    "options": [
+      "10",
+      "20",
+      "50",
+      "25",
+      "100"
+    ],
+    "correct_answer": "D",
+    "explanation": "Absolute Risk Reduction (ARR) = 5% - 1% = 4% (0.04). Number Needed to Treat (NNT) = 1 / ARR = 1 / 0.04 = 25."
+  },
+  {
+    "id": 2355,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a localized outbreak of a novel pathogen, 200 individuals are exposed, resulting in 50 confirmed illnesses. Tragically, 10 of the ill patients succumb to the disease. What is the precise case fatality rate?",
+    "options": [
+      "20%",
+      "5%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "correct_answer": "A",
+    "explanation": "The case fatality rate represents the percentage of deaths occurring among those with the disease. 10 deaths / 50 cases = 20%."
+  },
+  {
+    "id": 2356,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newly formulated diagnostic biomarker assay exhibits a true-positive rate of 80% and a false-positive rate of 10%. What is the mathematically derived positive likelihood ratio (LR+) for this test?",
+    "options": [
+      "0.125",
+      "0.8",
+      "1.25",
+      "4.0",
+      "8.0"
+    ],
+    "correct_answer": "E",
+    "explanation": "LR+ = sensitivity / (1 - specificity) = TP rate / FP rate = 0.80 / 0.10 = 8.0."
+  },
+  {
+    "id": 2357,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An influx of infected patients drastically raises the prevalence of a previously rare viral illness within a community. Assuming the diagnostic test itself remains physically unchanged, which of its statistical properties will obligatorily decrease?",
+    "options": [
+      "Sensitivity",
+      "Specificity",
+      "Positive predictive value",
+      "Negative predictive value",
+      "False-negative rate"
+    ],
+    "correct_answer": "D",
+    "explanation": "As disease prevalence increases, the positive predictive value increases while the negative predictive value (NPV) decreases."
+  },
+  {
+    "id": 2358,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An epidemiologist aims to implement a highly effective screening test to rule out a deadly disease in the general population. Which intrinsic test property must mathematically approach 100% to minimize the false-negative rate?",
+    "options": [
+      "High specificity",
+      "High precision",
+      "High negative predictive value",
+      "High sensitivity",
+      "High positive predictive value"
+    ],
+    "correct_answer": "D",
+    "explanation": "Sensitivity is TP / (TP + FN), meaning a sensitivity approaching 100% indicates a near-zero false-negative rate, ideal for ruling out disease (SN-N-OUT)."
+  },
+  {
+    "id": 2359,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "When plotting a receiver operating characteristic (ROC) curve to evaluate a completely useless diagnostic test that guesses randomly, what exact numerical area under the curve (AUC) is expected?",
+    "options": [
+      "0",
+      "0.1",
+      "0.5",
+      "0.9",
+      "1.0"
+    ],
+    "correct_answer": "C",
+    "explanation": "A diagnostic test with zero predictive value (essentially random guessing) yields an AUC of exactly 0.5."
+  },
+  {
+    "id": 2360,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A laboratory scale is improperly calibrated, causing it to consistently read exactly 5.0 grams heavier than the actual mass on every single measurement. This instrument fundamentally exhibits which of the following characteristics?",
+    "options": [
+      "Low precision and low accuracy",
+      "High precision and high accuracy",
+      "Low precision and high accuracy",
+      "High precision and low accuracy",
+      "High systematic error and high random error"
+    ],
+    "correct_answer": "D",
+    "explanation": "The measurements are perfectly consistent (high precision) but systematically wrong by a fixed margin (low accuracy/validity due to systematic error)."
+  },
+  {
+    "id": 2361,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a surgical trial, researchers inadvertently place patients receiving an experimental stent into an intensive care unit for a week, while control patients are sent to standard wards. This discrepancy fundamentally constitutes:",
+    "options": [
+      "Measurement bias",
+      "Procedure bias",
+      "Recall bias",
+      "Berkson bias",
+      "Selection bias"
+    ],
+    "correct_answer": "B",
+    "explanation": "Procedure bias occurs when subjects in different groups are not treated identically outside of the specific intervention being tested."
+  },
+  {
+    "id": 2362,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A highly sensitive total-body MRI protocol identifies asymptomatic pancreatic micro-tumors years earlier than usual, but the patients' absolute dates of mortality remain entirely unchanged by early intervention. Claiming this MRI improves survival time is an example of:",
+    "options": [
+      "Observer-expectancy bias",
+      "Hawthorne effect",
+      "Length-time bias",
+      "Lead-time bias",
+      "Confounding"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lead-time bias occurs when early detection is falsely interpreted as an increase in survival time, though the actual disease course has not changed."
+  },
+  {
+    "id": 2363,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An initial analysis strongly correlates frequent coffee consumption with aggressive lung cancer. However, this entire association vanishes mathematically once the data is stratified by concurrent tobacco use. Tobacco use in this scenario is functioning entirely as a:",
+    "options": [
+      "Dependent variable",
+      "Confounding variable",
+      "Measurement bias",
+      "Effect modifier",
+      "False positive"
+    ],
+    "correct_answer": "B",
+    "explanation": "A confounding variable distorts the effect on outcome because it is related to both exposure and outcome; stratifying the data reveals no true association exists."
+  },
+  {
+    "id": 2364,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A massive dataset reveals that a specific birth control pill significantly raises the risk of deep vein thrombosis only in patients possessing a specific genetic mutation, while wild-type patients face zero increased risk. The genetic mutation is acting as:",
+    "options": [
+      "A confounding variable",
+      "A measurement bias",
+      "An effect modifier",
+      "A selection bias",
+      "A lead-time bias"
+    ],
+    "correct_answer": "C",
+    "explanation": "Effect modification occurs when an exposure leads to markedly different outcomes in subgroups stratified by a particular factor (a true association exists in one group but not the other)."
+  },
+  {
+    "id": 2365,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An epidemiologist graphs the age of onset for an unusual variant of Hodgkin lymphoma and strictly notes two completely separate, distinct peaks in disease incidence. What statistical distribution does this curve represent?",
+    "options": [
+      "Positive skew",
+      "Negative skew",
+      "Normal distribution",
+      "Bimodal distribution",
+      "Exponential distribution"
+    ],
+    "correct_answer": "D",
+    "explanation": "A bimodal distribution possesses two peaks, frequently suggesting two distinct underlying populations or phases (e.g., age at onset of Hodgkin lymphoma)."
+  },
+  {
+    "id": 2366,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A remarkably difficult board examination results in a heavily negatively skewed distribution of scores among test-takers. Which of the following strict inequalities correctly represents the relationship of central tendency measures in this scenario?",
+    "options": [
+      "Mean < Median < Mode",
+      "Mean < Mode < Median",
+      "Mode < Median < Mean",
+      "Mode < Mean < Median",
+      "Median < Mean < Mode"
+    ],
+    "correct_answer": "A",
+    "explanation": "In a negative skew, the asymmetry forms a longer tail on the left, which drags the mean down closer to the tail, resulting in Mean < Median < Mode."
+  },
+  {
+    "id": 2367,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A rigorous clinical trial comparing two interventions reports a calculated p-value of 0.03. Which of the following statements provides the most mathematically accurate interpretation of this specific metric?",
+    "options": [
+      "The probability that the alternative hypothesis is false is 3%.",
+      "The alternative hypothesis is definitely false.",
+      "There is a 3% probability of obtaining these results if the null hypothesis were true.",
+      "The results guarantee that the study has high statistical power.",
+      "The sample size was vastly too small to detect a difference."
+    ],
+    "correct_answer": "C",
+    "explanation": "The p-value represents the exact probability of obtaining test results at least as extreme as those observed, assuming that the null hypothesis (H0) is correct."
+  },
+  {
+    "id": 2368,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An investigator rejects the null hypothesis when it is actually true, increasing the chance of adopting an ineffective drug. Which fundamental statistical principle directly quantifies the maximum acceptable probability of this specific error occurring before the study begins?",
+    "options": [
+      "Alpha level",
+      "Beta error",
+      "Statistical power",
+      "Confidence interval",
+      "Coefficient of determination"
+    ],
+    "correct_answer": "A",
+    "explanation": "Rejecting a true null hypothesis is a Type I error. The alpha level (typically 0.05) defines the predefined probability of making a Type I error."
+  },
+  {
+    "id": 2369,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A massive clinical trial fails to demonstrate a significant reduction in mortality for a novel chemotherapeutic agent, despite the drug truly possessing this efficacy in the broader population. Which of the following modifications to the trial design would have primarily mitigated this specific outcome?",
+    "options": [
+      "Decreasing the predetermined effect size",
+      "Enlarging the sample size of the cohort",
+      "Raising the alpha significance level to 0.01",
+      "Reducing the precision of measurement tools",
+      "Narrowing the accepted confidence interval"
+    ],
+    "correct_answer": "B",
+    "explanation": "A false-negative result is a Type II error (beta). Increasing sample size increases statistical power (1-beta), thereby reducing the probability of a Type II error."
+  },
+  {
+    "id": 2370,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A meta-analysis reports a relative risk of 1.25 with a 95% confidence interval of 0.98 to 1.55 for a new surgical intervention versus standard care. Based strictly on these statistical parameters, what is the most definitive conclusion regarding the null hypothesis?",
+    "options": [
+      "The null hypothesis is rejected because 1.25 is greater than 1.0.",
+      "The alternative hypothesis is accepted with 95% certainty.",
+      "The null hypothesis is not rejected because the interval includes 1.",
+      "The results demonstrate a high degree of clinical significance.",
+      "The sample size was mathematically insufficient for analysis."
+    ],
+    "correct_answer": "C",
+    "explanation": "For relative risk (RR) or odds ratio (OR), if the 95% confidence interval includes 1, the null hypothesis is not rejected, meaning the results are not statistically significant."
+  },
+  {
+    "id": 2371,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A researcher intends to compare the mean systolic blood pressures of three distinctly separate demographic groups residing in a metropolitan area. Which statistical method is the most mathematically appropriate to identify significant differences across these independent groups?",
+    "options": [
+      "Two-sample t-test",
+      "Fisher's exact test",
+      "Chi-square test",
+      "Analysis of variance (ANOVA)",
+      "Pearson correlation coefficient"
+    ],
+    "correct_answer": "D",
+    "explanation": "Analysis of variance (ANOVA) is specifically used to check for differences between the means of 3 or more distinct groups."
+  },
+  {
+    "id": 2372,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a pilot study assessing the association between a rare gene mutation and early-onset glaucoma, the sample consists of merely 8 affected individuals and 12 controls. Which statistical evaluation is unequivocally the most rigorous for analyzing the differing proportions in this minimal cohort?",
+    "options": [
+      "Independent t-test",
+      "One-way ANOVA",
+      "Pearson correlation",
+      "Chi-square analysis",
+      "Fisher's exact test"
+    ],
+    "correct_answer": "E",
+    "explanation": "Fisher's exact test checks differences between 2 percentages or proportions of categorical outcomes, and is the required substitute for the chi-square test when dealing with small sample sizes."
+  },
+  {
+    "id": 2373,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A study correlates the number of daily steps with fasting blood glucose levels, yielding a Pearson coefficient of r = -0.85. Which of the following appropriately translates this mathematical finding regarding the variance of these two variables?",
+    "options": [
+      "There is a strong negative correlation, with 72.25% of variance in one explained by the other.",
+      "There is a weak positive correlation, with 85% of variance in one explained by the other.",
+      "There is a strong negative correlation, indicating step count directly decreases glucose.",
+      "There is no correlation, as the coefficient falls below the positive clinical threshold.",
+      "There is a strong positive correlation, due to the magnitude nearing an absolute value of 1."
+    ],
+    "correct_answer": "A",
+    "explanation": "An r value of -0.85 indicates a strong negative correlation. The coefficient of determination (r squared) equals 0.7225, meaning 72.25% of the variance in one variable is explained by the other."
+  },
+  {
+    "id": 2374,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An attending physician evaluating a schizophrenic patient in an acute exacerbation determines the patient cannot clinically understand the risks of an elective appendectomy. Who possesses the definitive legal authority to officially rule the patient incompetent to make any global healthcare decisions?",
+    "options": [
+      "The attending physician",
+      "A presiding judge",
+      "A licensed psychiatrist",
+      "The hospital ethics committee",
+      "The patient's legal spouse"
+    ],
+    "correct_answer": "B",
+    "explanation": "Competency is a legal determination made by a judge, whereas decision-making capacity is determined by a physician for a specific healthcare-related decision."
+  },
+  {
+    "id": 2375,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient explicitly repeats the risks and benefits of a proposed intervention but refuses it because they believe the surgeon is an alien attempting to harvest their organs. Which specific component of decision-making capacity is fundamentally impaired in this scenario?",
+    "options": [
+      "Understanding",
+      "Expressing a choice",
+      "Reasoning",
+      "Voluntariness",
+      "Empathy"
+    ],
+    "correct_answer": "C",
+    "explanation": "The patient can understand the information and express a choice, but their reasoning (how they weigh options) is severely impaired by a delusion."
+  },
+  {
+    "id": 2376,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An unconscious, hemorrhaging trauma victim arrives at the emergency department without identification, requiring an immediate lifesaving exploratory laparotomy. Under which precise ethical and legal exception is the trauma surgeon permitted to operate without formal consent?",
+    "options": [
+      "Therapeutic privilege",
+      "Legal incompetence proxy",
+      "Patient waiver",
+      "Implied consent",
+      "Beneficence override"
+    ],
+    "correct_answer": "D",
+    "explanation": "In an emergency situation where the patient lacks capacity and no surrogate is available, implied consent safely applies for lifesaving treatment."
+  },
+  {
+    "id": 2377,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A physician deliberately withholds a devastating terminal diagnosis from an emotionally unstable patient out of genuine fear that the disclosure would precipitate an immediate suicide attempt. What specific ethical exception is the physician actively invoking in this delicate clinical scenario?",
+    "options": [
+      "Nonmaleficence waiver",
+      "Emergency implied consent",
+      "Legal incompetence proxy",
+      "Surrogacy deferment",
+      "Therapeutic privilege"
+    ],
+    "correct_answer": "E",
+    "explanation": "Therapeutic privilege is an exception to informed consent allowing physicians to withhold information when disclosure would severely harm the patient or undermine decision-making capacity."
+  },
+  {
+    "id": 2378,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 16-year-old high school student presents to a community clinic requesting a prescription for oral contraceptives, explicitly forbidding the physician from notifying her parents. Based on typical legal frameworks regarding minor consent, what is the most appropriate action for the physician?",
+    "options": [
+      "Prescribe the contraception without requiring parental notification.",
+      "Refuse the prescription until legal emancipation is proven.",
+      "Notify the parents under the duty to protect principles.",
+      "Request emergency implied consent from a legal judge.",
+      "Consult the hospital ethics board before any intervention."
+    ],
+    "correct_answer": "A",
+    "explanation": "Minors generally do not require parental consent for medical matters related to sex, including contraception, STIs, and prenatal care."
+  },
+  {
+    "id": 2379,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 14-year-old child of devout Jehovah's Witnesses sustains a severe laceration and requires an emergency, lifesaving blood transfusion, which the parents vehemently refuse on religious grounds. What is the most ethically and legally sound course of action for the treating physician?",
+    "options": [
+      "Respect the parents' autonomy and withhold the blood transfusion.",
+      "Administer the transfusion to the minor despite parental refusal.",
+      "Wait for a court order before initiating any blood products.",
+      "Transfer the patient to a religiously affiliated tertiary center.",
+      "Initiate comfort care and palliative measures immediately."
+    ],
+    "correct_answer": "B",
+    "explanation": "Parents cannot refuse life-saving emergent care for a minor based solely on faith. The physician must administer the transfusion to save the child's life."
+  },
+  {
+    "id": 2380,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An incapacitated elderly patient with no written advance directive requires mechanical ventilation, prompting the medical team to seek a surrogate decision-maker. In the absence of a formally designated proxy, who assumes the highest legal priority to make this critical medical decision?",
+    "options": [
+      "The patient's eldest adult child",
+      "The patient's surviving parent",
+      "The patient's legal spouse",
+      "The patient's closest adult sibling",
+      "The primary attending physician"
+    ],
+    "correct_answer": "C",
+    "explanation": "In the absence of an advance directive, surrogate priority follows: spouse > adult children > parents > adult siblings > other relatives."
+  },
+  {
+    "id": 2381,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 32-year-old patient newly diagnosed with HIV informs their primary care physician that they intend to have unprotected intercourse with a new partner tonight without disclosing their status. Under the strict principles of medical confidentiality, how should the physician proceed?",
+    "options": [
+      "Maintain absolute confidentiality to preserve the fiduciary relationship.",
+      "Inform the patient's employer to mitigate wider occupational risk.",
+      "Restrain the patient in the clinic until the partner is successfully contacted.",
+      "Notify the health department or the at-risk partner of the imminent danger.",
+      "Immediately publish the patient's diagnosis in public health records."
+    ],
+    "correct_answer": "D",
+    "explanation": "Exceptions to confidentiality include scenarios where potential physical harm to others is serious and imminent (e.g., reportable diseases with duty to protect/warn)."
+  },
+  {
+    "id": 2382,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following a successful, uncomplicated appendectomy, a deeply grateful patient presents the operating surgeon with a modest, hand-knitted scarf during the postoperative follow-up visit. Assuming no ulterior motives, what is the most ethically permissible response by the surgeon?",
+    "options": [
+      "Reject the gift to strictly avoid any perceived conflict of interest.",
+      "Accept the gift but immediately donate it to a hospital charity.",
+      "Refuse the gift and politely suggest a monetary donation instead.",
+      "Accept the gift only if the patient signs a formal waiver of liability.",
+      "Accept the gift, as it is inexpensive and strengthens the clinical bond."
+    ],
+    "correct_answer": "E",
+    "explanation": "Physicians may accept inexpensive gifts (like baked goods or cards) that do not detrimentally affect patient care or cause financial stress for the patient."
+  },
+  {
+    "id": 2383,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a difficult oncology consultation, the physician explicitly asks, 'How much detail would you like me to give you about your recent biopsy results?' Which specific step of the SPIKES protocol for delivering bad news does this question directly represent?",
+    "options": [
+      "Invitation",
+      "Perception",
+      "Knowledge",
+      "Emotions",
+      "Strategy"
+    ],
+    "correct_answer": "A",
+    "explanation": "The 'Invitation' step of the SPIKES protocol involves obtaining the patient's permission to disclose the news and determining what level of detail they desire."
+  },
+  {
+    "id": 2384,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "While counseling a highly frustrated patient struggling with weight loss, the physician states, 'It is completely understandable that you feel discouraged after working so hard on your diet.' Which PEARLS relationship-building technique is the physician primarily demonstrating?",
+    "options": [
+      "Partnership",
+      "Legitimization",
+      "Empathy",
+      "Apology",
+      "Respect"
+    ],
+    "correct_answer": "B",
+    "explanation": "Legitimization involves assuring the patient that their emotional responses to a difficult situation are understandable or common."
+  },
+  {
+    "id": 2385,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A physician assessing an immigrant patient with unexplained somatic symptoms asks, 'Why do you personally believe you are experiencing these headaches right now?' What specific objective of the cultural formulation interview is this question attempting to achieve?",
+    "options": [
+      "Identifying potential barriers to care based on culture",
+      "Eliciting the patient's definition of the problem",
+      "Identifying cultural perceptions of factors leading to the problem",
+      "Clarifying how culture will impact future pharmacological interventions",
+      "Establishing the patient's baseline cognitive competence"
+    ],
+    "correct_answer": "C",
+    "explanation": "Asking the patient why they think they are experiencing the problem aims to identify cultural perceptions of the factors leading to the illness."
+  },
+  {
+    "id": 2386,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A chronic smoker expresses mild interest in quitting but remains hesitant due to stress at work. Utilizing motivational interviewing techniques, what is the most appropriate initial action by the physician to facilitate behavior modification?",
+    "options": [
+      "Prescribe nicotine replacement therapy proactively.",
+      "Emphasize the statistical mortality risks of continued smoking.",
+      "Mandate a strict quit date within the next two weeks.",
+      "Assess the patient's readiness for change and resolve ambivalence.",
+      "Refer the patient directly to inpatient psychiatric rehabilitation."
+    ],
+    "correct_answer": "D",
+    "explanation": "Motivational interviewing focuses on helping patients resolve ambivalence about change and requires assessing their readiness for change."
+  },
+  {
+    "id": 2387,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a documented history of severe psychological trauma presents for a routine physical exam and appears visibly distressed as the physician approaches with a stethoscope. Adhering to the principles of trauma-informed care, what is the most appropriate next step?",
+    "options": [
+      "Proceed quickly with the exam to minimize the duration of distress.",
+      "Ask the patient to describe the past trauma in detail to understand the trigger.",
+      "Administer a fast-acting anxiolytic before continuing the physical exam.",
+      "Document the patient as uncooperative and reschedule the appointment.",
+      "Reassure the patient they may signal to end the exam immediately if uncomfortable."
+    ],
+    "correct_answer": "E",
+    "explanation": "In trauma-informed care, physicians should reassure patients prior to the physical exam that they may signal to end it immediately if they experience discomfort."
+  },
+  {
+    "id": 2388,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A diabetic patient repeatedly fails to adhere to the prescribed insulin regimen, resulting in multiple hospitalizations for diabetic ketoacidosis. According to ethical guidelines regarding challenging patients, what is the most appropriate initial approach by the primary care physician?",
+    "options": [
+      "Determine if financial or logistical obstacles are preventing adherence.",
+      "Discharge the patient from the practice to prevent further medical liability.",
+      "Coerce the patient by threatening to withhold future medical treatments.",
+      "Immediately transition the patient to a strictly oral hypoglycemic regimen.",
+      "Assign a surrogate decision-maker to administer the insulin forcibly."
+    ],
+    "correct_answer": "A",
+    "explanation": "When a patient does not follow the medical plan, the physician should first determine whether there are financial, logistical, or other obstacles preventing adherence without coercion."
+  },
+  {
+    "id": 2389,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A healthy 22-year-old male insists on undergoing a full-body MRI to 'make sure he doesn't have any hidden cancers,' despite having no symptoms or family history. What is the most ethically sound response from the physician?",
+    "options": [
+      "Order the MRI to honor the core principle of patient autonomy.",
+      "Attempt to understand the underlying concerns while avoiding unnecessary procedures.",
+      "Refuse to see the patient ever again for demanding inappropriate testing.",
+      "Agree to the MRI only if the patient signs a waiver accepting total financial liability.",
+      "Refer the patient to a psychiatric facility for severe hypochondriasis."
+    ],
+    "correct_answer": "B",
+    "explanation": "Physicians should explore the underlying reasons for requesting an unnecessary procedure to address concerns, but must actively avoid performing clinically unjustified interventions."
+  },
+  {
+    "id": 2390,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 16-year-old girl requests an elective abortion but states she is terrified of her parents finding out. Assuming state law strictly requires parental consent for minors undergoing this procedure, what is the physician's most appropriate initial action?",
+    "options": [
+      "Perform the abortion secretly to protect the patient from parental abuse.",
+      "Contact the parents directly to obtain consent against the patient's wishes.",
+      "Discuss options for terminating the pregnancy and refer to abortion care if needed.",
+      "Try to actively persuade the teenager to carry the pregnancy to term instead.",
+      "Involve child protective services before any medical discussion occurs."
+    ],
+    "correct_answer": "C",
+    "explanation": "The physician should provide unbiased information, discuss options for terminating the pregnancy, refer to abortion care if needed, and encourage discussion between the patient and parents."
+  },
+  {
+    "id": 2391,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A terminally ill patient with intractable metastatic bone pain begs their physician for a lethal dose of medication to end their suffering. In a state where physician-assisted dying is strictly prohibited, what is the most appropriate medical intervention?",
+    "options": [
+      "Secretly administer the lethal dose under the ethical principle of double effect.",
+      "Discharge the patient to hospice care without any further medical prescriptions.",
+      "Refer the patient to a physician in another state where the practice is legal.",
+      "Prescribe medically appropriate analgesics even if they potentially shorten life.",
+      "Report the patient for expressing active suicidal ideations to authorities."
+    ],
+    "correct_answer": "D",
+    "explanation": "Even where physician-assisted dying is illegal, physicians may prescribe appropriate analgesics (e.g., opioids) for comfort care, even if they foreseeably shorten the patient's life (principle of double effect)."
+  },
+  {
+    "id": 2392,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a routine follow-up, an attractive patient compliments the physician's appearance and directly asks if they would be willing to go on a romantic date. What is the most appropriate and professional response by the physician?",
+    "options": [
+      "Accept the date only after formally transferring the patient's care to a colleague.",
+      "Ignore the comment entirely and rapidly transition to the physical examination.",
+      "Accept the invitation cautiously, provided no medical topics are discussed.",
+      "Report the patient to the hospital ethics committee for sexual harassment.",
+      "Set firm professional boundaries directly and decline the invitation."
+    ],
+    "correct_answer": "E",
+    "explanation": "Romantic relationships with patients are never appropriate. The physician must directly communicate firm professional boundaries."
+  },
+  {
+    "id": 2393,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A nurse accidentally administers an invasive diagnostic test to the wrong patient due to a mix-up in room assignments. The patient suffers absolutely no physical harm from the incident. According to medical ethics, what is the obligatory next step regarding patient communication?",
+    "options": [
+      "Inform the patient that a mistake has been made despite the lack of harm.",
+      "Withhold the information to prevent unnecessary psychological distress.",
+      "Only inform the hospital risk management team to avoid legal action.",
+      "Wait until the patient explicitly asks about the test before disclosing the error.",
+      "Document the error in the chart but inform only the surrogate decision-maker."
+    ],
+    "correct_answer": "A",
+    "explanation": "A physician is ethically obligated to disclose medical errors to patients, entirely independent of the immediate outcome or presence of harm."
+  },
+  {
+    "id": 2394,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A female patient presents with multiple contusions in various stages of healing, and her explanations are highly inconsistent with the physical findings. She reluctantly admits her husband caused the injuries. What is the physician's most appropriate response?",
+    "options": [
+      "Immediately contact local law enforcement to report the assault.",
+      "Ask if she is safe and help devise an emergency plan if there isn't one.",
+      "Strongly pressure the patient to divorce her husband immediately.",
+      "Confront the husband in the waiting room regarding the physical abuse.",
+      "Refuse to treat the contusions until she agrees to press formal charges."
+    ],
+    "correct_answer": "B",
+    "explanation": "In cases of intimate partner violence, the physician should assess safety, assist with an emergency plan, and avoid forcing the patient to leave or independently notifying authorities without consent unless required by state law."
+  },
+  {
+    "id": 2395,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hospital pharmacist actively recognizes a severe, life-threatening drug interaction in an electronic order placed by a newly hired resident and promptly cancels it before the medication reaches the patient. In the framework of medical safety, what is this specific event classified as?",
+    "options": [
+      "Sentinel event",
+      "Active error",
+      "Near miss",
+      "Never event",
+      "Latent error"
+    ],
+    "correct_answer": "C",
+    "explanation": "A near miss is an unplanned event that does not result in harm but had the potential to do so, representing a narrow prevention of harm."
+  },
+  {
+    "id": 2396,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A primary care physician rigorously monitors the hemoglobin A1c levels of a patient with known type 2 diabetes mellitus to aggressively adjust medications and prevent diabetic nephropathy. Which exact level of disease prevention is the physician actively practicing?",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Quaternary prevention",
+      "Tertiary prevention",
+      "Universal prevention"
+    ],
+    "correct_answer": "D",
+    "explanation": "Tertiary prevention targets patients with ongoing disease and treats them to reduce complications, morbidity, mortality, and disability."
+  },
+  {
+    "id": 2397,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A geriatrician systematically reviews a 78-year-old patient's medication list and explicitly discontinues a sulfonylurea after noting multiple recent episodes of dangerous hypoglycemia. Which specific tier of disease prevention does this corrective action represent?",
+    "options": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Primordial prevention",
+      "Quaternary prevention"
+    ],
+    "correct_answer": "E",
+    "explanation": "Quaternary prevention involves quitting unnecessary medical interventions to decrease overtreatment and iatrogenic harm, such as discontinuing a harmful medication."
+  },
+  {
+    "id": 2398,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hospital administration mandates that specialized feeding syringes cannot physically connect to intravenous fluid tubing lines under any circumstances. Which specific human factors design principle is this life-saving intervention demonstrating?",
+    "options": [
+      "Forcing function",
+      "Simplification",
+      "Process standardization",
+      "Retrospective analysis",
+      "Root cause analysis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Forcing functions prevent undesirable actions physically (e.g., mismatched tubing connections) and are considered the most effective safety designs."
+  },
+  {
+    "id": 2399,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A quality improvement committee tracks the average hemoglobin A1c levels of all diabetic patients treated within their specialized endocrine clinic over a one-year period. What exact type of quality measurement is this committee actively utilizing?",
+    "options": [
+      "Structural measure",
+      "Outcome measure",
+      "Process measure",
+      "Balancing measure",
+      "Latent measure"
+    ],
+    "correct_answer": "B",
+    "explanation": "Outcome measures objectively assess the final impact of healthcare on patients, such as the average clinical lab value (HbA1c) of a population."
+  },
+  {
+    "id": 2400,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A surgeon inadvertently leaves a highly visible scalpel within a patient's abdominal cavity during a routine appendectomy, leading to severe postoperative sepsis. What is the most precise classification for this egregious, preventable adverse event?",
+    "options": [
+      "Latent systems error",
+      "Near miss",
+      "Sentinel event",
+      "Retrospective failure",
+      "Active balancing measure"
+    ],
+    "correct_answer": "C",
+    "explanation": "A never event that leads to severe harm or death (like sepsis from a retained scalpel) is definitively classified as a sentinel event."
+  },
+  {
+    "id": 2401,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hospital recently experienced a tragic, unprecedented medication overdose due to an infusion pump malfunction. The safety team meticulously interviews participants and utilizes a fishbone diagram to investigate the underlying causes. Which specific analytical method is being employed?",
+    "options": [
+      "Failure mode and effects analysis",
+      "Plan-Do-Study-Act cycle",
+      "Prospective systems assessment",
+      "Root cause analysis",
+      "Swiss cheese defense"
+    ],
+    "correct_answer": "D",
+    "explanation": "Root cause analysis is a retrospective investigation applied after a failure event, using tools like fishbone diagrams and the '5 whys' to uncover underlying systemic problems."
+  },
+  {
+    "id": 2402,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Before rolling out a totally newly designed electronic medical record system, clinical administrators systematically analyze all the theoretical ways the software could crash and prioritize these risks by their potential impact. Which specific forward-looking methodology is the team applying?",
+    "options": [
+      "Root cause analysis",
+      "Swiss cheese model",
+      "Process structural measuring",
+      "Human factors simplification",
+      "Failure mode and effects analysis"
+    ],
+    "correct_answer": "E",
+    "explanation": "Failure mode and effects analysis is a prospective, forward-looking approach applied prior to process implementation to identify and prioritize how a system might fail."
+  },
+  {
+    "id": 2403,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young patient is mandated to exclusively see healthcare providers strictly within a limited panel to have their routine medical visits covered, and they must obtain a referral from their primary care provider to consult a specialist. What type of insurance plan does this precisely describe?",
+    "options": [
+      "Health maintenance organization (HMO)",
+      "Preferred provider organization (PPO)",
+      "Exclusive provider organization (EPO)",
+      "Point of service (POS)",
+      "Accountable care organization (ACO)"
+    ],
+    "correct_answer": "A",
+    "explanation": "HMOs restrict patients to a limited panel of providers and explicitly require referrals from a primary care provider to see specialists."
+  },
+  {
+    "id": 2404,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An insurer pays a highly renowned orthopedic facility a single, strictly predetermined lump sum to completely cover all preoperative, operative, and postoperative expenses associated with an elective total knee replacement. Which specific healthcare payment model is being utilized?",
+    "options": [
+      "Capitation",
+      "Global payment",
+      "Bundled payment",
+      "Discounted fee-for-service",
+      "Outcome-based reimbursement"
+    ],
+    "correct_answer": "B",
+    "explanation": "Global payment models involve paying for all expenses associated with a single incident of care (e.g., an elective surgery and its associated visits) with one comprehensive payment."
+  },
+  {
+    "id": 2405,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 68-year-old retired schoolteacher presents to the pharmacy to pick up a new monthly prescription for an expensive oral antihypertensive medication. Which specific component of federal health insurance is explicitly designed to cover this outpatient drug cost?",
+    "options": [
+      "Medicare Part A",
+      "Medicare Part B",
+      "Medicare Part D",
+      "Medicaid Title XIX",
+      "Medicare Part C"
+    ],
+    "correct_answer": "C",
+    "explanation": "Medicare Part D specifically covers prescription Drugs."
+  },
+  {
+    "id": 2406,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A primary care physician is interviewing an intelligent adult patient who has severe expressive aphasia and profound speech difficulties following a remote stroke. What is the most highly recommended communication technique to utilize during this specific clinical encounter?",
+    "options": [
+      "Exclusively interview the patient's accompanying caregiver.",
+      "Speak with a significantly louder volume and exaggerated tone.",
+      "Assume the patient also suffers from extensive cognitive impairment.",
+      "Ask the patient to write down a few words or rephrase if misunderstood.",
+      "Use third-person statements when addressing the patient in the room."
+    ],
+    "correct_answer": "D",
+    "explanation": "For patients with speech difficulties, providing extra time and asking them to write down words or rephrase sentences ensures direct communication and respects their intellect."
+  },
+  {
+    "id": 2407,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A physician requires critical historical details from an acutely ill patient who only speaks Mandarin, and an in-person hospital interpreter has just entered the consultation room. How should the physician ideally position the interpreter and physically interact during the interview?",
+    "options": [
+      "Position the interpreter in front of the patient and make eye contact only with the interpreter.",
+      "Position the interpreter behind the physician and use third-person statements like 'tell her.'",
+      "Position the interpreter directly between the physician and patient to block distractions.",
+      "Have the interpreter wait outside the room while using a smartphone translation application.",
+      "Position the interpreter next to or behind the patient, speaking directly to the patient."
+    ],
+    "correct_answer": "E",
+    "explanation": "For spoken language interpretation, the interpreter should ideally be placed next to or slightly behind the patient, allowing the physician to speak directly to and maintain eye contact with the patient."
+  },
+  {
+    "id": 2408,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A legally competent patient is fully informed of the immense, undeniable risks of refusing a life-saving amputation for a gangrenous limb, yet stubbornly declines the surgery due to profound personal beliefs. The physician forcefully schedules the operation regardless. Which core ethical principle is most egregiously violated?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Nonmaleficence",
+      "Justice",
+      "Double effect"
+    ],
+    "correct_answer": "A",
+    "explanation": "Autonomy is the obligation to respect a patient's right to honor their preference in accepting or not accepting medical care, even if it contradicts the physician's view of beneficence."
+  },
+  {
+    "id": 2409,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hospice physician significantly increases a terminally ill patient's intravenous morphine infusion to aggressively manage excruciating cancer pain, fully recognizing that this specific dose escalation will likely cause fatal respiratory depression. Which ethical concept fundamentally justifies this aggressive intervention?",
+    "options": [
+      "Passive euthanasia",
+      "Principle of double effect",
+      "Therapeutic privilege",
+      "Active maleficence",
+      "Nonmaleficence waiver"
+    ],
+    "correct_answer": "B",
+    "explanation": "The principle of double effect dictates that facilitating comfort is prioritized over potential side effects, such as respiratory depression, for patients in end-of-life care."
+  },
+  {
+    "id": 2410,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A catastrophic patient death occurs because a poorly designed computer interface, an understaffed nursing shift, and a chaotic pharmacy protocol all tragically coincided on the same evening. Which specific framework perfectly conceptualizes how this multitude of distinct defensive layers simultaneously failed?",
+    "options": [
+      "Root cause alignment",
+      "Sentinel event cascade",
+      "Swiss cheese model",
+      "Failure mode and effects matrix",
+      "Active error accumulation"
+    ],
+    "correct_answer": "C",
+    "explanation": "The Swiss cheese model describes how patient harm occurs when differing layers and types of systemic defenses simultaneously fail (the holes in the cheese line up)."
+  },
+  {
+    "id": 2411,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient actively designates their sister to make all healthcare decisions strictly in the theoretical event they permanently lose decision-making capacity due to a progressive neurological disease. What exact type of advance directive has the patient formally established?",
+    "options": [
+      "Written living will",
+      "Do not resuscitate order",
+      "Oral therapeutic privilege",
+      "Medical power of attorney",
+      "Surrogate default protocol"
+    ],
+    "correct_answer": "D",
+    "explanation": "A medical power of attorney designates a specific agent to make medical decisions in the event that the patient completely loses decision-making capacity."
+  },
+  {
+    "id": 2412,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A major metropolitan hospital utilizes three completely different brands of intravenous fluid infusion pumps across its various critical care units, causing profound confusion among floating nursing staff. In the taxonomy of medical errors, what does this systemic discrepancy best represent?",
+    "options": [
+      "Active error",
+      "Sentinel event",
+      "Near miss error",
+      "Root cause deficiency",
+      "Latent error"
+    ],
+    "correct_answer": "E",
+    "explanation": "Latent errors occur in background processes indirect from the frontline operator but fundamentally impact patient care, acting as an 'accident waiting to happen.'"
+  },
+  {
+    "id": 2413,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An 8-year-old girl is brought to the clinic by her deeply distressed father with bilateral, symmetrical, sharply demarcated burns on her feet. The father nervously claims she accidentally stepped into a mildly warm bath. What is the strictly mandated ethical and legal obligation of the evaluating physician?",
+    "options": [
+      "Contact child protective services to report a reasonable suspicion of abuse.",
+      "Interview the father more aggressively to force a criminal confession.",
+      "Withhold all pain medications until the authorities formally arrive.",
+      "Refer the family to a community social worker for voluntary counseling.",
+      "Document the findings vaguely to prevent destroying the family unit."
+    ],
+    "correct_answer": "A",
+    "explanation": "Physicians are required by law to report any reasonable suspicion of abuse, neglect, or endangerment of children to the appropriate authorities immediately."
+  },
+  {
+    "id": 2414,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A surgical resident strongly smells of alcohol, exhibits severely slurred speech, and has a significantly unsteady gait while actively scrubbing in for a complex cardiac bypass operation. What is the ethically obligatory initial action for the observing medical student or colleague?",
+    "options": [
+      "Cover for the resident's mistakes during the surgery to protect their career.",
+      "Report the impaired colleague immediately to ensure patient safety.",
+      "Confront the resident aggressively in the operating room in front of the patient.",
+      "Wait until the surgery is completed before quietly discussing the issue.",
+      "Advise the resident to consume coffee and continue with the procedure."
+    ],
+    "correct_answer": "B",
+    "explanation": "Colleagues have an absolute ethical and legal obligation to report an impaired physician immediately to cease patient care and prevent harm."
+  },
+  {
+    "id": 2415,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An ambitious researcher aggregates the raw mathematical data from twelve distinct, previously published, smaller randomized controlled trials to statistically compute a much more precise estimate of a specific cardiovascular drug's efficacy. What explicit analytical technique is being heavily utilized?",
+    "options": [
+      "Retrospective cohort analysis",
+      "Failure mode effects analysis",
+      "Meta-analysis",
+      "Standard deviation pooling",
+      "Prospective double-blind trial"
+    ],
+    "correct_answer": "C",
+    "explanation": "Meta-analysis mathematically pools summary data from multiple independent studies to derive a more precise estimate of an effect size and improve statistical power."
+  },
+  {
+    "id": 2416,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A devastating motorcycle crash leaves a young patient completely brain dead, but spinal arc reflexes cause occasional, frightening limb movements when the patient is physically touched. The family emotionally insists on maintaining life support. What is the most medically appropriate step?",
+    "options": [
+      "Continue life support indefinitely out of respect for family autonomy.",
+      "Immediately unplug the ventilator without warning the family.",
+      "Administer paralytics to hide the movements from the family.",
+      "Explain that brain death is death and involve the ethics board.",
+      "Perform an immediate bedside electroencephalogram to find brain activity."
+    ],
+    "correct_answer": "D",
+    "explanation": "In cases of brain death, the physician should gently explain that it is equivalent to death, that movements are mere spinal reflexes, and bring the case to the ethics board regarding the futility of care."
+  },
+  {
+    "id": 2417,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A lucrative pharmaceutical company enthusiastically offers a newly graduated physician an all-expenses-paid luxury vacation strictly in exchange for prescribing and extensively advertising their newly patented antipsychotic medication. According to AMA guidelines, what must the physician do?",
+    "options": [
+      "Accept the offer if it includes continuing medical education credits.",
+      "Accept the vacation but refuse to actively advertise the medication.",
+      "Negotiate for a monetary grant paid directly to the physician's clinic instead.",
+      "Disclose the blatant conflict of interest to patients before prescribing the drug.",
+      "Reject the offer completely to avoid any undeniable conflict of interest."
+    ],
+    "correct_answer": "E",
+    "explanation": "Physicians must unconditionally reject inappropriately large gifts or sponsorships from pharmaceutical companies, especially those directly tied to advertising or prescribing, to avoid conflicts of interest."
+  },
+  {
+    "id": 2418,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An infant is diagnosed with a patent foramen ovale leading to a paradoxical embolism. Which specific structural failure characterizes the normal embryological closure of this shunt?",
+    "options": [
+      "Septum primum fails to close against the septum secundum.",
+      "Ostium secundum fails to close due to arrested cell death.",
+      "Septum secundum fails to completely cover the ostium primum.",
+      "Endocardial cushions fail to separate the atria from the ventricles.",
+      "Ostium primum fails to regress completely."
+    ],
+    "correct_answer": "A",
+    "explanation": "The normal closure of the foramen ovale soon after birth occurs when the septum primum closes against the septum secundum due to increased left atrial pressure."
+  },
+  {
+    "id": 2419,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with Kartagener syndrome exhibits a right-sided cardiac apex. The primary defect in the cardiac looping process is fundamentally driven by an abnormality in which of the following?",
+    "options": [
+      "Primary ciliary dyskinesia protein",
+      "Left-right dynein",
+      "Gap junction connexins",
+      "Kinesin motor proteins",
+      "Neural crest cell migration"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cardiac looping begins in week 4 to establish left-right polarity. A defect in left-right dynein can lead to dextrocardia, as seen in Kartagener syndrome."
+  },
+  {
+    "id": 2420,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate presents with a holosystolic murmur due to the most common congenital cardiac anomaly. This defect most frequently occurs at a site formed by the fusion of which structures?",
+    "options": [
+      "Septum primum and endocardial cushions",
+      "Septum secundum and ostium primum",
+      "Aorticopulmonary septum and muscular ventricular septum",
+      "Bulbar ridges and truncus arteriosus",
+      "Right and left endocardial cushions alone"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ventricular septal defect is the most common anomaly and typically occurs in the membranous septum, formed by the fusion of the aorticopulmonary septum with the muscular ventricular septum."
+  },
+  {
+    "id": 2421,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with transposition of the great arteries, an embryological failure has occurred in the outflow tract. This is primarily attributed to the failed migration of which cell population?",
+    "options": [
+      "Mesodermal cells of the primary heart field",
+      "Endodermal cells",
+      "Proepicardial organ cells",
+      "Neural crest cells",
+      "Endocardial cushion cells"
+    ],
+    "correct_answer": "D",
+    "explanation": "Conotruncal abnormalities like transposition of the great arteries are associated with the failure of neural crest cells to migrate and form the aorticopulmonary septum."
+  },
+  {
+    "id": 2422,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient develops severe mitral valve regurgitation. Embryologically, the affected leaflets are derived directly from which of the following structures?",
+    "options": [
+      "Endocardial cushions of the outflow tract",
+      "Bulbar ridges of the bulbus cordis",
+      "Septum primum and septum secundum",
+      "Truncus arteriosus",
+      "Fused endocardial cushions of the AV canal"
+    ],
+    "correct_answer": "E",
+    "explanation": "The mitral and tricuspid valves are derived from the fused endocardial cushions of the AV canal, whereas the aortic and pulmonary valves are from the outflow tract cushions."
+  },
+  {
+    "id": 2423,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During neck surgery, a major vessel forming the proximal part of the internal carotid artery is injured. This vessel is derived from which embryonic aortic arch?",
+    "options": [
+      "Third arch",
+      "First arch",
+      "Second arch",
+      "Fourth arch",
+      "Sixth arch"
+    ],
+    "correct_answer": "A",
+    "explanation": "The 3rd aortic arch develops into the common carotid artery and the proximal part of the internal carotid artery."
+  },
+  {
+    "id": 2424,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient experiences hoarseness due to a recurrent laryngeal nerve injury on the right side. The nerve involved normally loops around a vascular structure derived from which embryonic arch?",
+    "options": [
+      "Sixth arch",
+      "Fourth arch",
+      "Second arch",
+      "Third arch",
+      "First arch"
+    ],
+    "correct_answer": "B",
+    "explanation": "The right recurrent laryngeal nerve loops around the right subclavian artery, which is derived from the right 4th aortic arch."
+  },
+  {
+    "id": 2425,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A premature infant is given indomethacin to close a patent ductus arteriosus. The ductus arteriosus originates from which specific embryonic structure?",
+    "options": [
+      "Right sixth aortic arch",
+      "Left fourth aortic arch",
+      "Left sixth aortic arch",
+      "Right fourth aortic arch",
+      "Left third aortic arch"
+    ],
+    "correct_answer": "C",
+    "explanation": "The left 6th aortic arch gives rise to the proximal part of the pulmonary arteries and the ductus arteriosus."
+  },
+  {
+    "id": 2426,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A central venous catheter is advanced into the smooth part of the right atrium. This specific region of the heart wall is embryologically derived from which structure?",
+    "options": [
+      "Left horn of the sinus venosus",
+      "Primitive atrium",
+      "Bulbus cordis",
+      "Right horn of the sinus venosus",
+      "Truncus arteriosus"
+    ],
+    "correct_answer": "D",
+    "explanation": "The smooth part of the right atrium (sinus venarum) is derived from the right horn of the sinus venosus."
+  },
+  {
+    "id": 2427,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An echocardiogram reveals abnormal trabeculations in the right ventricle. The trabeculated parts of both ventricles share an origin from which embryonic structure?",
+    "options": [
+      "Bulbus cordis",
+      "Endocardial cushions",
+      "Primitive atrium",
+      "Truncus arteriosus",
+      "Primitive ventricle"
+    ],
+    "correct_answer": "E",
+    "explanation": "The primitive ventricle gives rise exclusively to the trabeculated parts of both the left and right ventricles."
+  },
+  {
+    "id": 2428,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A fetus relies on a specialized circulation to maximize oxygen delivery. Which vessel carries blood with the absolute highest oxygen saturation in the fetal circulation?",
+    "options": [
+      "Umbilical vein",
+      "Umbilical artery",
+      "Ductus venosus",
+      "Inferior vena cava",
+      "Ductus arteriosus"
+    ],
+    "correct_answer": "A",
+    "explanation": "The umbilical vein carries highly oxygenated blood directly from the placenta, with an oxygen saturation of approximately 80%."
+  },
+  {
+    "id": 2429,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Upon taking its first breath, an infant undergoes rapid hemodynamic changes. Which event is directly responsible for the functional closure of the foramen ovale?",
+    "options": [
+      "Decreased systemic vascular resistance",
+      "Increased left atrial pressure exceeding right atrial pressure",
+      "Increased right atrial pressure exceeding left atrial pressure",
+      "Reversal of flow through the ductus arteriosus",
+      "A massive increase in circulating prostaglandins"
+    ],
+    "correct_answer": "B",
+    "explanation": "Breathing decreases pulmonary resistance, which dramatically increases venous return to the left atrium. The resulting increase in LA pressure relative to RA pressure functionally closes the flap of the foramen ovale."
+  },
+  {
+    "id": 2430,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During an abdominal surgery, a dense fibrous band within the falciform ligament is transected. This band is the postnatal derivative of which fetal structure?",
+    "options": [
+      "Ductus venosus",
+      "Umbilical artery",
+      "Umbilical vein",
+      "Allantois",
+      "Foramen ovale"
+    ],
+    "correct_answer": "C",
+    "explanation": "The ligamentum teres hepatis, contained in the falciform ligament, is the remnant of the fetal umbilical vein."
+  },
+  {
+    "id": 2431,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe mitral stenosis develops progressive dysphagia. This is most likely due to the compression of the esophagus by which specific cardiac chamber?",
+    "options": [
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle",
+      "Left atrium",
+      "Coronary sinus"
+    ],
+    "correct_answer": "D",
+    "explanation": "The left atrium is the most posterior part of the heart. Its enlargement can compress the directly adjacent esophagus, causing dysphagia."
+  },
+  {
+    "id": 2432,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A trauma patient suffers a penetrating chest wound directly lateral to the sternum. Which cardiac structure is anatomically most vulnerable to this anterior injury?",
+    "options": [
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium",
+      "Aortic root",
+      "Right ventricle"
+    ],
+    "correct_answer": "E",
+    "explanation": "The right ventricle forms the vast majority of the anterior (sternocostal) surface of the heart, making it the most vulnerable to anterior chest trauma."
+  },
+  {
+    "id": 2433,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a right-dominant coronary circulation suffers an acute myocardial infarction affecting the posterior one-third of the interventricular septum. Which vessel is most likely occluded?",
+    "options": [
+      "Posterior descending artery arising from the right coronary artery",
+      "Posterior descending artery arising from the left circumflex artery",
+      "Left anterior descending artery",
+      "Acute marginal artery",
+      "Obtuse marginal artery"
+    ],
+    "correct_answer": "A",
+    "explanation": "In right-dominant circulation, the posterior descending artery (PDA), which supplies the posterior 1/3 of the septum, arises from the right coronary artery."
+  },
+  {
+    "id": 2434,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An ischemic event in the left-dominant heart affects the posteromedial papillary muscle. The occluded vessel originally branches from which major coronary artery?",
+    "options": [
+      "Right coronary artery",
+      "Left circumflex artery",
+      "Left anterior descending artery",
+      "Right marginal artery",
+      "Left main coronary artery before the bifurcation"
+    ],
+    "correct_answer": "B",
+    "explanation": "In left-dominant circulation, the posterior descending artery arises from the left circumflex artery, supplying the posteromedial papillary muscle."
+  },
+  {
+    "id": 2435,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient given dobutamine experiences increased stroke volume. This increase in contractility is mediated by phosphorylation of which specific regulatory protein in the sarcoplasmic reticulum?",
+    "options": [
+      "Troponin C",
+      "Myosin light chain",
+      "Phospholamban",
+      "Calsequestrin",
+      "Ryanodine receptor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Beta-1 stimulation activates PKA, which phosphorylates phospholamban. This activates the Ca2+ ATPase, increasing calcium storage in the sarcoplasmic reticulum and enhancing contractility."
+  },
+  {
+    "id": 2436,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient taking digoxin for heart failure exhibits increased cardiac contractility. This drug achieves its effect by directly inhibiting which of the following cellular components?",
+    "options": [
+      "Na+/Ca2+ exchanger",
+      "Ca2+ ATPase",
+      "Voltage-gated Ca2+ channels",
+      "Na+/K+ pump",
+      "Beta-1 adrenergic receptors"
+    ],
+    "correct_answer": "D",
+    "explanation": "Digoxin directly blocks the Na+/K+ pump, raising intracellular Na+, which indirectly reduces Na+/Ca2+ exchanger activity, thereby increasing intracellular Ca2+ and contractility."
+  },
+  {
+    "id": 2437,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with chronic hypertension develops left ventricular hypertrophy. According to Laplace's law, this compensatory thickening serves primarily to reduce which parameter?",
+    "options": [
+      "Intraventricular pressure",
+      "Stroke volume",
+      "Oxygen demand",
+      "Ventricular radius",
+      "Wall stress"
+    ],
+    "correct_answer": "E",
+    "explanation": "Wall stress = (pressure * radius) / (2 * wall thickness). Hypertrophy increases wall thickness, which mathematically reduces wall stress in the face of high pressure (afterload)."
+  },
+  {
+    "id": 2438,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An athlete exhibits an increased pulse pressure during maximal exercise. Pulse pressure is directly proportional to stroke volume and inversely proportional to which vascular property?",
+    "options": [
+      "Arterial compliance",
+      "Total peripheral resistance",
+      "Venous capacitance",
+      "Capillary hydrostatic pressure",
+      "Blood viscosity"
+    ],
+    "correct_answer": "A",
+    "explanation": "Pulse pressure is directly proportional to stroke volume and inversely proportional to arterial compliance."
+  },
+  {
+    "id": 2439,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with aortic regurgitation demonstrates a significantly widened pulse pressure. Which formula correctly approximates the mean arterial pressure at a resting heart rate?",
+    "options": [
+      "Systolic pressure + 1/3 Pulse pressure",
+      "Diastolic pressure + 1/3 Pulse pressure",
+      "Diastolic pressure + 2/3 Pulse pressure",
+      "Systolic pressure - 1/3 Pulse pressure",
+      "1/2 Systolic pressure + 1/2 Diastolic pressure"
+    ],
+    "correct_answer": "B",
+    "explanation": "MAP is calculated as 2/3 DBP + 1/3 SBP, which simplifies to DBP + 1/3 PP."
+  },
+  {
+    "id": 2440,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "On a Starling curve, the administration of a non-dihydropyridine calcium channel blocker will cause the operating point to shift in which direction?",
+    "options": [
+      "Upward and to the left",
+      "Directly to the left",
+      "Downward and to the right",
+      "Directly upward",
+      "Upward and to the right"
+    ],
+    "correct_answer": "C",
+    "explanation": "Non-dihydropyridine CCBs decrease contractility (negative inotropy), which shifts the Starling curve downward (lower stroke volume for a given preload)."
+  },
+  {
+    "id": 2441,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient in shock receives an infusion that halves the radius of their splanchnic arterioles. According to Poiseuille's equation, the resistance in these vessels will increase by what factor?",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "16",
+      "32"
+    ],
+    "correct_answer": "D",
+    "explanation": "Resistance is inversely proportional to the radius to the fourth power (1/r^4). Halving the radius increases resistance by a factor of 16 (2^4)."
+  },
+  {
+    "id": 2442,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with multiple myeloma presents with hyperviscosity syndrome. An increase in blood viscosity will have what immediate effect on the vascular resistance according to Poiseuille's equation?",
+    "options": [
+      "Inversely proportional decrease",
+      "Exponential increase by a factor of four",
+      "Logarithmic decrease",
+      "No effect on total resistance",
+      "Directly proportional increase"
+    ],
+    "correct_answer": "E",
+    "explanation": "Resistance is directly proportional to blood viscosity (R = 8\u03b7l/\u03c0r^4). Therefore, an increase in viscosity leads to a directly proportional increase in resistance."
+  },
+  {
+    "id": 2443,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A trauma patient rapidly hemorrhages 2 liters of blood. On a vascular function curve, this acute volume loss will manifest as which of the following shifts?",
+    "options": [
+      "Parallel leftward shift of the venous return curve",
+      "Parallel rightward shift of the venous return curve",
+      "Decreased slope of the venous return curve",
+      "Increased slope of the venous return curve",
+      "Upward shift of the cardiac output curve"
+    ],
+    "correct_answer": "A",
+    "explanation": "Acute hemorrhage decreases circulating volume, which lowers mean systemic pressure, causing a parallel shift of the venous return curve to the left."
+  },
+  {
+    "id": 2444,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During the normal cardiac cycle, myocardial oxygen consumption peaks during a phase characterized by rapidly increasing pressure but no change in ventricular volume. Which phase is this?",
+    "options": [
+      "Isovolumetric relaxation",
+      "Isovolumetric contraction",
+      "Rapid ventricular ejection",
+      "Reduced ventricular filling",
+      "Atrial systole"
+    ],
+    "correct_answer": "B",
+    "explanation": "Isovolumetric contraction is the period of highest oxygen consumption as the ventricle generates the tension required to overcome afterload."
+  },
+  {
+    "id": 2445,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An auscultation of an athlete reveals an S3 heart sound. This sound occurs precisely during which phase of the cardiac cycle?",
+    "options": [
+      "Isovolumetric relaxation",
+      "Reduced ventricular filling",
+      "Rapid ventricular filling",
+      "Atrial systole",
+      "Rapid ventricular ejection"
+    ],
+    "correct_answer": "C",
+    "explanation": "S3 occurs in early diastole during the rapid ventricular filling phase and is caused by blood mixing with a large end-systolic volume."
+  },
+  {
+    "id": 2446,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An elderly patient with left ventricular hypertrophy exhibits a prominent S4 on exam. This acoustic finding is generated by turbulence during which specific event?",
+    "options": [
+      "Rapid early diastolic filling of a dilated ventricle",
+      "Isovolumetric contraction against a stenotic valve",
+      "Abrupt closure of the aortic and pulmonic valves",
+      "Late diastolic atrial kick into a stiffened ventricle",
+      "Regurgitant flow across the mitral valve during systole"
+    ],
+    "correct_answer": "D",
+    "explanation": "S4 occurs in late diastole during atrial contraction ('atrial kick') as blood is forced into a stiff, non-compliant ventricle."
+  },
+  {
+    "id": 2447,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient in atrial fibrillation undergoes a jugular venous pulse examination. Which distinct wave form will be conspicuously absent from the tracing?",
+    "options": [
+      "The 'c' wave",
+      "The 'v' wave",
+      "The 'x' descent",
+      "The 'y' descent",
+      "The 'a' wave"
+    ],
+    "correct_answer": "E",
+    "explanation": "The 'a' wave represents atrial contraction, which is uncoordinated and functionally absent in atrial fibrillation."
+  },
+  {
+    "id": 2448,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A central venous pressure monitor shows a prominent 'v' wave. This specific wave correlates mechanistically with which physiological occurrence?",
+    "options": [
+      "Increased right atrial pressure due to filling against a closed tricuspid valve",
+      "Bulging of the tricuspid valve into the right atrium during systole",
+      "Active contraction of the right atrium",
+      "Rapid emptying of the right atrium into the right ventricle",
+      "Downward displacement of the tricuspid valve during ejection"
+    ],
+    "correct_answer": "A",
+    "explanation": "The 'v' wave represents increased right atrial pressure as venous volume accumulates against the closed tricuspid valve during ventricular systole."
+  },
+  {
+    "id": 2449,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe aortic stenosis undergoes cardiac catheterization. Their left ventricular pressure-volume loop would most likely demonstrate an increase in peak systolic pressure alongside an increase in which volume metric?",
+    "options": [
+      "End-diastolic volume",
+      "End-systolic volume",
+      "Stroke volume",
+      "Ejection fraction",
+      "Left atrial filling volume"
+    ],
+    "correct_answer": "B",
+    "explanation": "In aortic stenosis, increased afterload forces higher ventricular pressures, but stroke volume decreases, leaving behind a larger end-systolic volume (ESV)."
+  },
+  {
+    "id": 2450,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a widened pulse pressure. Their left ventricular pressure-volume loop exhibits no true isovolumetric phase and an absence of the dicrotic notch. What is the diagnosis?",
+    "options": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Aortic regurgitation",
+      "Mitral stenosis",
+      "Tricuspid regurgitation"
+    ],
+    "correct_answer": "C",
+    "explanation": "Aortic regurgitation allows backflow during diastole, obliterating the isovolumetric relaxation phase, widening pulse pressure, and destroying the dicrotic notch."
+  },
+  {
+    "id": 2451,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with mitral stenosis, the pressure-volume loop is shifted and narrowed. This specific morphology is primarily a consequence of a reduction in which parameter?",
+    "options": [
+      "End-systolic volume due to massive regurgitation",
+      "Ventricular compliance due to severe hypertrophy",
+      "Afterload due to systemic vasodilation",
+      "End-diastolic volume due to impaired ventricular filling",
+      "Peak systolic pressure due to primary pump failure"
+    ],
+    "correct_answer": "D",
+    "explanation": "Mitral stenosis restricts flow into the left ventricle, leading to a marked decrease in end-diastolic volume (EDV) and a subsequently smaller stroke volume."
+  },
+  {
+    "id": 2452,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an acute myocardial infarction develops sudden mitral regurgitation. The pressure-volume loop will immediately reflect an increase in end-diastolic volume combined with what other distinct change?",
+    "options": [
+      "Increased true isovolumetric contraction phase",
+      "Decreased overall stroke volume",
+      "Increased peak systolic pressure",
+      "Decreased left atrial pressure",
+      "Decreased end-systolic volume"
+    ],
+    "correct_answer": "E",
+    "explanation": "In mitral regurgitation, the ventricle ejects blood into both the aorta and the lower-resistance left atrium, emptying more completely and thus decreasing the end-systolic volume."
+  },
+  {
+    "id": 2453,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During normal inspiration, a healthy individual exhibits physiological splitting of S2. This is primarily triggered by a drop in intrathoracic pressure leading to an increase in which parameter?",
+    "options": [
+      "Right ventricular stroke volume",
+      "Left ventricular stroke volume",
+      "Pulmonary vascular resistance",
+      "Systemic vascular resistance",
+      "Right atrial filling pressure exclusively"
+    ],
+    "correct_answer": "A",
+    "explanation": "Inspiration drops intrathoracic pressure, increasing venous return to the right heart. The increased right ventricular stroke volume takes longer to eject, delaying pulmonic valve closure."
+  },
+  {
+    "id": 2454,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pediatric patient is noted to have a fixed splitting of S2. This auscultatory finding is the hallmark of a condition that causes a persistent increase in flow across the pulmonic valve. What is the diagnosis?",
+    "options": [
+      "Ventricular septal defect",
+      "Atrial septal defect",
+      "Patent ductus arteriosus",
+      "Tetralogy of Fallot",
+      "Pulmonic stenosis"
+    ],
+    "correct_answer": "B",
+    "explanation": "An ASD causes a continuous left-to-right shunt, equalizing volumes across respiration and causing delayed, fixed pulmonic valve closure."
+  },
+  {
+    "id": 2455,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe aortic stenosis demonstrates paradoxical splitting of S2. This phenomenon occurs because the normal sequence of semilunar valve closure is reversed, meaning that:",
+    "options": [
+      "The tricuspid valve closes before the mitral valve.",
+      "The aortic valve closes before the pulmonic valve on expiration only.",
+      "The pulmonic valve closes before the aortic valve.",
+      "Both semilunar valves close simultaneously on inspiration.",
+      "The mitral valve closes after the aortic valve."
+    ],
+    "correct_answer": "C",
+    "explanation": "In paradoxical splitting, conditions that delay left ventricular emptying (like aortic stenosis) cause the aortic valve to close after the pulmonic valve. Normal sequence is A2 then P2."
+  },
+  {
+    "id": 2456,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with complete atrioventricular dissociation undergoes central venous pressure monitoring. The tracing classically reveals intermittent, massive 'cannon a waves.' What do these represent?",
+    "options": [
+      "Right ventricular contraction against a stenotic pulmonic valve",
+      "Left atrial contraction against a closed mitral valve",
+      "Massive regurgitation through an incompetent tricuspid valve",
+      "Right atrial contraction against a closed tricuspid valve",
+      "Asynchronous contraction of the ventricles"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cannon a waves occur when the atrium contracts independently of the ventricle and happens to contract while the tricuspid valve is closed during ventricular systole."
+  },
+  {
+    "id": 2457,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with isolated systolic hypertension. This widening of the pulse pressure in older adults is predominantly caused by an age-related decrease in which of the following?",
+    "options": [
+      "Cardiac output",
+      "Total peripheral resistance",
+      "Venous capacitance",
+      "Myocardial contractility",
+      "Aortic compliance"
+    ],
+    "correct_answer": "E",
+    "explanation": "Isolated systolic hypertension is a classic sign of age-related aortic stiffening, which directly represents a decrease in arterial compliance, widening the pulse pressure."
+  },
+  {
+    "id": 2458,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Cardiac oxygen demand is a critical parameter in ischemic heart disease. Which of the following factors exerts the greatest proportional increase on myocardial oxygen demand?",
+    "options": [
+      "Increased wall tension secondary to ventricular dilation",
+      "Increased venous capacitance",
+      "Decreased heart rate",
+      "Decreased myocardial contractility",
+      "Decreased afterload"
+    ],
+    "correct_answer": "A",
+    "explanation": "Increased wall tension (due to increased radius/dilation or pressure) significantly increases myocardial oxygen demand per Laplace's law. The other options generally decrease oxygen demand."
+  },
+  {
+    "id": 2459,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old patient presents with symptoms of heart failure. Echocardiogram reveals an increased end-systolic volume while the end-diastolic volume remains normal. This isolated finding definitively indicates a decrease in which metric?",
+    "options": [
+      "Total peripheral resistance",
+      "Ejection fraction",
+      "Venous return",
+      "Aortic root compliance",
+      "Diastolic filling time"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ejection fraction = (EDV - ESV) / EDV. If ESV increases while EDV is normal, the stroke volume and thus the ejection fraction are strictly decreased."
+  },
+  {
+    "id": 2460,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with restrictive cardiomyopathy presents with a prominent 'y' descent on their jugular venous pressure tracing. This rapid drop in pressure directly correlates with which event?",
+    "options": [
+      "Atrial relaxation during ventricular systole",
+      "Right ventricular contraction against a closed tricuspid valve",
+      "Rapid right atrial emptying into the right ventricle",
+      "Atrial contraction into a stiff ventricle",
+      "Passive filling of the right atrium from the vena cavae"
+    ],
+    "correct_answer": "C",
+    "explanation": "The 'y' descent represents the rapid emptying of blood from the right atrium into the right ventricle immediately after the tricuspid valve opens."
+  },
+  {
+    "id": 2461,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In evaluating total peripheral resistance, the vascular beds are arranged in parallel to ensure adequate flow. A consequence of this parallel arrangement is that the total systemic resistance is:",
+    "options": [
+      "Equal to the average of all individual resistances",
+      "Greater than the highest individual resistance",
+      "Dependent solely on the largest artery",
+      "Less than the resistance of the individual bed with the lowest resistance",
+      "Mathematically the sum of the inverse of the radii"
+    ],
+    "correct_answer": "D",
+    "explanation": "In parallel circuits, the reciprocal of total resistance equals the sum of reciprocals of individual resistances. Thus, total resistance is always less than the lowest individual resistance."
+  },
+  {
+    "id": 2462,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient in the early stages of a treadmill stress test maintains cardiac output through combined increases in heart rate and stroke volume. In the later, maximal stages of exercise, the continued maintenance of cardiac output is achieved exclusively through an increase in which factor?",
+    "options": [
+      "Preload",
+      "Myocardial contractility",
+      "Ejection fraction",
+      "Diastolic filling time",
+      "Heart rate"
+    ],
+    "correct_answer": "E",
+    "explanation": "In later stages of exercise, stroke volume plateaus. Thus, any further increase in cardiac output is maintained solely by an increase in heart rate."
+  },
+  {
+    "id": 2463,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The embryological development of the coronary sinus is crucial for normal venous return from the myocardium. This structure is derived from which specific embryonic precursor?",
+    "options": [
+      "Left horn of the sinus venosus",
+      "Right horn of the sinus venosus",
+      "Primitive atrium",
+      "Left anterior cardinal vein",
+      "Endocardial cushions"
+    ],
+    "correct_answer": "A",
+    "explanation": "The coronary sinus is embryologically derived from the left horn of the sinus venosus."
+  },
+  {
+    "id": 2464,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate is born with tricuspid atresia. This condition involves the complete absence of a tricuspid valve orifice and is best characterized embryologically as an anomaly of which structures?",
+    "options": [
+      "Aorticopulmonary septum",
+      "Fused endocardial cushions of the AV canal",
+      "Bulbar ridges",
+      "Septum secundum",
+      "Truncus arteriosus"
+    ],
+    "correct_answer": "B",
+    "explanation": "The tricuspid valve is derived from the fused endocardial cushions of the AV canal. Tricuspid atresia is a failure of this specific developmental process."
+  },
+  {
+    "id": 2465,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient experiences persistent hypoxia due to an abnormal fetal shunt that bypasses the hepatic circulation entirely. Which fetal vessel normally conducts this bypassed flow directly into the inferior vena cava?",
+    "options": [
+      "Umbilical vein",
+      "Ductus arteriosus",
+      "Ductus venosus",
+      "Portal vein",
+      "Umbilical artery"
+    ],
+    "correct_answer": "C",
+    "explanation": "The ductus venosus specifically conducts highly oxygenated blood from the umbilical vein directly into the IVC, bypassing the hepatic circulation."
+  },
+  {
+    "id": 2466,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an acute ST-elevation myocardial infarction experiences profound bradycardia and a third-degree heart block. The occluded artery most likely supplies the AV node and arises from which main vessel?",
+    "options": [
+      "Left anterior descending artery",
+      "Left circumflex artery",
+      "Left main coronary artery",
+      "Right coronary artery",
+      "Coronary sinus"
+    ],
+    "correct_answer": "D",
+    "explanation": "The right coronary artery (RCA) supplies the SA and AV nodes in the vast majority of patients. Occlusion can cause profound nodal dysfunction like heart block."
+  },
+  {
+    "id": 2467,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An experimental drug reduces venous tone in an animal model. On a cardiac and vascular function curve intersection, this intervention would graphically result in which of the following immediate shifts?",
+    "options": [
+      "Parallel rightward shift of the vascular function curve",
+      "Upward shift of the cardiac function curve",
+      "Downward shift of the cardiac function curve",
+      "Increased slope of the vascular function curve without shifting the x-intercept",
+      "Parallel leftward shift of the vascular function curve"
+    ],
+    "correct_answer": "E",
+    "explanation": "Decreasing venous tone effectively decreases circulating volume return (preload), causing a parallel leftward shift of the vascular function curve and lowering mean systemic pressure."
+  },
+  {
+    "id": 2468,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 65-year-old male exhibits a systolic ejection murmur that decreases in intensity during the strain phase of the Valsalva maneuver. Which underlying hemodynamic principle best explains this clinical finding?",
+    "options": [
+      "Increased afterload reducing transaortic gradient",
+      "Increased preload exacerbating ventricular outflow obstruction",
+      "Decreased preload reducing flow across the aortic valve",
+      "Decreased afterload increasing forward flow across the mitral valve",
+      "Decreased venous return enhancing sudden tensing of chordae tendineae"
+    ],
+    "correct_answer": "C",
+    "explanation": "Valsalva strain decreases venous return (preload), reducing flow across most valves, thus decreasing the intensity of an aortic stenosis murmur."
+  },
+  {
+    "id": 2469,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young athlete presents with a systolic murmur that becomes notably louder upon prompt standing from a supine position. What is the most likely structural anomaly underlying this presentation?",
+    "options": [
+      "Anterosuperior displacement of the infundibular septum",
+      "Early-onset calcification of a bicuspid aortic valve",
+      "Myxomatous degeneration of the mitral valve leaflets",
+      "Asymmetric septal hypertrophy with systolic anterior motion of the mitral valve",
+      "Fusion of the mitral leaflet tips with a delayed rumbling diastolic component"
+    ],
+    "correct_answer": "D",
+    "explanation": "Standing decreases preload. The murmur of hypertrophic cardiomyopathy increases with decreased LV volume, which is caused by asymmetric septal hypertrophy."
+  },
+  {
+    "id": 2470,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During passive leg raise, a patient's late crescendo murmur with a midsystolic click exhibits a change in timing. Which of the following best describes this auscultatory modification?",
+    "options": [
+      "The click occurs earlier due to increased left ventricular volume.",
+      "The click occurs earlier due to decreased right ventricular venous return.",
+      "The murmur increases in intensity due to increased transvalvular gradient.",
+      "The click occurs later due to increased left ventricular volume.",
+      "The click is obliterated due to equalized atrial and ventricular pressures."
+    ],
+    "correct_answer": "D",
+    "explanation": "Passive leg raise increases preload, delaying the prolapse of the mitral valve leaflets, causing a later midsystolic click."
+  },
+  {
+    "id": 2471,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with Turner syndrome is found to have a continuous, machinelike murmur loudest at the left infraclavicular area. Which of the following is most likely responsible for maintaining the patency of the involved structure?",
+    "options": [
+      "Increased pulmonary vascular resistance and high oxygen tension",
+      "Prostaglandin I2 degradation and elevated endothelin levels",
+      "Prostaglandin E synthesis and low oxygen tension",
+      "Decreased systemic vascular resistance and elevated bradykinin",
+      "Prostaglandin E synthesis and high oxygen tension"
+    ],
+    "correct_answer": "C",
+    "explanation": "A patent ductus arteriosus is maintained by PGE synthesis and low oxygen tension."
+  },
+  {
+    "id": 2472,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with wide pulse pressure and a pulsing nail bed, an early diastolic high-pitched blowing murmur is auscultated. Handgrip maneuver is performed. What is the anticipated effect on the murmur?",
+    "options": [
+      "Increased intensity due to increased systemic vascular resistance",
+      "Decreased intensity due to reduced venous return",
+      "Increased intensity due to augmented left ventricular preload",
+      "Decreased intensity due to lowered transvalvular gradient",
+      "Unchanged intensity as afterload independent"
+    ],
+    "correct_answer": "A",
+    "explanation": "Handgrip increases afterload, which exacerbates reverse flow across the incompetent aortic valve in aortic regurgitation, increasing the murmur intensity."
+  },
+  {
+    "id": 2473,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A delayed rumbling mid-to-late diastolic murmur following an opening snap is noted. If the interval between the second heart sound and the opening snap is shortened, what does this indicate regarding the hemodynamics?",
+    "options": [
+      "Decreased severity due to a narrowed mitral valve area",
+      "Increased severity due to a lower transvalvular gradient",
+      "Increased severity due to a higher left atrial pressure",
+      "Decreased severity due to increased left ventricular compliance",
+      "No change in severity as the interval is heart rate-dependent"
+    ],
+    "correct_answer": "C",
+    "explanation": "In mitral stenosis, a shorter S2-OS interval indicates higher left atrial pressure, which forces the valve open sooner, indicating greater severity."
+  },
+  {
+    "id": 2474,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An isolated left-sided holosystolic murmur loudest at the apex is observed to decrease in intensity with sudden standing. What is the primary cause of this murmur in a patient with a history of inferior wall myocardial infarction?",
+    "options": [
+      "Aortic root dilation",
+      "Mitral regurgitation secondary to ischemic heart disease",
+      "Papillary muscle rupture leading to tricuspid regurgitation",
+      "Mitral valve prolapse due to myxomatous degeneration",
+      "Right ventricular dilatation causing tricuspid regurgitation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Post-MI MR is a holosystolic murmur at the apex that decreases with standing (decreased preload)."
+  },
+  {
+    "id": 2475,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A child with early childhood cyanosis is found to have a boot-shaped heart on X-ray. Which of the following structural defects is the most critical determinant of their long-term prognosis?",
+    "options": [
+      "Ventricular septal defect size",
+      "Degree of overriding aorta",
+      "Right ventricular hypertrophy thickness",
+      "Presence of an atrial septal defect",
+      "Severity of pulmonary infundibular stenosis"
+    ],
+    "correct_answer": "E",
+    "explanation": "In Tetralogy of Fallot, the degree of pulmonary infundibular stenosis is the most important determinant for prognosis."
+  },
+  {
+    "id": 2476,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Squatting immediately improves cyanosis in a child experiencing a 'tet spell'. What is the primary hemodynamic mechanism responsible for this acute improvement?",
+    "options": [
+      "Decreased systemic vascular resistance increasing pulmonary flow",
+      "Increased venous return directly overriding pulmonary stenosis",
+      "Increased systemic vascular resistance reducing right-to-left shunting",
+      "Decreased preload reducing right ventricular outflow obstruction",
+      "Augmented left-to-right shunting through the patent ductus arteriosus"
+    ],
+    "correct_answer": "C",
+    "explanation": "Squatting increases SVR, which decreases the right-to-left shunt across the VSD and forces more blood through the pulmonary circulation."
+  },
+  {
+    "id": 2477,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which phase of the ventricular myocardial action potential is primarily maintained by the delicate balance of calcium influx and potassium efflux?",
+    "options": [
+      "Phase 1",
+      "Phase 2",
+      "Phase 0",
+      "Phase 3",
+      "Phase 4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Phase 2 (plateau) is maintained by Ca2+ influx balancing K+ efflux."
+  },
+  {
+    "id": 2478,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An experimental drug prolongs Phase 3 of the myocardial action potential. Which specific ion channel modification is most likely mediated by this drug?",
+    "options": [
+      "Prolonged opening of voltage-gated L-type calcium channels",
+      "Rapid inactivation of fast voltage-gated sodium channels",
+      "Inhibition of voltage-gated slow delayed-rectifier potassium channels",
+      "Activation of inward-rectifier potassium channels",
+      "Inhibition of the funny current sodium/potassium channels"
+    ],
+    "correct_answer": "C",
+    "explanation": "Phase 3 is rapid repolarization due to K+ efflux. Inhibiting delayed-rectifier K+ channels prolongs Phase 3 and the QT interval."
+  },
+  {
+    "id": 2479,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In the sinoatrial node, an increase in sympathetic stimulation primarily alters which phase of the pacemaker action potential to increase the heart rate?",
+    "options": [
+      "Accelerates the upstroke of Phase 0 by opening more sodium channels",
+      "Shortens Phase 3 by rapidly opening delayed-rectifier potassium channels",
+      "Eliminates Phase 2 plateau by preventing calcium channel opening",
+      "Shifts the maximum diastolic potential of Phase 4 to a more negative value",
+      "Increases the slope of Phase 4 by increasing the probability of funny channels being open"
+    ],
+    "correct_answer": "E",
+    "explanation": "Sympathetic stimulation increases the slope of spontaneous diastolic depolarization (Phase 4) by increasing the opening of If (funny) channels."
+  },
+  {
+    "id": 2480,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Fast voltage-gated sodium channels are permanently inactivated in normal pacemaker cells of the AV node. What is the fundamental physiologic basis for this permanent inactivation?",
+    "options": [
+      "The absence of sarcoplasmic reticulum calcium release",
+      "Rapid calcium influx during Phase 0 overriding sodium channels",
+      "The persistently less negative resting membrane potential",
+      "Continuous acetylcholine-mediated hyperpolarization",
+      "The absolute dominance of inward delayed-rectifier potassium currents"
+    ],
+    "correct_answer": "C",
+    "explanation": "Pacemaker cells have a higher (less negative) resting membrane potential, causing fast Na+ channels to remain permanently inactivated."
+  },
+  {
+    "id": 2481,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate presents with a continuous machinelike murmur and late cyanosis isolated to the lower extremities. Which of the following conditions most likely preceded this presentation?",
+    "options": [
+      "Uncorrected patent ductus arteriosus with subsequent flow reversal",
+      "Coarctation of the aorta proximal to a closed ductus arteriosus",
+      "Transposition of the great arteries with a restrictive patent foramen ovale",
+      "Uncorrected ventricular septal defect with Eisenmenger syndrome",
+      "Tetralogy of Fallot with progressive infundibular spasm"
+    ],
+    "correct_answer": "A",
+    "explanation": "Uncorrected PDA with Eisenmenger syndrome (right-to-left shunt reversal) results in cyanosis restricted to the lower extremities (differential cyanosis)."
+  },
+  {
+    "id": 2482,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient exhibiting wide, fixed splitting of the second heart sound is found to have paradoxical emboli. Which embryologic failure is most likely responsible for the primary defect?",
+    "options": [
+      "Failure of the aorticopulmonary septum to spiral",
+      "A defect in the interatrial septum, most commonly ostium secundum",
+      "Incomplete fusion of the endocardial cushions",
+      "Failure of the truncus arteriosus to divide",
+      "Downward displacement of tricuspid valve leaflets"
+    ],
+    "correct_answer": "B",
+    "explanation": "The patient has an atrial septal defect (ASD), which features a wide, fixed split S2 and permits paradoxical emboli. Ostium secundum is the most common type."
+  },
+  {
+    "id": 2483,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn with a single S2, 'egg on a string' appearance on chest X-ray, and profound cyanosis requires urgent intervention. What is the primary embryologic etiology of this lethal anomaly?",
+    "options": [
+      "Failure of the aorticopulmonary septum to form",
+      "Anterosuperior displacement of the infundibular septum",
+      "Failure of the endocardial cushions to fuse",
+      "Total anomalous pulmonary venous return",
+      "Failure of the aorticopulmonary septum to spiral"
+    ],
+    "correct_answer": "E",
+    "explanation": "D-transposition of the great arteries is due to the failure of the aorticopulmonary septum to spiral, presenting with an egg on a string CXR."
+  },
+  {
+    "id": 2484,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 40-year-old female presents with recurrent syncope and a history of rheumatic fever. A mid-diastolic rumble is heard. Which of the following mechanisms best explains the origin of the distinct sound immediately preceding the murmur?",
+    "options": [
+      "Abrupt halt in leaflet motion after rapid opening due to fusion at leaflet tips",
+      "Sudden closure of the aortic valve secondary to high systemic resistance",
+      "Rapid ventricular filling against a non-compliant left ventricular wall",
+      "Sudden tensing of chordae tendineae",
+      "Ejection of blood into a dilated aortic root"
+    ],
+    "correct_answer": "A",
+    "explanation": "The opening snap (OS) in mitral stenosis is due to an abrupt halt in leaflet motion during diastole due to fusion of leaflet tips."
+  },
+  {
+    "id": 2485,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A healthy individual ascends to a high altitude, leading to alveolar hypoxia. How does the pulmonary vasculature uniquely respond compared to systemic circulation?",
+    "options": [
+      "Hypoxic vasoconstriction to shunt blood to well-ventilated areas",
+      "Widespread vasodilation mediated by nitric oxide",
+      "Adenosine-mediated reflex vasodilation",
+      "Myogenic stretch-dependent autoregulatory relaxation",
+      "Endothelin-mediated systemic vasodilation"
+    ],
+    "correct_answer": "A",
+    "explanation": "The pulmonary vasculature constricts in response to hypoxia, unlike systemic vessels which dilate."
+  },
+  {
+    "id": 2486,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which combination of local metabolites acts as the primary vasodilatory stimulus for autoregulation in the cerebral circulation?",
+    "options": [
+      "Decreased oxygen and increased adenosine",
+      "Increased lactate and potassium",
+      "Increased nitric oxide and lowered local temperature",
+      "Increased carbon dioxide and corresponding drop in pH",
+      "Increased oxygen tension and decreased hydrogen ions"
+    ],
+    "correct_answer": "D",
+    "explanation": "The brain relies primarily on CO2 (and the resulting pH change) as the local metabolite for autoregulatory vasodilation."
+  },
+  {
+    "id": 2487,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In skeletal muscle at rest, which mechanism exerts the most dominant control over vascular tone?",
+    "options": [
+      "Sympathetic tone in arteries",
+      "Local accumulation of adenosine and lactate",
+      "Parasympathetic vagal innervation",
+      "Endothelial release of nitric oxide",
+      "Myogenic tubuloglomerular feedback"
+    ],
+    "correct_answer": "A",
+    "explanation": "At rest, sympathetic tone primarily controls skeletal muscle vascular tone. During exercise, local metabolites (CHALK) take over."
+  },
+  {
+    "id": 2488,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which variable primarily determines the speed of conduction through the normal myocardial electrical pathway?",
+    "options": [
+      "The slope of Phase 4 in the AV node",
+      "The duration of Phase 2 plateau in Purkinje fibers",
+      "The refractory period of the SA node",
+      "The amplitude of the P wave",
+      "The higher velocity in the His-Purkinje system compared to the AV node"
+    ],
+    "correct_answer": "E",
+    "explanation": "The conduction speed follows: His-Purkinje > Atria > Ventricles > AV node."
+  },
+  {
+    "id": 2489,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A prominent U wave on an electrocardiogram is most classically associated with which electrolyte or clinical abnormality?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hyponatremia",
+      "Tachycardia"
+    ],
+    "correct_answer": "B",
+    "explanation": "U waves are prominent in hypokalemia (think hyp'U'kalemia) and bradycardia."
+  },
+  {
+    "id": 2490,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient suffers an acute right ventricular myocardial infarction. Which portion of the conduction system is most vulnerable to direct ischemic injury?",
+    "options": [
+      "Atrioventricular node",
+      "Left anterior fascicle",
+      "Purkinje fibers in the left ventricle",
+      "Bachmann bundle",
+      "Sinoatrial node"
+    ],
+    "correct_answer": "A",
+    "explanation": "The AV node blood supply is usually from the right coronary artery (RCA)."
+  },
+  {
+    "id": 2491,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During the cardiac cycle, when is the left ventricular pressure strictly greater than the aortic pressure?",
+    "options": [
+      "Isovolumetric contraction phase",
+      "Isovolumetric relaxation phase",
+      "Rapid ventricular filling phase",
+      "Atrial systole",
+      "Systolic ejection phase"
+    ],
+    "correct_answer": "E",
+    "explanation": "LV pressure exceeds aortic pressure during systole, allowing the aortic valve to open for the ejection phase."
+  },
+  {
+    "id": 2492,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a diminished, delayed carotid upstroke (pulsus parvus et tardus) and a soft S2. The primary pathology is most likely associated with which of the following murmurs?",
+    "options": [
+      "Holosystolic murmur radiating to the axilla",
+      "Early diastolic high-pitched blowing murmur",
+      "Late crescendo murmur with a midsystolic click",
+      "Crescendo-decrescendo ejection murmur loudest at the heart base",
+      "Continuous machinelike murmur loudest at the S2"
+    ],
+    "correct_answer": "D",
+    "explanation": "Aortic stenosis causes pulsus parvus et tardus, soft S2, and a crescendo-decrescendo systolic murmur at the base radiating to the carotids."
+  },
+  {
+    "id": 2493,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Carotid massage is performed on a patient experiencing supraventricular tachycardia. By what precise reflex arc does this maneuver slow the heart rate?",
+    "options": [
+      "Decreases glossopharyngeal afferent firing leading to decreased vagal efferent output",
+      "Increases aortic arch baroreceptor firing transmitted via the vagus nerve",
+      "Decreases central chemoreceptor stimulation leading to sympathetic withdrawal",
+      "Increases stretch on the solitary nucleus directly inhibiting the SA node",
+      "Increases carotid sinus pressure, increasing glossopharyngeal afferents, increasing vagal efferent tone to the AV node"
+    ],
+    "correct_answer": "E",
+    "explanation": "Carotid massage increases pressure in the carotid sinus, increasing afferent firing via CN IX, leading to increased parasympathetic (vagal) efferent firing to the AV node, prolonging its refractory period."
+  },
+  {
+    "id": 2494,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In response to severe hemorrhagic shock, baroreceptor activity changes drastically. Which of the following best characterizes the efferent neural response?",
+    "options": [
+      "Decreased glossopharyngeal afferent firing leading to increased sympathetic and decreased parasympathetic efferent stimulation",
+      "Increased vagal tone and decreased sympathetic firing",
+      "Increased glossopharyngeal afferent firing leading to pure sympathetic withdrawal",
+      "Decreased sympathetic efferent firing causing peripheral vasodilation",
+      "Unchanged autonomic output due to autoregulatory escape"
+    ],
+    "correct_answer": "A",
+    "explanation": "Hypotension decreases baroreceptor stretch, decreasing afferent firing, which causes increased sympathetic and decreased parasympathetic efferent stimulation to increase BP."
+  },
+  {
+    "id": 2495,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a traumatic brain injury develops hypertension, bradycardia, and irregular respirations. What is the initiating sequence of the cardiovascular component of this reflex?",
+    "options": [
+      "Cerebral ischemia leads to increased central sympathetic tone causing hypertension",
+      "Direct compression of the vagus nerve triggers profound bradycardia",
+      "Increased intracranial pressure directly stretches carotid baroreceptors",
+      "Peripheral chemoreceptors sense decreased arterial PO2 driving sympathetic firing",
+      "Central chemoreceptors detect elevated interstitial pH leading to vasoconstriction"
+    ],
+    "correct_answer": "A",
+    "explanation": "Cushing reflex: ICP increase causes cerebral ischemia, stimulating central sympathetics to cause hypertension, which then triggers a reflex baroreceptor-induced bradycardia."
+  },
+  {
+    "id": 2496,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Peripheral chemoreceptors situated in the carotid and aortic bodies are most acutely sensitive to which of the following isolated changes?",
+    "options": [
+      "Decreased arterial PCO2",
+      "Decreased arterial PO2 below 60 mm Hg",
+      "Increased arterial PO2 above 100 mm Hg",
+      "Decreased brain interstitial pH",
+      "Increased systemic venous PO2"
+    ],
+    "correct_answer": "B",
+    "explanation": "Peripheral chemoreceptors are stimulated by decreased PO2 (<60 mmHg), increased PCO2, and decreased pH of blood."
+  },
+  {
+    "id": 2497,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A COPD patient chronically retains carbon dioxide. Why does their respiratory drive become primarily dependent on peripheral chemoreceptors?",
+    "options": [
+      "Peripheral chemoreceptors adapt to high oxygen tension",
+      "Central chemoreceptors become less responsive to chronically elevated PCO2",
+      "Central chemoreceptors become permanently inactivated by local alkalosis",
+      "Hydrogen ions begin to cross the blood-brain barrier more freely",
+      "The carotid sinus baroreceptors override the medullary respiratory center"
+    ],
+    "correct_answer": "B",
+    "explanation": "Central chemoreceptors become less responsive to chronically elevated PCO2, making the patient reliant on hypoxemia (sensed by peripheral chemoreceptors) to drive respiration."
+  },
+  {
+    "id": 2498,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with right heart failure and severe peripheral edema, how are the Starling forces across the peripheral capillary membrane fundamentally altered?",
+    "options": [
+      "Increased capillary permeability coefficient (Kf)",
+      "Decreased plasma oncotic pressure (\u03c0c)",
+      "Increased interstitial fluid oncotic pressure (\u03c0i)",
+      "Increased capillary hydrostatic pressure (Pc)",
+      "Decreased interstitial hydrostatic pressure (Pi)"
+    ],
+    "correct_answer": "D",
+    "explanation": "Heart failure increases venous pressure, leading to an increased capillary hydrostatic pressure (Pc), which pushes fluid into the interstitium causing edema."
+  },
+  {
+    "id": 2499,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which condition is most likely to produce edema purely by decreasing the capillary plasma oncotic pressure (\u03c0c)?",
+    "options": [
+      "Chronic liver failure",
+      "Sepsis with widespread endothelial damage",
+      "Lymphatic blockage post-mastectomy",
+      "Congestive heart failure",
+      "Extensive full-thickness burns"
+    ],
+    "correct_answer": "A",
+    "explanation": "Liver failure (along with nephrotic syndrome and protein malnutrition) reduces plasma proteins, decreasing plasma oncotic pressure and causing edema."
+  },
+  {
+    "id": 2500,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Brain natriuretic peptide (BNP) is released into the bloodstream. What is the primary cellular trigger for its release, and what is its primary renal action?",
+    "options": [
+      "Atrial myocyte stretch; constricts afferent renal arterioles",
+      "Ventricular myocyte tension; dilates afferent renal arterioles and constricts efferent arterioles",
+      "Renal juxtaglomerular cell stretch; promotes sodium reabsorption",
+      "Carotid sinus distension; decreases glomerular filtration rate",
+      "Hypothalamic osmoreceptor shrinking; promotes water retention"
+    ],
+    "correct_answer": "B",
+    "explanation": "BNP is released from ventricular myocytes in response to tension. It dilates afferent and constricts efferent arterioles to promote diuresis."
+  },
+  {
+    "id": 2501,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with unequal pulses, cold lower extremities, and notched ribs on chest X-ray. Which of the following is an associated risk factor or complication?",
+    "options": [
+      "Severe lower extremity hypertension",
+      "Increased risk of berry aneurysms",
+      "Premature closure of the ductus arteriosus",
+      "Myxomatous degeneration of the mitral valve",
+      "Aortic root dilation leading to relative mitral stenosis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Coarctation of the aorta causes upper extremity hypertension and cold lower extremities. It is associated with berry aneurysms (increased risk of cerebral hemorrhage)."
+  },
+  {
+    "id": 2502,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate is born to a mother with pregestational diabetes. Which congenital heart defect is statistically most strongly associated with this maternal history?",
+    "options": [
+      "Patent ductus arteriosus",
+      "Ebstein anomaly",
+      "AV septal defect",
+      "Transposition of the great arteries",
+      "Supravalvular aortic stenosis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Infants of diabetic mothers have an increased risk of transposition of the great arteries, truncus arteriosus, tricuspid atresia, and VSD."
+  },
+  {
+    "id": 2503,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In Ebstein anomaly, the tricuspid valve leaflets are displaced downwards into the right ventricle. Which maternal exposure during pregnancy is classically associated with this defect?",
+    "options": [
+      "Alcohol",
+      "Lithium",
+      "Rubella",
+      "Hyperglycemia",
+      "Warfarin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ebstein anomaly is famously associated with prenatal lithium exposure."
+  },
+  {
+    "id": 2504,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which statement best describes the normal path of the electrical impulse originating from the SA node?",
+    "options": [
+      "Atria, bundle of His, AV node, Purkinje fibers",
+      "AV node, atria, bundle of His, right and left fascicles",
+      "Bachmann bundle, AV node, Purkinje fibers, bundle of His",
+      "Atria, AV node, bundle of His, bundle branches, Purkinje fibers",
+      "Interatrial septum, bundle of His, AV node, Purkinje fibers"
+    ],
+    "correct_answer": "D",
+    "explanation": "Conduction pathway: SA node -> atria -> AV node -> bundle of His -> right and left bundle branches -> Purkinje fibers -> ventricles."
+  },
+  {
+    "id": 2505,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient's ECG reveals a prolonged PR interval. This interval represents the precise time from the:",
+    "options": [
+      "End of atrial depolarization to the start of ventricular depolarization",
+      "Start of atrial depolarization to the end of ventricular depolarization",
+      "End of ventricular depolarization to the start of repolarization",
+      "Onset of the QRS complex to the apex of the T wave",
+      "Start of atrial depolarization to the start of ventricular depolarization"
+    ],
+    "correct_answer": "E",
+    "explanation": "PR interval is the time from the start of atrial depolarization (P wave) to the start of ventricular depolarization (QRS complex)."
+  },
+  {
+    "id": 2506,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a normal individual at rest, which structural component of the heart acts as the absolute dominant inherent pacemaker?",
+    "options": [
+      "Atrioventricular node",
+      "Sinoatrial node",
+      "Bundle of His",
+      "Purkinje fibers",
+      "Bachmann bundle"
+    ],
+    "correct_answer": "B",
+    "explanation": "The SA node is the primary pacemaker due to its inherent dominance with the fastest spontaneous depolarization rate."
+  },
+  {
+    "id": 2507,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 50-year-old male demonstrates a heart murmur that is significantly louder during inspiration. Based on respiratory hemodynamics, where does this murmur most likely originate?",
+    "options": [
+      "Aortic valve",
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary veins",
+      "Left atrial appendage"
+    ],
+    "correct_answer": "C",
+    "explanation": "Inspiration increases venous return to the right heart, amplifying most right-sided murmurs (e.g., tricuspid or pulmonic valves)."
+  },
+  {
+    "id": 2508,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In an isolated papillary muscle rupture causing acute severe mitral regurgitation, which maneuver would most predictably decrease the intensity of the new murmur?",
+    "options": [
+      "Handgrip",
+      "Squatting",
+      "Passive leg raise",
+      "Valsalva strain phase",
+      "Rapid normal inspiration"
+    ],
+    "correct_answer": "D",
+    "explanation": "MR is a left-sided murmur. Handgrip and squatting increase afterload/preload and would increase it. Valsalva decreases preload, thus decreasing the intensity of most murmurs, including MR."
+  },
+  {
+    "id": 2509,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 35-year-old patient with an uncorrected atrial septal defect develops cyanosis, clubbing, and polycythemia. What was the critical turning point in the pathogenesis of this syndrome?",
+    "options": [
+      "Closure of the patent foramen ovale",
+      "Left ventricular hypertrophy outstripping its blood supply",
+      "Spontaneous formation of a ventricular septal defect",
+      "Rupture of the atrial septum causing right-to-left shunting",
+      "Right ventricular pressure exceeding left ventricular pressure"
+    ],
+    "correct_answer": "E",
+    "explanation": "Eisenmenger syndrome occurs when pulmonary vascular remodeling causes pulmonary hypertension, leading to RV pressure exceeding LV pressure, reversing the shunt to right-to-left."
+  },
+  {
+    "id": 2510,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn presents with tachypnea and marked cyanosis. The preductal oxygen saturation is significantly higher than postductal saturation. What is the most likely diagnosis?",
+    "options": [
+      "Coarctation of the aorta",
+      "Tetralogy of Fallot",
+      "Persistent pulmonary hypertension of the newborn",
+      "Truncus arteriosus",
+      "Patent foramen ovale with Ebstein anomaly"
+    ],
+    "correct_answer": "C",
+    "explanation": "PPHN involves persistent high pulmonary vascular resistance, causing a right-to-left shunt via PDA, leading to lower postductal O2 saturation compared to preductal."
+  },
+  {
+    "id": 2511,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The J point on an electrocardiogram is strictly defined as the junction between the:",
+    "options": [
+      "P wave and the PR segment",
+      "End of the QRS complex and the start of the ST segment",
+      "End of the ST segment and the start of the T wave",
+      "End of the T wave and the start of the U wave",
+      "Peak of the R wave and the descent of the S wave"
+    ],
+    "correct_answer": "B",
+    "explanation": "The J point is the junction between the end of the QRS complex and the start of the ST segment."
+  },
+  {
+    "id": 2512,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient exhibits a continuous machinelike murmur. They were diagnosed with a congenital infection. Which maternal infection is classically associated with this cardiac lesion?",
+    "options": [
+      "Toxoplasmosis",
+      "Cytomegalovirus",
+      "Syphilis",
+      "Rubella",
+      "Herpes simplex virus"
+    ],
+    "correct_answer": "D",
+    "explanation": "Patent ductus arteriosus (machinelike murmur) is classically associated with congenital rubella syndrome."
+  },
+  {
+    "id": 2513,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In excitation-contraction coupling of cardiac myocytes, the term 'calcium-induced calcium release' specifically refers to the:",
+    "options": [
+      "Influx of calcium from the ECF inducing calcium release from the sarcoplasmic reticulum",
+      "Efflux of calcium through voltage-gated channels triggering intracellular potassium influx",
+      "Release of calcium from the sarcoplasmic reticulum directly opening sarcolemmal sodium channels",
+      "Binding of calcium to troponin C stimulating further extracellular calcium entry",
+      "Spontaneous opening of L-type calcium channels causing further calcium influx"
+    ],
+    "correct_answer": "A",
+    "explanation": "Ca2+ entering the myocyte from the ECF triggers the release of much larger amounts of Ca2+ from the sarcoplasmic reticulum."
+  },
+  {
+    "id": 2514,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which physiological parameter is accurately estimated by the pulmonary capillary wedge pressure (PCWP) in a normal patient without valvular abnormalities?",
+    "options": [
+      "Right atrial pressure",
+      "Pulmonary artery systolic pressure",
+      "Left atrial pressure",
+      "Left ventricular peak systolic pressure",
+      "Right ventricular end-diastolic pressure"
+    ],
+    "correct_answer": "C",
+    "explanation": "PCWP is a good approximation of left atrial pressure (and normally LV end-diastolic pressure)."
+  },
+  {
+    "id": 2515,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old male with a history of intravenous drug use presents with a holosystolic, high-pitched blowing murmur loudest at the tricuspid area. What is the most likely underlying mechanism of this murmur?",
+    "options": [
+      "Age-related calcification of the valve",
+      "Sudden tensing of chordae tendineae during systole",
+      "Congenital anterosuperior displacement of the infundibular septum",
+      "Bicuspid valve congenital anomaly",
+      "RV dilatation or infective endocarditis causing tricuspid regurgitation"
+    ],
+    "correct_answer": "E",
+    "explanation": "Holosystolic murmur at the tricuspid area is TR, often seen in IV drug users due to infective endocarditis (or RV dilatation)."
+  },
+  {
+    "id": 2516,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 22q11 deletion syndrome is confirmed in an infant. Which specific congenital cardiac anomalies should the medical team actively screen for?",
+    "options": [
+      "Bicuspid aortic valve and coarctation",
+      "Atrioventricular septal defect and PDA",
+      "Truncus arteriosus and tetralogy of Fallot",
+      "Ebstein anomaly and pulmonary stenosis",
+      "Supravalvular aortic stenosis and ASD"
+    ],
+    "correct_answer": "C",
+    "explanation": "22q11 syndromes are associated with truncus arteriosus and tetralogy of Fallot."
+  },
+  {
+    "id": 2517,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Williams syndrome is associated with which distinct congenital cardiovascular defect?",
+    "options": [
+      "Bicuspid aortic valve",
+      "Persistent truncus arteriosus",
+      "Endocardial cushion defect",
+      "Supravalvular aortic stenosis",
+      "Thoracic aortic aneurysm"
+    ],
+    "correct_answer": "D",
+    "explanation": "Williams syndrome is associated with supravalvular aortic stenosis."
+  },
+  {
+    "id": 2518,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with chest pain 3 days after an initial myocardial infarction. Which marker is most useful to diagnose a new infarction?",
+    "options": [
+      "Cardiac troponin I",
+      "Cardiac troponin T",
+      "Myoglobin",
+      "CK-MB",
+      "LDH"
+    ],
+    "correct_answer": "D",
+    "explanation": "CK-MB returns to normal after 48 hours, making it highly useful for diagnosing reinfarction compared to troponins which remain elevated for 7-10 days."
+  },
+  {
+    "id": 2519,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient shows ST segment depression in leads V1-V3 with tall R waves. Which coronary artery is most likely occluded?",
+    "options": [
+      "Left anterior descending",
+      "Left circumflex",
+      "Right coronary artery",
+      "Obtuse marginal",
+      "Posterior descending artery"
+    ],
+    "correct_answer": "E",
+    "explanation": "These ECG changes are indicative of a posterior STEMI, which typically involves occlusion of the posterior descending artery (PDA)."
+  },
+  {
+    "id": 2520,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient has an irregularly irregular rhythm with absent P waves. The definitive treatment targets which anatomical structure?",
+    "options": [
+      "Pulmonary vein ostia",
+      "Bundle of Kent",
+      "AV node",
+      "Tricuspid annulus",
+      "SA node"
+    ],
+    "correct_answer": "A",
+    "explanation": "Atrial fibrillation definitively requires ablation of the pulmonary vein ostia, where the arrhythmogenic automatic foci usually originate."
+  },
+  {
+    "id": 2521,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 25-year-old male with COPD develops a tachycardia with at least 3 distinct P wave morphologies. Which of the following is true regarding this condition?",
+    "options": [
+      "It is usually caused by a single reentrant circuit.",
+      "It arises from multiple ectopic atrial foci.",
+      "The RR interval is constant.",
+      "It is characterized by a shortened PR interval.",
+      "It is primarily treated with procainamide."
+    ],
+    "correct_answer": "B",
+    "explanation": "Multifocal atrial tachycardia (MAT) is characterized by an irregularly irregular rhythm with at least 3 distinct P wave morphologies due to multiple ectopic foci in the atria."
+  },
+  {
+    "id": 2522,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with Wolff-Parkinson-White syndrome develops atrial fibrillation. Which medication should be strictly avoided?",
+    "options": [
+      "Procainamide",
+      "Ibutilide",
+      "Sotalol",
+      "Diltiazem",
+      "Quinidine"
+    ],
+    "correct_answer": "D",
+    "explanation": "AV nodal blocking drugs, such as calcium channel blockers like diltiazem, should be avoided in WPW as they can facilitate conduction via the accessory pathway."
+  },
+  {
+    "id": 2523,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient taking an anti-emetic develops a polymorphic ventricular tachycardia with shifting sinusoidal waveforms. Which electrolyte abnormality predisposes to this?",
+    "options": [
+      "Hyperkalemia",
+      "Hypercalcemia",
+      "Hypermagnesemia",
+      "Hyponatremia",
+      "Hypomagnesemia"
+    ],
+    "correct_answer": "E",
+    "explanation": "Torsades de pointes is predisposed by a long QT interval, which can be caused by drugs (like antiemetics) and electrolyte abnormalities including hypomagnesemia, hypokalemia, and hypocalcemia."
+  },
+  {
+    "id": 2524,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An Asian male presents with syncope and an ECG showing pseudo-right bundle branch block and ST elevations in V1-V2. The underlying mutation most likely affects:",
+    "options": [
+      "Na+ channels",
+      "Ca2+ channels",
+      "K+ channels",
+      "Cl- channels",
+      "HCN channels"
+    ],
+    "correct_answer": "A",
+    "explanation": "Brugada syndrome is an autosomal dominant condition typically due to a loss of function mutation of Na+ channels."
+  },
+  {
+    "id": 2525,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A deaf child experiences syncope and is diagnosed with a congenital long QT syndrome. This condition is inherited in what pattern?",
+    "options": [
+      "Autosomal dominant",
+      "X-linked dominant",
+      "Autosomal recessive",
+      "X-linked recessive",
+      "Mitochondrial"
+    ],
+    "correct_answer": "C",
+    "explanation": "Jervell and Lange-Nielsen syndrome features sensorineural deafness and long QT syndrome, and is inherited in an autosomal recessive pattern."
+  },
+  {
+    "id": 2526,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An asymptomatic patient's ECG shows a progressively lengthening PR interval until a QRS is dropped. This block is typically:",
+    "options": [
+      "Caused by Lyme disease",
+      "Indicative of a structural abnormality",
+      "Treated with a pacemaker",
+      "Benign and requires no treatment",
+      "Characterized by independent atrial and ventricular beating"
+    ],
+    "correct_answer": "D",
+    "explanation": "Mobitz type I (Wenckebach) second-degree AV block is usually benign and asymptomatic, requiring no specific treatment."
+  },
+  {
+    "id": 2527,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Five days post-MI, a patient develops severe pulmonary edema and a new holosystolic murmur. The structure most likely ruptured is supplied by which artery?",
+    "options": [
+      "Left anterior descending",
+      "Left circumflex",
+      "Right marginal artery",
+      "Diagonal branch",
+      "Posterior descending artery"
+    ],
+    "correct_answer": "E",
+    "explanation": "Posteromedial papillary muscle rupture occurs 2-7 days post-MI and is vulnerable because it has a single blood supply from the PDA."
+  },
+  {
+    "id": 2528,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A macrophage-mediated degradation of myocardial tissue 4 days post-MI results in increased oxygen saturation in the right ventricle. What is the diagnosis?",
+    "options": [
+      "Interventricular septal rupture",
+      "Ventricular free wall rupture",
+      "True ventricular aneurysm",
+      "Papillary muscle rupture",
+      "Ventricular pseudoaneurysm"
+    ],
+    "correct_answer": "A",
+    "explanation": "Interventricular septal rupture results in a VSD, allowing oxygenated blood to enter the right ventricle, thereby increasing its oxygen saturation."
+  },
+  {
+    "id": 2529,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Two weeks post-MI, an echocardiogram shows an outward bulge with contraction (dyskinesia). This complication is:",
+    "options": [
+      "Contained by adherent pericardium only",
+      "Associated with fibrosis and true ventricular aneurysm",
+      "Highly prone to rupture compared to pseudoaneurysm",
+      "Due to an autoimmune reaction",
+      "Characterized by a single arterial supply rupture"
+    ],
+    "correct_answer": "B",
+    "explanation": "A true ventricular aneurysm is characterized by an outward bulge (dyskinesia) and is associated with fibrosis. It is less likely to rupture than a pseudoaneurysm."
+  },
+  {
+    "id": 2530,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with pleuritic chest pain and a friction rub 2 days after an MI. What is the most likely cause?",
+    "options": [
+      "Deposition of immune complexes",
+      "Autoimmune reaction to cardiac antigens",
+      "Peri-infarction pericarditis",
+      "Ventricular free wall rupture",
+      "Dressler syndrome"
+    ],
+    "correct_answer": "C",
+    "explanation": "Peri-infarction pericarditis typically occurs 1-3 days post-MI due to local inflammation. Dressler syndrome occurs weeks to months later and is autoimmune."
+  },
+  {
+    "id": 2531,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with HF shows a balloon appearance of the heart on CXR and eccentric hypertrophy. Which genetic mutation is most commonly associated with this familial form?",
+    "options": [
+      "Beta-myosin heavy chain",
+      "Myosin binding protein C",
+      "Transthyretin",
+      "TTN gene encoding titin",
+      "Dystrophin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Dilated cardiomyopathy familial cases are often due to a mutation in the TTN gene, which encodes the sarcomeric protein titin."
+  },
+  {
+    "id": 2532,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young athlete collapses and dies suddenly. Autopsy reveals asymmetric septal hypertrophy. The affected myocardium would typically show:",
+    "options": [
+      "Sarcomeres added in series",
+      "Eosinophilic infiltrates",
+      "Granulomas with giant cells",
+      "Hypereosinophilia",
+      "Sarcomeres added in parallel"
+    ],
+    "correct_answer": "E",
+    "explanation": "Hypertrophic cardiomyopathy displays concentric hypertrophy, meaning sarcomeres are added in parallel."
+  },
+  {
+    "id": 2533,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient from South America presents with dilated cardiomyopathy. Which infectious agent is the most likely cause?",
+    "options": [
+      "Trypanosoma cruzi",
+      "Coxsackie B virus",
+      "Borrelia burgdorferi",
+      "Corynebacterium diphtheriae",
+      "Parvovirus B19"
+    ],
+    "correct_answer": "A",
+    "explanation": "Trypanosoma cruzi causes Chagas disease, a prominent infectious cause of dilated cardiomyopathy in South America."
+  },
+  {
+    "id": 2534,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An amyloidosis patient presents with heart failure. Which of the following echocardiographic/ECG findings is most expected?",
+    "options": [
+      "Eccentric hypertrophy",
+      "Balloon appearance of the heart",
+      "Low-voltage ECG with thick myocardium",
+      "Asymmetric septal hypertrophy",
+      "Ventricular apical ballooning"
+    ],
+    "correct_answer": "C",
+    "explanation": "Restrictive cardiomyopathy from amyloidosis often features a low-voltage ECG despite an objectively thickened myocardium."
+  },
+  {
+    "id": 2535,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which drug used in heart failure management has been shown to improve mortality only in a select patient demographic when combined with nitrates?",
+    "options": [
+      "Spironolactone",
+      "Metoprolol",
+      "Sacubitril",
+      "Hydralazine",
+      "Furosemide"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hydralazine with nitrate therapy improves both symptoms and mortality in select patients (typically self-identified Black patients with HF)."
+  },
+  {
+    "id": 2536,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient awakens breathless from sleep. The pathophysiology of this specific symptom involves:",
+    "options": [
+      "Immediate gravity effect leading to pulmonary venous distention",
+      "Increased central venous pressure leading to portal flow resistance",
+      "Transudation of fluid due to increased systemic venous pressure",
+      "Left ventricular outflow tract obstruction",
+      "Increased venous return from reabsorption of peripheral edema"
+    ],
+    "correct_answer": "E",
+    "explanation": "Paroxysmal nocturnal dyspnea (PND) is caused by increased venous return from redistribution of blood and reabsorption of peripheral edema during sleep."
+  },
+  {
+    "id": 2537,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A trauma patient exhibits cold, clammy skin, decreased PCWP, decreased CO, and increased SVR. Which type of shock is this?",
+    "options": [
+      "Cardiogenic",
+      "Hypovolemic",
+      "Obstructive",
+      "Distributive",
+      "Neurogenic"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hypovolemic shock presents with decreased preload (CVP, PCWP), decreased CO, and reflexively increased SVR leading to cold, clammy skin."
+  },
+  {
+    "id": 2538,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In cardiogenic shock, which of the following parameter sets is typically observed?",
+    "options": [
+      "Increased PCWP, Increased SVR, Decreased CO",
+      "Decreased CVP, Increased CO",
+      "Increased PCWP, Decreased SVR",
+      "Decreased PCWP, Decreased SVR, Increased CO",
+      "Increased CVP, Decreased SVR, Decreased CO"
+    ],
+    "correct_answer": "A",
+    "explanation": "Cardiogenic shock is characterized by left heart dysfunction leading to increased PCWP, decreased CO, and a compensatory increase in SVR."
+  },
+  {
+    "id": 2539,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with suspected obstructive shock has elevated CVP, elevated PCWP, and decreased CO. What is the most likely cause?",
+    "options": [
+      "Tension pneumothorax",
+      "Pulmonary embolism",
+      "Cardiac tamponade",
+      "Anaphylaxis",
+      "Sepsis"
+    ],
+    "correct_answer": "C",
+    "explanation": "In obstructive shock, cardiac tamponade uniquely causes both elevated CVP and elevated PCWP due to equalized diastolic pressures in all chambers."
+  },
+  {
+    "id": 2540,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which phenomenon occurs during inspiration in a patient with cardiac tamponade?",
+    "options": [
+      "Increased left ventricular ejection volume",
+      "Interventricular septum bowing toward the right ventricle",
+      "Decreased venous return to the right heart",
+      "Drop in systolic blood pressure by more than 10 mm Hg",
+      "Paradoxical increase in jugular venous pressure"
+    ],
+    "correct_answer": "D",
+    "explanation": "Pulsus paradoxus is a drop in systolic BP by > 10 mm Hg during inspiration, characteristically seen in cardiac tamponade."
+  },
+  {
+    "id": 2541,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a history of colon cancer presents with fever and a new heart murmur. Blood cultures are most likely to grow:",
+    "options": [
+      "S aureus",
+      "Viridans streptococci",
+      "Enterococcus",
+      "S epidermidis",
+      "S gallolyticus"
+    ],
+    "correct_answer": "E",
+    "explanation": "Streptococcus gallolyticus (formerly S. bovis) endocarditis is strongly associated with underlying colon cancer."
+  },
+  {
+    "id": 2542,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with painless, flat, erythematous lesions on the palms and soles and a new murmur. These lesions are a result of:",
+    "options": [
+      "Septic embolism",
+      "Immune complex deposition",
+      "Cross-reactivity of antibodies",
+      "Retinal hemorrhages",
+      "Sterile platelet-rich thrombi"
+    ],
+    "correct_answer": "A",
+    "explanation": "Janeway lesions are painless, flat, erythematous lesions resulting from vascular phenomena (septic emboli)."
+  },
+  {
+    "id": 2543,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Sterile, platelet-rich thrombi on the mitral valve that easily dislodge are most strongly associated with:",
+    "options": [
+      "Dental procedures",
+      "Advanced pancreatic adenocarcinoma",
+      "Rheumatic fever",
+      "Injection drug use",
+      "Uremia"
+    ],
+    "correct_answer": "B",
+    "explanation": "Nonbacterial thrombotic (marantic) endocarditis is associated with hypercoagulable states, notably advanced malignancies like pancreatic adenocarcinoma."
+  },
+  {
+    "id": 2544,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A child develops migratory polyarthritis and a new heart murmur. The responsible antibodies cross-react with:",
+    "options": [
+      "Endothelial cells",
+      "Acetylcholine receptors",
+      "Myosin",
+      "Glomerular basement membrane",
+      "Titin"
+    ],
+    "correct_answer": "C",
+    "explanation": "In rheumatic fever, antibodies against group A strep M protein cross-react with self-antigens, often myosin, due to molecular mimicry."
+  },
+  {
+    "id": 2545,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Histological examination of a heart valve shows granulomas with giant cells and enlarged macrophages with wavy, rod-like nuclei. This patient likely had:",
+    "options": [
+      "Syphilitic heart disease",
+      "Infective endocarditis",
+      "Carcinoid heart disease",
+      "Rheumatic fever",
+      "L\u00f6ffler endocarditis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Aschoff bodies (granulomas) and Anitschkow cells (macrophages with wavy nuclei) are pathognomonic histological features of Rheumatic fever."
+  },
+  {
+    "id": 2546,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient has a 'tree bark' appearance of the ascending aorta. Which valve is most likely to show insufficiency as a consequence?",
+    "options": [
+      "Mitral",
+      "Tricuspid",
+      "Pulmonary",
+      "Eustachian",
+      "Aortic"
+    ],
+    "correct_answer": "E",
+    "explanation": "Syphilitic heart disease targets the vasa vasorum of the aorta, leading to aortic root dilation, tree-bark appearance, and aortic valve insufficiency."
+  },
+  {
+    "id": 2547,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a paradoxical increase in jugular venous pressure on inspiration. Which condition is least likely to cause this?",
+    "options": [
+      "Cardiac tamponade",
+      "Right heart failure",
+      "Constrictive pericarditis",
+      "Massive pulmonary embolism",
+      "Right ventricular tumors"
+    ],
+    "correct_answer": "A",
+    "explanation": "Kussmaul sign (paradoxical JVP rise on inspiration) is NOT typically seen in cardiac tamponade, unlike constrictive pericarditis and right HF."
+  },
+  {
+    "id": 2548,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which of the following accurately describes a difference between acute pericarditis and constrictive pericarditis based on the text?",
+    "options": [
+      "Acute pericarditis causes a Kussmaul sign, while constrictive does not.",
+      "Acute pericarditis presents with diffuse ST elevation, whereas constrictive does not.",
+      "Constrictive pericarditis is classically treated with colchicine.",
+      "TB is the most common cause of acute pericarditis globally.",
+      "Only acute pericarditis is associated with thoracic radiotherapy."
+    ],
+    "correct_answer": "B",
+    "explanation": "Acute pericarditis features widespread/diffuse ST-segment elevation, which is not characteristic of constrictive pericarditis."
+  },
+  {
+    "id": 2549,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The most common primary cardiac tumor in adults typically presents with:",
+    "options": [
+      "Hamartomatous growths in the ventricles",
+      "Tuberous sclerosis associations",
+      "Multiple syncopal episodes due to a 'ball valve' obstruction",
+      "Eosinophilic infiltrates in the myocardium",
+      "Rapidly expanding malignant melanoma metastasis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Myxomas are the most common primary cardiac tumors in adults and typically cause a 'ball valve' obstruction in the left atrium, leading to syncope."
+  },
+  {
+    "id": 2550,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with hypertension and diabetes mellitus is prescribed a medication that acts on L-type calcium channels. Which medication predominantly acts on the heart rather than vascular smooth muscle?",
+    "options": [
+      "Amlodipine",
+      "Nifedipine",
+      "Clevidipine",
+      "Verapamil",
+      "Nimodipine"
+    ],
+    "correct_answer": "D",
+    "explanation": "Verapamil is a nondihydropyridine calcium channel blocker that predominantly acts on the heart compared to dihydropyridines which target vascular smooth muscle."
+  },
+  {
+    "id": 2551,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hypertensive pregnant woman requires medication. Which of the following directly increases cGMP, causing smooth muscle relaxation, and dilates arterioles more than veins?",
+    "options": [
+      "Labetalol",
+      "Methyldopa",
+      "Nifedipine",
+      "Nitroprusside",
+      "Hydralazine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Hydralazine is safe in pregnancy, increases cGMP causing smooth muscle relaxation, and dilates arterioles more than veins."
+  },
+  {
+    "id": 2552,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receiving sodium nitroprusside for a hypertensive emergency is at risk of toxicity from which compound?",
+    "options": [
+      "Cyanide",
+      "Thiocyanate",
+      "Methemoglobin",
+      "Nitric oxide",
+      "Carbon monoxide"
+    ],
+    "correct_answer": "A",
+    "explanation": "Nitroprusside metabolism directly releases cyanide, posing a specific risk of cyanide toxicity."
+  },
+  {
+    "id": 2553,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Fenoldopam is used in hypertensive emergencies. Its primary mechanism of action involves agonizing which receptor?",
+    "options": [
+      "Alpha-2 adrenergic",
+      "Dopamine D1",
+      "Beta-1 adrenergic",
+      "Dopamine D2",
+      "V1 vasopressin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Fenoldopam is a selective dopamine D1 receptor agonist that causes coronary, peripheral, renal, and splanchnic vasodilation."
+  },
+  {
+    "id": 2554,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A worker in an explosives factory experiences tachycardia and headache on Mondays. This is due to:",
+    "options": [
+      "Accumulation of cyanide",
+      "Severe reflex bradycardia",
+      "Loss of tolerance to nitrates over the weekend",
+      "Excess sympathetic drive from stress",
+      "Rapid tachyphylaxis to catecholamines"
+    ],
+    "correct_answer": "C",
+    "explanation": "'Monday disease' occurs from industrial nitrate exposure where workers lose tolerance over the weekend, causing tachycardia and headache upon re-exposure."
+  },
+  {
+    "id": 2555,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which of the following antianginal therapies reduces end-diastolic volume, decreases blood pressure, and causes a reflex increase in heart rate?",
+    "options": [
+      "Beta-blockers",
+      "Ranolazine",
+      "Verapamil",
+      "Nitrates",
+      "Sacubitril"
+    ],
+    "correct_answer": "D",
+    "explanation": "Nitrates reduce end-diastolic volume (preload) and blood pressure, which subsequently triggers a compensatory reflex tachycardia."
+  },
+  {
+    "id": 2556,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Ranolazine is used for refractory angina. Its primary mechanism is:",
+    "options": [
+      "Inhibiting the early phase of outward potassium current",
+      "Activating ATP-sensitive potassium channels",
+      "Blocking L-type calcium channels in the AV node",
+      "Decreasing heart rate and blood pressure",
+      "Inhibiting the late phase of inward sodium current"
+    ],
+    "correct_answer": "E",
+    "explanation": "Ranolazine inhibits the late phase of the inward sodium current, which reduces diastolic wall tension and oxygen consumption without affecting heart rate or BP."
+  },
+  {
+    "id": 2557,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Sacubitril is contraindicated with ACE inhibitors due to an increased risk of angioedema. This is because both drugs:",
+    "options": [
+      "Increase bradykinin",
+      "Increase substance P",
+      "Inhibit neprilysin",
+      "Decrease aldosterone",
+      "Increase angiotensin II"
+    ],
+    "correct_answer": "A",
+    "explanation": "Both sacubitril (a neprilysin inhibitor) and ACE inhibitors increase bradykinin levels, which synergistically elevates the risk of life-threatening angioedema."
+  },
+  {
+    "id": 2558,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient taking a lipid-lowering agent develops myopathy. The drug responsible most likely acts by:",
+    "options": [
+      "Disrupting enterohepatic bile acid circulation",
+      "Inhibiting HMG-CoA reductase",
+      "Preventing cholesterol absorption at the brush border",
+      "Activating PPAR-alpha",
+      "Inhibiting PCSK9"
+    ],
+    "correct_answer": "B",
+    "explanation": "Statins inhibit HMG-CoA reductase and are known to cause myopathy, especially when combined with other agents."
+  },
+  {
+    "id": 2559,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which lipid-lowering agent can cause a slight increase in both HDL and triglycerides while significantly decreasing LDL?",
+    "options": [
+      "Atorvastatin",
+      "Ezetimibe",
+      "Cholestyramine",
+      "Niacin",
+      "Fenofibrate"
+    ],
+    "correct_answer": "C",
+    "explanation": "Bile acid resins like cholestyramine significantly decrease LDL but can cause a slight increase in both HDL and triglycerides."
+  },
+  {
+    "id": 2560,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Ezetimibe primarily lowers cholesterol by:",
+    "options": [
+      "Decreasing hepatic VLDL secretion",
+      "Activating lipoprotein lipase",
+      "Inhibiting HMG-CoA reductase",
+      "Preventing absorption at the small intestine brush border",
+      "Binding bile acids in the gut"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ezetimibe works exclusively by preventing cholesterol absorption at the small intestine brush border."
+  },
+  {
+    "id": 2561,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which drug is known to cause gingival hyperplasia?",
+    "options": [
+      "Hydralazine",
+      "Metoprolol",
+      "Isosorbide dinitrate",
+      "Ranolazine",
+      "Nifedipine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Calcium channel blockers, including dihydropyridines like nifedipine, are well-known to cause gingival hyperplasia."
+  },
+  {
+    "id": 2562,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In treating unstable angina/NSTEMI, which therapy is considered the most critical difference compared to the treatment of STEMI?",
+    "options": [
+      "Lack of immediate reperfusion therapy",
+      "Administration of ACE inhibitors",
+      "Use of clopidogrel",
+      "Nitroglycerin for symptom control",
+      "Statin initiation"
+    ],
+    "correct_answer": "A",
+    "explanation": "Unlike STEMI, where immediate reperfusion therapy (like PCI or fibrinolysis) is paramount, NSTEMI management relies primarily on anticoagulation and antiplatelet therapies."
+  },
+  {
+    "id": 2563,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with stress cardiomyopathy (Takotsubo). This is most likely due to:",
+    "options": [
+      "Myosin binding protein C mutation",
+      "Increased sympathetic stimulation",
+      "Alcohol abuse",
+      "Coxsackie B virus infection",
+      "Endocardial fibroelastosis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Takotsubo cardiomyopathy is characterized by ventricular apical ballooning, likely triggered by increased sympathetic stimulation during stressful situations."
+  },
+  {
+    "id": 2564,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In heart failure with preserved ejection fraction (HFpEF), the primary hemodynamic abnormality is:",
+    "options": [
+      "Increased end-diastolic volume leading to decreased contractility",
+      "Eccentric hypertrophy leading to decreased compliance",
+      "Decreased compliance leading to increased end-diastolic pressure",
+      "Reduced ejection fraction with normal end-diastolic pressure",
+      "Increased stroke volume with decreased sympathetic tone"
+    ],
+    "correct_answer": "C",
+    "explanation": "HFpEF is a diastolic dysfunction characterized by normal end-diastolic volume but decreased compliance, which increases end-diastolic pressure."
+  },
+  {
+    "id": 2565,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is found to have heart failure characterized by increased cardiac output, resulting from arteriovenous shunting. Which of the following is a known cause of this condition?",
+    "options": [
+      "Amyloidosis",
+      "Cardiac tamponade",
+      "Restrictive cardiomyopathy",
+      "Paget disease of bone",
+      "Essential hypertension"
+    ],
+    "correct_answer": "D",
+    "explanation": "High-output heart failure can be caused by conditions leading to arteriovenous shunting or vasodilation, such as Paget disease of bone."
+  },
+  {
+    "id": 2566,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which of the following distinguishes cardiogenic shock from hypovolemic shock based on hemodynamic profiles?",
+    "options": [
+      "Cardiogenic shock has decreased SVR, whereas hypovolemic has increased SVR.",
+      "Cardiogenic shock has increased CO, whereas hypovolemic has decreased CO.",
+      "Cardiogenic shock has decreased CVP, whereas hypovolemic has increased CVP.",
+      "Cardiogenic shock presents with warm skin, whereas hypovolemic presents with cold skin.",
+      "Cardiogenic shock has increased PCWP, whereas hypovolemic has decreased PCWP."
+    ],
+    "correct_answer": "E",
+    "explanation": "Cardiogenic shock is characterized by left heart dysfunction leading to increased PCWP, whereas hypovolemic shock involves volume depletion causing decreased PCWP."
+  },
+  {
+    "id": 2567,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Distributive shock secondary to early sepsis is uniquely characterized by which combination of findings?",
+    "options": [
+      "Increased CO and decreased SVR",
+      "Decreased CO and increased SVR",
+      "Increased PCWP and increased SVR",
+      "Decreased CVP and increased PCWP",
+      "Cold, clammy skin with increased CO"
+    ],
+    "correct_answer": "A",
+    "explanation": "In early sepsis (distributive shock), systemic vasodilation causes a profound decrease in SVR, with a compensatory increase in cardiac output."
+  },
+  {
+    "id": 2568,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient taking a lipid-lowering agent develops right upper quadrant pain, and an ultrasound reveals echogenic foci. The offending drug promotes this condition by inhibiting which specific enzyme?",
+    "options": [
+      "HMG-CoA reductase",
+      "PCSK9",
+      "Lipoprotein lipase",
+      "Hormone-sensitive lipase",
+      "Cholesterol 7\u03b1-hydroxylase"
+    ],
+    "correct_answer": "E",
+    "explanation": "Fibrates activate PPAR-\u03b1, leading to an increased risk of cholesterol gallstones due to the inhibition of cholesterol 7\u03b1-hydroxylase."
+  },
+  {
+    "id": 2569,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient experiences severe prostaglandin-mediated facial flushing after starting a drug for hypertriglyceridemia. Which mechanism best explains the primary therapeutic action of this medication?",
+    "options": [
+      "Inhibits hormone-sensitive lipase in adipose tissue",
+      "Inactivates LDL-receptor degradation",
+      "Inhibits cholesterol absorption at the brush border",
+      "Activates PPAR-\u03b1 to upregulate lipoprotein lipase",
+      "Decreases free fatty acid delivery to the liver"
+    ],
+    "correct_answer": "A",
+    "explanation": "Niacin frequently causes flushing and works therapeutically by inhibiting lipolysis via hormone-sensitive lipase in adipose tissue."
+  },
+  {
+    "id": 2570,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with familial hypercholesterolemia receives alirocumab. This drug lowers serum low-density lipoprotein levels through which of the following molecular mechanisms?",
+    "options": [
+      "Increasing bile acid excretion",
+      "Preventing degradation of the LDL-receptor",
+      "Downregulating hepatic VLDL synthesis",
+      "Inhibiting intestinal cholesterol transporters",
+      "Reducing the activity of TG-synthesizing enzymes"
+    ],
+    "correct_answer": "B",
+    "explanation": "Alirocumab is a PCSK9 inhibitor that inactivates LDL-receptor degradation, thereby increasing the removal of LDL from the bloodstream."
+  },
+  {
+    "id": 2571,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient managed with digoxin and a loop diuretic develops severe cardiac toxicity. What is the molecular basis for the increased drug sensitivity precipitated by the diuretic?",
+    "options": [
+      "Displacement of the drug from tissue-binding sites",
+      "Increased renal reabsorption of the drug",
+      "Decreased competition at the K+-binding site of the pump",
+      "Enhanced indirect inhibition of the Na+/Ca2+ exchanger",
+      "Increased intracellular magnesium depletion"
+    ],
+    "correct_answer": "C",
+    "explanation": "Loop diuretics cause hypokalemia, which creates a permissive environment for digoxin by decreasing competition at the K+-binding site on the Na+/K+-ATPase."
+  },
+  {
+    "id": 2572,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which class I antiarrhythmic uniquely exhibits the weakest binding strength to sodium channels and preferentially targets depolarized, ischemic ventricular tissue?",
+    "options": [
+      "Flecainide",
+      "Procainamide",
+      "Disopyramide",
+      "Lidocaine",
+      "Propafenone"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lidocaine is a Class IB antiarrhythmic with weak sodium channel blockade that preferentially affects ischemic or depolarized Purkinje and ventricular tissue."
+  },
+  {
+    "id": 2573,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Why is the administration of flecainide strictly contraindicated in a patient who recently suffered a myocardial infarction?",
+    "options": [
+      "It significantly prolongs the QT interval leading to torsades de pointes",
+      "It drastically shortens the action potential duration in Purkinje fibers",
+      "It suppresses the SA node leading to severe irreversible bradycardia",
+      "It causes unopposed alpha-1 agonism exacerbating hypertension",
+      "It exhibits highly proarrhythmic properties in ischemic heart disease"
+    ],
+    "correct_answer": "E",
+    "explanation": "Class IC antiarrhythmics like flecainide are strongly proarrhythmic, specifically contraindicated post-MI and in structural/ischemic heart disease."
+  },
+  {
+    "id": 2574,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young individual presents with profound bradycardia and advanced AV block following an intentional beta-blocker overdose. Which initial therapy is specifically indicated to directly counteract these cardiac effects?",
+    "options": [
+      "Glucagon",
+      "Magnesium sulfate",
+      "Digoxin-specific Fab fragments",
+      "Insulin and glucose",
+      "Calcium gluconate"
+    ],
+    "correct_answer": "A",
+    "explanation": "Beta-blocker overdose is specifically treated with saline, atropine, and glucagon, which bypasses the blocked beta receptors to increase intracellular cAMP."
+  },
+  {
+    "id": 2575,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient on chronic amiodarone therapy develops new-onset fatigue, weight gain, and cold intolerance. These symptoms are directly related to the drug containing a massive amount of which specific element?",
+    "options": [
+      "Calcium",
+      "Thyroid dysfunction (Iodine)",
+      "Potassium",
+      "Lithium",
+      "Magnesium"
+    ],
+    "correct_answer": "B",
+    "explanation": "Amiodarone is 40% iodine by weight, which can precipitate both hypothyroidism and hyperthyroidism, requiring routine TFT monitoring."
+  },
+  {
+    "id": 2576,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Rapid intravenous administration of adenosine fails to terminate a patient's supraventricular tachycardia. Excessive systemic levels of which substance most likely blunted the drug's efficacy?",
+    "options": [
+      "Alcohol",
+      "Nicotine",
+      "Caffeine",
+      "Grapefruit juice",
+      "Tyramine"
+    ],
+    "correct_answer": "C",
+    "explanation": "Caffeine and theophylline are potent adenosine receptor antagonists that can significantly blunt the effects of adenosine."
+  },
+  {
+    "id": 2577,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with heart failure is started on ivabradine to inhibit 'funny' sodium channels. Which unique adverse effect must the patient be extensively counseled about?",
+    "options": [
+      "Reversible lupus-like syndrome",
+      "Cinchonism",
+      "Blue-gray skin deposits",
+      "Luminous phenomena",
+      "Excessive beta-blockade"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ivabradine selectively inhibits If channels but can cause luminous phenomena (visual brightness) as a unique adverse effect."
+  },
+  {
+    "id": 2578,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 5-year-old child presents with a midline neck mass that elevates upon tongue protrusion. This structure is a persistent embryonic tract that normally leaves what specific remnant?",
+    "options": [
+      "Foramen ovale",
+      "Pharyngeal cleft",
+      "Cervical sinus",
+      "Pharyngeal pouch",
+      "Foramen cecum"
+    ],
+    "correct_answer": "E",
+    "explanation": "The thyroglossal duct normally disappears but its normal remnant is the foramen cecum; persistence causes a midline thyroglossal duct cyst."
+  },
+  {
+    "id": 2579,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient develops a tumor compressing the glandular anterior lobe of the pituitary. This specific affected tissue is embryologically derived from which distinct structure?",
+    "options": [
+      "Oral ectoderm",
+      "Neural crest",
+      "Endoderm",
+      "Neuroectoderm",
+      "Mesoderm"
+    ],
+    "correct_answer": "A",
+    "explanation": "The anterior pituitary (adenohypophysis) is derived from oral ectoderm (Rathke pouch), whereas the posterior pituitary is from neuroectoderm."
+  },
+  {
+    "id": 2580,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Microscopic analysis of a healthy islet of Langerhans characterizes its cell populations. Which choice correctly pairs the cell type, its general islet location, and its secreted hormone?",
+    "options": [
+      "Alpha cells; central; glucagon",
+      "Delta cells; interspersed; somatostatin",
+      "Beta cells; peripheral; insulin",
+      "Alpha cells; interspersed; insulin",
+      "Beta cells; central; glucagon"
+    ],
+    "correct_answer": "B",
+    "explanation": "In the endocrine pancreas, alpha cells are peripheral (glucagon), beta cells are central (insulin), and delta cells are interspersed (somatostatin)."
+  },
+  {
+    "id": 2581,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient on antipsychotics develops galactorrhea due to unopposed hypersecretion of a pituitary hormone. The elevated hormone profoundly suppresses the pulsatile release of which hypothalamic hormone?",
+    "options": [
+      "Growth hormone-releasing hormone",
+      "Thyrotropin-releasing hormone",
+      "Gonadotropin-releasing hormone",
+      "Corticotropin-releasing hormone",
+      "Somatostatin"
+    ],
+    "correct_answer": "C",
+    "explanation": "Prolactin is elevated due to dopamine antagonism; excess prolactin deeply suppresses GnRH release, leading to amenorrhea and hypogonadism."
+  },
+  {
+    "id": 2582,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Antidiuretic hormone must be transported from its site of synthesis in the hypothalamus down to the posterior pituitary. Which carrier proteins facilitate this necessary axonal transport?",
+    "options": [
+      "Aquaporins",
+      "Thyroxine-binding globulins",
+      "Incretins",
+      "Neurophysins",
+      "Proopiomelanocortins"
+    ],
+    "correct_answer": "D",
+    "explanation": "ADH and oxytocin are synthesized in the hypothalamus and transported to the posterior pituitary via specialized carrier proteins called neurophysins."
+  },
+  {
+    "id": 2583,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The adrenal gland exhibits distinct zonation. Which combination correctly identifies an adrenal layer, its embryologic origin, and its primary hormone?",
+    "options": [
+      "Adrenal medulla; mesoderm; epinephrine",
+      "Zona fasciculata; neural crest; cortisol",
+      "Zona reticularis; oral ectoderm; dehydroepiandrosterone",
+      "Adrenal medulla; neural crest; cortisol",
+      "Zona glomerulosa; mesoderm; aldosterone"
+    ],
+    "correct_answer": "E",
+    "explanation": "The adrenal cortex is derived from mesoderm. The outermost layer is the zona glomerulosa, which produces mineralocorticoids like aldosterone."
+  },
+  {
+    "id": 2584,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a thyrotoxic crisis, propylthiouracil is administered partly because it blocks the peripheral conversion of T4 to T3. It accomplishes this by directly inhibiting which of the following enzymes?",
+    "options": [
+      "5'-deiodinase",
+      "Thyroid peroxidase",
+      "1-alpha-hydroxylase",
+      "17-alpha-hydroxylase",
+      "Cholesterol desmolase"
+    ],
+    "correct_answer": "A",
+    "explanation": "Propylthiouracil (PTU), beta-blockers, and glucocorticoids inhibit 5'-deiodinase, effectively preventing the peripheral conversion of T4 to the more active T3."
+  },
+  {
+    "id": 2585,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A critically ill patient exhibits elevated endogenous glucocorticoids, which subsequently alters their thyroid hormone metabolism. This stress-induced shift increases the production of which metabolically inactive byproduct?",
+    "options": [
+      "Monoiodotyrosine",
+      "Reverse T3",
+      "Diiodotyrosine",
+      "Thyroglobulin",
+      "Calcitriol"
+    ],
+    "correct_answer": "B",
+    "explanation": "Glucocorticoids and growth hormone increase the peripheral conversion of T4 into reverse T3 (rT3), which is a metabolically inactive byproduct."
+  },
+  {
+    "id": 2586,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A woman who is exclusively breastfeeding experiences natural contraception due to delayed postpartum ovulation. This process is ultimately driven by the suppression of which specific hormone?",
+    "options": [
+      "Hypothalamic dopamine synthesis",
+      "Ovarian aromatase",
+      "Hypothalamic GnRH release",
+      "Pituitary LH directly",
+      "Uterine oxytocin receptors"
+    ],
+    "correct_answer": "C",
+    "explanation": "Breastfeeding increases prolactin, which directly inhibits the synthesis and release of hypothalamic GnRH, preventing ovulation."
+  },
+  {
+    "id": 2587,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient ingests a highly excessive amount of iodine, yet their thyroid temporarily halts hormone production to prevent thyrotoxicosis. This autoregulatory Wolff-Chaikoff effect specifically inhibits which enzyme?",
+    "options": [
+      "5'-deiodinase",
+      "Thyroglobulin protease",
+      "Sodium-iodide symporter",
+      "Thyroid peroxidase",
+      "Monoamine oxidase"
+    ],
+    "correct_answer": "D",
+    "explanation": "The Wolff-Chaikoff effect is a protective mechanism where a sudden massive exposure to iodine temporarily turns off thyroid peroxidase, halting T3/T4 synthesis."
+  },
+  {
+    "id": 2588,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Although T3 and T4 are lipophilic hormones, their charged amino acid residues prevent simple diffusion across the cell membrane. By what mechanism do they enter target cells?",
+    "options": [
+      "Active transport via ATPases",
+      "Endocytosis with cell surface receptors",
+      "Gap junction transfer",
+      "Passive diffusion through lipid rafts",
+      "Facilitated diffusion through specific transporters"
+    ],
+    "correct_answer": "E",
+    "explanation": "T3 and T4 are uniquely lipophilic hormones with charged amino acids that absolutely require specific transporters for facilitated diffusion into the cell."
+  },
+  {
+    "id": 2589,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pregnant woman's laboratory results show an elevated total T4 level, while her free T4 level remains entirely normal. This state is predominantly mediated by increased hepatic production of which protein?",
+    "options": [
+      "Thyroxine-binding globulin",
+      "Decreased peripheral conversion enzymes",
+      "Albumin",
+      "Thyroid-stimulating immunoglobulins",
+      "Prealbumin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Pregnancy increases estrogen levels, which upregulates hepatic synthesis of thyroxine-binding globulin (TBG), raising total T3/T4 while keeping free levels normal."
+  },
+  {
+    "id": 2590,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe diarrhea and alcohol use disorder presents with profound hypomagnesemia. How will this dramatic decrease in serum magnesium immediately affect parathyroid hormone (PTH) dynamics?",
+    "options": [
+      "It stimulates excessive PTH release",
+      "It markedly decreases PTH secretion",
+      "It up-regulates the calcium-sensing receptor",
+      "It has no effect but blocks PTH bone receptors",
+      "It converts PTH to an inactive fragment"
+    ],
+    "correct_answer": "B",
+    "explanation": "While mildly low magnesium stimulates PTH, profoundly decreased serum magnesium (as seen in severe alcoholism or diarrhea) markedly inhibits PTH secretion."
+  },
+  {
+    "id": 2591,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following a total thyroidectomy, a patient loses all their parafollicular C cells. What is the primary physiological function of the hormone that is no longer being secreted by these lost cells?",
+    "options": [
+      "Increases renal tubular reabsorption of calcium",
+      "Promotes calcium absorption in the intestine",
+      "Lowers serum calcium by inhibiting osteoclastic bone resorption",
+      "Upregulates 1-alpha-hydroxylase",
+      "Stimulates the release of RANK-L"
+    ],
+    "correct_answer": "C",
+    "explanation": "Parafollicular C cells secrete calcitonin, which opposes PTH by toning down serum calcium levels through the inhibition of osteoclastic bone resorption."
+  },
+  {
+    "id": 2592,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Parathyroid hormone strongly decreases the renal reabsorption of phosphate to prevent precipitation with calcium in the bloodstream. In which specific segment of the nephron does this primarily occur?",
+    "options": [
+      "Glomerulus",
+      "Loop of Henle",
+      "Distal convoluted tubule",
+      "Proximal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correct_answer": "D",
+    "explanation": "PTH is a 'Phosphate-Trashing Hormone' that inhibits phosphate reabsorption predominantly in the proximal convoluted tubule (PCT)."
+  },
+  {
+    "id": 2593,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient heavily hyperventilates, inducing respiratory alkalosis, and immediately develops painful carpopedal spasms. What primary mechanism explains this acute decrease in ionized calcium?",
+    "options": [
+      "Increased total serum calcium",
+      "Increased parathyroid hormone secretion",
+      "Intracellular magnesium depletion",
+      "Decreased phosphate binding",
+      "Decreased ionized calcium due to reduced competition with hydrogen ions for albumin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Alkalosis decreases H+ concentration, leaving more room on albumin for calcium to bind, thereby sharply dropping the active, ionized fraction of calcium."
+  },
+  {
+    "id": 2594,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During starvation, pancreatic alpha cells secrete glucagon to maintain systemic glucose levels. The release of this hormone is normally heavily inhibited by which locally secreted product?",
+    "options": [
+      "Amylin",
+      "Epinephrine",
+      "Glucocorticoids",
+      "Growth hormone",
+      "Thyroxine"
+    ],
+    "correct_answer": "A",
+    "explanation": "Glucagon release is appropriately inhibited by the presence of insulin, hyperglycemia, somatostatin, and amylin."
+  },
+  {
+    "id": 2595,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A medical student is differentiating an insulinoma from factitious insulin injection in a hypoglycemic patient. Which uniquely co-secreted peptide serves as the definitive marker for endogenous insulin production?",
+    "options": [
+      "Proinsulin",
+      "C-peptide",
+      "Glucagon",
+      "Amylin",
+      "Somatostatin"
+    ],
+    "correct_answer": "B",
+    "explanation": "C-peptide is cleaved from proinsulin and exocytosed in equimolar amounts with endogenous insulin, while exogenous pharmaceutical insulin entirely lacks C-peptide."
+  },
+  {
+    "id": 2596,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Upon insulin binding, its specific cellular receptor auto-phosphorylates to initiate powerful downstream anabolic effects. This receptor natively possesses which specific type of enzymatic activity?",
+    "options": [
+      "Serine/threonine kinase",
+      "Guanylyl cyclase",
+      "Tyrosine kinase",
+      "Adenylyl cyclase",
+      "Phospholipase C"
+    ],
+    "correct_answer": "C",
+    "explanation": "The insulin receptor is a classic receptor tyrosine kinase that intrinsically auto-phosphorylates to stimulate glucose uptake and gene transcription."
+  },
+  {
+    "id": 2597,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A marathon runner heavily relies on glucose uptake into their striated muscles during a race. Which specific glucose transporter facilitates this, uniquely being upregulated by both insulin and exercise?",
+    "options": [
+      "GLUT1",
+      "GLUT2",
+      "GLUT3",
+      "GLUT4",
+      "GLUT5"
+    ],
+    "correct_answer": "D",
+    "explanation": "GLUT4 is the insulin-dependent glucose transporter found in skeletal muscle and adipose tissue; its expression is also powerfully upregulated by exercise."
+  },
+  {
+    "id": 2598,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Pancreatic beta cells require constant and accurate sensing of blood glucose levels to titrate insulin release. Which bidirectional glucose transporter predominantly facilitates this rapid intracellular equilibration?",
+    "options": [
+      "GLUT1",
+      "GLUT3",
+      "GLUT4",
+      "SGLT2",
+      "GLUT2"
+    ],
+    "correct_answer": "E",
+    "explanation": "GLUT2 is an insulin-independent, bidirectional transporter localized to beta cells, liver, kidney, and GI tract, acting as a crucial rapid glucose sensor."
+  },
+  {
+    "id": 2599,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An oral glucose load provokes a significantly larger insulin surge than an equivalent intravenous dose. This enhanced response is mediated by incretins, such as which of the following?",
+    "options": [
+      "Glucagon-like peptide 1",
+      "Somatostatin",
+      "Vasoactive intestinal peptide",
+      "Motilin",
+      "Secretin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Incretins like GLP-1 and GIP are secreted by the GI tract in response to oral meals, preemptively increasing beta-cell sensitivity and insulin release."
+  },
+  {
+    "id": 2600,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Once glucose metabolism raises the intracellular ATP/ADP ratio within a beta cell, what precise ion channel event directly causes membrane depolarization?",
+    "options": [
+      "Opening of voltage-gated calcium channels",
+      "Closure of ATP-sensitive potassium channels",
+      "Activation of tyrosine kinase receptors",
+      "Exocytosis of insulin granules",
+      "Influx of extracellular sodium"
+    ],
+    "correct_answer": "B",
+    "explanation": "Increased ATP directly binds and closes ATP-sensitive potassium channels, trapping K+ inside the beta cell and resulting in membrane depolarization."
+  },
+  {
+    "id": 2601,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An XY patient presents phenotypically female with delayed puberty, primary amenorrhea, and severe hypertension with hypokalemia. A deficiency in which adrenal enzyme most accurately explains this clinical picture?",
+    "options": [
+      "21-hydroxylase",
+      "11-beta-hydroxylase",
+      "17-alpha-hydroxylase",
+      "5-alpha-reductase",
+      "Aromatase"
+    ],
+    "correct_answer": "C",
+    "explanation": "17-alpha-hydroxylase deficiency decreases sex hormones (XY patients appear female) and cortisol, while drastically shifting production toward mineralocorticoids, causing severe hypertension."
+  },
+  {
+    "id": 2602,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A female infant presents with markedly virilized ambiguous genitalia, profound salt-wasting hypotension, and highly elevated 17-hydroxyprogesterone levels. Which adrenal enzyme is definitively deficient?",
+    "options": [
+      "11-beta-hydroxylase",
+      "17-alpha-hydroxylase",
+      "Aldosterone synthase",
+      "21-hydroxylase",
+      "Cholesterol desmolase"
+    ],
+    "correct_answer": "D",
+    "explanation": "21-hydroxylase deficiency is the most common CAH, classically presenting with severe salt wasting (low aldosterone), low cortisol, and excess virilizing androgens."
+  },
+  {
+    "id": 2603,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young boy rapidly develops precocious puberty and surprisingly severe hypertension. Lab work reveals very low aldosterone and renin, but markedly elevated 11-deoxycorticosterone. What is the underlying enzyme deficiency?",
+    "options": [
+      "21-hydroxylase",
+      "17-alpha-hydroxylase",
+      "3-beta-hydroxysteroid dehydrogenase",
+      "17,20-lyase",
+      "11-beta-hydroxylase"
+    ],
+    "correct_answer": "E",
+    "explanation": "11-beta-hydroxylase deficiency blocks cortisol and aldosterone, but leads to a massive build-up of 11-deoxycorticosterone (a potent mineralocorticoid) causing hypertension and shunting toward androgens causing virilization."
+  },
+  {
+    "id": 2604,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Patients with congenital adrenal hyperplasia frequently display diffuse skin hyperpigmentation. This is directly caused by the excessive parallel secretion of which specific molecule alongside ACTH?",
+    "options": [
+      "Melanocyte-stimulating hormone",
+      "Corticotropin-releasing hormone",
+      "Aldosterone synthase",
+      "Beta-endorphin",
+      "Cortisol"
+    ],
+    "correct_answer": "A",
+    "explanation": "ACTH and MSH are co-produced from the same precursor molecule (POMC); high levels of ACTH due to loss of cortisol feedback lead to high MSH, causing hyperpigmentation."
+  },
+  {
+    "id": 2605,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with acromegaly has severely elevated levels of growth hormone. Physiologically, the pulsatile secretion of this hormone from the anterior pituitary is directly inhibited by which of the following?",
+    "options": [
+      "Dopamine",
+      "Somatostatin",
+      "Corticotropin-releasing hormone",
+      "Gonadotropin-releasing hormone",
+      "Prolactin-inhibiting factor"
+    ],
+    "correct_answer": "B",
+    "explanation": "Somatostatin, also known as growth hormone inhibiting hormone, directly suppresses the release of growth hormone from the anterior pituitary."
+  },
+  {
+    "id": 2606,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Digoxin is often used to control the ventricular rate in atrial fibrillation. It achieves this depression of the SA and AV nodes by strongly stimulating which of the following physiological pathways?",
+    "options": [
+      "Sympathetic outflow",
+      "Release of adenosine",
+      "Vagus nerve activity",
+      "Beta-2 adrenergic receptors",
+      "Intracellular calcium reuptake"
+    ],
+    "correct_answer": "C",
+    "explanation": "Digoxin directly stimulates the vagus nerve (parasympathetic tone), which decreases the heart rate and slows conduction heavily at the AV node."
+  },
+  {
+    "id": 2607,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Lidocaine is the preferred antiarrhythmic for acute ventricular arrhythmias following a myocardial infarction. Its exceptional efficacy post-MI is due to its preferential binding to sodium channels in which specific state?",
+    "options": [
+      "Hyperpolarized nodal tissue",
+      "Resting state",
+      "Completely repolarized myocardium",
+      "Depolarized and ischemic tissue",
+      "Rapidly firing Purkinje fibers without ischemia"
+    ],
+    "correct_answer": "D",
+    "explanation": "Class IB agents like lidocaine preferentially affect ischemic or depolarized Purkinje and ventricular tissue, making them best post-MI."
+  },
+  {
+    "id": 2608,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Amiodarone is uniquely capable of causing corneal microdeposits and photodermatitis leading to a blue-gray skin discoloration. These distinct tissue accumulations are primarily due to which specific pharmacokinetic characteristic?",
+    "options": [
+      "Rapid renal clearance",
+      "Extensive hydrophilic distribution",
+      "Irreversible melanin binding",
+      "Hepatic autoinduction",
+      "High lipophilicity"
+    ],
+    "correct_answer": "E",
+    "explanation": "Amiodarone is highly lipophilic, which allows it to widely distribute and accumulate in various tissues like the cornea, skin, and lungs, causing extensive side effects."
+  },
+  {
+    "id": 2609,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with severe yellow-tinted vision and potentially fatal arrhythmias due to digoxin toxicity. The presence of which accompanying laboratory finding explicitly indicates a very poor overall prognosis?",
+    "options": [
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypernatremia",
+      "Hypomagnesemia",
+      "Hypokalemia"
+    ],
+    "correct_answer": "A",
+    "explanation": "While hypokalemia predisposes to digoxin toxicity, resulting hyperkalemia (due to poisoned Na+/K+ pumps) explicitly indicates severe toxicity and a poor prognosis."
+  },
+  {
+    "id": 2610,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Sotalol is prescribed to a patient to maintain normal sinus rhythm. In addition to the shared Class III risk of torsades de pointes, sotalol carries an additional unique risk of which adverse effect?",
+    "options": [
+      "Cinchonism",
+      "Excessive beta-blockade",
+      "Pulmonary fibrosis",
+      "Lupus-like syndrome",
+      "Hyperthyroidism"
+    ],
+    "correct_answer": "B",
+    "explanation": "Sotalol is a potassium channel blocker that also possesses potent non-selective beta-blocking properties, posing a high risk for excessive beta-blockade."
+  },
+  {
+    "id": 2611,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a prolonged state of complete starvation, systemic glucose falls dangerously low. While the brain ordinarily strictly prefers glucose, it is capable of utilizing which alternative fuel source for survival?",
+    "options": [
+      "Free fatty acids",
+      "Branched-chain amino acids",
+      "Ketone bodies",
+      "Glycogen",
+      "Glycerol"
+    ],
+    "correct_answer": "C",
+    "explanation": "The brain normally exclusively uses glucose but adapts during severe starvation to utilize ketone bodies for energy metabolism."
+  },
+  {
+    "id": 2612,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Glucagon acts to raise blood sugar levels by promoting profound hepatic gluconeogenesis and glycogenolysis. Its release from pancreatic alpha cells is most strongly directly inhibited by which of the following?",
+    "options": [
+      "Gastrin",
+      "Secretin",
+      "Ghrelin",
+      "Insulin",
+      "Cholecystokinin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Insulin physically and chemically exerts a strong inhibitory paracrine effect on adjacent alpha cells to shut down glucagon secretion."
+  },
+  {
+    "id": 2613,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Parathyroid hormone normally increases serum calcium by interacting with osteoblasts, which then stimulate osteoclast activity. This activation is achieved via the upregulated secretion of which specific ligand?",
+    "options": [
+      "Osteoprotegerin",
+      "Calcitriol",
+      "Macrophage colony-stimulating factor",
+      "RANK",
+      "RANK-L"
+    ],
+    "correct_answer": "E",
+    "explanation": "PTH stimulates osteoblasts to over-secrete RANK-L (receptor activator of NF-\u03baB ligand), which then binds RANK on osteoclasts to heavily stimulate bone resorption."
+  },
+  {
+    "id": 2614,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient correctly takes flecainide for supraventricular tachycardia. Unlike Class IA and Class III agents, an evaluation of the patient's ventricular action potential would demonstrate which of the following?",
+    "options": [
+      "Minimal effect on action potential duration",
+      "Markedly prolonged duration",
+      "Decreased slope of phase 4",
+      "Prolonged ERP in Purkinje",
+      "Shortened QT interval"
+    ],
+    "correct_answer": "A",
+    "explanation": "Class IC antiarrhythmics like flecainide are strong sodium channel blockers but characteristically have minimal or no effect on the overall action potential duration."
+  },
+  {
+    "id": 2615,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Esmolol is selected to urgently manage a patient's ventricular rate during a highly symptomatic episode of atrial fibrillation. Its specific utility in acute, unstable settings is due to which pharmacokinetic trait?",
+    "options": [
+      "Extremely long half-life",
+      "Very short duration of action",
+      "Irreversible blockade",
+      "Selective alpha-1 blockade",
+      "Intrinsic sympathomimetic activity"
+    ],
+    "correct_answer": "B",
+    "explanation": "Esmolol is an IV beta-blocker that is rapidly hydrolyzed by red blood cell esterases, giving it an exceptionally short duration of action, perfect for acute titratable control."
+  },
+  {
+    "id": 2616,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a somatostatinoma displays incredibly widespread endocrine suppression. In the anterior pituitary gland, excess somatostatin naturally inhibits the physiological release of which two specific hormones?",
+    "options": [
+      "ACTH and FSH",
+      "Prolactin and LH",
+      "Growth hormone and TSH",
+      "Oxytocin and ADH",
+      "MSH and ACTH"
+    ],
+    "correct_answer": "C",
+    "explanation": "Somatostatin (GHIH) directly inhibits the release of both growth hormone and thyroid-stimulating hormone (TSH) from the anterior pituitary."
+  },
+  {
+    "id": 2617,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A mother with unmanaged type 2 diabetes delivers a significantly macrosomic newborn. The fetal overgrowth is fundamentally driven by the uncontrolled placental transfer of which specific molecule?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "C-peptide",
+      "Glucose",
+      "Glycosylated hemoglobin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Maternal insulin does not cross the placenta, but excessive maternal glucose freely crosses and stimulates profound fetal hyperinsulinemia, acting as an anabolic growth factor causing macrosomia."
+  },
+  {
+    "id": 2618,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient on high-dose glucocorticoids develops severe neutrophilia. What is the primary mechanism responsible for this finding?",
+    "options": [
+      "Stimulation of bone marrow stem cells",
+      "Decreased neutrophil apoptosis",
+      "Inhibition of WBC adhesion to endothelium",
+      "Increased release from marginal pool",
+      "Upregulation of IL-2 production"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cortisol causes neutrophilia primarily by inhibiting white blood cell adhesion to the endothelium, preventing margination and extravasation."
+  },
+  {
+    "id": 2619,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which of the following signaling pathways is utilized by the hormone responsible for inducing localized skin hyperpigmentation in a patient with Addison disease?",
+    "options": [
+      "Receptor tyrosine kinase",
+      "cGMP",
+      "cAMP",
+      "JAK/STAT pathway",
+      "IP3"
+    ],
+    "correct_answer": "C",
+    "explanation": "MSH causes hyperpigmentation in Addison disease. MSH utilizes the cAMP signaling pathway."
+  },
+  {
+    "id": 2620,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A researcher isolates a hormone from the stomach that promotes a strong orexigenic effect. The isolated hormone most likely acts on which specific area of the brain?",
+    "options": [
+      "Ventromedial area of the hypothalamus",
+      "Lateral area of the hypothalamus",
+      "Nucleus accumbens",
+      "Anterior pituitary",
+      "Median eminence"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ghrelin is produced by the stomach, promotes hunger, and acts primarily on the lateral area of the hypothalamus."
+  },
+  {
+    "id": 2621,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A mutant leptin receptor completely loses its function in an animal model. What is the expected physiological change in the hypothalamus?",
+    "options": [
+      "Downregulation of ghrelin receptors",
+      "Increased signaling in the ventromedial area",
+      "Decreased signaling in the ventromedial area",
+      "Increased signaling in the lateral area",
+      "Decreased signaling in the lateral area"
+    ],
+    "correct_answer": "C",
+    "explanation": "Leptin acts on the ventromedial area of the hypothalamus to decrease appetite. Loss of receptor function results in decreased signaling."
+  },
+  {
+    "id": 2622,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A drug activates the same second messenger system as Atrial Natriuretic Peptide. Which of the following substances shares this identical signaling pathway?",
+    "options": [
+      "Oxytocin",
+      "Glucagon",
+      "Nitric Oxide",
+      "Erythropoietin",
+      "Insulin"
+    ],
+    "correct_answer": "C",
+    "explanation": "ANP utilizes the cGMP pathway. Nitric Oxide also utilizes the cGMP pathway."
+  },
+  {
+    "id": 2623,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A male patient is found to have significantly elevated levels of sex hormone-binding globulin (SHBG). What is the most likely clinical consequence?",
+    "options": [
+      "Profound hirsutism",
+      "Testicular atrophy",
+      "Gynecomastia",
+      "Precocious puberty",
+      "Prostatic hyperplasia"
+    ],
+    "correct_answer": "C",
+    "explanation": "Increased SHBG binds more testosterone, lowering free testosterone levels and leading to gynecomastia."
+  },
+  {
+    "id": 2624,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with small cell lung cancer develops euvolemic hyponatremia. What compensatory hormonal alteration is most likely present in this patient?",
+    "options": [
+      "Decreased ANP",
+      "Increased aldosterone",
+      "Decreased aldosterone",
+      "Increased ADH release from the posterior pituitary",
+      "Decreased BNP"
+    ],
+    "correct_answer": "C",
+    "explanation": "In SIADH, the body responds to free water retention by decreasing aldosterone and increasing ANP and BNP."
+  },
+  {
+    "id": 2625,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient on long-term psychiatric medication presents with polyuria and a urine specific gravity of 1.002. Administration of desmopressin produces minimal change in urine osmolality. What is the offending agent?",
+    "options": [
+      "Carbamazepine",
+      "Cyclophosphamide",
+      "Lithium",
+      "Fluoxetine",
+      "Chlorpromazine"
+    ],
+    "correct_answer": "C",
+    "explanation": "The patient has nephrogenic DI. Lithium is a classic pharmacologic cause."
+  },
+  {
+    "id": 2626,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A postpartum woman who suffered massive hemorrhage during delivery fails to lactate and complains of cold intolerance. Which of the following is the direct mechanism of her condition?",
+    "options": [
+      "Autoimmune destruction of lactotrophs",
+      "Hemorrhagic necrosis of the pituitary adenoma",
+      "Ischemic infarction of the pituitary gland",
+      "Compression of the pituitary gland by cerebrospinal fluid",
+      "Infiltrative disease of the hypothalamus"
+    ],
+    "correct_answer": "C",
+    "explanation": "Sheehan syndrome involves ischemic infarct of the pituitary following severe postpartum hemorrhage."
+  },
+  {
+    "id": 2627,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old obese female presents with chronic headaches. Imaging reveals an atrophied pituitary gland compressed within the sella turcica. She is most likely at risk for which associated condition?",
+    "options": [
+      "Pituitary apoplexy",
+      "Idiopathic intracranial hypertension",
+      "Bitemporal hemianopia",
+      "Craniopharyngioma",
+      "Sheehan syndrome"
+    ],
+    "correct_answer": "B",
+    "explanation": "Empty sella syndrome is common in obese females and is classically associated with idiopathic intracranial hypertension."
+  },
+  {
+    "id": 2628,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with suspected acromegaly is given an oral glucose tolerance test. Which of the following results would strongly confirm the diagnosis?",
+    "options": [
+      "Suppression of serum GH",
+      "Failure to suppress serum GH",
+      "Suppression of serum IGF-1",
+      "Failure to suppress serum IGF-1",
+      "Elevation of serum insulin"
+    ],
+    "correct_answer": "B",
+    "explanation": "In acromegaly, failure to suppress serum GH following an oral glucose tolerance test is diagnostic."
+  },
+  {
+    "id": 2629,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with weight loss, heat intolerance, and tachycardia. Laboratory analysis reveals decreased levels of LDL, HDL, and total cholesterol. What is the underlying cause of the altered lipid profile?",
+    "options": [
+      "Decreased expression of LDL receptors",
+      "Increased synthesis of Na+/K+-ATPase",
+      "Increased basal metabolic rate",
+      "Increased expression of cardiac sarcolemmal ATPase",
+      "Increased expression of LDL receptors"
+    ],
+    "correct_answer": "E",
+    "explanation": "Hyperthyroidism causes a decrease in LDL, HDL, and total cholesterol primarily due to increased LDL receptor expression."
+  },
+  {
+    "id": 2630,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with brisk reflexes, fine tremors, and systolic hypertension. Which cellular alteration directly contributes to the cardiovascular findings?",
+    "options": [
+      "Increased expression of phospholamban",
+      "Decreased expression of cardiac sarcolemmal ATPase",
+      "Decreased number of beta-adrenergic receptors",
+      "Increased expression of cardiac sarcolemmal ATPase",
+      "Decreased sensitivity of alpha-adrenergic receptors"
+    ],
+    "correct_answer": "D",
+    "explanation": "Thyrotoxicosis increases the expression of cardiac sarcolemmal ATPase and decreases the expression of phospholamban."
+  },
+  {
+    "id": 2631,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A thyroid biopsy reveals lymphoid aggregates with germinal centers and abundant H\u00fcrthle cells. Which type of lymphoma is this patient at the greatest risk of developing?",
+    "options": [
+      "Burkitt lymphoma",
+      "Hodgkin lymphoma",
+      "Mantle cell lymphoma",
+      "Diffuse large B-cell lymphoma",
+      "Follicular lymphoma"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hashimoto thyroiditis increases the risk of primary thyroid lymphoma, typically diffuse large B-cell lymphoma."
+  },
+  {
+    "id": 2632,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a hard, fixed, and non-tender thyroid mass mimicking anaplastic carcinoma. Histology shows dense fibrous tissue. This condition is most likely part of a disease spectrum that also includes which of the following?",
+    "options": [
+      "Subacute granulomatous thyroiditis",
+      "Autoimmune pancreatitis",
+      "Primary biliary cholangitis",
+      "Sj\u00f6gren syndrome",
+      "Systemic lupus erythematosus"
+    ],
+    "correct_answer": "B",
+    "explanation": "Riedel thyroiditis may occur as part of the IgG4-related disease spectrum, which also includes autoimmune pancreatitis."
+  },
+  {
+    "id": 2633,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A critically ill patient in the ICU has a decreased T3 level but normal T4 and TSH. What is the most appropriate diagnosis?",
+    "options": [
+      "Euthyroid sick syndrome",
+      "Subclinical hypothyroidism",
+      "Iodine deficiency",
+      "Hashimoto thyroiditis",
+      "Subacute granulomatous thyroiditis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Euthyroid sick syndrome occurs in critically ill patients, presenting with decreased T3 and normal/decreased T4 and TSH."
+  },
+  {
+    "id": 2634,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 32-year-old pregnant female presents with hyperthyroidism, diffuse goiter, and exophthalmos. What is the exact role of T cells in the pathogenesis of her ocular symptoms?",
+    "options": [
+      "They secrete autoantibodies directly binding to extraocular muscles",
+      "They infiltrate the retroorbital space and secrete cytokines",
+      "They stimulate thyroid-stimulating immunoglobulin production",
+      "They induce apoptosis of retroorbital adipocytes",
+      "They competitively inhibit TSH receptors in the orbit"
+    ],
+    "correct_answer": "B",
+    "explanation": "In Graves disease, activation of T-cells leads to lymphocytic infiltration of the retroorbital space and increased cytokine secretion."
+  },
+  {
+    "id": 2635,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with iodine deficiency undergoes a CT scan with IV contrast and subsequently develops severe hyperthyroidism. Which phenomenon explains this occurrence?",
+    "options": [
+      "Wolff-Chaikoff effect",
+      "Jod-Basedow phenomenon",
+      "Hashitoxicosis",
+      "Thyroid storm",
+      "Thyroid dysgenesis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Jod-Basedow phenomenon is iodine-induced hyperthyroidism occurring when a patient with iodine deficiency and partially autonomous thyroid tissue is made iodine replete."
+  },
+  {
+    "id": 2636,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following a total thyroidectomy, a patient complains of a change in voice pitch, specifically an inability to reach high notes. Which nerve was most likely injured during the ligation of the superior thyroid vascular pedicle?",
+    "options": [
+      "Left recurrent laryngeal nerve",
+      "Right recurrent laryngeal nerve",
+      "Internal branch of the superior laryngeal nerve",
+      "External branch of the superior laryngeal nerve",
+      "Hypoglossal nerve"
+    ],
+    "correct_answer": "D",
+    "explanation": "Injury to the external branch of the superior laryngeal nerve during ligation of the superior thyroid vascular pedicle can lead to a loss of tenor."
+  },
+  {
+    "id": 2637,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A thyroid nodule is biopsied. Cytology reveals uniform follicles without evident capsular or vascular invasion. Which of the following mutations is most frequently associated with the malignant counterpart of this lesion?",
+    "options": [
+      "RET/PTC rearrangement",
+      "BRAF mutation",
+      "RAS mutation",
+      "TP53 mutation",
+      "MEN1 mutation"
+    ],
+    "correct_answer": "C",
+    "explanation": "Follicular carcinoma is associated with RAS mutations and PAX8-PPAR-gamma translocations."
+  },
+  {
+    "id": 2638,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an imprinted GNAS1 gene mutation exhibits short stature, round face, and shortened fourth digits. Laboratory results show low calcium and high phosphate. What will be the expected level of PTH?",
+    "options": [
+      "Undetectable",
+      "Markedly decreased",
+      "Normal",
+      "Slightly decreased",
+      "Elevated"
+    ],
+    "correct_answer": "E",
+    "explanation": "Pseudohypoparathyroidism type 1A features end-organ resistance to PTH, resulting in hypocalcemia, hyperphosphatemia, and compensatory elevated PTH."
+  },
+  {
+    "id": 2639,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with hypocalcemia and hyperphosphatemia. Blood tests reveal elevated PTH but normal 25(OH) vitamin D levels. What is the most likely underlying diagnosis?",
+    "options": [
+      "Primary hyperparathyroidism",
+      "Vitamin D deficiency",
+      "Pseudohypoparathyroidism",
+      "Hypoparathyroidism",
+      "Secondary hyperparathyroidism due to CKD"
+    ],
+    "correct_answer": "E",
+    "explanation": "In CKD, there is hyperphosphatemia, hypocalcemia, elevated PTH, and normal 25(OH) vit D, but decreased 1,25(OH)2 vit D."
+  },
+  {
+    "id": 2640,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient has asymptomatic mild hypercalcemia and hypocalciuria. PTH levels are normal to slightly elevated. What is the primary molecular defect in this patient?",
+    "options": [
+      "Inactivating mutation in Gs protein alpha subunit",
+      "Defective G-coupled Ca2+-sensing receptors",
+      "Activating mutation of the calcium-sensing receptor",
+      "Imprinted GNAS gene transmitted paternally",
+      "Impaired conversion of 25-hydroxyvitamin D"
+    ],
+    "correct_answer": "B",
+    "explanation": "Familial hypocalciuric hypercalcemia is caused by defective (inactivating) G-coupled Ca2+-sensing receptors."
+  },
+  {
+    "id": 2641,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with chronic kidney disease undergoes parathyroidectomy. Biopsy of a cystic bone lesion reveals brown fibrous tissue. What is the primary composition of this brown tissue?",
+    "options": [
+      "Amyloid polypeptide and hyaline cartilage",
+      "Osteoblasts and calcified osteoid",
+      "Osteoclasts and deposited hemosiderin",
+      "Lymphoid aggregates and germinal centers",
+      "Polygonal cells in an amyloid stroma"
+    ],
+    "correct_answer": "C",
+    "explanation": "Osteitis fibrosa cystica features brown tumors consisting of osteoclasts and deposited hemosiderin."
+  },
+  {
+    "id": 2642,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with polyuria and polydipsia is diagnosed with diabetes mellitus. Which mechanism is primarily responsible for the development of cataracts in this patient?",
+    "options": [
+      "Nonenzymatic glycation of lens crystallins",
+      "Hyaline arteriolosclerosis of retinal vessels",
+      "Accumulation of sorbitol due to absent aldose reductase",
+      "Accumulation of sorbitol due to deficient sorbitol dehydrogenase",
+      "Autoimmune destruction of the lens epithelium"
+    ],
+    "correct_answer": "D",
+    "explanation": "Osmotic damage causing cataracts is due to sorbitol accumulation in organs with aldose reductase and decreased or absent sorbitol dehydrogenase."
+  },
+  {
+    "id": 2643,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which of the following human leukocyte antigen (HLA) associations is specifically linked to the pathogenesis of type 1 diabetes mellitus?",
+    "options": [
+      "HLA-B27",
+      "HLA-DR2",
+      "HLA-DR3",
+      "HLA-B8",
+      "HLA-DQ2"
+    ],
+    "correct_answer": "C",
+    "explanation": "Type 1 diabetes is strongly associated with HLA-DR4 and HLA-DR3."
+  },
+  {
+    "id": 2644,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 65-year-old patient with type 2 diabetes presents in a coma. Labs show a blood glucose of 850 mg/dL, normal pH, and no ketones. What is the primary cause of this patient altered mental status?",
+    "options": [
+      "Cerebral edema from rapid fluid shift",
+      "Profound hyperosmolality causing dehydration of brain cells",
+      "Accumulation of beta-hydroxybutyrate",
+      "Intracellular potassium depletion",
+      "Kussmaul respiration-induced hypoxia"
+    ],
+    "correct_answer": "B",
+    "explanation": "In HHS, profound hyperglycemia leads to excessive osmotic diuresis, dehydration, and increased serum osmolality, causing focal neurologic deficits and coma."
+  },
+  {
+    "id": 2645,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient in diabetic ketoacidosis has a total body potassium depletion. What is the primary mechanism driving this potassium loss?",
+    "options": [
+      "Intracellular shift due to acidosis",
+      "Transcellular shift from reduced insulin",
+      "Osmotic diuresis",
+      "Vomiting-induced alkalosis",
+      "Kussmaul respirations"
+    ],
+    "correct_answer": "C",
+    "explanation": "Total body potassium depletion in DKA is primarily due to osmotic diuresis."
+  },
+  {
+    "id": 2646,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A diabetic patient strictly compliant with their insulin regimen experiences profound diaphoresis, tremors, and anxiety. What permits the perception of these neurogenic symptoms?",
+    "options": [
+      "Adequate glucose delivery to the CNS",
+      "Intact sympathetic autonomic response",
+      "Hypoglycemia unawareness",
+      "Excessive glucagon secretion",
+      "Normal levels of circulating ketones"
+    ],
+    "correct_answer": "B",
+    "explanation": "Neurogenic (autonomic) symptoms rely on an intact autonomic response."
+  },
+  {
+    "id": 2647,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with Cushing syndrome is found to have decreased ACTH levels and atrophy of the contralateral adrenal gland. What is the most likely diagnosis?",
+    "options": [
+      "Exogenous glucocorticoid administration",
+      "ACTH-secreting pituitary adenoma",
+      "Small cell lung cancer",
+      "Primary adrenal adenoma",
+      "Bronchial carcinoid"
+    ],
+    "correct_answer": "D",
+    "explanation": "A primary adrenal adenoma unilaterally secretes excess cortisol, suppressing ACTH and leading to atrophy of the uninvolved (contralateral) adrenal gland."
+  },
+  {
+    "id": 2648,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A high-dose dexamethasone suppression test is performed on a patient with elevated cortisol. The cortisol levels are significantly suppressed. What is the most appropriate next imaging step?",
+    "options": [
+      "CT of the chest",
+      "CT of the abdomen",
+      "MRI of the pituitary",
+      "CT of the pelvis",
+      "Ultrasound of the neck"
+    ],
+    "correct_answer": "C",
+    "explanation": "Suppression with high-dose dexamethasone indicates Cushing disease (pituitary adenoma). Next step is an MRI of the pituitary."
+  },
+  {
+    "id": 2649,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient who underwent a bilateral adrenalectomy for refractory Cushing disease presents with new-onset bitemporal hemianopia and profound skin hyperpigmentation. What is the fundamental pathophysiology?",
+    "options": [
+      "Ectopic ACTH secretion from a lung mass",
+      "Metastatic spread of adrenal carcinoma to the optic chiasm",
+      "Enlargement of a pre-existing ACTH-secreting pituitary adenoma",
+      "Reactivation of a silent corticotroph microadenoma",
+      "Loss of hypothalamic CRH inhibition"
+    ],
+    "correct_answer": "C",
+    "explanation": "Nelson syndrome is the enlargement of a pre-existing ACTH-secreting pituitary adenoma after bilateral adrenalectomy."
+  },
+  {
+    "id": 2650,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with chronic fatigue and weight loss is found to have hyponatremia, hyperkalemia, and metabolic acidosis. Physical exam shows dark pigmentation of the buccal mucosa. Which enzyme cleavage product is directly responsible for the mucosal finding?",
+    "options": [
+      "Proopiomelanocortin",
+      "Corticotropin-releasing hormone",
+      "Preproinsulin",
+      "Proglucagon",
+      "Thyroglobulin"
+    ],
+    "correct_answer": "A",
+    "explanation": "The hyperpigmentation in primary adrenal insufficiency is due to increased MSH, a byproduct of POMC cleavage."
+  },
+  {
+    "id": 2651,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 3-year-old child presents with a firm, irregular abdominal mass that crosses the midline. The child exhibits rapid, erratic eye movements and sudden myoclonic jerks. Which cellular feature is uniquely diagnostic for this mass?",
+    "options": [
+      "Empty-appearing nuclei with central clearing",
+      "Polygonal cells in an amyloid stroma",
+      "Homer-Wright rosettes",
+      "Sheets of uniform cells with dense neurosecretory granules",
+      "Lymphoid aggregates with germinal centers"
+    ],
+    "correct_answer": "C",
+    "explanation": "Homer-Wright rosettes are characteristic of neuroblastoma."
+  },
+  {
+    "id": 2652,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with severe hypertension, hypokalemia, and metabolic alkalosis. Imaging reveals bilateral adrenal hyperplasia. Why does this patient typically lack clinically evident peripheral edema?",
+    "options": [
+      "Concurrent overproduction of cortisol promotes diuresis",
+      "Aldosterone escape mechanism triggers ANP release",
+      "Downregulation of mineralocorticoid receptors in the kidney",
+      "Simultaneous decrease in renin prevents fluid accumulation",
+      "Increased sodium shifting into the intracellular space"
+    ],
+    "correct_answer": "B",
+    "explanation": "Primary hyperaldosteronism does not directly cause edema due to the aldosterone escape mechanism."
+  },
+  {
+    "id": 2653,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which specific biochemical function links pancreatic beta cells, enterochromaffin cells, and medullary thyroid carcinoma cells despite their varied embryological origins?",
+    "options": [
+      "Amine precursor uptake decarboxylase activity",
+      "Tyrosine kinase receptor signaling",
+      "Synthesis of chromogranin B",
+      "Conversion of cholesterol to pregnenolone",
+      "Synthesis of somatostatin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Neuroendocrine cells share a common biologic function through amine precursor uptake decarboxylase (APUD) activity."
+  },
+  {
+    "id": 2654,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old female presents with abrupt onset visual impairment and ophthalmoplegia. She was previously diagnosed with a nonsecreting pituitary adenoma. What is the most immediate cause of her acute symptoms?",
+    "options": [
+      "Ischemic infarction of the pituitary",
+      "Sudden hemorrhage into the pituitary gland",
+      "Aneurysmal dilation of the internal carotid artery",
+      "Autoimmune destruction of the optic nerve",
+      "Infiltrative granulomatous disease of the sella"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pituitary apoplexy is characterized by sudden hemorrhage of the pituitary gland."
+  },
+  {
+    "id": 2655,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which of the following endocrine hormones utilizes a nonreceptor tyrosine kinase signaling pathway?",
+    "options": [
+      "Insulin",
+      "Growth hormone",
+      "Glucagon",
+      "Testosterone",
+      "Thyroid-stimulating hormone"
+    ],
+    "correct_answer": "B",
+    "explanation": "Growth Hormone utilizes the JAK/STAT pathway, which is a nonreceptor tyrosine kinase pathway."
+  },
+  {
+    "id": 2656,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 2-year-old child presents with a firm abdominal mass crossing the midline. Urine tests show elevated homovanillic acid (HVA). Which oncogene is most commonly amplified in this specific tumor?",
+    "options": [
+      "c-myc",
+      "N-myc",
+      "L-myc",
+      "RET",
+      "BRAF"
+    ],
+    "correct_answer": "B",
+    "explanation": "Neuroblastoma is strongly associated with amplification of the N-myc oncogene."
+  },
+  {
+    "id": 2657,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with secondary hyperaldosteronism due to congestive heart failure, why does the aldosterone escape mechanism fail to prevent edema?",
+    "options": [
+      "Exhaustion of ANP reserves in the atria",
+      "Impaired delivery of sodium to the macula densa",
+      "Underlying impairment of cardiac output prevents adequate diuresis",
+      "Downregulation of ADH receptors in the collecting duct",
+      "Excessive sympathetic stimulation of the efferent arteriole"
+    ],
+    "correct_answer": "C",
+    "explanation": "Certain secondary causes of hyperaldosteronism (like heart failure) impair the aldosterone escape mechanism."
+  },
+  {
+    "id": 2658,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with primary polydipsia undergoes a water restriction test. What is the expected physiological response observed during the test?",
+    "options": [
+      "Slight increase in urine osmolality",
+      "No change in urine osmolality",
+      "Significant decrease in urine volume and no change in osmolality",
+      "Significant increase in urine osmolality to greater than 700 mOsm/kg",
+      "Minimal change in urine osmolality followed by a dramatic response to desmopressin"
+    ],
+    "correct_answer": "D",
+    "explanation": "In primary polydipsia, water restriction stimulates endogenous ADH, leading to a significant increase in urine osmolality."
+  },
+  {
+    "id": 2659,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with hyperthyroidism demonstrates poor wound healing and increased striae. While these are classic for Cushing syndrome, if this patient also had high cortisol, which action of cortisol directly causes these skin findings?",
+    "options": [
+      "Upregulation of alpha-1 receptors",
+      "Decreased fibroblast activity",
+      "Increased lipolysis",
+      "Decreased leukotriene production",
+      "Increased proteolysis of muscle tissue"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cortisol decreases fibroblast activity, leading to poor wound healing, decreased collagen synthesis, and increased striae."
+  },
+  {
+    "id": 2660,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 55-year-old male with acromegaly complains of a deep voice and diaphoresis. Which pharmacologic treatment directly antagonizes the growth hormone receptor?",
+    "options": [
+      "Octreotide",
+      "Pegvisomant",
+      "Cabergoline",
+      "Bromocriptine",
+      "Somatostatin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pegvisomant is a specific GH receptor antagonist used in acromegaly."
+  },
+  {
+    "id": 2661,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient exhibits signs of thyroid storm including agitation, delirium, and tachyarrhythmia. Potassium iodide is administered. What is the direct intended effect of this specific intervention?",
+    "options": [
+      "Inhibition of peripheral conversion of T4 to T3",
+      "Blockade of beta-adrenergic receptors",
+      "Suppression of the immune response",
+      "Inhibition of thyroid hormone synthesis via the Wolff-Chaikoff effect",
+      "Destruction of hyperfunctioning thyroid follicles"
+    ],
+    "correct_answer": "D",
+    "explanation": "Potassium iodide provides a large iodine load, which acutely inhibits T4 synthesis through the Wolff-Chaikoff effect."
+  },
+  {
+    "id": 2662,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old patient undergoes an FNA for a rapidly enlarging neck mass causing severe dysphagia and dyspnea. The prognosis is stated to be very poor. Which genetic mutation is most strongly associated with this specific thyroid pathology?",
+    "options": [
+      "RET mutation",
+      "BRAF mutation",
+      "RAS mutation",
+      "TP53 mutation",
+      "GNAS1 mutation"
+    ],
+    "correct_answer": "D",
+    "explanation": "Anaplastic thyroid carcinoma is associated with TP53 mutation."
+  },
+  {
+    "id": 2663,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with chronic autoimmune thyroiditis presents with a transient hyperthyroid state. What is the precise mechanism of hyperthyroidism in this early phase?",
+    "options": [
+      "Thyroid-stimulating immunoglobulins acting on TSH receptors",
+      "Autonomous production of T3 and T4 by hyperplastic nodules",
+      "Follicular rupture and release of preformed thyroid hormone",
+      "Iodine-induced autonomous hyperfunction",
+      "Ectopic production of TSH from a distant tumor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Hashitoxicosis is a transient hyperthyroid state in early Hashimoto thyroiditis caused by inflammatory follicular rupture."
+  },
+  {
+    "id": 2664,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with diabetes mellitus has progressive nerve damage causing gastroparesis and delayed gastric emptying. Which pathophysiologic mechanism directly causes this specific complication?",
+    "options": [
+      "Nonenzymatic glycation of small vessels leading to hyaline arteriolosclerosis",
+      "Osmotic damage from sorbitol accumulation in autonomic neurons",
+      "Atherosclerosis of large feeding splanchnic vessels",
+      "Autoimmune destruction of the myenteric plexus",
+      "Deposition of amyloid polypeptide in the gastric wall"
+    ],
+    "correct_answer": "B",
+    "explanation": "Neuropathy in diabetes is due to osmotic damage from sorbitol accumulation in cells lacking sorbitol dehydrogenase."
+  },
+  {
+    "id": 2665,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is prescribed exogenous cannabinoids to increase appetite. Which brain regions contain the primary receptors mediating this hedonic and homeostatic control of food intake?",
+    "options": [
+      "Ventromedial hypothalamus and amygdala",
+      "Lateral hypothalamus and prefrontal cortex",
+      "Hypothalamus and nucleus accumbens",
+      "Anterior pituitary and median eminence",
+      "Arcuate nucleus and hippocampus"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cannabinoids act at receptors in the hypothalamus and nucleus accumbens to increase appetite."
+  },
+  {
+    "id": 2666,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During evaluation for suspected hypopituitarism, a patient shows impaired function of hormones signaling via IP3. Which of the following hormones is most likely affected?",
+    "options": [
+      "ACTH",
+      "FSH",
+      "CRH",
+      "TRH",
+      "TSH"
+    ],
+    "correct_answer": "D",
+    "explanation": "TRH utilizes the IP3 signaling pathway, while ACTH, FSH, CRH, and TSH utilize the cAMP pathway."
+  },
+  {
+    "id": 2667,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient experiencing abrupt cessation of chronic glucocorticoid therapy, what will be the expected status of their serum potassium and skin pigmentation?",
+    "options": [
+      "Hyperkalemia and hyperpigmentation",
+      "Normal potassium and normal skin pigmentation",
+      "Normal potassium and hyperpigmentation",
+      "Hypokalemia and decreased skin pigmentation",
+      "Hyperkalemia and normal skin pigmentation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Abrupt cessation of steroids causes tertiary adrenal insufficiency. Aldosterone is normal (normal potassium) and ACTH/MSH is low/normal (no hyperpigmentation)."
+  },
+  {
+    "id": 2668,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with episodic hypertension is found to have a tumor secreting epinephrine. The cells of origin for this tumor derive from which embryonic lineage?",
+    "options": [
+      "Neural crest",
+      "Endoderm",
+      "Splanchnic mesoderm",
+      "Ectodermal placodes",
+      "Notochord"
+    ],
+    "correct_answer": "A",
+    "explanation": "Pheochromocytomas are derived from chromaffin cells, which originate from the neural crest."
+  },
+  {
+    "id": 2669,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient diagnosed with a catecholamine-secreting adrenal tumor is prepared for resection. Which sequence of pharmacologic blockade is strictly mandatory to prevent a hypertensive crisis?",
+    "options": [
+      "Propranolol followed by labetalol",
+      "Metoprolol followed by phenoxybenzamine",
+      "Phenoxybenzamine followed by propranolol",
+      "Phentolamine followed by epinephrine",
+      "Esmolol followed by phentolamine"
+    ],
+    "correct_answer": "C",
+    "explanation": "In pheochromocytoma, irreversible alpha-antagonists (phenoxybenzamine) must be given before beta-blockers (propranolol) to prevent unopposed alpha-adrenergic stimulation and hypertensive crisis."
+  },
+  {
+    "id": 2670,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which immunohistochemical marker profile strongly supports the diagnosis of a tumor originating from the adrenal medulla that causes episodic palpitations and diaphoresis?",
+    "options": [
+      "Cytokeratin, vimentin, and EMA",
+      "Chromogranin, synaptophysin, and NSE",
+      "Desmin, myogenin, and actin",
+      "S-100, HMB-45, and Melan-A",
+      "CD31, vWF, and CD34"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pheochromocytomas are neuroendocrine tumors that stain positively for chromogranin, synaptophysin, and neuron-specific enolase (NSE)."
+  },
+  {
+    "id": 2671,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is discovered to have hypercalcemia, recurrent peptic ulcers, and galactorrhea. Which of the following dermatologic or neurologic findings is most frequently associated with this patient's underlying genetic syndrome?",
+    "options": [
+      "Mucosal neuromas",
+      "Lisch nodules",
+      "Marfanoid habitus",
+      "Angiofibromas",
+      "Caf\u00e9-au-lait macules"
+    ],
+    "correct_answer": "D",
+    "explanation": "The patient has MEN1 (3 P's: Parathyroid, Pancreas, Pituitary). MEN1 is associated with angiofibromas, collagenomas, and meningiomas."
+  },
+  {
+    "id": 2672,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A tall, thin teenager with unusually long extremities presents with numerous small nodules on the lips and tongue, alongside episodic severe hypertension. Prophylactic surgical removal of which organ is required?",
+    "options": [
+      "Parathyroid glands",
+      "Pancreas",
+      "Thyroid gland",
+      "Adrenal glands",
+      "Pituitary gland"
+    ],
+    "correct_answer": "C",
+    "explanation": "The presentation of Marfanoid habitus, mucosal neuromas, and pheochromocytoma indicates MEN2B. Prophylactic thyroidectomy is required due to the extremely high risk of aggressive medullary thyroid carcinoma."
+  },
+  {
+    "id": 2673,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A nondiabetic patient presents with repeated episodes of lethargy and syncope that dramatically resolve after eating. Which laboratory finding reliably differentiates an endogenous pancreatic tumor from surreptitious injection of a hypoglycemic agent?",
+    "options": [
+      "Elevated blood glucose during an episode",
+      "Decreased serum proinsulin levels",
+      "Elevated plasma C-peptide levels",
+      "High titers of anti-insulin antibodies",
+      "Low hemoglobin A1c percentage"
+    ],
+    "correct_answer": "C",
+    "explanation": "Insulinomas secrete equimolar amounts of insulin and C-peptide. Surreptitious exogenous insulin administration lowers glucose but suppresses endogenous insulin and C-peptide production."
+  },
+  {
+    "id": 2674,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an established pancreatic tumor develops necrolytic migratory erythema, deep vein thrombosis, and persistent diarrhea. Which specific cell type is hypersecreting the hormone responsible for this clinical picture?",
+    "options": [
+      "Pancreatic alpha cells",
+      "Pancreatic beta cells",
+      "Pancreatic delta cells",
+      "Pancreatic F cells",
+      "Enterochromaffin cells"
+    ],
+    "correct_answer": "A",
+    "explanation": "The '6 D's' (dermatitis, diabetes, DVT, declining weight, depression, diarrhea) characterize a glucagonoma, which arises from pancreatic alpha cells."
+  },
+  {
+    "id": 2675,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An imaging study reveals a pancreatic islet cell tumor that overproduces somatostatin. Which specific constellation of clinical findings is most likely expected in this patient?",
+    "options": [
+      "Hypoglycemia, peptic ulcers, and secretory diarrhea",
+      "Diabetes, steatorrhea, and gallstones",
+      "Dermatitis, depression, and severe weight gain",
+      "Achlorhydria, constipation, and episodic flushing",
+      "Watery diarrhea, hypokalemia, and achlorhydria"
+    ],
+    "correct_answer": "B",
+    "explanation": "Somatostatinomas broadly inhibit GI hormone secretion (secretin, CCK, glucagon, insulin, gastrin), leading to diabetes/glucose intolerance, steatorrhea, gallstones, and achlorhydria."
+  },
+  {
+    "id": 2676,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a known metastatic bowel tumor experiences episodic flushing, severe diarrhea, and wheezing. Without intervention, which specific nutritional deficiency is most likely to develop?",
+    "options": [
+      "Thiamine deficiency",
+      "Riboflavin deficiency",
+      "Niacin deficiency",
+      "Pyridoxine deficiency",
+      "Cobalamin deficiency"
+    ],
+    "correct_answer": "C",
+    "explanation": "Carcinoid tumors overproduce serotonin (5-HT) using tryptophan, which can deplete tryptophan reserves and lead to niacin deficiency (pellagra)."
+  },
+  {
+    "id": 2677,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with new-onset tricuspid regurgitation and vastly increased urinary 5-HIAA levels. Histological examination of the primary tumor is most likely to display which distinct morphologic feature?",
+    "options": [
+      "Spindle cells arranged in a tight fascicular pattern",
+      "Signet ring cells invading the lamina propria",
+      "Glandular structures with abundant mucin production",
+      "Neuroendocrine rosettes that are chromogranin A positive",
+      "Clear cells with extremely high lipid content"
+    ],
+    "correct_answer": "D",
+    "explanation": "Carcinoid tumors histologically show rosettes and are positive for neuroendocrine markers like chromogranin A and synaptophysin."
+  },
+  {
+    "id": 2678,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient suffering from intractable distal duodenal ulcers undergoes a secretin stimulation test. What is the expected anomalous physiological response confirming the diagnosis?",
+    "options": [
+      "A dramatic decrease in endogenous gastrin release",
+      "A paradoxical massive increase in gastrin levels",
+      "A profound inhibition of gastric acid secretion",
+      "A massive surge in somatostatin release",
+      "A complete cessation of secretin production"
+    ],
+    "correct_answer": "B",
+    "explanation": "Zollinger-Ellison syndrome (gastrinoma) is diagnosed by a positive secretin stimulation test, where secretin paradoxically increases gastrin levels rather than inhibiting them."
+  },
+  {
+    "id": 2679,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A type 2 diabetic patient is prescribed a first-line oral agent that causes beneficial weight loss. By which precise intracellular mechanism does this medication decrease hepatic glucose output?",
+    "options": [
+      "Activating PPAR-gamma nuclear receptors",
+      "Closing ATP-sensitive K+ channels in pancreatic beta cells",
+      "Inhibiting mitochondrial glycerol-3-phosphate dehydrogenase",
+      "Inhibiting intestinal brush-border alpha-glucosidases",
+      "Blocking sodium-glucose co-transporter 2"
+    ],
+    "correct_answer": "C",
+    "explanation": "Metformin is the first-line oral agent for Type 2 DM, and it works by inhibiting mitochondrial glycerol-3-phosphate dehydrogenase (mGPD), thereby halting hepatic gluconeogenesis."
+  },
+  {
+    "id": 2680,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A medication is initiated for a diabetic patient that activates PPAR-gamma to upregulate adiponectin levels. What is a highly notable adverse effect associated with this drug?",
+    "options": [
+      "Severe lactic acidosis",
+      "Acute hemorrhagic pancreatitis",
+      "Increased risk of bone fractures",
+      "Recurrent urinary tract infections",
+      "Megaloblastic anemia"
+    ],
+    "correct_answer": "C",
+    "explanation": "Pioglitazone, a thiazolidinedione, activates PPAR-gamma. Its adverse effects include weight gain, edema, heart failure, and an increased risk of bone fractures."
+  },
+  {
+    "id": 2681,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient taking a novel oral diabetes medication presents with severe vulvovaginal candidiasis and orthostatic hypotension. The offending drug directly inhibits reabsorption in which renal segment?",
+    "options": [
+      "Glomerular basement membrane",
+      "Proximal convoluted tubule",
+      "Thick ascending limb of Henle",
+      "Distal convoluted tubule",
+      "Cortical collecting duct"
+    ],
+    "correct_answer": "B",
+    "explanation": "SGLT2 inhibitors (e.g., canagliflozin) block glucose reabsorption in the proximal convoluted tubule, causing glucosuria which leads to UTIs, candidiasis, and dehydration."
+  },
+  {
+    "id": 2682,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A diabetic patient taking miglitol complains of significant abdominal bloating and flatulence. This drug blunts postprandial hyperglycemia by inhibiting enzymes located where?",
+    "options": [
+      "Inside pancreatic beta cell granules",
+      "Within hepatic mitochondria",
+      "On the intestinal brush-border",
+      "Along the gastric mucosal lining",
+      "On skeletal muscle cell membranes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Miglitol and acarbose are alpha-glucosidase inhibitors that work on the intestinal brush-border to delay carbohydrate hydrolysis and absorption."
+  },
+  {
+    "id": 2683,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Liraglutide is prescribed for a patient with diabetes to optimize weight loss. This drug's therapeutic effect is primarily mediated by which of the following combined actions?",
+    "options": [
+      "Inhibiting the DPP-4 enzyme to prolong incretin action",
+      "Decreasing glucose-dependent insulin release",
+      "Decreasing glucagon release and slowing gastric emptying",
+      "Stimulating intestinal alpha-glucosidase enzymes",
+      "Directly antagonizing central amylin receptors"
+    ],
+    "correct_answer": "C",
+    "explanation": "GLP-1 analogs (liraglutide) decrease glucagon release, slow gastric emptying, and increase glucose-dependent insulin release, which promotes satiety and weight loss."
+  },
+  {
+    "id": 2684,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A diabetic patient treated with chlorpropamide experiences severe nausea and flushing immediately after consuming alcohol. Which cellular mechanism is directly triggered by this antidiabetic drug?",
+    "options": [
+      "Opening of ATP-sensitive K+ channels",
+      "Closure of K+ channels in beta cell membranes",
+      "Decreased calcium influx in pancreatic cells",
+      "Activation of intracellular adenylate cyclase",
+      "Inhibition of phosphodiesterase-3"
+    ],
+    "correct_answer": "B",
+    "explanation": "Chlorpropamide is a first-generation sulfonylurea that causes a disulfiram-like reaction with alcohol. It works by closing K+ channels in pancreatic beta cells to trigger insulin release."
+  },
+  {
+    "id": 2685,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pregnant woman in her first trimester is diagnosed with symptomatic hyperthyroidism. Which medication is most appropriate, and what is its dual mechanism of action?",
+    "options": [
+      "Methimazole; blocks thyroid peroxidase and 5'-deiodinase",
+      "Propylthiouracil; blocks thyroid peroxidase and 5'-deiodinase",
+      "Levothyroxine; replaces endogenous hormone completely",
+      "Propylthiouracil; inhibits iodine uptake and proteolysis only",
+      "Methimazole; blocks thyroid peroxidase solely"
+    ],
+    "correct_answer": "B",
+    "explanation": "PTU is preferred in the first trimester of pregnancy due to methimazole's teratogenicity. PTU blocks both thyroid peroxidase and peripheral 5'-deiodinase."
+  },
+  {
+    "id": 2686,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A hyperthyroid woman is switched to methimazole during her second trimester. If erroneously prescribed during the first trimester, this drug is classically associated with which severe teratogenic effect?",
+    "options": [
+      "Ebstein cardiac anomaly",
+      "Neural tube defects",
+      "Aplasia cutis",
+      "Phocomelia of the upper limbs",
+      "Cleft lip and palate"
+    ],
+    "correct_answer": "C",
+    "explanation": "Methimazole is a known teratogen that can cause aplasia cutis, a congenital absence of skin, typically on the scalp."
+  },
+  {
+    "id": 2687,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receiving hemodialysis for chronic kidney disease is prescribed cinacalcet for secondary hyperparathyroidism. What is the precise molecular target of this medication?",
+    "options": [
+      "Osteoclast RANK receptors",
+      "Intestinal sodium-phosphate cotransporters",
+      "Renal distal tubule calcium channels",
+      "Calcium-sensing receptors in the parathyroid gland",
+      "Vitamin D receptors in the parathyroid gland"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cinacalcet sensitizes the calcium-sensing receptor (CaSR) in the parathyroid gland to circulating calcium, reducing PTH secretion."
+  },
+  {
+    "id": 2688,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with end-stage renal disease has persistent hyperphosphatemia despite dietary restriction. They are prescribed a nonabsorbable polymer. Which adverse effect is most commonly monitored for?",
+    "options": [
+      "Severe hypercalcemia",
+      "Iatrogenic hypophosphatemia",
+      "Lactic acidosis",
+      "Agranulocytosis",
+      "Fulminant hepatotoxicity"
+    ],
+    "correct_answer": "B",
+    "explanation": "Sevelamer is a nonabsorbable phosphate binder used for hyperphosphatemia in CKD. Its major adverse effects include hypophosphatemia and GI upset."
+  },
+  {
+    "id": 2689,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with refractory SIADH is treated with a medication that belongs to the tetracycline class. Which drug was administered to specifically interfere with ADH signaling?",
+    "options": [
+      "Conivaptan",
+      "Tolvaptan",
+      "Demeclocycline",
+      "Desmopressin",
+      "Fludrocortisone"
+    ],
+    "correct_answer": "C",
+    "explanation": "Demeclocycline is an ADH antagonist and a tetracycline derivative used to treat SIADH by interfering with ADH signaling at the V2 receptor."
+  },
+  {
+    "id": 2690,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with primary adrenal insufficiency is prescribed a potent synthetic analog of aldosterone for mineralocorticoid replacement. Which adverse effect may necessitate immediate dosage adjustment?",
+    "options": [
+      "Severe hyperkalemia",
+      "Cutaneous hypopigmentation",
+      "Exacerbation of underlying heart failure",
+      "Excessive and rapid weight loss",
+      "Refractory hypocalcemia"
+    ],
+    "correct_answer": "C",
+    "explanation": "Fludrocortisone retains fluid significantly, which can lead to edema and the exacerbation of heart failure, alongside typical glucocorticoid side effects."
+  },
+  {
+    "id": 2691,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe hyperkalemia is given an oral cation exchange resin called patiromer. This drug efficiently lowers serum potassium by exchanging it for which specific cations in the colon?",
+    "options": [
+      "Magnesium and chloride",
+      "Sodium and calcium",
+      "Hydrogen and bicarbonate",
+      "Iron and zinc",
+      "Ammonium and phosphate"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cation exchange resins like patiromer and sodium polystyrene sulfonate bind potassium in the colon in exchange for other cations such as sodium or calcium."
+  },
+  {
+    "id": 2692,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During normal fetal development, the midgut herniates through the umbilical ring. During its return to the abdominal cavity at the 10th week, it completes its rotation strictly around which vascular axis?",
+    "options": [
+      "Celiac trunk",
+      "Inferior mesenteric artery",
+      "Superior mesenteric artery",
+      "Umbilical vein",
+      "Descending aorta"
+    ],
+    "correct_answer": "C",
+    "explanation": "The midgut returns to the abdominal cavity rotating a total of 270 degrees counterclockwise around the superior mesenteric artery (SMA)."
+  },
+  {
+    "id": 2693,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn is found to have exposed abdominal contents extruding from a paraumbilical wall defect. Which of the following is most strongly associated with this exact developmental defect?",
+    "options": [
+      "Trisomy 13 (Patau syndrome)",
+      "Trisomy 18 (Edwards syndrome)",
+      "Beckwith-Wiedemann syndrome",
+      "Good prognosis without significant chromosomal abnormalities",
+      "Severe congenital hypothyroidism"
+    ],
+    "correct_answer": "D",
+    "explanation": "Gastroschisis is a paraumbilical herniation of abdominal contents not covered by peritoneum or amnion. It is typically not associated with chromosomal abnormalities and has a good prognosis."
+  },
+  {
+    "id": 2694,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An infant is born with a midline abdominal wall defect where viscera protrude strictly through the umbilicus, encased in a shiny gray sac. This defect is fundamentally caused by the failure of which specific process?",
+    "options": [
+      "Rostral fold closure",
+      "Lateral fold closure",
+      "Caudal fold closure",
+      "Umbilical ring closure after normal herniation",
+      "Neural tube closure"
+    ],
+    "correct_answer": "B",
+    "explanation": "Omphalocele and gastroschisis are ventral wall defects caused by the failure of lateral fold closure during embryonic development."
+  },
+  {
+    "id": 2695,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn with Down syndrome has a small abdominal protrusion completely covered by skin that visibly enlarges when crying. What is the fundamental embryological defect in this patient?",
+    "options": [
+      "Failure of lateral fold closure",
+      "Failure of the midgut to rotate 270 degrees",
+      "In utero disruption of mesenteric vessels",
+      "Failure of the umbilical ring to close",
+      "Abnormal rotation of the ventral pancreatic bud"
+    ],
+    "correct_answer": "D",
+    "explanation": "Congenital umbilical hernia occurs due to the failure of the umbilical ring to close after the physiologic herniation of the midgut. It is covered by skin and associated with Down syndrome."
+  },
+  {
+    "id": 2696,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate drools excessively and exhibits profound choking and cyanosis immediately with the first feeding. A chest x-ray reveals a prominent gastric air bubble. What is the most common underlying anomaly?",
+    "options": [
+      "Pure esophageal atresia without a fistula",
+      "Esophageal atresia with distal tracheoesophageal fistula",
+      "Pure H-type tracheoesophageal fistula",
+      "Complete duodenal atresia",
+      "Severe hypertrophic pyloric stenosis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Esophageal atresia with a distal TEF is the most common tracheoesophageal anomaly (85%). The TEF allows air into the stomach, producing a visible gastric bubble on x-ray."
+  },
+  {
+    "id": 2697,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate born to a mother with marked polyhydramnios cannot pass a nasogastric tube into the stomach. A chest x-ray reveals a completely gasless abdomen. Which specific structural anomaly is definitively present?",
+    "options": [
+      "Esophageal atresia with distal tracheoesophageal fistula",
+      "Pure esophageal atresia",
+      "H-type tracheoesophageal fistula",
+      "Proximal jejunal atresia",
+      "Annular pancreas"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pure esophageal atresia prevents swallowed air from entering the gastrointestinal tract, leading to a completely gasless abdomen on x-ray."
+  },
+  {
+    "id": 2698,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 1-day-old infant with prominent epicanthal folds develops severe bilious vomiting. Abdominal radiography classically shows a 'double bubble' sign. What is the fundamental embryologic basis of this defect?",
+    "options": [
+      "Failure of gut recanalization",
+      "Ischemic disruption of mesenteric vessels",
+      "Hypertrophy of the pyloric sphincter muscle",
+      "Failure of neural crest cell migration",
+      "Abnormal rotation of the dorsal pancreatic bud"
+    ],
+    "correct_answer": "A",
+    "explanation": "Duodenal atresia (associated with Down syndrome) presents with a 'double bubble' sign and is caused by the failure of the duodenum to recanalize."
+  },
+  {
+    "id": 2699,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn presents with bilious vomiting and a 'triple bubble' sign on x-ray. The mother heavily used cocaine during pregnancy. The underlying intestinal discontinuity is primarily the result of which event?",
+    "options": [
+      "Failure of intestinal recanalization",
+      "Disruption of superior mesenteric artery blood supply",
+      "Non-rotation of the embryologic midgut",
+      "Aganglionosis of the affected bowel segment",
+      "Persistence of the omphalomesenteric duct"
+    ],
+    "correct_answer": "B",
+    "explanation": "Jejunal and ileal atresia (presenting with a triple bubble sign) are caused by the disruption of mesenteric vessels (typically SMA), leading to ischemic necrosis and segmental resorption."
+  },
+  {
+    "id": 2700,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 4-week-old firstborn male infant presents with a palpable olive-shaped epigastric mass and nonbilious projectile vomiting. What distinct acid-base and electrolyte abnormality is most likely expected?",
+    "options": [
+      "Hyperkalemic hyperchloremic metabolic acidosis",
+      "Hypokalemic hypochloremic metabolic alkalosis",
+      "Normokalemic hyperchloremic metabolic acidosis",
+      "Hypokalemic hyperchloremic respiratory alkalosis",
+      "Hyponatremic hypochloremic metabolic acidosis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hypertrophic pyloric stenosis causes severe vomiting of gastric acid, leading to a profound hypokalemic hypochloremic metabolic alkalosis."
+  },
+  {
+    "id": 2701,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A child with recurrent nonbilious vomiting is found to have duodenal narrowing. Surgery reveals a complete ring of functional tissue encircling the second part of the duodenum. This anomaly explicitly arises from the abnormal rotation of which structure?",
+    "options": [
+      "Dorsal pancreatic bud",
+      "Ventral pancreatic bud",
+      "Splenic primordium",
+      "Midgut loop",
+      "Stomach"
+    ],
+    "correct_answer": "B",
+    "explanation": "Annular pancreas occurs when the ventral pancreatic bud abnormally rotates and forms a ring of tissue encircling the second part of the duodenum."
+  },
+  {
+    "id": 2702,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 25-year-old sustains traumatic rupture of a large abdominal organ. Though its blood supply derives from the celiac trunk, the organ itself is derived entirely from which embryonic tissue?",
+    "options": [
+      "Endoderm of the foregut",
+      "Neural crest cells",
+      "Mesoderm of the dorsal mesogastrium",
+      "Ectoderm of the lateral folds",
+      "Mesoderm of the ventral mesentery"
+    ],
+    "correct_answer": "C",
+    "explanation": "The spleen has a foregut vascular supply (celiac trunk) but is derived from the mesoderm of the dorsal mesogastrium."
+  },
+  {
+    "id": 2703,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient suffers a severe hemorrhage after blunt abdominal trauma. Which of the following gastrointestinal structures is located completely retroperitoneally, making it a likely source of retroperitoneal bleeding?",
+    "options": [
+      "Spleen",
+      "Transverse colon",
+      "Stomach",
+      "Ascending colon",
+      "Tail of the pancreas"
+    ],
+    "correct_answer": "D",
+    "explanation": "The ascending and descending colon are retroperitoneal structures (SAD PUCKER). The spleen, transverse colon, stomach, and tail of the pancreas are intraperitoneal."
+  },
+  {
+    "id": 2704,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a complex abdominal surgery, a surgeon must meticulously avoid injuring retroperitoneal segments of the small intestine. Which contiguous parts of the duodenum are classically considered retroperitoneal?",
+    "options": [
+      "1st and 2nd parts",
+      "2nd, 3rd, and 4th parts",
+      "1st, 2nd, and 3rd parts",
+      "3rd and 4th parts only",
+      "All parts of the duodenum"
+    ],
+    "correct_answer": "B",
+    "explanation": "The 2nd through 4th parts of the duodenum are retroperitoneal (SAD PUCKER), while the 1st part is intraperitoneal."
+  },
+  {
+    "id": 2705,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A surgeon rapidly performs the Pringle maneuver to control severe hepatic bleeding by cross-clamping a specific ligament. Which essential structure is explicitly contained within this clamped ligament?",
+    "options": [
+      "Splenic artery",
+      "Proper hepatic artery",
+      "Inferior vena cava",
+      "Short gastric vessels",
+      "Gastric vessels"
+    ],
+    "correct_answer": "B",
+    "explanation": "The Pringle maneuver compresses the hepatoduodenal ligament, which contains the portal triad: proper hepatic artery, portal vein, and common bile duct."
+  },
+  {
+    "id": 2706,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During an operation to access the lesser sac, a surgeon intentionally divides a ligament derived from the ventral mesentery. Which ligament connects the liver to the lesser curvature of the stomach and contains the gastric vessels?",
+    "options": [
+      "Hepatoduodenal ligament",
+      "Falciform ligament",
+      "Hepatogastric ligament",
+      "Gastrocolic ligament",
+      "Gastrosplenic ligament"
+    ],
+    "correct_answer": "C",
+    "explanation": "The hepatogastric ligament connects the liver to the lesser curvature of the stomach, contains the gastric vessels, and is a derivative of the ventral mesentery."
+  },
+  {
+    "id": 2707,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A surgeon operating on the spleen must definitively ligate its primary vascular supply. To do this safely, they must enter a ligament that also contains which of the following susceptible structures?",
+    "options": [
+      "Left gastroepiploic vessels",
+      "Tail of the pancreas",
+      "Short gastric arteries",
+      "Common bile duct",
+      "Proper hepatic artery"
+    ],
+    "correct_answer": "B",
+    "explanation": "The splenorenal ligament contains the splenic artery and vein, as well as the tail of the pancreas, which is susceptible to injury during splenectomy."
+  },
+  {
+    "id": 2708,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A deep ulcer extending just past the muscularis mucosa is identified on endoscopy. Which intrinsic neural plexus, primarily responsible for secreting fluid, resides in the layer immediately containing the deep aspect of this ulcer?",
+    "options": [
+      "Myenteric (Auerbach) plexus",
+      "Submucosal (Meissner) plexus",
+      "Celiac plexus",
+      "Superior mesenteric plexus",
+      "Vagal nerve plexus"
+    ],
+    "correct_answer": "B",
+    "explanation": "The submucosal (Meissner) plexus is located in the submucosa (just deep to the muscularis mucosa) and is responsible for fluid secretion."
+  },
+  {
+    "id": 2709,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The interstitial cells of Cajal consistently generate slow waves throughout the gastrointestinal tract. Which segment naturally exhibits the absolute highest frequency of these basal electric rhythms?",
+    "options": [
+      "Stomach",
+      "Jejunum",
+      "Ileum",
+      "Colon",
+      "Duodenum"
+    ],
+    "correct_answer": "E",
+    "explanation": "The frequency of the basal electric rhythm (slow waves) follows the order: duodenum > ileum > stomach."
+  },
+  {
+    "id": 2710,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A biopsy from the small intestine reveals prominent bicarbonate-secreting glands localized exclusively within the submucosa. Which segment of the bowel was unequivocally biopsied?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Colon"
+    ],
+    "correct_answer": "B",
+    "explanation": "Brunner glands are bicarbonate-secreting cells strictly located in the submucosa of the duodenum."
+  },
+  {
+    "id": 2711,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A contrast study of the small bowel dramatically demonstrates a feathered appearance in a proximal segment. This appearance is due to the presence of extremely tall and numerous plicae circulares, a feature highly characteristic of which region?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Colon"
+    ],
+    "correct_answer": "C",
+    "explanation": "The jejunum has the tallest, most prominent, and most numerous plicae circulares, giving it a feathered appearance on contrast studies."
+  },
+  {
+    "id": 2712,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An intestinal mucosal biopsy reveals large lymphoid aggregates extending deep into the submucosa and the absolute largest number of goblet cells found in the small intestine. Which structure was sampled?",
+    "options": [
+      "Jejunum",
+      "Duodenum",
+      "Ascending colon",
+      "Ileum",
+      "Rectum"
+    ],
+    "correct_answer": "D",
+    "explanation": "The ileum is characterized by the presence of Peyer patches (lymphoid aggregates in the lamina propria/submucosa) and the largest number of goblet cells in the small intestine."
+  },
+  {
+    "id": 2713,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A mucosal biopsy strongly demonstrates deep crypts of Lieberk\u00fchn with abundant goblet cells, but a complete absence of villi. This distinct histological pattern is fundamentally characteristic of which part of the digestive tract?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Colon"
+    ],
+    "correct_answer": "E",
+    "explanation": "The colon contains deep crypts of Lieberk\u00fchn with abundant goblet cells, but unlike the small intestine, it completely lacks villi."
+  },
+  {
+    "id": 2714,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Specialized cells permanently located within the crypts of Lieberk\u00fchn of the small intestine secrete defensins, lysozyme, and tumor necrosis factor. What is the proper name of these innate immune cells?",
+    "options": [
+      "Chief cells",
+      "Parietal cells",
+      "Paneth cells",
+      "Enterochromaffin cells",
+      "Goblet cells"
+    ],
+    "correct_answer": "C",
+    "explanation": "Paneth cells reside in the crypts of Lieberk\u00fchn and secrete antimicrobial peptides such as defensins, lysozyme, and TNF."
+  },
+  {
+    "id": 2715,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "On high-power histological examination of the stomach, deeply basophilic cells are seen predominantly in the lower portion of the gastric glands. What is the primary function of the distinctly eosinophilic cells located nearby in the exact same glands?",
+    "options": [
+      "Secreting pepsinogen",
+      "Secreting hydrochloric acid",
+      "Secreting protective mucus",
+      "Secreting gastrin",
+      "Secreting somatostatin"
+    ],
+    "correct_answer": "B",
+    "explanation": "The eosinophilic (pink) cells are parietal cells, which secrete hydrochloric acid and intrinsic factor. The basophilic cells are chief cells, which secrete pepsinogen."
+  },
+  {
+    "id": 2716,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a splenectomy, a surgeon sharply incises a specific ligament derived from the dorsal mesentery that continuously connects the greater curvature of the stomach to the spleen. Which crucial vessels must be carefully ligated within this exact structure?",
+    "options": [
+      "Splenic vein and artery",
+      "Left and right gastric arteries",
+      "Short gastric and left gastroepiploic vessels",
+      "Middle colic artery",
+      "Inferior mesenteric vein"
+    ],
+    "correct_answer": "C",
+    "explanation": "The gastrosplenic ligament connects the greater curvature of the stomach to the spleen and contains the short gastric and left gastroepiploic vessels."
+  },
+  {
+    "id": 2717,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with type 1 diabetes is admitted to the ICU in acute diabetic ketoacidosis. Which specific insulin preparation should be administered intravenously due to its optimal pharmacokinetic profile for this emergency?",
+    "options": [
+      "Insulin glargine",
+      "Regular insulin",
+      "NPH insulin",
+      "Insulin detemir",
+      "Insulin degludec"
+    ],
+    "correct_answer": "B",
+    "explanation": "Regular (short-acting) insulin is the preferred preparation for intravenous administration in the treatment of diabetic ketoacidosis (DKA)."
+  },
+  {
+    "id": 2718,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 25-year-old female presents with severe postprandial abdominal pain after rapid weight loss. Which of the following best describes the anatomical pathogenesis?",
+    "options": [
+      "Compression of the transverse duodenum between the SMA and aorta",
+      "Occlusion of the celiac trunk by the median arcuate ligament",
+      "Compression of the left renal vein between the SMA and aorta",
+      "Intussusception of the terminal ileum",
+      "Volvulus of the sigmoid colon"
+    ],
+    "correct_answer": "A",
+    "explanation": "Superior mesenteric artery (SMA) syndrome is characterized by compression of the third (transverse) portion of the duodenum by the SMA and aorta, typically occurring in states of diminished mesenteric fat like rapid weight loss."
+  },
+  {
+    "id": 2719,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with left-sided varicocele and gross hematuria from ruptured thin-walled renal varicosities. Which anatomical structure is most likely compressed in this condition?",
+    "options": [
+      "Left renal artery",
+      "Left renal vein",
+      "Right renal vein",
+      "Inferior vena cava",
+      "Superior mesenteric vein"
+    ],
+    "correct_answer": "B",
+    "explanation": "Nutcracker syndrome involves the compression of the left renal vein between the superior mesenteric artery and the aorta, leading to left-sided varicocele and gross hematuria."
+  },
+  {
+    "id": 2720,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During surgery for ischemic colitis, necrosis is primarily observed at the rectosigmoid junction. Which terminal arteries fail to adequately supply this specific watershed area?",
+    "options": [
+      "Superior mesenteric and celiac arteries",
+      "Left gastric and splenic arteries",
+      "Last sigmoid arterial branch and superior rectal artery",
+      "Superior and inferior pancreaticoduodenal arteries",
+      "Middle colic and left colic arteries"
+    ],
+    "correct_answer": "C",
+    "explanation": "The rectosigmoid junction is a watershed area with dual blood supply from distal IMA branches, specifically the last sigmoid arterial branch and the superior rectal artery, making it susceptible to ischemia."
+  },
+  {
+    "id": 2721,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old man develops profound hypotension and subsequent ischemic colitis. Which colonic segment is uniquely dependent on terminal branches of both the superior and inferior mesenteric arteries?",
+    "options": [
+      "Hepatic flexure",
+      "Sigmoid colon",
+      "Cecum",
+      "Splenic flexure",
+      "Rectum"
+    ],
+    "correct_answer": "D",
+    "explanation": "The splenic flexure receives dual blood supply from the terminal branches of the SMA and IMA, making it a critical watershed area susceptible to ischemic injury."
+  },
+  {
+    "id": 2722,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient undergoes vagotomy for refractory peptic ulcer disease. Which of the following gut regions will completely lose its primary parasympathetic innervation?",
+    "options": [
+      "Distal one-third of the transverse colon",
+      "Descending colon",
+      "Rectum",
+      "Upper anal canal",
+      "Proximal two-thirds of the transverse colon"
+    ],
+    "correct_answer": "E",
+    "explanation": "The midgut, which includes the distal duodenum to the proximal 2/3 of the transverse colon, receives its parasympathetic innervation from the vagus nerve. The hindgut is innervated by pelvic nerves."
+  },
+  {
+    "id": 2723,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An aneurysm involves the artery that supplies the distal third of the transverse colon. At which vertebral level does the parasympathetic innervation for this region originate?",
+    "options": [
+      "T10",
+      "T12",
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "correct_answer": "E",
+    "explanation": "The hindgut is supplied by the inferior mesenteric artery and receives pelvic parasympathetic innervation corresponding to the L3 vertebral level."
+  },
+  {
+    "id": 2724,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A penetrating ulcer on the posterior wall of the duodenal bulb causes massive hemorrhage. Which artery is most likely directly compromised?",
+    "options": [
+      "Splenic artery",
+      "Left gastric artery",
+      "Right gastroepiploic artery",
+      "Gastroduodenal artery",
+      "Proper hepatic artery"
+    ],
+    "correct_answer": "D",
+    "explanation": "The gastroduodenal artery lies directly posterior to the first part of the duodenum and is highly vulnerable to erosion by posterior duodenal ulcers."
+  },
+  {
+    "id": 2725,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe cirrhosis presents with hematemesis from ruptured esophageal varices. This life-threatening bleeding originates from an anastomosis involving which portal system tributary?",
+    "options": [
+      "Left gastric vein",
+      "Azygos vein",
+      "Short gastric vein",
+      "Superior rectal vein",
+      "Inferior vena cava"
+    ],
+    "correct_answer": "A",
+    "explanation": "Esophageal varices result from a portosystemic shunt between the left gastric vein (portal) and the esophageal veins draining into the azygos vein (systemic)."
+  },
+  {
+    "id": 2726,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Examination of a cirrhotic patient reveals enlarged, tortuous veins radiating from the umbilicus. Which systemic veins are directly anastomosing with the paraumbilical veins to cause this sign?",
+    "options": [
+      "Left gastric veins",
+      "Azygos veins",
+      "Superior rectal veins",
+      "Middle rectal veins",
+      "Small epigastric veins"
+    ],
+    "correct_answer": "E",
+    "explanation": "Caput medusae is caused by an anastomosis between the paraumbilical veins (portal) and the small epigastric veins (systemic) of the anterior abdominal wall."
+  },
+  {
+    "id": 2727,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with portal hypertension develops painless bleeding during defecation due to anorectal varices. Which venous connection is primarily responsible for this specific portosystemic shunt?",
+    "options": [
+      "Superior rectal with middle and inferior rectal veins",
+      "Left gastric with esophageal veins",
+      "Paraumbilical with superficial epigastric veins",
+      "Inferior mesenteric with pudendal veins",
+      "Splenic with renal veins"
+    ],
+    "correct_answer": "A",
+    "explanation": "Anorectal varices arise from the anastomosis between the superior rectal vein (portal) and the middle and inferior rectal veins (systemic)."
+  },
+  {
+    "id": 2728,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient undergoes a TIPS procedure to treat medically refractory ascites. Which of the following complications is most likely to be directly precipitated by this intervention?",
+    "options": [
+      "Splenic vein thrombosis",
+      "Hepatic encephalopathy",
+      "Budd-Chiari syndrome",
+      "Cor pulmonale",
+      "Gastric varices rupture"
+    ],
+    "correct_answer": "B",
+    "explanation": "TIPS shunts blood from the portal vein directly to the systemic circulation, bypassing the liver. This decreases clearance of ammonia, precipitating hepatic encephalopathy."
+  },
+  {
+    "id": 2729,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old presents with painless, bright red blood on the toilet paper. Which lymph nodes primarily drain the affected region in this specific condition?",
+    "options": [
+      "Superficial inguinal nodes",
+      "Inferior mesenteric nodes",
+      "Internal iliac nodes",
+      "Para-aortic nodes",
+      "External iliac nodes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Internal hemorrhoids occur above the pectinate line and drain into the internal iliac lymph nodes, unlike structures below the line which drain to superficial inguinal nodes."
+  },
+  {
+    "id": 2730,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 30-year-old complains of severe, sharp pain during defecation, localizing to the posterior midline of the anal canal. Which of the following is most closely associated with this specific lesion's location?",
+    "options": [
+      "Rich collateral blood supply",
+      "Visceral innervation from the hypogastric plexus",
+      "Lymphatic drainage to the internal iliac nodes",
+      "Decreased tissue perfusion",
+      "High-fiber diet"
+    ],
+    "correct_answer": "D",
+    "explanation": "An anal fissure is a tear in the anoderm below the pectinate line, classically located in the posterior midline because this area is relatively poorly perfused."
+  },
+  {
+    "id": 2731,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a thrombosed, exquisitely painful bluish perianal nodule. Which nerve provides the primary somatic innervation to this affected tissue?",
+    "options": [
+      "Ilioinguinal nerve",
+      "Genitofemoral nerve",
+      "Inferior hypogastric plexus",
+      "Pelvic splanchnic nerves",
+      "Inferior rectal branch of the pudendal nerve"
+    ],
+    "correct_answer": "E",
+    "explanation": "External hemorrhoids are located below the pectinate line and receive somatic innervation from the inferior rectal branch of the pudendal nerve, making them extremely painful."
+  },
+  {
+    "id": 2732,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient experiencing profound hypovolemic shock, which hepatic lobular zone is the first to undergo ischemic necrosis?",
+    "options": [
+      "Pericentral zone (Zone III)",
+      "Periportal zone (Zone I)",
+      "Intermediate zone (Zone II)",
+      "Portal triad zone",
+      "Space of Disse"
+    ],
+    "correct_answer": "A",
+    "explanation": "Zone III (pericentral) is the least oxygenated zone of the hepatic lobule, making it the most susceptible to ischemia and the first to undergo necrosis in shock."
+  },
+  {
+    "id": 2733,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An individual consumes a massive overdose of acetaminophen. Which region of the hepatic acinus is most sensitive to this metabolic toxin due to its high concentration of cytochrome P-450?",
+    "options": [
+      "Zone I",
+      "Zone III",
+      "Zone II",
+      "Bile canaliculi",
+      "Space of Mall"
+    ],
+    "correct_answer": "B",
+    "explanation": "Zone III contains the highest concentration of cytochrome P-450 enzymes, making it uniquely sensitive to metabolic toxins like acetaminophen, ethanol, and halothane."
+  },
+  {
+    "id": 2734,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following severe acute viral hepatitis, a biopsy is taken to assess the initial damage. Which zone of the hepatic lobule is characteristically affected first by this infectious process?",
+    "options": [
+      "Central vein endothelium",
+      "Zone II",
+      "Zone I",
+      "Zone III",
+      "Sinusoidal Kupffer cells"
+    ],
+    "correct_answer": "C",
+    "explanation": "Zone I (periportal zone) is the first zone affected by viral hepatitis, as well as ingested toxins like cocaine."
+  },
+  {
+    "id": 2735,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is diagnosed with hepatic fibrosis due to excessive alcohol consumption. Which specialized cells located in the space of Disse are directly responsible for producing the extracellular matrix?",
+    "options": [
+      "Kupffer cells",
+      "Hepatocytes",
+      "Cholangiocytes",
+      "Hepatic stellate cells",
+      "Endothelial cells"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hepatic stellate (Ito) cells store vitamin A when quiescent but produce extracellular matrix when activated, driving hepatic fibrosis."
+  },
+  {
+    "id": 2736,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with jaundice, fever, and right upper quadrant pain, and imaging shows a 'double duct sign.' Where must a gallstone be lodged to simultaneously obstruct both the common bile and pancreatic ducts?",
+    "options": [
+      "Cystic duct",
+      "Common hepatic duct",
+      "Neck of the gallbladder",
+      "Accessory pancreatic duct",
+      "Ampulla of Vater"
+    ],
+    "correct_answer": "E",
+    "explanation": "The common bile duct and main pancreatic duct converge at the ampulla of Vater. A stone lodged here blocks both, causing the double duct sign (cholangitis and pancreatitis)."
+  },
+  {
+    "id": 2737,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 65-year-old patient presents with painless jaundice and a palpably enlarged gallbladder. What is the most likely underlying etiology of this clinical presentation?",
+    "options": [
+      "Ductal adenocarcinoma in the head of the pancreas",
+      "Choledocholithiasis",
+      "Primary sclerosing cholangitis",
+      "Acute cholecystitis",
+      "Cholangiocarcinoma of the right hepatic duct"
+    ],
+    "correct_answer": "A",
+    "explanation": "Courvoisier sign (painless jaundice and an enlarged, non-tender gallbladder) is classically caused by an obstructing tumor in the head of the pancreas."
+  },
+  {
+    "id": 2738,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A surgeon is repairing a femoral hernia and carefully dissects the fascial tube located below the inguinal ligament. Which of the following structures is NOT contained within this specific fascial sheath?",
+    "options": [
+      "Femoral artery",
+      "Femoral nerve",
+      "Femoral vein",
+      "Deep inguinal lymph nodes",
+      "Femoral canal"
+    ],
+    "correct_answer": "B",
+    "explanation": "The femoral sheath contains the femoral artery, femoral vein, and femoral canal (which houses deep inguinal nodes), but explicitly excludes the femoral nerve."
+  },
+  {
+    "id": 2739,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A young male undergoes surgical repair of an indirect inguinal hernia. The hernia sac is found to be covered by the internal spermatic fascia, which is a direct continuation of which abdominal wall layer?",
+    "options": [
+      "External oblique aponeurosis",
+      "Internal oblique muscle",
+      "Transversalis fascia",
+      "Transversus abdominis muscle",
+      "Parietal peritoneum"
+    ],
+    "correct_answer": "C",
+    "explanation": "The internal spermatic fascia is derived from the transversalis fascia, representing the innermost covering of the spermatic cord and indirect hernias."
+  },
+  {
+    "id": 2740,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During a cremasteric reflex test, the testis elevates due to the contraction of muscle fibers. These muscle fibers and their fascia are anatomically derived from which of the following structures?",
+    "options": [
+      "External oblique aponeurosis",
+      "Transversalis fascia",
+      "Rectus abdominis",
+      "Internal oblique muscle",
+      "Dartos fascia"
+    ],
+    "correct_answer": "D",
+    "explanation": "The cremasteric muscle and fascia are derived from the internal oblique muscle, forming the middle layer of the spermatic cord."
+  },
+  {
+    "id": 2741,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 55-year-old woman develops a palpable lump in her lower abdomen along the semilunar line. What structural deficiency primarily predisposes her to this specific type of hernia?",
+    "options": [
+      "Widened femoral ring",
+      "Patent processus vaginalis",
+      "Weak transversalis fascia in Hesselbach's triangle",
+      "Laxity of the phrenoesophageal membrane",
+      "Lack of the posterior rectus sheath"
+    ],
+    "correct_answer": "E",
+    "explanation": "A Spigelian hernia occurs through defects between the rectus abdominis and the semilunar line, predominantly in the lower abdomen due to the lack of the posterior rectus sheath."
+  },
+  {
+    "id": 2742,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn exhibits respiratory distress, and auscultation reveals bowel sounds in the left hemithorax. This condition results from a congenital defect in which specific embryonic structure?",
+    "options": [
+      "Pleuroperitoneal membrane",
+      "Septum transversum",
+      "Phrenoesophageal membrane",
+      "Esophageal hiatus",
+      "Ventral mesentery"
+    ],
+    "correct_answer": "A",
+    "explanation": "Congenital diaphragmatic hernias typically result from a defect of the pleuroperitoneal membrane, usually occurring on the left side because the right side is protected by the liver."
+  },
+  {
+    "id": 2743,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with chronic severe heartburn undergoes an upper endoscopy revealing an 'hourglass stomach.' Which structure is primarily defective or lax in this condition?",
+    "options": [
+      "Pleuroperitoneal membrane",
+      "Phrenoesophageal membrane",
+      "Lower esophageal sphincter intrinsic muscle",
+      "Diaphragmatic crura",
+      "Transversalis fascia"
+    ],
+    "correct_answer": "B",
+    "explanation": "A sliding hiatal hernia creates an 'hourglass stomach' due to the upward displacement of the gastroesophageal junction, which is caused by laxity or defect of the phrenoesophageal membrane."
+  },
+  {
+    "id": 2744,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 70-year-old man presents with a groin bulge that protrudes medial to the inferior epigastric vessels. Which fascial layer uniquely covers this specific type of hernia as it exits the superficial ring?",
+    "options": [
+      "Internal spermatic fascia",
+      "Cremasteric fascia",
+      "External spermatic fascia",
+      "Transversalis fascia",
+      "Parietal peritoneum"
+    ],
+    "correct_answer": "C",
+    "explanation": "A direct inguinal hernia bulges directly through the parietal peritoneum and only passes through the superficial ring. It is therefore covered solely by the external spermatic fascia."
+  },
+  {
+    "id": 2745,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An infant is diagnosed with a communicating hydrocele. This fluid accumulation shares an underlying anatomical pathogenesis most similar to which of the following conditions?",
+    "options": [
+      "Direct inguinal hernia",
+      "Femoral hernia",
+      "Spigelian hernia",
+      "Indirect inguinal hernia",
+      "Paraesophageal hiatal hernia"
+    ],
+    "correct_answer": "D",
+    "explanation": "Both a communicating hydrocele and an indirect inguinal hernia are caused by the failure of the processus vaginalis to close, allowing fluid or abdominal contents to enter the scrotum."
+  },
+  {
+    "id": 2746,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receives a proton pump inhibitor, which dramatically raises gastric pH. Which hormone will be reflexively upregulated as a direct result of this chronically elevated pH?",
+    "options": [
+      "Somatostatin",
+      "Secretin",
+      "Cholecystokinin",
+      "Motilin",
+      "Gastrin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Gastrin secretion is stimulated by decreased acidity (higher pH). Chronic PPI use raises pH, disinhibiting G cells and leading to hypergastrinemia."
+  },
+  {
+    "id": 2747,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a VIPoma presents with severe watery diarrhea and hypokalemia. Which of the following is the primary physiological action of the hormone secreted by this tumor?",
+    "options": [
+      "Relaxation of intestinal smooth muscle and sphincters",
+      "Inhibition of pancreatic bicarbonate secretion",
+      "Stimulation of gastric acid secretion",
+      "Contraction of the gallbladder",
+      "Increased lower esophageal sphincter tone"
+    ],
+    "correct_answer": "A",
+    "explanation": "Vasoactive intestinal polypeptide (VIP) increases intestinal water and electrolyte secretion and causes relaxation of intestinal smooth muscle and sphincters, leading to WDHA syndrome."
+  },
+  {
+    "id": 2748,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 50-year-old with acromegaly is treated with octreotide. Which of the following endogenous hormones does this drug most closely mimic to inhibit exocrine and endocrine secretions?",
+    "options": [
+      "Secretin",
+      "Somatostatin",
+      "Cholecystokinin",
+      "Glucagon",
+      "Gastric inhibitory peptide"
+    ],
+    "correct_answer": "B",
+    "explanation": "Octreotide is a synthetic analog of somatostatin, which broadly inhibits the secretion of various hormones, including growth hormone, gastrin, CCK, and VIP."
+  },
+  {
+    "id": 2749,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "After a fatty meal, a patient experiences severe right upper quadrant pain. Which hormone, stimulated by luminal fatty acids, is directly responsible for contracting the gallbladder?",
+    "options": [
+      "Motilin",
+      "Secretin",
+      "Gastrin",
+      "Cholecystokinin",
+      "Vasoactive intestinal polypeptide"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cholecystokinin (CCK) is secreted by I cells in response to fatty acids and amino acids, and its primary actions include stimulating gallbladder contraction and pancreatic enzyme secretion."
+  },
+  {
+    "id": 2750,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Intravenous glucose administration produces a smaller insulin spike compared to an equivalent oral glucose load. Which duodenal-derived hormone is primarily responsible for this augmented oral response?",
+    "options": [
+      "Gastrin",
+      "Somatostatin",
+      "Secretin",
+      "Glucose-dependent insulinotropic peptide",
+      "Ghrelin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Glucose-dependent insulinotropic peptide (GIP) is secreted by duodenal K cells in response to oral glucose, augmenting insulin release more than IV glucose does (the incretin effect)."
+  },
+  {
+    "id": 2751,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A diabetic patient with severe gastroparesis is prescribed erythromycin to stimulate intestinal peristalsis. Erythromycin acts as an agonist for the receptor of which endogenous hormone?",
+    "options": [
+      "Somatostatin",
+      "Secretin",
+      "Vasoactive intestinal polypeptide",
+      "Nitric oxide",
+      "Motilin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Erythromycin acts as an agonist at the motilin receptor, directly stimulating the migrating motor complexes (MMCs) in the fasting state to promote intestinal peristalsis."
+  },
+  {
+    "id": 2752,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In achalasia, the lower esophageal sphincter fails to relax properly during swallowing. A local deficiency in the secretion of which of the following regulatory substances is strongly implicated?",
+    "options": [
+      "Nitric oxide",
+      "Vasoactive intestinal polypeptide",
+      "Somatostatin",
+      "Ghrelin",
+      "Acetylcholine"
+    ],
+    "correct_answer": "A",
+    "explanation": "Nitric oxide (NO) is responsible for smooth muscle relaxation, including the lower esophageal sphincter (LES). Loss of NO-producing neurons is a key factor in achalasia."
+  },
+  {
+    "id": 2753,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A child with Prader-Willi syndrome exhibits insatiable hunger. Which hormone, typically elevated in the fasting state to stimulate appetite, is markedly increased in this condition?",
+    "options": [
+      "Leptin",
+      "Ghrelin",
+      "Motilin",
+      "Somatostatin",
+      "Cholecystokinin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ghrelin is secreted by the stomach to increase appetite. It is physiologically elevated in the fasting state and abnormally elevated in Prader-Willi syndrome."
+  },
+  {
+    "id": 2754,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient has pernicious anemia due to autoimmune destruction of specific gastric cells. Which necessary secretory product is lost as a direct consequence of this cellular destruction?",
+    "options": [
+      "Pepsinogen",
+      "Secretin",
+      "Intrinsic factor",
+      "Gastrin",
+      "Bicarbonate"
+    ],
+    "correct_answer": "C",
+    "explanation": "Parietal cells secrete gastric acid and intrinsic factor. Autoimmune destruction of parietal cells eliminates intrinsic factor, which is strictly required for vitamin B12 uptake in the terminal ileum."
+  },
+  {
+    "id": 2755,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In the presence of highly acidic gastric juice, a proenzyme secreted by chief cells undergoes conversion to its active form. What is the primary function of this activated enzyme?",
+    "options": [
+      "Starch digestion",
+      "Fat digestion",
+      "Vitamin B12 binding",
+      "Protein digestion",
+      "Bicarbonate neutralization"
+    ],
+    "correct_answer": "D",
+    "explanation": "Chief cells secrete pepsinogen, which is converted to the active enzyme pepsin in the presence of H+. Pepsin's primary role is protein digestion."
+  },
+  {
+    "id": 2756,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Secretin fundamentally alters the composition of pancreatic secretions based on flow rate. During high pancreatic flow stimulated by secretin, which ion is present in the highest concentration?",
+    "options": [
+      "Chloride",
+      "Potassium",
+      "Calcium",
+      "Hydrogen",
+      "Bicarbonate"
+    ],
+    "correct_answer": "E",
+    "explanation": "Pancreatic secretions are isotonic. Low flow produces high chloride concentrations, while high flow (stimulated by secretin) produces high bicarbonate concentrations to neutralize gastric acid."
+  },
+  {
+    "id": 2757,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A researcher studies enterocyte transport mechanisms and administers an oral load of fructose. Which specific apical transporter facilitates the uptake of this monosaccharide into the intestinal cells?",
+    "options": [
+      "GLUT-5",
+      "SGLT-1",
+      "GLUT-2",
+      "GLUT-4",
+      "Na+/K+-ATPase"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fructose is uniquely taken up across the apical membrane of the enterocyte via facilitated diffusion mediated by the GLUT-5 transporter."
+  },
+  {
+    "id": 2758,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An individual is given a D-xylose test to evaluate malabsorption. In a patient with intact, normal intestinal mucosa but severe exocrine pancreatic insufficiency, what will be the expected result?",
+    "options": [
+      "Decreased blood D-xylose levels",
+      "Normal blood and urine D-xylose levels",
+      "Decreased urine D-xylose levels",
+      "Completely absent urine D-xylose",
+      "Elevated fecal D-xylose levels"
+    ],
+    "correct_answer": "B",
+    "explanation": "D-xylose is a simple sugar passively absorbed by the proximal small intestine mucosa without requiring pancreatic enzymes. Thus, blood and urine levels will be normal in pancreatic insufficiency."
+  },
+  {
+    "id": 2759,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient suffers from persistent duodenal ulcers due to unopposed gastric acid. Which glands located specifically in the duodenum secrete bicarbonate-rich mucus to protect the mucosa?",
+    "options": [
+      "Paneth cells",
+      "Chief cells",
+      "Brunner glands",
+      "Enterochromaffin-like cells",
+      "Goblet cells"
+    ],
+    "correct_answer": "C",
+    "explanation": "Brunner glands are unique to the submucosa of the duodenum and secrete bicarbonate-rich mucus to neutralize incoming acidic chyme."
+  },
+  {
+    "id": 2760,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Gastrin strongly stimulates gastric acid secretion, but its primary direct target is not the parietal cell itself. Which cell type does gastrin principally stimulate to mediate this effect?",
+    "options": [
+      "G cells",
+      "D cells",
+      "Chief cells",
+      "Enterochromaffin-like cells",
+      "Mucous neck cells"
+    ],
+    "correct_answer": "D",
+    "explanation": "Gastrin increases acid secretion primarily by directly stimulating enterochromaffin-like (ECL) cells to release histamine, which then strongly acts on parietal cells."
+  },
+  {
+    "id": 2761,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A genetic mutation prevents the expression of a critical brush-border enzyme in the duodenal mucosa, severely impairing protein digestion. Which enzyme is most likely missing, preventing the activation of trypsinogen?",
+    "options": [
+      "Elastase",
+      "Chymotrypsin",
+      "Carboxypeptidase",
+      "Pepsin",
+      "Enterokinase"
+    ],
+    "correct_answer": "E",
+    "explanation": "Enterokinase (enteropeptidase) is a brush-border enzyme essential for converting inactive trypsinogen to active trypsin, which subsequently activates multiple other pancreatic zymogens."
+  },
+  {
+    "id": 2762,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A middle-aged man notices a bulge extending directly through Hesselbach's triangle. Which of the following anatomical boundaries forms the lateral border of this specific triangle?",
+    "options": [
+      "Inferior epigastric vessels",
+      "Rectus abdominis muscle",
+      "Inguinal ligament",
+      "Conjoint tendon",
+      "Superficial inguinal ring"
+    ],
+    "correct_answer": "A",
+    "explanation": "The inguinal (Hesselbach) triangle is bordered medially by the rectus abdominis, inferiorly by the inguinal ligament, and laterally by the inferior epigastric vessels."
+  },
+  {
+    "id": 2763,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following massive trauma, a patient exhibits diminished clearance of damaged RBCs from the hepatic sinusoids. Dysfunction of which specialized resident cells is most likely responsible?",
+    "options": [
+      "Hepatocytes",
+      "Kupffer cells",
+      "Hepatic stellate cells",
+      "Endothelial cells",
+      "Cholangiocytes"
+    ],
+    "correct_answer": "B",
+    "explanation": "Kupffer cells are specialized macrophages residing within the hepatic sinusoids. They are responsible for clearing bacteria and damaged or senescent RBCs."
+  },
+  {
+    "id": 2764,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is diagnosed with internal hemorrhoids that are completely painless upon examination. This lack of pain is due to visceral innervation derived from which nerve plexus?",
+    "options": [
+      "Pudendal nerve",
+      "Pelvic splanchnic nerves",
+      "Inferior hypogastric plexus",
+      "Ilioinguinal nerve",
+      "Genitofemoral nerve"
+    ],
+    "correct_answer": "C",
+    "explanation": "Internal hemorrhoids are located above the pectinate line and receive visceral innervation from the inferior hypogastric plexus, rendering them painless."
+  },
+  {
+    "id": 2765,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During an operation for a peptic ulcer, the surgeon must ligate an artery to control bleeding along the lesser curvature of the stomach. Which of the following strongly anastomoses with the right gastric artery?",
+    "options": [
+      "Left gastroepiploic artery",
+      "Splenic artery",
+      "Gastroduodenal artery",
+      "Left gastric artery",
+      "Short gastric arteries"
+    ],
+    "correct_answer": "D",
+    "explanation": "A strong arterial anastomosis exists along the lesser curvature of the stomach between the left gastric artery and the right gastric artery."
+  },
+  {
+    "id": 2766,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The blood supply of the gastrointestinal tract transitions sharply based on embryonic origin. Which artery serves as the primary blood supply for the hindgut, spanning from the distal third of the transverse colon to the upper anal canal?",
+    "options": [
+      "Celiac trunk",
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Internal iliac artery",
+      "Superior rectal artery"
+    ],
+    "correct_answer": "C",
+    "explanation": "The hindgut, which includes the distal 1/3 of the transverse colon down to the upper anal canal, receives its primary arterial supply from the inferior mesenteric artery (IMA)."
+  },
+  {
+    "id": 2767,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A researcher is isolating transporters from the basolateral membrane of duodenal enterocytes. Which specific transporter is responsible for moving all absorbed monosaccharides into the bloodstream?",
+    "options": [
+      "SGLT-1",
+      "GLUT-2",
+      "GLUT-4",
+      "GLUT-5",
+      "Na+/K+-ATPase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Regardless of apical uptake mechanism (SGLT-1 for glucose/galactose or GLUT-5 for fructose), all absorbed monosaccharides are transported across the basolateral membrane into the blood by GLUT-2."
+  },
+  {
+    "id": 2768,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old patient with rheumatoid arthritis chronically taking NSAIDs presents with hematemesis. Which mechanism most directly accounts for the acute gastric erosions observed on endoscopy?",
+    "options": [
+      "Increased vagal stimulation promoting acetylcholine release",
+      "Hypovolemia inducing profound mucosal ischemia",
+      "Hyperplasia of the gastric mucosa with parietal cell atrophy",
+      "Autoimmune destruction of the H+/K+-ATPase on parietal cells",
+      "Decreased local prostaglandin E2 production"
+    ],
+    "correct_answer": "E",
+    "explanation": "NSAIDs reduce PGE2, causing decreased gastric mucosa protection, leading to acute gastritis erosions. Options A and B are for Cushing and Curling ulcers."
+  },
+  {
+    "id": 2769,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A comatose patient following a severe traumatic brain injury develops an ulcer in the stomach. The pathogenesis of this specific ulcer is primarily mediated by which physiologic alteration?",
+    "options": [
+      "Systemic hypovolemia leading to mucosal ischemia",
+      "Reduced regional prostaglandin synthesis",
+      "T-cell-mediated destruction of intrinsic factor",
+      "Elevated local vagal tone increasing acid production",
+      "Hypertrophy of the gastric rugae mimicking brain gyri"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cushing ulcers caused by brain injury result from increased vagal stimulation, which increases ACh and consequently H+ production."
+  },
+  {
+    "id": 2770,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe weight loss, epigastric pain, and edema presents with grossly enlarged, wavy gastric rugae. What cellular change is fundamentally associated with this precancerous condition?",
+    "options": [
+      "Hyperchlorhydria leading to diffuse foveolar hyperplasia",
+      "Invasion of signet ring cells in the lamina propria",
+      "Loss of enteric ganglion cells in the Meissner plexus",
+      "Abundant mucin-secreting Krukenberg tumor metastasis",
+      "Parietal cell atrophy with reduced acid production"
+    ],
+    "correct_answer": "E",
+    "explanation": "M\u00e9n\u00e9trier disease features hyperplasia of gastric mucosa but paradoxically causes parietal cell atrophy, decreased acid production, and severe protein loss."
+  },
+  {
+    "id": 2771,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old man from East Asia presents with a gastric mass exhibiting an ulcer with raised margins. Biopsy reveals intestinal-type adenocarcinoma. Which factor is most strongly protective or negatively associated with this specific pathogenesis?",
+    "options": [
+      "High dietary intake of smoked foods",
+      "Chronic H. pylori infection of the lesser curvature",
+      "State of chronic achlorhydria",
+      "Presence of an E-cadherin mutation",
+      "Tobacco smoking"
+    ],
+    "correct_answer": "D",
+    "explanation": "E-cadherin mutations are associated with diffuse gastric cancer (signet ring cells), not the intestinal-type gastric cancer which is linked to H. pylori and dietary nitrosamines."
+  },
+  {
+    "id": 2772,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a palpable left supraclavicular node is found to have an advanced gastrointestinal malignancy. Which physical exam finding would most specifically suggest metastasis to the rectouterine pouch?",
+    "options": [
+      "Sister Mary Joseph nodule",
+      "Virchow node",
+      "Acanthosis nigricans",
+      "Blumer shelf",
+      "Leser-Tr\u00e9lat sign"
+    ],
+    "correct_answer": "D",
+    "explanation": "A Blumer shelf is a palpable mass on digital rectal exam suggesting metastasis to the rectouterine pouch (pouch of Douglas)."
+  },
+  {
+    "id": 2773,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 50-year-old woman complains of epigastric pain that reliably worsens upon eating, leading to marked weight loss. Where is the most likely location of her primary pathology?",
+    "options": [
+      "Anterior wall of the duodenal bulb",
+      "Posterior wall of the duodenal bulb",
+      "Fundus of the stomach",
+      "Pyloric channel",
+      "Lesser curvature of the stomach"
+    ],
+    "correct_answer": "E",
+    "explanation": "Gastric ulcer pain typically worsens with meals, leading to weight loss. The lesser curvature is the most common site for gastric ulcers."
+  },
+  {
+    "id": 2774,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient acutely develops severe shoulder pain and a rigid abdomen. Upright X-ray reveals free air under the diaphragm. If this complication arose from a perforated ulcer, which anatomical site is most likely involved?",
+    "options": [
+      "Posterior wall of the duodenum",
+      "Lesser curvature of the stomach",
+      "Greater curvature of the stomach",
+      "Anterior wall of the duodenum",
+      "Gastroduodenal artery distribution"
+    ],
+    "correct_answer": "D",
+    "explanation": "Anterior duodenal ulcers are most prone to perforation into the anterior abdominal cavity, causing pneumoperitoneum and referred shoulder pain (phrenic nerve irritation)."
+  },
+  {
+    "id": 2775,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 35-year-old man presents with steatorrhea, weight loss, and an intensely pruritic vesicular rash on his elbows. Which histological finding in the gastrointestinal tract is most specific to his underlying disease?",
+    "options": [
+      "PAS-positive foamy macrophages in the lamina propria",
+      "Transmural inflammation with noncaseating granulomas",
+      "Crypt abscesses and continuous superficial ulcerations",
+      "Intraepithelial lymphocytosis with crypt hyperplasia",
+      "Macrophage-rich infiltrates mimicking normal mucosa"
+    ],
+    "correct_answer": "D",
+    "explanation": "The patient has Celiac disease (associated with dermatitis herpetiformis). Histology shows villous atrophy, crypt hyperplasia, and intraepithelial lymphocytosis."
+  },
+  {
+    "id": 2776,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 40-year-old woman with chronic watery diarrhea undergoes an endoscopy, which appears completely normal. Biopsy reveals a thickened subepithelial collagen band. Which condition is most accurately described?",
+    "options": [
+      "Irritable bowel syndrome",
+      "Microscopic colitis",
+      "Tropical sprue",
+      "Crohn disease",
+      "Ulcerative colitis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Microscopic colitis presents with chronic watery diarrhea, normal gross endoscopy, and histology showing lymphocytic infiltrates or a thickened subepithelial collagen band."
+  },
+  {
+    "id": 2777,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old male presents with recurrent urinary tract infections and pneumaturia. He has a history of left lower quadrant pain and fever. Which pathophysiologic sequence best explains his current symptoms?",
+    "options": [
+      "Inflammation of a true diverticulum leading to enterovesical fistulization",
+      "Transmural granulomatous inflammation leading to a colovesical fistula",
+      "Severe ulceration of the mucosa causing toxic megacolon and perforation",
+      "Telescoping of the bowel causing focal necrosis and bladder adherence",
+      "Inflammation of false diverticula causing a colovesical fistula"
+    ],
+    "correct_answer": "E",
+    "explanation": "The patient has a colovesical fistula secondary to diverticulitis (inflammation of false diverticula), typically presenting with LLQ pain and causing pneumaturia."
+  },
+  {
+    "id": 2778,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An older adult presents with dysphagia, foul breath, and a palpable neck mass. An outpouching is identified above the upper esophageal sphincter. This condition is primarily characterized by the herniation of which layers?",
+    "options": [
+      "Mucosa and submucosa only",
+      "Mucosa, submucosa, and muscularis externa",
+      "Muscularis externa and serosa only",
+      "Mucosa and muscularis externa only",
+      "Submucosa, muscularis externa, and adventitia"
+    ],
+    "correct_answer": "A",
+    "explanation": "Zenker diverticulum is a false diverticulum, involving only the herniation of mucosal and submucosal layers through a weakness in the muscularis."
+  },
+  {
+    "id": 2779,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 2-year-old boy presents with painless lower gastrointestinal bleeding. A 99mTc-pertechnetate scan demonstrates abnormal focal uptake in the right lower quadrant. Which developmental defect is primarily responsible?",
+    "options": [
+      "Failure of neural crest cell migration to the distal colon",
+      "Improper rotation of the midgut during fetal development",
+      "Hypertrophy of Peyer patches acting as a lead point",
+      "Congenital weakness in the muscularis externa",
+      "Persistence of the omphalomesenteric duct"
+    ],
+    "correct_answer": "E",
+    "explanation": "Meckel diverticulum is a true diverticulum caused by persistence of the vitelline (omphalomesenteric) duct, often containing ectopic gastric mucosa."
+  },
+  {
+    "id": 2780,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate fails to pass meconium within 48 hours and develops bilious emesis. Rectal suction biopsy confirms the absence of ganglion cells. Which genetic mutation is most canonically associated with this pathophysiology?",
+    "options": [
+      "APC tumor suppressor gene loss",
+      "Mutation in the MLH1 mismatch repair gene",
+      "BRAF kinase mutation",
+      "Loss-of-function mutation in RET",
+      "KRAS proto-oncogene activation"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hirschsprung disease is associated with loss-of-function mutations in the RET gene, preventing neural crest cell migration."
+  },
+  {
+    "id": 2781,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An 8-month-old infant presents with intermittent abdominal pain, vomiting, and 'currant jelly' stools. Ultrasound shows a 'target sign.' If this process is idiopathic, what underlying anatomical structure frequently acts as the starting point?",
+    "options": [
+      "Meckel diverticulum",
+      "Small bowel wall hematoma",
+      "Intraluminal tumor mass",
+      "Hypertrophied Peyer patch",
+      "Aberrant Ladd bands"
+    ],
+    "correct_answer": "D",
+    "explanation": "In idiopathic intussusception in children, hypertrophied Peyer patches (often post-viral) typically act as the lead point."
+  },
+  {
+    "id": 2782,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 75-year-old male nursing home resident complains of severe abdominal pain. Abdominal X-ray shows a massively dilated colon resembling a 'coffee bean.' Twisting of the bowel around its mesentery at which location is most likely responsible?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Terminal ileum",
+      "Cecum",
+      "Sigmoid colon"
+    ],
+    "correct_answer": "E",
+    "explanation": "Sigmoid volvulus is most common in older adults and characteristically shows a 'coffee bean sign' on X-ray."
+  },
+  {
+    "id": 2783,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a history of atrial fibrillation presents with acute, severe abdominal pain out of proportion to physical exam findings. Which vessel is most likely occluded?",
+    "options": [
+      "Celiac trunk",
+      "Inferior mesenteric artery",
+      "Gastroduodenal artery",
+      "Splenic artery",
+      "Superior mesenteric artery"
+    ],
+    "correct_answer": "E",
+    "explanation": "Acute mesenteric ischemia is most frequently caused by embolic occlusion of the superior mesenteric artery (SMA)."
+  },
+  {
+    "id": 2784,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 68-year-old female presents with postprandial epigastric pain that deters her from eating, resulting in a 15-lb weight loss over two months. Which diagnostic finding is most likely to explain her symptoms?",
+    "options": [
+      "Transmural inflammation with noncaseating granulomas",
+      "Mucosal edema at the rectosigmoid junction",
+      "Lack of enteric nervous plexuses in the distal colon",
+      "Atherosclerosis of the superior mesenteric artery",
+      "Abnormal carbohydrate breath test indicating bacterial overgrowth"
+    ],
+    "correct_answer": "D",
+    "explanation": "Chronic mesenteric ischemia ('intestinal angina') causes postprandial pain and food aversion, typically due to atherosclerosis of the SMA or celiac artery."
+  },
+  {
+    "id": 2785,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient undergoes screening colonoscopy. A polyp is removed and histologic analysis demonstrates a 'saw-tooth' pattern of crypts. This lesion most likely arose through which primary molecular pathway?",
+    "options": [
+      "Microsatellite instability via mismatch repair silencing",
+      "Chromosomal instability pathway involving APC",
+      "Hyperplasia of normal colonic tissue without neoplastic risk",
+      "Autoimmune destruction of the mucosal architecture",
+      "Loss of the TP53 tumor suppressor gene solely"
+    ],
+    "correct_answer": "A",
+    "explanation": "Serrated polyps show a 'saw-tooth' pattern and are neoplastic, typically arising via the CpG island methylator phenotype (CIMP) leading to microsatellite instability."
+  },
+  {
+    "id": 2786,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 25-year-old male is diagnosed with Turcot syndrome. In addition to a heavy burden of colonic polyps, he is at highest risk for developing which of the following malignancies?",
+    "options": [
+      "Osteoma of the mandible",
+      "Pancreatic adenocarcinoma",
+      "Ovarian carcinoma",
+      "Endometrial carcinoma",
+      "Malignant glioma"
+    ],
+    "correct_answer": "E",
+    "explanation": "Turcot syndrome is characterized by FAP or Lynch syndrome accompanied by a malignant CNS tumor (eg, medulloblastoma, glioma)."
+  },
+  {
+    "id": 2787,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 30-year-old female presents with hyperpigmented macules on her lips and hands. Endoscopy reveals numerous hamartomatous polyps throughout the GI tract. Which secondary manifestation is most strongly associated with her genetic condition?",
+    "options": [
+      "Increased risk of breast cancer",
+      "Congenital hypertrophy of the retinal pigment epithelium",
+      "Medulloblastoma",
+      "Impacted supernumerary teeth",
+      "Spontaneous bacterial peritonitis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Peutz-Jeghers syndrome is associated with hamartomatous polyps, mucosal pigmentation, and an increased risk of breast and GI cancers."
+  },
+  {
+    "id": 2788,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with Lynch syndrome has an established diagnosis based on a familial history of colon cancer. This syndrome guarantees an increased lifelong risk for cancer involving which additional organ system?",
+    "options": [
+      "Endometrium",
+      "Central nervous system",
+      "Soft tissue and bone",
+      "Thyroid gland",
+      "Retina"
+    ],
+    "correct_answer": "A",
+    "explanation": "Lynch syndrome (HNPCC) is strongly associated with endometrial, ovarian, and skin cancers."
+  },
+  {
+    "id": 2789,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with new-onset ascites undergoes paracentesis. The serum albumin is 3.5 g/dL and the ascitic fluid albumin is 1.2 g/dL. Which etiology is most consistent with these findings?",
+    "options": [
+      "Tuberculous peritonitis",
+      "Pancreatic ascites",
+      "Peritoneal carcinomatosis",
+      "Portal hypertension",
+      "Nephrotic syndrome"
+    ],
+    "correct_answer": "D",
+    "explanation": "The Serum Ascites Albumin Gradient (SAAG) is 3.5 - 1.2 = 2.3. A SAAG >= 1.1 indicates portal hypertension."
+  },
+  {
+    "id": 2790,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 50-year-old chronic alcoholic presents to the emergency department with altered mental status. His AST is 250 U/L and ALT is 110 U/L. Which morphological finding is most likely present on liver biopsy?",
+    "options": [
+      "Intracytoplasmic eosinophilic inclusions of damaged keratin filaments",
+      "Central stellate scar with an aberrant dystrophic artery",
+      "PAS-positive foamy macrophages in the lamina propria",
+      "Periportal lymphoplasmacytic infiltrate",
+      "Noncaseating granulomas with focal ductal destruction"
+    ],
+    "correct_answer": "A",
+    "explanation": "Alcoholic hepatitis features swollen/necrotic hepatocytes and Mallory bodies (intracytoplasmic eosinophilic inclusions of damaged keratin filaments). The AST:ALT ratio > 2 is typical."
+  },
+  {
+    "id": 2791,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 42-year-old obese woman with type 2 diabetes has incidentally discovered elevated liver enzymes. A biopsy shows fatty infiltration without significant inflammation or fibrosis. Which complication is directly associated with cellular 'ballooning' if her condition progresses?",
+    "options": [
+      "Autoimmune destruction of intrahepatic bile ducts",
+      "Hepatic hemangioma formation",
+      "Budd-Chiari syndrome",
+      "Nonalcoholic steatohepatosis leading to cirrhosis",
+      "Cavernous venous malformation"
+    ],
+    "correct_answer": "D",
+    "explanation": "NAFLD can progress to Nonalcoholic Steatohepatosis (NASH), marked by lobular inflammation and cellular ballooning, which can eventually lead to fibrosis and cirrhosis."
+  },
+  {
+    "id": 2792,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An otherwise healthy 35-year-old female undergoes an ultrasound for right upper quadrant pain, revealing a liver tumor with a central stellate scar. What is the most appropriate management regarding biopsy of this lesion?",
+    "options": [
+      "Observation, as it represents a hyperplastic reaction to an aberrant artery",
+      "Urgent biopsy to rule out hepatocellular carcinoma",
+      "Biopsy is contraindicated due to an exceptionally high risk of hemorrhage",
+      "Immediate surgical resection to prevent malignant transformation",
+      "Withdrawal of oral contraceptives to induce spontaneous regression"
+    ],
+    "correct_answer": "A",
+    "explanation": "Focal nodular hyperplasia (FNH) has a central stellate scar and is a benign hyperplastic reaction. Biopsy is not strictly contraindicated as it is for hemangiomas, but observation is typical."
+  },
+  {
+    "id": 2793,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with polycythemia vera presents with tender hepatomegaly, ascites, and abdominal pain. Jugular venous distension is notably absent. Which pathophysiology most accurately explains this clinical picture?",
+    "options": [
+      "Hepatic venous outflow tract obstruction",
+      "Embolic occlusion of the superior mesenteric artery",
+      "Thrombosis in the portal vein proximal to the liver",
+      "Right-sided heart failure leading to a nutmeg liver",
+      "Cirrhosis secondary to bridging fibrosis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Budd-Chiari syndrome is a hepatic venous outflow obstruction causing congestive liver disease without JVD, strongly associated with hypercoagulable states like polycythemia vera."
+  },
+  {
+    "id": 2794,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 6-year-old child presents with coma, hypoglycemia, and hepatomegaly. The mother reports administering an over-the-counter pain reliever for a recent viral infection. Which ultrastructural abnormality is most directly responsible for the child's decline?",
+    "options": [
+      "Reversible inhibition of mitochondrial enzymes impairing beta-oxidation",
+      "Irreversible inhibition of cyclooxygenase causing massive hepatocyte apoptosis",
+      "Formation of Mallory bodies leading to disruption of intermediate filaments",
+      "Failure of neural crest cell migration into the hepatic sinusoids",
+      "Uncoupling of oxidative phosphorylation leading to hyperthermia and necrosis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Reye syndrome involves aspirin metabolites causing reversible inhibition of mitochondrial enzymes, severely impairing beta-oxidation and leading to microvesicular steatosis."
+  },
+  {
+    "id": 2795,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 28-year-old man presents with chronic diarrhea and a severe, burning, blistering rash on his elbows and knees. Laboratory analysis shows a positive IgA anti-tissue transglutaminase antibody. If an intestinal d-xylose absorption test is performed, what is the expected result?",
+    "options": [
+      "Normal absorption, due to the sparing of the proximal duodenum",
+      "Abnormal absorption, indicative of mucosal damage",
+      "Normal absorption, confirming pancreatic enzyme deficiency",
+      "Abnormal absorption, exclusively due to an osmotic laxative effect",
+      "Normal absorption, provided the patient follows a strict diet"
+    ],
+    "correct_answer": "B",
+    "explanation": "Celiac disease damages the intestinal mucosa (villous atrophy), causing impaired absorption of D-xylose, leading to an abnormal (decreased) D-xylose test."
+  },
+  {
+    "id": 2796,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 55-year-old man with a history of achlorhydria complains of chronic watery diarrhea and bloating. A carbohydrate breath test is markedly positive. Which primary defect or change in his gastrointestinal tract enabled this pathology?",
+    "options": [
+      "Decreased duodenal bicarbonate secretion",
+      "Loss of lactase enzyme at the tips of the villi",
+      "Inflammatory infiltration with PAS-positive macrophages",
+      "Defective formation of the myenteric plexus",
+      "Altered intraluminal pH promoting bacterial colony overgrowth"
+    ],
+    "correct_answer": "E",
+    "explanation": "Small intestinal bacterial overgrowth (SIBO) is heavily promoted by altered pH (e.g., achlorhydria), allowing abnormal bacterial colony expansion."
+  },
+  {
+    "id": 2797,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receives a diagnosis of tropical sprue following an extended visit to the Caribbean. While the histological findings resemble celiac disease, the patient develops profound megaloblastic anemia over time. This complication predominantly reflects malabsorption at which specific site?",
+    "options": [
+      "Gastric body",
+      "Duodenum only",
+      "Jejunum only",
+      "Ileum",
+      "Ascending colon"
+    ],
+    "correct_answer": "D",
+    "explanation": "Tropical sprue initially affects the duodenum and jejunum but can involve the ileum with time, leading to B12 deficiency and megaloblastic anemia."
+  },
+  {
+    "id": 2798,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn is diagnosed with an imperforate anus and severe duodenal obstruction. During laparotomy, fibrous bands are discovered compressing the duodenum. Which developmental anomaly most likely gave rise to these bands?",
+    "options": [
+      "Persistence of the omphalomesenteric duct",
+      "Telescoping of the proximal bowel into the distal segment",
+      "Failure of neural crest cells to populate the Meissner plexus",
+      "Improper positioning of the bowel due to anomalous midgut rotation",
+      "Agenesis of the muscularis externa at the duodenojejunal flexure"
+    ],
+    "correct_answer": "D",
+    "explanation": "Malrotation of the midgut forms Ladd bands (fibrous bands) that can cause duodenal obstruction."
+  },
+  {
+    "id": 2799,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old man presents with chronic steatorrhea, marked weight loss, and deficiencies in vitamins A, D, E, and K. An oral d-xylose test is performed and the result is completely normal. Which finding is most likely to be definitively decreased in this patient's diagnostic workup?",
+    "options": [
+      "Serum anti-tissue transglutaminase IgA",
+      "Fecal elastase",
+      "PAS-positive foamy macrophages",
+      "Breath hydrogen after lactose load",
+      "Carbohydrate breath test signal"
+    ],
+    "correct_answer": "B",
+    "explanation": "Fecal elastase is decreased in pancreatic insufficiency. A normal d-xylose test helps distinguish it from mucosal causes of malabsorption."
+  },
+  {
+    "id": 2800,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 40-year-old female presents with severe pain and a mass in the right abdomen. She describes vomiting and bloody 'currant jelly' stools. An abdominal CT reveals an intraluminal tumor mass. Which mechanical complication has most likely occurred?",
+    "options": [
+      "Telescoping of the bowel with the tumor acting as a lead point",
+      "Twisting of the sigmoid colon around its mesentery",
+      "Transmural inflammation leading to a localized abscess",
+      "Herniation of the mucosal tissue in the Killian triangle",
+      "Ischemic necrosis due to superior mesenteric artery embolus"
+    ],
+    "correct_answer": "A",
+    "explanation": "In adults, an intraluminal tumor can act as a lead point for intussusception (telescoping), causing 'currant jelly' stools and a target sign or sausage-shaped mass."
+  },
+  {
+    "id": 2801,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 32-year-old man presents with chronic diarrhea and right lower quadrant pain. Colonoscopy reveals transmural inflammation, 'creeping fat,' and a cobblestone mucosa. Which of the following is an extraintestinal manifestation uniquely strongly associated with the continuous, mucosal-only counterpart of this disease rather than the disease he has?",
+    "options": [
+      "Primary sclerosing cholangitis",
+      "Calcium oxalate kidney stones",
+      "Erythema nodosum",
+      "Aphthous stomatitis",
+      "Peripheral arthritis"
+    ],
+    "correct_answer": "A",
+    "explanation": "The patient has Crohn disease. Primary sclerosing cholangitis (PSC) is characteristically associated with Ulcerative Colitis (the mucosal-only continuous counterpart)."
+  },
+  {
+    "id": 2802,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a long history of gastroesophageal reflux disease develops progressive dysphagia to solid foods and substantial weight loss. Biopsy of the lower third of the esophagus confirms malignancy. Which antecedent cellular adaptation predominantly characterizes the precursor to this condition?",
+    "options": [
+      "Hyperplasia of stratified squamous epithelium",
+      "Atrophy of the submucosal esophageal glands",
+      "Dysplasia of neural crest cells in the myenteric plexus",
+      "Metaplasia from nonkeratinized stratified squamous to nonciliated columnar epithelium",
+      "Hypertrophy of the lower esophageal sphincter smooth muscle"
+    ],
+    "correct_answer": "D",
+    "explanation": "Barrett esophagus (metaplasia from squamous to columnar with goblet cells) is the precursor to esophageal adenocarcinoma, common in the lower 1/3 of the esophagus."
+  },
+  {
+    "id": 2803,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An autopsy of an 80-year-old male reveals an incidental finding of focal mucosal and submucosal outpouchings primarily in the sigmoid colon. The muscularis externa is strikingly completely spared in these herniations. What is the most definitive anatomic descriptor for these lesions?",
+    "options": [
+      "True diverticula",
+      "Pseudodiverticula",
+      "Meckel diverticula",
+      "Hamartomatous polyps",
+      "Inflammatory pseudopolyps"
+    ],
+    "correct_answer": "B",
+    "explanation": "Outpouchings of only the mucosa and submucosa are 'false' diverticula, also known as pseudodiverticula."
+  },
+  {
+    "id": 2804,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient undergoing an upper endoscopy is found to have an ulcer on the posterior wall of the duodenal bulb. If this ulcer were to erode fully through the bowel wall, which vessel is at most immediate risk of life-threatening hemorrhage?",
+    "options": [
+      "Left gastric artery",
+      "Right gastric artery",
+      "Splenic artery",
+      "Gastroduodenal artery",
+      "Superior mesenteric artery"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ulcers on the posterior wall of the duodenum can erode into the gastroduodenal artery."
+  },
+  {
+    "id": 2805,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 29-year-old female presents with severe recurrent lower abdominal pain that is relieved entirely by defecation. She alternates between diarrhea and constipation but denies any weight loss, bleeding, or fever. Endoscopy and histology are entirely normal. Which therapeutic approach represents the most appropriate initial management?",
+    "options": [
+      "Infliximab infusion",
+      "Gluten-free diet",
+      "Ciprofloxacin and metronidazole",
+      "Prophylactic colectomy",
+      "Lifestyle modification and dietary changes"
+    ],
+    "correct_answer": "E",
+    "explanation": "The presentation perfectly matches Irritable Bowel Syndrome (IBS). The first-line treatment is lifestyle modification and dietary changes."
+  },
+  {
+    "id": 2806,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 70-year-old patient presents with crampy abdominal pain followed rapidly by hematochezia. Angiography reveals normal major vessels, but colonoscopy demonstrates mucosal edema and hemorrhage exclusively at the splenic flexure. What is the most specific pathological diagnosis?",
+    "options": [
+      "Colonic ischemia",
+      "Angiodysplasia",
+      "Acute mesenteric ischemia",
+      "Ulcerative colitis",
+      "Necrotizing enterocolitis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Colonic ischemia typically occurs at watershed areas (like the splenic flexure) in older adults and shows a 'thumbprint' sign due to mucosal edema/hemorrhage."
+  },
+  {
+    "id": 2807,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A premature neonate who is exclusively formula-fed rapidly develops abdominal distension and bloody stools. Abdominal X-ray shows linear radiolucencies within the intestinal wall. What is the most likely underlying diagnosis?",
+    "options": [
+      "Meconium ileus",
+      "Necrotizing enterocolitis",
+      "Intussusception",
+      "Hirschsprung disease",
+      "Malrotation with volvulus"
+    ],
+    "correct_answer": "B",
+    "explanation": "Necrotizing enterocolitis typically affects premature, formula-fed infants and causes pneumatosis intestinalis (gas within the intestinal wall, causing linear radiolucencies)."
+  },
+  {
+    "id": 2808,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old male with a long history of inflammatory bowel disease undergoes a colonoscopy. Multiple raised mucosal lesions are observed. Biopsies confirm these to be a consequence of recurrent mucosal erosion and healing, rather than neoplastic proliferation. Which specific entity is most precisely described?",
+    "options": [
+      "Hamartomatous polyps",
+      "Hyperplastic polyps",
+      "Tubular adenomas",
+      "Inflammatory pseudopolyps",
+      "Serrated polyps"
+    ],
+    "correct_answer": "D",
+    "explanation": "Inflammatory pseudopolyps are strictly due to mucosal erosion and regeneration in inflammatory bowel disease and are non-neoplastic."
+  },
+  {
+    "id": 2809,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with FAP presents with a malignant medulloblastoma. Given the specific constellation of gastrointestinal polyposis and this central nervous system tumor, what is the most precise eponymous syndrome designation?",
+    "options": [
+      "Gardner syndrome",
+      "Turcot syndrome",
+      "Peutz-Jeghers syndrome",
+      "Lynch syndrome",
+      "MUTYH-associated polyposis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Turcot syndrome is FAP or Lynch syndrome accompanied by a malignant CNS tumor (like medulloblastoma). 'Turcot = Turban'."
+  },
+  {
+    "id": 2810,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 68-year-old man presents with extreme fatigue and is found to have profound iron deficiency anemia. He denies visible blood in his stool, abdominal pain, or changes in bowel habits. Where is the most statistically probable location of an underlying neoplastic lesion?",
+    "options": [
+      "Rectosigmoid junction",
+      "Descending colon",
+      "Transverse colon",
+      "Anal canal",
+      "Ascending colon"
+    ],
+    "correct_answer": "E",
+    "explanation": "Right-sided (ascending) colon cancers typically present as exophytic masses causing occult bleeding and iron deficiency anemia without altering bowel habits as significantly as left-sided lesions."
+  },
+  {
+    "id": 2811,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In the classic chromosomal instability pathway of colorectal adenocarcinoma, what constitutes the critical first step in the adenoma-carcinoma sequence?",
+    "options": [
+      "Mutation of the KRAS proto-oncogene",
+      "Loss of the TP53 tumor suppressor gene",
+      "Hypermethylation of the MLH1 gene promoter",
+      "Overexpression of cyclooxygenase-2 (COX-2)",
+      "Loss of the APC gene"
+    ],
+    "correct_answer": "E",
+    "explanation": "The adenoma-carcinoma sequence initiates with the loss of the APC tumor suppressor gene ('colon at risk')."
+  },
+  {
+    "id": 2812,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with advanced cirrhosis secondary to chronic hepatitis C presents with acute confusion and asterixis. Administration of lactulose improves his symptoms. What is the primary therapeutic mechanism of this intervention?",
+    "options": [
+      "Promotion of ammonium generation and trapping in the gut lumen",
+      "Decreased production of ammonia by eradicating colonic flora",
+      "Direct competitive inhibition of ammonia uptake at the blood-brain barrier",
+      "Reversal of portosystemic shunts to increase hepatic clearance",
+      "Stimulation of the urea cycle enzymes in residual hepatocytes"
+    ],
+    "correct_answer": "A",
+    "explanation": "Lactulose acidifies the gut lumen, converting absorbable NH3 to non-absorbable NH4+ (ammonium), increasing its excretion to treat hepatic encephalopathy."
+  },
+  {
+    "id": 2813,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 35-year-old pregnant woman in her third trimester acutely develops hepatomegaly, ascites, and severe abdominal pain. Doppler ultrasound reveals absent flow in the hepatic veins. Which condition is unequivocally absent based on the standard presentation of her complication?",
+    "options": [
+      "Centrilobular congestion",
+      "Nutmeg liver appearance",
+      "Jugular venous distension",
+      "Portal hypertension",
+      "Hepatic necrosis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Budd-Chiari syndrome (hepatic vein thrombosis) causes congestive liver disease with an absence of JVD, distinguishing it from right-sided heart failure."
+  },
+  {
+    "id": 2814,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an isolated, profound elevation in conjugated bilirubin and markedly elevated alkaline phosphatase most likely suffers from which broad category of disease?",
+    "options": [
+      "Massive hepatocyte necrosis",
+      "Chronic infiltrative bone disease",
+      "Cholestasis or biliary obstruction",
+      "Acute viral hepatitis",
+      "Acetaminophen toxicity"
+    ],
+    "correct_answer": "C",
+    "explanation": "Elevated alkaline phosphatase with conjugated hyperbilirubinemia specifically points to cholestasis or biliary obstruction."
+  },
+  {
+    "id": 2815,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 30-year-old female on oral contraceptives incidentally notes a solitary, highly vascular liver mass on a screening ultrasound. The lesion is found to be the most common benign liver tumor. Why is needle biopsy of this specific lesion strictly contraindicated?",
+    "options": [
+      "High risk of malignant seeding along the needle tract",
+      "Extreme risk of fatal intra-abdominal hemorrhage",
+      "Inability to differentiate the lesion from focal nodular hyperplasia",
+      "It inevitably provokes spontaneous rupture of the adenoma",
+      "Biopsy induces rapid transformation to angiosarcoma"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hepatic hemangioma (cavernous hemangioma) is the most common benign liver tumor. Biopsy is contraindicated due to the extreme risk of severe hemorrhage."
+  },
+  {
+    "id": 2816,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A cirrhotic patient presents with fever and diffuse abdominal pain. A diagnostic paracentesis yields cloudy fluid with an absolute neutrophil count of 350 cells/mm3. What is the most appropriate empiric pharmacologic intervention?",
+    "options": [
+      "Intravenous albumin only",
+      "Oral rifaximin and lactulose",
+      "Third-generation cephalosporin",
+      "Intravenous corticosteroids",
+      "High-dose proton pump inhibitor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Spontaneous bacterial peritonitis (ANC > 250) is empirically treated with a third-generation cephalosporin like ceftriaxone."
+  },
+  {
+    "id": 2817,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient chronically infected with Schistosoma mansoni develops progressively worsening ascites and esophageal varices. Ultrasound demonstrates patent hepatic veins and a normal-appearing liver parenchyma. What is the most accurate physiologic description of the primary mechanism causing his vascular complications?",
+    "options": [
+      "Increased pressure in the portal venous system due to presinusoidal obstruction",
+      "Cirrhosis secondary to bridging fibrosis and regenerative nodules",
+      "Direct parasitic destruction of the lower esophageal sphincter",
+      "Hepatic venous outflow tract obstruction",
+      "Systemic vasodilation leading to functional hypovolemia"
+    ],
+    "correct_answer": "A",
+    "explanation": "Schistosomiasis typically causes presinusoidal portal hypertension without classic cirrhosis (often maintaining normal liver synthetic function initially), leading to varices and ascites."
+  },
+  {
+    "id": 2818,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An 18-year-old non-smoker presents with dyspnea and liver cirrhosis, and biopsy reveals PAS-positive globules in the hepatocellular ER. What lung pathology is most likely?",
+    "options": [
+      "Panacinar emphysema",
+      "Centriacinar emphysema",
+      "Idiopathic pulmonary fibrosis",
+      "Desquamative interstitial pneumonia",
+      "Bronchiolitis obliterans"
+    ],
+    "correct_answer": "A",
+    "explanation": "Alpha-1 antitrypsin deficiency leads to uninhibited elastase in alveoli causing panacinar emphysema."
+  },
+  {
+    "id": 2819,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate develops jaundice on day 3; laboratory testing shows increased unconjugated bilirubin, while the mother's breast milk has elevated levels of a specific enzyme. Which enzyme in the breast milk is directly increasing enterohepatic circulation?",
+    "options": [
+      "Beta-glucuronidase",
+      "UDP-glucuronosyltransferase",
+      "Alpha-galactosidase",
+      "Heme oxygenase",
+      "Biliverdin reductase"
+    ],
+    "correct_answer": "A",
+    "explanation": "Breast milk jaundice is caused by increased beta-glucuronidase in breast milk, leading to increased deconjugation and enterohepatic circulation."
+  },
+  {
+    "id": 2820,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with persistently elevated unconjugated bilirubin without hemolysis is given phenobarbital, and their jaundice dramatically improves. Which condition does this patient most likely have?",
+    "options": [
+      "Crigler-Najjar syndrome type II",
+      "Gilbert syndrome",
+      "Dubin-Johnson syndrome",
+      "Crigler-Najjar syndrome type I",
+      "Rotor syndrome"
+    ],
+    "correct_answer": "A",
+    "explanation": "Crigler-Najjar type II is less severe than type I and uniquely responds to phenobarbital, which increases UDP-glucuronosyltransferase synthesis."
+  },
+  {
+    "id": 2821,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with mildly elevated conjugated bilirubin, but their liver biopsy does not show any black pigmentation. Which transport or storage defect most likely explains this presentation?",
+    "options": [
+      "Impaired hepatic storage of conjugated bilirubin",
+      "Defective liver excretion of epinephrine metabolites",
+      "Absent UDP-glucuronosyltransferase",
+      "Mildly decreased UDP-glucuronosyltransferase conjugation",
+      "Reduced copper-transporting ATPase activity"
+    ],
+    "correct_answer": "A",
+    "explanation": "Rotor syndrome presents similarly to Dubin-Johnson with conjugated hyperbilirubinemia but lacks the black liver, due to impaired hepatic storage of conjugated bilirubin."
+  },
+  {
+    "id": 2822,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 30-year-old male with dysarthria and a history of acute liver failure is found to have decreased serum ceruloplasmin. Where does the genetic defect responsible for this condition primarily impair copper incorporation?",
+    "options": [
+      "Apoceruloplasmin",
+      "Apotransferrin",
+      "Metallothionein",
+      "Hephaestin",
+      "Ferroportin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Wilson disease (ATP7B mutation) causes decreased copper incorporation into apoceruloplasmin and excretion into bile."
+  },
+  {
+    "id": 2823,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 50-year-old man presents with new-onset diabetes, hyperpigmented skin, and restrictive cardiomyopathy. What is the primary molecular abnormality driving his pathogenesis?",
+    "options": [
+      "Abnormal low hepcidin production",
+      "Excessive hepcidin production",
+      "Increased transferrin synthesis",
+      "Decreased duodenal cytochrome b activity",
+      "Mutations in the HAMP gene exclusively"
+    ],
+    "correct_answer": "A",
+    "explanation": "Hemochromatosis is due to an HFE gene mutation leading to abnormally low hepcidin production and increased intestinal iron absorption."
+  },
+  {
+    "id": 2824,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A middle-aged man with ulcerative colitis presents with pruritus and alternating strictures and dilations of intrahepatic bile ducts on ERCP. Which serological marker is most likely positive in this patient?",
+    "options": [
+      "p-ANCA",
+      "Antimitochondrial antibody",
+      "Anti-smooth muscle antibody",
+      "Anti-LKM-1 antibody",
+      "c-ANCA"
+    ],
+    "correct_answer": "A",
+    "explanation": "Primary sclerosing cholangitis is associated with UC and positive MPO-ANCA/p-ANCA."
+  },
+  {
+    "id": 2825,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 45-year-old female presents with fatigue, pruritus, and a liver biopsy showing lymphocytic infiltrate with granulomas destroying lobular bile ducts. Which medication is the treatment of choice?",
+    "options": [
+      "Ursodiol",
+      "Prednisone",
+      "Penicillamine",
+      "Cholestyramine",
+      "Infliximab"
+    ],
+    "correct_answer": "A",
+    "explanation": "Primary biliary cholangitis classically affects middle-aged females with AMA+ and is treated with ursodiol."
+  },
+  {
+    "id": 2826,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A Native American woman on fibrate therapy develops radiolucent gallstones; her bile is supersaturated with a specific substance. What condition primarily drives the precipitation of these stones?",
+    "options": [
+      "Decreased cholesterol 7-alpha hydroxylase activity",
+      "Calcium bilirubinate supersaturation",
+      "Increased bile salt synthesis",
+      "Increased conjugated bilirubin excretion",
+      "Excessive hepatic glucuronidation"
+    ],
+    "correct_answer": "A",
+    "explanation": "Cholesterol stones are associated with fibrates, female sex, and Native American descent, and pathophysiologically relate to decreased cholesterol 7-alpha hydroxylase, increased cholesterol, or decreased bile salts."
+  },
+  {
+    "id": 2827,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A critically ill patient in the ICU develops right upper quadrant pain, but ultrasound reveals gallbladder wall thickening without any obstructing stone. What infectious agent is most classically associated with this acute pathology?",
+    "options": [
+      "Cytomegalovirus",
+      "Epstein-Barr virus",
+      "Adenovirus",
+      "Hepatitis A virus",
+      "Herpes simplex virus"
+    ],
+    "correct_answer": "A",
+    "explanation": "Acalculous cholecystitis in critically ill patients can be due to stasis, hypoperfusion, or infection like CMV."
+  },
+  {
+    "id": 2828,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with small bowel obstruction and pneumobilia; a calcified mass is seen in the right iliac fossa on imaging. Where did this mass most likely enter the gastrointestinal lumen?",
+    "options": [
+      "Ampulla of Vater",
+      "Cholecystoenteric fistula",
+      "Pyloric sphincter",
+      "Choledochoenteric fistula",
+      "Ileocecal valve directly"
+    ],
+    "correct_answer": "B",
+    "explanation": "Gallstone ileus occurs when a gallstone forms a fistula between the gallbladder and GI tract, entering the lumen and obstructing at the ileocecal valve."
+  },
+  {
+    "id": 2829,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old man presents with painless jaundice, weight loss, and a palpable, nontender gallbladder. If a tumor marker is evaluated, which is most strongly associated with this condition?",
+    "options": [
+      "Carcinoembryonic antigen",
+      "CA 19-9",
+      "Alpha-fetoprotein",
+      "CA 125",
+      "CA 15-3"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pancreatic adenocarcinoma often presents with Courvoisier sign and is associated with CA 19-9."
+  },
+  {
+    "id": 2830,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe peptic ulcer disease is treated with a drug that irreversibly inhibits an enzyme on the luminal surface of stomach parietal cells. What is a known adverse effect of this medication?",
+    "options": [
+      "Hypophosphatemia",
+      "Increased risk of Clostridioides difficile infection",
+      "Rebound acid hypersecretion upon initial dose",
+      "Proximal muscle weakness",
+      "Hypercalcemia"
+    ],
+    "correct_answer": "B",
+    "explanation": "Proton pump inhibitors (PPIs) irreversibly inhibit H+/K+ ATPase and are associated with increased risk of C. difficile infection."
+  },
+  {
+    "id": 2831,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An elderly man takes large amounts of an over-the-counter antacid and subsequently develops proximal muscle weakness and seizures. Which element is the primary component of this antacid?",
+    "options": [
+      "Magnesium",
+      "Aluminum",
+      "Calcium",
+      "Sodium",
+      "Bismuth"
+    ],
+    "correct_answer": "B",
+    "explanation": "Aluminum hydroxide antacids can cause Constipation, Hypophosphatemia, Osteodystrophy, Proximal muscle weakness, and Seizures (CHOPS)."
+  },
+  {
+    "id": 2832,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient being treated for NSAID-induced peptic ulcers is prescribed a PGE1 analog. Why is this drug strictly contraindicated in patients of childbearing potential?",
+    "options": [
+      "It induces severe teratogenic limb defects",
+      "It is an abortifacient",
+      "It promotes premature closure of the ductus arteriosus",
+      "It causes fetal renal agenesis",
+      "It leads to oligohydramnios"
+    ],
+    "correct_answer": "B",
+    "explanation": "Misoprostol is a PGE1 analog and is an abortifacient."
+  },
+  {
+    "id": 2833,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with acromegaly is treated with a long-acting somatostatin analog and later develops right upper quadrant pain. What is the mechanism of this specific adverse effect?",
+    "options": [
+      "Excessive sphincter of Oddi contraction",
+      "Inhibition of cholecystokinin release",
+      "Increased cholesterol synthesis",
+      "Increased bilirubin deconjugation",
+      "Hemolysis-induced pigment stones"
+    ],
+    "correct_answer": "B",
+    "explanation": "Octreotide causes increased risk of cholelithiasis due to CCK inhibition."
+  },
+  {
+    "id": 2834,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pregnant patient who is Rh-negative delivers her second child, who rapidly develops severe jaundice and hydrops fetalis. What was the primary mechanism preventing this condition if proper prophylaxis had been given during her first pregnancy?",
+    "options": [
+      "Administration of anti-D IgM",
+      "Administration of anti-D IgG",
+      "Maternal production of anti-A IgG",
+      "Fetal production of anti-D IgG",
+      "Plasmapheresis of the newborn"
+    ],
+    "correct_answer": "B",
+    "explanation": "Administration of anti-D IgG to the Rh-negative pregnant patient prevents the production of maternal anti-D IgG."
+  },
+  {
+    "id": 2835,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn of a Type O mother develops mild jaundice within 24 hours of birth during her first pregnancy. Which antibodies are primarily responsible for crossing the placenta to cause this condition?",
+    "options": [
+      "Anti-A and/or anti-B IgM",
+      "Anti-A and/or anti-B IgG",
+      "Anti-D IgG",
+      "Anti-Rh IgM",
+      "Anti-Kell IgG"
+    ],
+    "correct_answer": "B",
+    "explanation": "ABO hemolytic disease can occur in firstborns because Type O mothers have preexisting anti-A and anti-B IgG antibodies that can cross the placenta."
+  },
+  {
+    "id": 2836,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "At 14 weeks of fetal development, which organ is primarily responsible for the synthesis of blood?",
+    "options": [
+      "Yolk sac",
+      "Liver",
+      "Spleen",
+      "Bone marrow",
+      "Thymus"
+    ],
+    "correct_answer": "B",
+    "explanation": "Fetal erythropoiesis occurs in the liver from 6 weeks to birth."
+  },
+  {
+    "id": 2837,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient's peripheral blood smear shows neutrophils with 7 nuclear lobes and increased MCV. Deficiency of which of the following is most likely responsible for this finding?",
+    "options": [
+      "Iron",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin B6",
+      "Copper"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hypersegmented neutrophils (6+ lobes) are seen in vitamin B12/folate deficiency."
+  },
+  {
+    "id": 2838,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A peripheral blood smear exhibits a leukoerythroblastic reaction with left shift and immature RBCs. What underlying pathological process does this most strongly suggest?",
+    "options": [
+      "Acute bacterial infection",
+      "Vitamin B12 deficiency",
+      "Bone marrow infiltration",
+      "Chronic extravascular hemolysis",
+      "Splenic sequestration"
+    ],
+    "correct_answer": "C",
+    "explanation": "A leukoerythroblastic reaction suggests bone marrow infiltration (eg, myelofibrosis, metastasis)."
+  },
+  {
+    "id": 2839,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 30-year-old patient on prolonged chemotherapy develops severe nausea; they are given an antiemetic that blocks the 5-HT3 receptor. What adverse effect is most closely associated with this drug?",
+    "options": [
+      "Extrapyramidal symptoms",
+      "Hyperprolactinemia",
+      "QT interval prolongation",
+      "Fatigue",
+      "Diarrhea"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ondansetron is a 5-HT3 receptor antagonist associated with QT interval prolongation."
+  },
+  {
+    "id": 2840,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with gastroparesis is given a D2-receptor antagonist that also increases gastric emptying and lower esophageal sphincter tone. What is a notable side effect of this agent?",
+    "options": [
+      "QT interval prolongation",
+      "Constipation",
+      "Extrapyramidal symptoms",
+      "Serotonin syndrome",
+      "Hypoprolactinemia"
+    ],
+    "correct_answer": "C",
+    "explanation": "Metoclopramide is a D2 antagonist used for gastroparesis that can cause extrapyramidal symptoms and hyperprolactinemia."
+  },
+  {
+    "id": 2841,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient aiming for weight loss is prescribed a medication that inhibits gastric and pancreatic lipase. Which side effect is directly caused by the malabsorption profile of this drug?",
+    "options": [
+      "Vitamin C deficiency",
+      "Hypercalcemia",
+      "Steatorrhea",
+      "Constipation",
+      "Central nervous system depression"
+    ],
+    "correct_answer": "C",
+    "explanation": "Orlistat inhibits lipases, causing steatorrhea and decreased absorption of fat-soluble vitamins."
+  },
+  {
+    "id": 2842,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe hepatic encephalopathy is treated with a medication that traps nitrogen in the colon. What is the primary mechanism by which gut microbiota alter this drug to exert its effect?",
+    "options": [
+      "Degradation into short-chain amines",
+      "Hydrolysis into active sulfapyridine",
+      "Degradation into lactic acid and acetic acid",
+      "Conversion into a specific NHE3 inhibitor",
+      "Secretion of intracellular cGMP"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lactulose is degraded by gut microbiota into lactic acid and acetic acid, which promote nitrogen excretion as NH4+."
+  },
+  {
+    "id": 2843,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with chronic constipation is given a medication that acts as a chloride channel activator, leading to increased intestinal fluid secretion. Which drug was most likely prescribed?",
+    "options": [
+      "Linaclotide",
+      "Prucalopride",
+      "Lubiprostone",
+      "Tenapanor",
+      "Bisacodyl"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lubiprostone is a chloride channel activator that increases intestinal fluid secretion."
+  },
+  {
+    "id": 2844,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receives a serotonergic agonist to stimulate enteric nerves for increasing peristalsis. Which drug precisely matches this mechanism?",
+    "options": [
+      "Plecanatide",
+      "Tenapanor",
+      "Prucalopride",
+      "Docusate",
+      "Methylcellulose"
+    ],
+    "correct_answer": "C",
+    "explanation": "Prucalopride is a 5HT4 agonist causing enteric nerve stimulation."
+  },
+  {
+    "id": 2845,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A red blood cell is rapidly transporting carbon dioxide from the periphery to the lungs. Which membrane transport mechanism is directly responsible for exporting the newly formed bicarbonate out of the erythrocyte?",
+    "options": [
+      "Na+/K+ ATPase",
+      "H+/K+ ATPase",
+      "Cl-/HCO3- antiporter",
+      "Na+/H+ exchanger",
+      "Ca2+ ATPase"
+    ],
+    "correct_answer": "C",
+    "explanation": "RBC membranes contain a Cl-/HCO3- antiporter that exports HCO3- to transport CO2 from the periphery to lungs."
+  },
+  {
+    "id": 2846,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Platelets contain dense granules and alpha granules; upon endothelial injury, which substance is exclusively released from the dense granules to facilitate hemostasis?",
+    "options": [
+      "Fibrinogen",
+      "Fibronectin",
+      "Serotonin",
+      "Platelet factor 4",
+      "von Willebrand factor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Dense granules contain Ca2+, ADP, Serotonin, and Histamine (CASH). Alpha granules contain vWF, fibrinogen, fibronectin, platelet factor 4."
+  },
+  {
+    "id": 2847,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A cell type residing in the connective tissue differentiates from circulating monocytes and is highly active in granulomas. What activator primarily stimulates this cell to enhance its killing capability?",
+    "options": [
+      "IL-4",
+      "IL-10",
+      "IFN-gamma",
+      "TGF-beta",
+      "IL-5"
+    ],
+    "correct_answer": "C",
+    "explanation": "Macrophages differentiate from monocytes, participate in granulomas, and are activated by IFN-gamma."
+  },
+  {
+    "id": 2848,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a parasitic helminth infection, and their blood smear shows bilobate nuclei cells with uniform pink granules. Which unique substance produced by these cells is highly toxic to the parasite?",
+    "options": [
+      "Leukotriene B4",
+      "Tryptase",
+      "Kallikrein",
+      "Major basic protein",
+      "Defensins"
+    ],
+    "correct_answer": "D",
+    "explanation": "Eosinophils produce major basic protein (MBP), a helminthotoxin."
+  },
+  {
+    "id": 2849,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient experiences an acute type I hypersensitivity reaction after bee sting, causing dramatic vasodilation. Which cell type directly releases tryptase upon surface IgE cross-linking?",
+    "options": [
+      "Basophil",
+      "Eosinophil",
+      "Neutrophil",
+      "Mast cell",
+      "Macrophage"
+    ],
+    "correct_answer": "D",
+    "explanation": "Mast cells bind IgE and release histamine, heparin, tryptase, and eosinophil chemotactic factors upon degranulation."
+  },
+  {
+    "id": 2850,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old woman with a history of recurrent systemic infections has a blood smear showing highly phagocytic cells that express both MHC class II and Fc receptors, bridging innate and adaptive immunity. Which cells are these?",
+    "options": [
+      "Natural killer cells",
+      "T-cytotoxic cells",
+      "Plasma cells",
+      "Dendritic cells",
+      "Megakaryocytes"
+    ],
+    "correct_answer": "D",
+    "explanation": "Dendritic cells are highly phagocytic APCs that link innate and adaptive immune systems and express MHC II and Fc receptors."
+  },
+  {
+    "id": 2851,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During the third trimester, a normal fetus relies on a specific hemoglobin composed of alpha and gamma chains. What molecular characteristic gives this hemoglobin a higher oxygen affinity than adult hemoglobin?",
+    "options": [
+      "Higher binding affinity for oxygen directly",
+      "Increased binding of Bohr effect protons",
+      "Absence of beta chains entirely",
+      "Less avid binding of 2,3-BPG",
+      "Resistance to competitive carbon monoxide"
+    ],
+    "correct_answer": "D",
+    "explanation": "HbF has higher oxygen affinity due to less avid binding of 2,3-BPG."
+  },
+  {
+    "id": 2852,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A neonate exhibits dark blue, coarse granules in their neutrophils during a severe bacterial infection. Which specific granule contents are responsible for the azurophilic appearance normally found in these cells?",
+    "options": [
+      "Leukocyte alkaline phosphatase",
+      "Collagenase",
+      "Lactoferrin",
+      "Myeloperoxidase",
+      "Major basic protein"
+    ],
+    "correct_answer": "D",
+    "explanation": "Azurophilic granules (lysosomes) in neutrophils contain proteinases, acid phosphatase, myeloperoxidase, and beta-glucuronidase."
+  },
+  {
+    "id": 2853,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 20-year-old female experiences flushing, pruritus, and peptic ulcer disease; laboratory tests reveal elevated serum tryptase. A mutation in which gene is most strongly associated with this condition?",
+    "options": [
+      "BCR-ABL",
+      "JAK2",
+      "BRAF",
+      "c-KIT",
+      "HFE"
+    ],
+    "correct_answer": "D",
+    "explanation": "Mastocytosis is associated with c-KIT mutations and elevated serum tryptase, leading to increased histamine."
+  },
+  {
+    "id": 2854,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A middle-aged man is diagnosed with chronic pancreatitis. Which genetic mutation is most recognized as a major predisposing risk factor for this specific condition?",
+    "options": [
+      "HFE mutation",
+      "ATP7B mutation",
+      "c-KIT mutation",
+      "SPINK1 mutation",
+      "MPO-ANCA positivity"
+    ],
+    "correct_answer": "D",
+    "explanation": "Major risk factors for chronic pancreatitis include alcohol use disorder and genetic predisposition like cystic fibrosis and SPINK1 mutations."
+  },
+  {
+    "id": 2855,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is treated with a medication for chemo-induced vomiting that specifically acts as an antagonist at the neurokinin-1 receptor. Which endogenous ligand normally binds this receptor?",
+    "options": [
+      "Serotonin",
+      "Dopamine",
+      "Gastrin-releasing peptide",
+      "Substance P",
+      "Vasoactive intestinal peptide"
+    ],
+    "correct_answer": "D",
+    "explanation": "Aprepitant/fosaprepitant are NK1 receptor antagonists; NK1 receptor is the substance P receptor."
+  },
+  {
+    "id": 2856,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An elderly woman is prescribed cimetidine for severe gastritis, but she later develops profound confusion and dizziness. What pharmacokinetic property of cimetidine directly causes this adverse effect?",
+    "options": [
+      "Potent inhibition of cytochrome P-450",
+      "Antiandrogenic effects",
+      "Decreased renal excretion of creatinine",
+      "Ability to cross the blood-brain barrier",
+      "Irreversible binding to parietal cell receptors"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cimetidine can cross the blood-brain barrier, leading to confusion, dizziness, and headaches."
+  },
+  {
+    "id": 2857,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with steatorrhea, diabetes mellitus, and fat-soluble vitamin deficiency following long-standing alcohol use disorder. These complications typically manifest when pancreatic function falls below what threshold?",
+    "options": [
+      "50%",
+      "30%",
+      "20%",
+      "10%",
+      "5%"
+    ],
+    "correct_answer": "D",
+    "explanation": "Pancreatic insufficiency typically manifests when <10% of pancreatic function remains."
+  },
+  {
+    "id": 2858,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe abdominal pain radiating to the back has a serum lipase elevated 4 times the upper limit of normal. Which complication of this disease is uniquely lined by granulation tissue rather than epithelium?",
+    "options": [
+      "Pancreatic abscess",
+      "Pancreatic necrosis",
+      "Courvoisier gallbladder",
+      "Porcelain gallbladder",
+      "Pancreatic pseudocyst"
+    ],
+    "correct_answer": "E",
+    "explanation": "Pancreatic pseudocyst is a complication of acute pancreatitis that is lined by granulation tissue, not epithelium."
+  },
+  {
+    "id": 2859,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 35-year-old pregnant patient develops worsening GERD symptoms and is given sucralfate. What precise physiological condition is absolutely required for this drug to successfully bind to the ulcer base?",
+    "options": [
+      "Alkaline environment",
+      "Presence of Helicobacter pylori",
+      "Concurrent proton pump inhibition",
+      "Complete absence of bicarbonate",
+      "Acidic environment"
+    ],
+    "correct_answer": "E",
+    "explanation": "Sucralfate requires an acidic environment to bind the ulcer base and should not be given with PPIs/H2 blockers."
+  },
+  {
+    "id": 2860,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is being treated with sulfasalazine for the colitis component of Crohn disease. Which gut-specific process is required to activate this prodrug?",
+    "options": [
+      "Hydrolysis by pancreatic lipase",
+      "Acidification by parietal cell protons",
+      "Deconjugation by brush border beta-glucuronidase",
+      "Secretion of guanylate cyclase-C",
+      "Cleavage by colonic bacteria"
+    ],
+    "correct_answer": "E",
+    "explanation": "Sulfasalazine is activated by colonic bacteria into sulfapyridine and 5-aminosalicylic acid."
+  },
+  {
+    "id": 2861,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient takes an anti-diarrheal drug that acts as an agonist at mu-opioid receptors to reduce gut motility. Why does this medication have low addictive potential?",
+    "options": [
+      "Rapid hepatic first-pass metabolism",
+      "Simultaneous antagonism of kappa receptors",
+      "Extremely short half-life",
+      "Irreversible receptor binding",
+      "Poor CNS penetration"
+    ],
+    "correct_answer": "E",
+    "explanation": "Loperamide and diphenoxylate have poor CNS penetration, giving them low addictive potential."
+  },
+  {
+    "id": 2862,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with ulcerative colitis receives a drug that acts as a guanylate cyclase-C agonist to increase intestinal lumen fluid secretion. Which side effect is most likely to occur?",
+    "options": [
+      "Steatorrhea",
+      "Constipation",
+      "Extrapyramidal symptoms",
+      "Serotonin syndrome",
+      "Diarrhea"
+    ],
+    "correct_answer": "E",
+    "explanation": "Linaclotide and plecanatide are guanylate cyclase-C agonists used for constipation, and their main adverse effect is diarrhea."
+  },
+  {
+    "id": 2863,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A healthy 25-year-old undergoes a blood draw, and their erythrocytes are found to have a normal life span. What percentage of the glucose utilized by these normal RBCs is specifically directed toward the HMP shunt?",
+    "options": [
+      "95%",
+      "90%",
+      "50%",
+      "30%",
+      "10%"
+    ],
+    "correct_answer": "E",
+    "explanation": "Source of energy in RBCs is glucose: 90% used in glycolysis, 10% used in HMP shunt."
+  },
+  {
+    "id": 2864,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 60-year-old patient with a history of TPN usage develops an infection and subsequently is found to have radiolucent brown pigment stones in the biliary tree. What primarily caused the formation of these specific stones?",
+    "options": [
+      "Hemolysis",
+      "Calcium bilirubinate supersaturation",
+      "Estrogen therapy",
+      "Decreased cholesterol 7-alpha hydroxylase",
+      "Biliary infection"
+    ],
+    "correct_answer": "E",
+    "explanation": "Brown pigment stones are radiolucent and are associated with biliary infections, whereas black stones are radiopaque and associated with hemolysis."
+  },
+  {
+    "id": 2865,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is diagnosed with cholelithiasis, and an ultrasound shows a calcified \"porcelain\" gallbladder resulting from chronic cholecystitis. What type of cancer is this patient at highest risk for developing if left untreated?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma",
+      "Neuroendocrine tumor",
+      "Cholangiocarcinoma",
+      "Adenocarcinoma"
+    ],
+    "correct_answer": "E",
+    "explanation": "Porcelain gallbladder increases the risk of gallbladder cancer, mostly adenocarcinoma."
+  },
+  {
+    "id": 2866,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is suspected to have ascending cholangitis and presents with jaundice, fever, right upper quadrant pain, altered mental status, and hypotension. Which precise eponym describes this entire clinical presentation?",
+    "options": [
+      "Charcot triad",
+      "Rigler triad",
+      "Courvoisier sign",
+      "Trousseau syndrome",
+      "Reynolds pentad"
+    ],
+    "correct_answer": "E",
+    "explanation": "Reynolds pentad is Charcot triad (jaundice, fever, RUQ pain) plus altered mental status and shock (hypotension)."
+  },
+  {
+    "id": 2867,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with migratory thrombophlebitis characterized by redness and tenderness on palpation of the extremities. Which underlying malignancy is classically associated with this specific syndrome?",
+    "options": [
+      "Hepatocellular carcinoma",
+      "Cholangiocarcinoma",
+      "Gallbladder adenocarcinoma",
+      "Gastric lymphoma",
+      "Pancreatic adenocarcinoma"
+    ],
+    "correct_answer": "E",
+    "explanation": "Migratory thrombophlebitis (Trousseau syndrome) is a classic presentation associated with pancreatic adenocarcinoma."
+  },
+  {
+    "id": 2868,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with healthy bone marrow presents with an increased reticulocyte production index and Heinz bodies in peripheral smear. Which finding is also likely expected?",
+    "options": [
+      "Deficient CD55/CD59",
+      "Reduced surface area-to-volume ratio",
+      "Deficient glutathione reduction",
+      "Abnormal \u03b2-globin substitution to lysine",
+      "Presence of Howell-Jolly bodies"
+    ],
+    "correct_answer": "C",
+    "explanation": "Heinz bodies are indicative of G6PD deficiency, which impairs NADPH production and reduces the regeneration of reduced glutathione, causing susceptibility to oxidative stress."
+  },
+  {
+    "id": 2869,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which intervention immediately reverses the delayed coagulation factor defect associated with a drug targeting epoxide reductase?",
+    "options": [
+      "Administration of eculizumab",
+      "Administration of Vitamin K",
+      "Administration of protamine sulfate",
+      "Administration of fresh frozen plasma",
+      "Administration of aminocaproic acid"
+    ],
+    "correct_answer": "D",
+    "explanation": "Warfarin targets epoxide reductase. FFP or prothrombin complex concentrate reverses warfarin's action immediately, whereas Vitamin K administration is delayed."
+  },
+  {
+    "id": 2870,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with acute chest syndrome, dactylitis, and Howell-Jolly bodies. Which substitution mutation occurs in this disease?",
+    "options": [
+      "Glutamine to valine in alpha-globin",
+      "Glutamic acid to lysine in beta-globin",
+      "Glutamic acid to valine in beta-globin",
+      "Valine to glutamic acid in beta-globin",
+      "Lysine to glutamic acid in alpha-globin"
+    ],
+    "correct_answer": "C",
+    "explanation": "Sickle cell anemia is caused by a point mutation leading to a glutamic acid-to-valine substitution in the beta-globin chain."
+  },
+  {
+    "id": 2871,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A child has impaired UMP synthase leading to failure to thrive and megaloblastic anemia. Which finding distinguishes this condition from ornithine transcarbamylase deficiency?",
+    "options": [
+      "Elevated orotic acid in urine",
+      "Absence of hyperammonemia",
+      "Positive response to Vitamin B12",
+      "Reduced homocysteine levels",
+      "Increased mean corpuscular volume"
+    ],
+    "correct_answer": "B",
+    "explanation": "Orotic aciduria presents with orotic acid in the urine without hyperammonemia, distinguishing it from ornithine transcarbamylase deficiency which presents with hyperammonemia."
+  },
+  {
+    "id": 2872,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An abnormal Schilling test points to malabsorption in a patient with megaloblastic anemia. Which neurological tract dysfunction is likely seen?",
+    "options": [
+      "Ventral spinothalamic tract",
+      "Anterior horn cell",
+      "Subacute combined degeneration involving the dorsal column",
+      "Medial longitudinal fasciculus",
+      "Spinoreticular tract"
+    ],
+    "correct_answer": "C",
+    "explanation": "Vitamin B12 deficiency (often tested by Schilling test) causes subacute combined degeneration, involving the spinocerebellar tract, lateral corticospinal tract, and dorsal columns."
+  },
+  {
+    "id": 2873,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A cell expressing CD56 with lytic granules identifies target cells lacking which molecule to induce apoptosis?",
+    "options": [
+      "CD8",
+      "Class II MHC",
+      "Class I MHC",
+      "CD4",
+      "CD3"
+    ],
+    "correct_answer": "C",
+    "explanation": "Natural killer (NK) cells express CD56 and CD16, and they induce apoptosis in cells that do not express class I MHC molecules."
+  },
+  {
+    "id": 2874,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient exhibits bleeding disorders with an isolated deficiency in the factor with the shortest half-life in the Vitamin K-dependent cascade. Which test is prolonged?",
+    "options": [
+      "Thrombin Time",
+      "Activated Partial Thromboplastin Time",
+      "Bleeding Time",
+      "Prothrombin Time",
+      "Reticulocyte index"
+    ],
+    "correct_answer": "D",
+    "explanation": "Factor VII has the shortest half-life of the Vitamin K-dependent factors and its deficiency prolongs the Prothrombin Time (PT)."
+  },
+  {
+    "id": 2875,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following exposure to Mycoplasma pneumoniae, a patient develops painful, blue fingers upon cold exposure. Which antibody primarily mediates this condition?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgD",
+      "IgM"
+    ],
+    "correct_answer": "E",
+    "explanation": "Cold autoimmune hemolytic anemia (AIHA) is primarily mediated by IgM and complement, often seen after Mycoplasma pneumoniae infections."
+  },
+  {
+    "id": 2876,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A genetic defect on chromosome 16 results in the deletion of three alpha-globin genes. Which type of tetramer predominates in this patient?",
+    "options": [
+      "\u03b34 (Hb Barts)",
+      "\u03b24 (HbH)",
+      "\u03b12\u03b22 (HbA)",
+      "\u03b12\u03b32 (HbF)",
+      "\u03b12\u03b42 (HbA2)"
+    ],
+    "correct_answer": "B",
+    "explanation": "Deletion of 3 alpha-globin genes results in Hemoglobin H disease, where excess beta-globin forms \u03b24 tetramers."
+  },
+  {
+    "id": 2877,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A blood smear shows helmet cells and reduced haptoglobin. Which of the following conditions most likely explains this specific intravascular RBC destruction?",
+    "options": [
+      "Autoimmune hemolytic anemia",
+      "Hereditary spherocytosis",
+      "G6PD deficiency",
+      "Microangiopathic hemolytic anemia",
+      "Lead poisoning"
+    ],
+    "correct_answer": "D",
+    "explanation": "Helmet cells (schistocytes) and reduced haptoglobin characterize microangiopathic hemolytic anemias due to mechanical destruction in obstructed vessels."
+  },
+  {
+    "id": 2878,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During hemoglobin electrophoresis, a patient's hemoglobin migrates less toward the anode than normal adult hemoglobin but further than hemoglobin C. Which mutation causes this?",
+    "options": [
+      "Glutamic acid to valine substitution",
+      "Glutamic acid to lysine substitution",
+      "Valine to glutamic acid substitution",
+      "Lysine to glutamic acid substitution",
+      "Proline to valine substitution"
+    ],
+    "correct_answer": "A",
+    "explanation": "HbS migrates further than HbC but less than HbA due to a neutral valine replacing a negative glutamic acid, unlike HbC which replaces it with a positive lysine."
+  },
+  {
+    "id": 2879,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which anti-aggregation factor is directly released by uninjured endothelial cells to limit platelet aggregation?",
+    "options": [
+      "Thromboxane A2",
+      "Prostacyclin (PGI2)",
+      "Adenosine diphosphate (ADP)",
+      "Calcium ions",
+      "Von Willebrand Factor"
+    ],
+    "correct_answer": "B",
+    "explanation": "PGI2 and NO are released by endothelial cells and act as anti-aggregation factors to increase blood flow and decrease platelet aggregation."
+  },
+  {
+    "id": 2880,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with abnormal ristocetin assay results has normal vWF levels. Which receptor defect is the most likely cause of failure of aggregation?",
+    "options": [
+      "P2Y12 receptor",
+      "GpIIb/IIIa receptor",
+      "GpIb receptor",
+      "CD55 receptor",
+      "CD59 receptor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Failure of aggregation with ristocetin in the presence of normal vWF levels points to a deficiency in the GpIb receptor, characteristic of Bernard-Soulier syndrome."
+  },
+  {
+    "id": 2881,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The intrinsic pathway of the coagulation cascade is activated by contact. Which factor directly activates factor XI in this pathway?",
+    "options": [
+      "Factor Xa",
+      "Factor IXa",
+      "Factor XIIa",
+      "Factor VIIa",
+      "Thrombin"
+    ],
+    "correct_answer": "C",
+    "explanation": "In the intrinsic contact activation pathway, Factor XIIa directly activates Factor XI to XIa."
+  },
+  {
+    "id": 2882,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 3-year-old child from an old home presents with wrist drop, abdominal colic, and microcytic anemia. Which enzyme is most likely inhibited?",
+    "options": [
+      "ALA synthase",
+      "Ferrochelatase",
+      "UMP synthase",
+      "Pyruvate kinase",
+      "Glucose-6-phosphate dehydrogenase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lead poisoning inhibits ferrochelatase and ALA dehydratase, causing microcytic sideroblastic anemia, and neurologic symptoms like wrist drop."
+  },
+  {
+    "id": 2883,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pregnant patient develops hypersegmented neutrophils and macrocytic anemia without neurological symptoms. Which compound is elevated in her serum?",
+    "options": [
+      "Methylmalonic acid",
+      "Homocysteine",
+      "Orotic acid",
+      "Uric acid",
+      "Amine oxidase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Folate deficiency causes megaloblastic anemia with elevated homocysteine but normal methylmalonic acid and no neurological symptoms."
+  },
+  {
+    "id": 2884,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A mutation in the Kozak consensus sequence on chromosome 11 reduces beta-globin synthesis. What peripheral smear finding is most likely?",
+    "options": [
+      "Heinz bodies",
+      "Helmet cells",
+      "Target cells",
+      "Degmacytes",
+      "Acanthocytes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Beta-thalassemia can result from promoter (Kozak) mutations, producing microcytic anemia with target cells on peripheral smear."
+  },
+  {
+    "id": 2885,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which condition is associated with an elevated MCHC and decreased mean fluorescence of RBCs in the eosin-5-maleimide binding test?",
+    "options": [
+      "Hereditary spherocytosis",
+      "Sickle cell anemia",
+      "Paroxysmal nocturnal hemoglobinuria",
+      "G6PD deficiency",
+      "Autoimmune hemolytic anemia"
+    ],
+    "correct_answer": "A",
+    "explanation": "Hereditary spherocytosis is characterized by decreased mean fluorescence on EMA binding test, elevated MCHC, and spherocytes."
+  },
+  {
+    "id": 2886,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn presents with early-onset anemia, craniofacial abnormalities, and triphalangeal thumbs. Which laboratory finding characterizes this disease?",
+    "options": [
+      "Increased total hemoglobin",
+      "Increased percentage of HbF",
+      "Hypercellular bone marrow",
+      "Elevated reticulocyte index",
+      "Increased absolute neutrophil count"
+    ],
+    "correct_answer": "B",
+    "explanation": "Diamond-Blackfan anemia features rapid-onset red cell aplasia, physical anomalies like triphalangeal thumbs, and an increased percentage of HbF despite low total hemoglobin."
+  },
+  {
+    "id": 2887,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An 8-month-old infant of Mediterranean descent is transfusion-dependent and shows a 'crew cut' skull x-ray. What primary compensatory mechanism leads to this x-ray finding?",
+    "options": [
+      "Increased intraosseous osteoclast activity",
+      "Extramedullary hematopoiesis",
+      "Marrow expansion from increased erythropoiesis",
+      "Defective skeletal mineralization",
+      "Periosteal elevation by tumor cells"
+    ],
+    "correct_answer": "C",
+    "explanation": "Beta-thalassemia major causes severe anemia resulting in massive marrow expansion from increased erythropoiesis, appearing as a 'crew cut' on skull x-ray."
+  },
+  {
+    "id": 2888,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with rheumatoid arthritis has anemia with low serum iron, low TIBC, and high ferritin. Which molecule mediates the reduction of iron release from macrophages?",
+    "options": [
+      "Transferrin",
+      "Erythropoietin",
+      "Hepcidin",
+      "Ferroportin",
+      "Interleukin-10"
+    ],
+    "correct_answer": "C",
+    "explanation": "In anemia of chronic disease, inflammation increases IL-6 which increases hepcidin release, binding ferroportin and inhibiting iron transport from macrophages and gut."
+  },
+  {
+    "id": 2889,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which anticoagulant effectively blocks ADP-induced expression of GpIIb/IIIa by targeting the P2Y12 receptor?",
+    "options": [
+      "Abciximab",
+      "Eptifibatide",
+      "Aspirin",
+      "Clopidogrel",
+      "Alteplase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Clopidogrel, prasugrel, and ticagrelor block the P2Y12 receptor to inhibit ADP-induced GpIIb/IIIa expression."
+  },
+  {
+    "id": 2890,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient's serum is added to normal RBCs, and Coombs reagent is then added resulting in agglutination. What does this indirect test indicate?",
+    "options": [
+      "The patient has Autoimmune Hemolytic Anemia",
+      "The patient has anti-RBC antibodies in their serum",
+      "The patient's RBCs are coated with antibodies",
+      "The patient is a universal blood donor",
+      "The normal RBCs have a G6PD deficiency"
+    ],
+    "correct_answer": "B",
+    "explanation": "The indirect antiglobulin (Coombs) test detects the presence of anti-RBC antibodies circulating in the patient's serum."
+  },
+  {
+    "id": 2891,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The rule of 8 describes the relationship between T cells and MHC. Which molecule interacts with MHC class I?",
+    "options": [
+      "CD3",
+      "CD4",
+      "CD8",
+      "CD28",
+      "CD19"
+    ],
+    "correct_answer": "C",
+    "explanation": "CD8 is expressed by cytotoxic T cells and recognizes MHC Class I (Rule of 8: MHC I x CD8 = 8)."
+  },
+  {
+    "id": 2892,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which cell type originates from bone marrow stem cells, matures in the thymus, and expresses CD4 and CD3?",
+    "options": [
+      "Natural killer cell",
+      "Helper T cell",
+      "Cytotoxic T cell",
+      "B cell",
+      "Plasma cell"
+    ],
+    "correct_answer": "B",
+    "explanation": "Helper T cells mediate cellular immunity, mature in the thymus, and express CD3 and CD4."
+  },
+  {
+    "id": 2893,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Acquired PIGA mutation causes a lack of GPI anchors on RBCs, making them susceptible to complement. Which specific terminal protein does eculizumab target for treatment?",
+    "options": [
+      "C3a",
+      "C3b",
+      "C5",
+      "C5a",
+      "C9"
+    ],
+    "correct_answer": "C",
+    "explanation": "Eculizumab targets the terminal complement protein C5, used in treating paroxysmal nocturnal hemoglobinuria (PNH)."
+  },
+  {
+    "id": 2894,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with persistent craving for nonfood substances (pica) and spoon nails. Iron studies would most likely show which combination?",
+    "options": [
+      "High iron, low TIBC, high ferritin",
+      "Low iron, high TIBC, low ferritin",
+      "Low iron, low TIBC, high ferritin",
+      "High iron, high TIBC, low ferritin",
+      "Normal iron, low TIBC, low ferritin"
+    ],
+    "correct_answer": "B",
+    "explanation": "These symptoms denote iron deficiency anemia, which is characterized by low serum iron, high TIBC, and low ferritin."
+  },
+  {
+    "id": 2895,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An asymptomatic 5-year-old child shows increased RBC counts, normal iron levels, and a microcytic pattern. They have two deleted alpha-globin genes in trans. What is the clinical diagnosis?",
+    "options": [
+      "Alpha-thalassemia minima",
+      "Hemoglobin H disease",
+      "Hemoglobin Barts disease",
+      "Alpha-thalassemia minor",
+      "Beta-thalassemia minor"
+    ],
+    "correct_answer": "D",
+    "explanation": "Alpha-thalassemia minor is caused by the deletion of two alpha-globin genes (can be cis or trans) causing a mild microcytic, hypochromic anemia."
+  },
+  {
+    "id": 2896,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A peripheral smear reveals RBCs with projections of varying size at irregular intervals (asymmetric). What is a possible cause of these acanthocytes?",
+    "options": [
+      "Pyruvate kinase deficiency",
+      "End-stage renal disease",
+      "G6PD deficiency",
+      "Abetalipoproteinemia",
+      "Myelofibrosis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Acanthocytes or 'spur cells' are asymmetric and associated with liver disease, abetalipoproteinemia, and vitamin E deficiency."
+  },
+  {
+    "id": 2897,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which inclusion body consists of basophilic nuclear remnants that do not contain iron and is seen in asplenia?",
+    "options": [
+      "Howell-Jolly bodies",
+      "Pappenheimer bodies",
+      "Heinz bodies",
+      "Basophilic stippling",
+      "Ringed sideroblasts"
+    ],
+    "correct_answer": "A",
+    "explanation": "Howell-Jolly bodies are basophilic nuclear remnants found in RBCs after splenectomy or functional hyposplenia."
+  },
+  {
+    "id": 2898,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with suspected aplastic anemia shows pancytopenia and hypocellular bone marrow. Which clinical feature points to Fanconi anemia as the specific underlying cause?",
+    "options": [
+      "Autosomal dominant inheritance pattern",
+      "Macrocytosis on CBC without other cytopenias",
+      "Predisposition to malignancy and radial defects",
+      "Elevated reticulocyte production index",
+      "T-cell receptor somatic mutations"
+    ],
+    "correct_answer": "C",
+    "explanation": "Fanconi anemia is an autosomal recessive DNA repair defect causing aplastic anemia, short stature, radial/thumb defects, and malignancy predisposition."
+  },
+  {
+    "id": 2899,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which regulatory anticoagulant proteins require vitamin K-dependent gamma-glutamyl carboxylation for their synthesis?",
+    "options": [
+      "Factor VIII and von Willebrand Factor",
+      "Factors II and VII",
+      "Antithrombin III and Heparin",
+      "Proteins C and S",
+      "Plasminogen and Tissue Plasminogen Activator"
+    ],
+    "correct_answer": "D",
+    "explanation": "Proteins C and S are the main regulatory anticoagulant proteins synthesized in a vitamin K-dependent manner."
+  },
+  {
+    "id": 2900,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An adolescent with severe hemolysis following exposure to trimethoprim-sulfamethoxazole exhibits bite cells. The pathogenesis involves a failure to generate which of the following?",
+    "options": [
+      "Oxidized glutathione",
+      "Reduced NADP+",
+      "Reduced glutathione",
+      "Reactive oxygen species",
+      "Hemoglobin tetramers"
+    ],
+    "correct_answer": "C",
+    "explanation": "G6PD deficiency limits NADPH production, leading to decreased levels of reduced glutathione, which makes RBCs susceptible to oxidative damage."
+  },
+  {
+    "id": 2901,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The classic triad of Plummer-Vinson syndrome consists of iron deficiency anemia, esophageal webs, and which other symptom?",
+    "options": [
+      "Cheilosis",
+      "Restless leg syndrome",
+      "Dysphagia",
+      "Koilonychia",
+      "Glossitis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Plummer-Vinson syndrome includes the triad of iron deficiency anemia, esophageal webs, and dysphagia."
+  },
+  {
+    "id": 2902,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which factor's half-life is the longest among the vitamin K-dependent coagulation factors?",
+    "options": [
+      "Factor VII",
+      "Factor IX",
+      "Factor X",
+      "Factor II",
+      "Protein C"
+    ],
+    "correct_answer": "D",
+    "explanation": "Factor II has the longest half-life among the vitamin K-dependent coagulation factors, while Factor VII has the shortest."
+  },
+  {
+    "id": 2903,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a history of Crohn's disease presents with reversible dementia and macrocytic anemia. What explains the neurological dysfunction?",
+    "options": [
+      "Impaired DNA repair mechanisms",
+      "Decreased production of tetrahydrofolate",
+      "Accumulation of methylmalonic acid impairing myelin synthesis",
+      "Direct viral destruction of dorsal columns",
+      "Autoimmune targeting of peripheral nerves"
+    ],
+    "correct_answer": "C",
+    "explanation": "Vitamin B12 deficiency elevates methylmalonic acid (unlike folate deficiency), which disrupts myelin synthesis leading to subacute combined degeneration."
+  },
+  {
+    "id": 2904,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Desmopressin promotes the release of which two factors from endothelial cells to aid in coagulation?",
+    "options": [
+      "Factor VIII and von Willebrand Factor",
+      "Factor IX and Factor VIII",
+      "von Willebrand Factor and Prostacyclin",
+      "Factor II and Factor VII",
+      "Tissue factor and Factor V"
+    ],
+    "correct_answer": "A",
+    "explanation": "Desmopressin (dDAVP) stimulates the release of vWF and Factor VIII from Weibel-Palade bodies in endothelial cells."
+  },
+  {
+    "id": 2905,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During platelet plug formation, vWF binds to subendothelial collagen. From which structures is vWF primarily released?",
+    "options": [
+      "Weibel-Palade bodies and alpha-granules",
+      "Dense granules and lysosomes",
+      "Ribosomes and Golgi apparatus",
+      "Mitochondria and rough endoplasmic reticulum",
+      "Neutrophil specific granules"
+    ],
+    "correct_answer": "A",
+    "explanation": "vWF is produced and released from Weibel-Palade bodies of endothelial cells and alpha-granules of platelets."
+  },
+  {
+    "id": 2906,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In the intrinsic pathway's kinin cascade, kallikrein has what direct effect on bradykinin?",
+    "options": [
+      "Inactivates bradykinin",
+      "Activates bradykinin",
+      "Competitively inhibits bradykinin",
+      "Cleaves bradykinin to angiotensin",
+      "Binds to the bradykinin receptor"
+    ],
+    "correct_answer": "B",
+    "explanation": "Kallikrein activates bradykinin (which increases vasodilation, permeability, and pain). ACE inactivates it."
+  },
+  {
+    "id": 2907,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An inherited deficiency of Factor IX results in Hemophilia B. How is this disease inherited?",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked dominant",
+      "X-linked recessive",
+      "Mitochondrial"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hemophilia A (Factor VIII) and Hemophilia B (Factor IX) are inherited in an X-linked recessive pattern."
+  },
+  {
+    "id": 2908,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Glucocorticoids cause specific changes in leukocyte counts. Which cell type's absolute count increases in the bloodstream due to impaired migration out of the vasculature?",
+    "options": [
+      "Eosinophils",
+      "Lymphocytes",
+      "Monocytes",
+      "Neutrophils",
+      "Basophils"
+    ],
+    "correct_answer": "D",
+    "explanation": "Glucocorticoids cause neutrophilia by reducing activation of neutrophil adhesion molecules, impairing their migration out of the vasculature."
+  },
+  {
+    "id": 2909,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Parvovirus B19 infection typically induces which crisis in patients with hereditary spherocytosis or sickle cell anemia?",
+    "options": [
+      "Vaso-occlusive crisis",
+      "Sequestration crisis",
+      "Aplastic crisis",
+      "Megaloblastic crisis",
+      "Hyperhemolytic crisis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Parvovirus B19 targets erythroid precursors, causing a transient aplastic crisis in patients with chronic hemolytic anemias."
+  },
+  {
+    "id": 2910,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A newborn lacks enteric bacteria, leading to a deficiency in vitamin K. Which step in coagulation factor maturation is directly impaired?",
+    "options": [
+      "Gamma-glutamyl carboxylation",
+      "Epoxide reduction",
+      "Serine phosphorylation",
+      "Peptide cleavage",
+      "Disulfide bond formation"
+    ],
+    "correct_answer": "A",
+    "explanation": "Vitamin K is a cofactor for the gamma-glutamyl carboxylase enzyme, which carboxylates factors II, VII, IX, X, C, and S to activate them."
+  },
+  {
+    "id": 2911,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which abnormal RBC morphology is characteristically associated with bone marrow infiltration, such as in myelofibrosis, where cells are mechanically squeezed out?",
+    "options": [
+      "Acanthocytes",
+      "Echinocytes",
+      "Dacrocytes",
+      "Schistocytes",
+      "Elliptocytes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Dacrocytes, or teardrop cells, form as RBCs shed a 'tear' being mechanically squeezed out of an infiltrated bone marrow space."
+  },
+  {
+    "id": 2912,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Anemia of chronic disease often starts as normocytic but can become microcytic. Which lab finding clearly distinguishes it from late iron deficiency anemia?",
+    "options": [
+      "Decreased ferritin",
+      "Decreased serum iron",
+      "Increased total iron binding capacity",
+      "Decreased total iron binding capacity",
+      "Increased transferrin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Anemia of chronic disease features a decreased TIBC and increased/normal ferritin, whereas iron deficiency anemia features an increased TIBC and decreased ferritin."
+  },
+  {
+    "id": 2913,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A mutation causing a glutamic acid-to-lysine substitution in beta-globin leads to which disease?",
+    "options": [
+      "Sickle cell anemia",
+      "Hemoglobin C disease",
+      "Beta-thalassemia",
+      "Alpha-thalassemia",
+      "Hemoglobin Barts"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hemoglobin C disease involves a missense mutation where glutamic acid is replaced by lysine, unlike Sickle Cell which substitutes with valine."
+  },
+  {
+    "id": 2914,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "What is the normal physiological function of the CD28 receptor on T cells?",
+    "options": [
+      "Acts as the primary target for HIV",
+      "Recognizes MHC class II molecules",
+      "Provides the necessary costimulatory signal for T-cell activation",
+      "Mediates the humoral immune response directly",
+      "Produces large amounts of target-specific antibody"
+    ],
+    "correct_answer": "C",
+    "explanation": "CD28 provides the secondary costimulatory signal required for the activation of T cells."
+  },
+  {
+    "id": 2915,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Hemoglobin SC disease results from possessing one mutant gene for HbS and one for HbC. How does its clinical severity generally compare to HbSS disease?",
+    "options": [
+      "It is invariably fatal in utero",
+      "It causes far more severe vaso-occlusive crises",
+      "It is completely asymptomatic without exception",
+      "It is clinically milder than HbSS disease",
+      "It rapidly progresses to acute leukemia"
+    ],
+    "correct_answer": "D",
+    "explanation": "HbSC disease presents as a milder form of sickle cell disease compared to homozygous HbSS."
+  },
+  {
+    "id": 2916,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A defect in pyruvate kinase leads to rigid RBCs and extravascular hemolysis. Which intermediate increases in this deficiency, causing decreased hemoglobin affinity for O2?",
+    "options": [
+      "1,3-bisphosphoglycerate",
+      "2,3-bisphosphoglycerate",
+      "Glucose-6-phosphate",
+      "Phosphoenolpyruvate",
+      "Fructose-1,6-bisphosphate"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pyruvate kinase deficiency increases levels of upstream intermediates including 2,3-BPG, which binds to hemoglobin and decreases its affinity for oxygen."
+  },
+  {
+    "id": 2917,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which hematological finding is characterized by basophilic granules containing iron and is specifically seen in sideroblastic anemia on a peripheral smear?",
+    "options": [
+      "Howell-Jolly bodies",
+      "Pappenheimer bodies",
+      "Heinz bodies",
+      "Basophilic stippling",
+      "Degmacytes"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pappenheimer bodies are basophilic granules containing iron seen on peripheral smears in sideroblastic anemia. Basophilic stippling does not contain iron."
+  },
+  {
+    "id": 2918,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An adult worker exposed to ammunition presents with microcytic anemia and memory loss. Which substrate uniquely accumulates in their blood?",
+    "options": [
+      "A. Uroporphyrin",
+      "B. Coproporphyrinogen III",
+      "C. Porphobilinogen",
+      "D. Aminolevulinic acid",
+      "E. Hydroxymethylbilane"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lead poisoning inhibits ALA dehydratase and ferrochelatase, leading to the accumulation of protoporphyrin and aminolevulinic acid (ALA)."
+  },
+  {
+    "id": 2919,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 35-year-old female taking CYP450 inducers develops acute psychological disturbances and dark urine. Which enzyme is genetically defective?",
+    "options": [
+      "A. ALA synthase",
+      "B. Porphobilinogen deaminase",
+      "C. Uroporphyrinogen decarboxylase",
+      "D. Ferrochelatase",
+      "E. ALA dehydratase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Acute intermittent porphyria is caused by a dominant mutation in porphobilinogen deaminase."
+  },
+  {
+    "id": 2920,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with tea-colored urine and cutaneous photosensitivity avoids the sun. Which condition most prominently exacerbates their underlying disease?",
+    "options": [
+      "A. Starvation",
+      "B. Glucose infusion",
+      "C. Hepatitis C infection",
+      "D. Hemin administration",
+      "E. Lead exposure"
+    ],
+    "correct_answer": "C",
+    "explanation": "Porphyria cutanea tarda is exacerbated by alcohol, hepatitis C, and familial factors."
+  },
+  {
+    "id": 2921,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A toddler accidentally ingests radiopaque pills, resulting in hematemesis and anion gap metabolic acidosis. What cellular mechanism directly causes their multiorgan failure?",
+    "options": [
+      "A. Intracellular calcium sequestration",
+      "B. Defective \u03b3-carboxylation",
+      "C. Peroxidation of membrane lipids",
+      "D. Competitive inhibition of cytochrome oxidase",
+      "E. Accumulation of uremic toxins"
+    ],
+    "correct_answer": "C",
+    "explanation": "Acute iron poisoning causes cell death via free radical formation and lipid peroxidation."
+  },
+  {
+    "id": 2922,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An adult male bleeds profusely after trauma; his PTT is prolonged but corrects with normal plasma. Which deficiency exhibits an autosomal recessive inheritance?",
+    "options": [
+      "A. Factor VIII",
+      "B. Factor IX",
+      "C. Factor XI",
+      "D. Factor VII",
+      "E. von Willebrand factor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Hemophilia C is a deficiency of factor XI and is autosomal recessive, unlike X-linked Hemophilia A and B."
+  },
+  {
+    "id": 2923,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with a normal platelet count but large platelets and prolonged bleeding time. Which molecular interaction is fundamentally impaired?",
+    "options": [
+      "A. Platelet-to-platelet aggregation via GpIIb/IIIa",
+      "B. Platelet-to-vWF adhesion via GpIb",
+      "C. Fibrinogen conversion to fibrin",
+      "D. ADAMTS13 cleavage of vWF",
+      "E. Splenic macrophage phagocytosis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bernard-Soulier syndrome lacks GpIb, impairing platelet-to-vWF adhesion."
+  },
+  {
+    "id": 2924,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An adult with frequent epistaxis and no platelet clumping on blood smear has a normal platelet count. Which functional integrin is most likely deficient?",
+    "options": [
+      "A. Integrin alphaIIb-beta3",
+      "B. Integrin alphaV-beta3",
+      "C. Integrin alpha4-beta1",
+      "D. Glycoprotein Ib",
+      "E. ADAMTS13"
+    ],
+    "correct_answer": "A",
+    "explanation": "Glanzmann thrombasthenia involves a defect in GpIIb/IIIa (integrin alphaIIb-beta3)."
+  },
+  {
+    "id": 2925,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 40-year-old female with SLE develops petechiae; bone marrow biopsy shows increased megakaryocytes. What is the primary therapeutic mechanism for her refractory condition?",
+    "options": [
+      "A. Desmopressin administration",
+      "B. Plasma exchange",
+      "C. Splenectomy",
+      "D. Cryoprecipitate infusion",
+      "E. Phlebotomy"
+    ],
+    "correct_answer": "C",
+    "explanation": "In ITP, splenic macrophages phagocytose platelets; splenectomy is indicated for refractory cases."
+  },
+  {
+    "id": 2926,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with severe renal failure exhibits unexplained microhemorrhages and normal platelet counts. Which coagulation parameter is exclusively altered?",
+    "options": [
+      "A. Prothrombin time",
+      "B. Partial thromboplastin time",
+      "C. Thrombin time",
+      "D. Bleeding time",
+      "E. Fibrin degradation products"
+    ],
+    "correct_answer": "D",
+    "explanation": "Uremic toxins interfere with platelet adhesion, prolonging only the bleeding time."
+  },
+  {
+    "id": 2927,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 25-year-old presents with fever, seizures, and microangiopathic hemolytic anemia. Coagulation pathways are functionally intact. Which metalloprotease is deficient?",
+    "options": [
+      "A. Plasminogen activator",
+      "B. Matrix metalloproteinase-9",
+      "C. ADAMTS13",
+      "D. Urokinase",
+      "E. Thrombin"
+    ],
+    "correct_answer": "C",
+    "explanation": "TTP is characterized by ADAMTS13 deficiency, leaving PT/PTT normal."
+  },
+  {
+    "id": 2928,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with heavy menses receives desmopressin, correcting their prolonged bleeding time. What is the primary role of the defective protein?",
+    "options": [
+      "A. Cross-linking fibrin polymers",
+      "B. Carrying and protecting factor VIII",
+      "C. Activating factor X",
+      "D. Inhibiting plasmin",
+      "E. Cleaving large multimers"
+    ],
+    "correct_answer": "B",
+    "explanation": "vWF mediates platelet adhesion and protects factor VIII in von Willebrand disease."
+  },
+  {
+    "id": 2929,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following an obstetric complication, a patient's puncture sites continuously ooze blood. Which laboratory finding confirms widespread consumption of clotting factors?",
+    "options": [
+      "A. Decreased D-dimers",
+      "B. Increased fibrinogen",
+      "C. Decreased factor V",
+      "D. Decreased bleeding time",
+      "E. Increased platelet count"
+    ],
+    "correct_answer": "C",
+    "explanation": "DIC consumes clotting factors, leading to decreased factor V, VIII, and fibrinogen."
+  },
+  {
+    "id": 2930,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with recurrent cerebral vein thrombosis has a point mutation at Arg506Gln. Which physiological mechanism fails to degrade the mutant factor?",
+    "options": [
+      "A. Antithrombin III inhibition",
+      "B. Plasmin cleavage",
+      "C. Activated protein C resistance",
+      "D. Macrophage phagocytosis",
+      "E. Thrombin activation"
+    ],
+    "correct_answer": "C",
+    "explanation": "Factor V Leiden mutation makes Factor V resistant to degradation by activated protein C."
+  },
+  {
+    "id": 2931,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pregnant woman requires immediate anticoagulation for a pulmonary embolism. Which agent safely accelerates the primary action of antithrombin?",
+    "options": [
+      "A. Warfarin",
+      "B. Heparin",
+      "C. Dabigatran",
+      "D. Apixaban",
+      "E. Argatroban"
+    ],
+    "correct_answer": "B",
+    "explanation": "Heparin activates antithrombin and does not cross the placenta, making it safe in pregnancy."
+  },
+  {
+    "id": 2932,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient on prolonged unfractionated heparin therapy develops a rapidly declining platelet count on day 8. Which target is recognized by the newly formed IgG antibodies?",
+    "options": [
+      "A. GpIIb/IIIa",
+      "B. GpIb",
+      "C. Heparin-bound platelet factor 4",
+      "D. Prothrombin",
+      "E. vWF multimers"
+    ],
+    "correct_answer": "C",
+    "explanation": "HIT type 2 is mediated by IgG antibodies against the heparin-platelet factor 4 complex."
+  },
+  {
+    "id": 2933,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient on warfarin develops widespread skin necrosis within 48 hours. Which underlying deficiency predisposes to this rapid microthrombosis?",
+    "options": [
+      "A. Factor VII",
+      "B. Protein S",
+      "C. Antithrombin",
+      "D. Protein C",
+      "E. Plasminogen"
+    ],
+    "correct_answer": "D",
+    "explanation": "Protein C depletes faster than factors II and X, causing a transient hypercoagulable state."
+  },
+  {
+    "id": 2934,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An older patient with atrial fibrillation is prescribed an oral direct factor Xa inhibitor. Which agent serves as its specific reversal agent?",
+    "options": [
+      "A. Protamine sulfate",
+      "B. Idarucizumab",
+      "C. Vitamin K",
+      "D. Andexanet alfa",
+      "E. Aminocaproic acid"
+    ],
+    "correct_answer": "D",
+    "explanation": "Andexanet alfa is the reversal agent for direct factor Xa inhibitors."
+  },
+  {
+    "id": 2935,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 5-year-old child given an antiplatelet drug for a febrile illness develops fulminant liver failure. Which mechanism explains the drug's action?",
+    "options": [
+      "A. ADP receptor blockade",
+      "B. Phosphodiesterase inhibition",
+      "C. Irreversible COX inhibition",
+      "D. Reversible GpIIb/IIIa blockade",
+      "E. Plasminogen activation"
+    ],
+    "correct_answer": "C",
+    "explanation": "Aspirin irreversibly blocks COX and can cause Reye syndrome in children."
+  },
+  {
+    "id": 2936,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient undergoing percutaneous coronary intervention receives a drug that blocks the ADP (P2Y12) receptor. Which of the following is this drug?",
+    "options": [
+      "A. Eptifibatide",
+      "B. Ticagrelor",
+      "C. Tirofiban",
+      "D. Cilostazol",
+      "E. Dipyridamole"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ticagrelor, clopidogrel, and prasugrel block the ADP (P2Y12) receptor."
+  },
+  {
+    "id": 2937,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A stroke patient receives an agent that directly aids conversion of plasminogen to plasmin. Which laboratory parameter remains unchanged?",
+    "options": [
+      "A. Prothrombin time",
+      "B. Partial thromboplastin time",
+      "C. Fibrin degradation products",
+      "D. Platelet count",
+      "E. Thrombin time"
+    ],
+    "correct_answer": "D",
+    "explanation": "Thrombolytics increase PT and PTT and alter fibrin products, but have no effect on platelet count."
+  },
+  {
+    "id": 2938,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with non-contiguous spread of multiple involved lymph nodes has an extranodal mass. Which characteristic differentiates this from Hodgkin lymphoma?",
+    "options": [
+      "A. Presence of Reed-Sternberg cells",
+      "B. Contiguous spread",
+      "C. Single group of localized nodes",
+      "D. Majority involve B cells without Reed-Sternberg cells",
+      "E. Bimodal age distribution"
+    ],
+    "correct_answer": "D",
+    "explanation": "Non-Hodgkin lymphoma involves noncontiguous spread and lacks RS cells, predominantly involving B cells."
+  },
+  {
+    "id": 2939,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 22-year-old presents with a painless neck mass; biopsy reveals distinct tumor giant cells with bilobed nuclei. Which surface markers are diagnostic?",
+    "options": [
+      "A. CD19+ and CD20+",
+      "B. CD5+ and CD23+",
+      "C. CD15+ and CD30+",
+      "D. CD1a+ and S-100+",
+      "E. TdT+ and CD10+"
+    ],
+    "correct_answer": "C",
+    "explanation": "Reed-Sternberg cells are classically CD15+ and CD30+."
+  },
+  {
+    "id": 2940,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which subtype of Hodgkin lymphoma is most frequently associated with marked eosinophilia and immunocompromised states?",
+    "options": [
+      "A. Nodular sclerosis",
+      "B. Mixed cellularity",
+      "C. Lymphocyte rich",
+      "D. Lymphocyte depleted",
+      "E. Nodular lymphocyte predominant"
+    ],
+    "correct_answer": "B",
+    "explanation": "Mixed cellularity Hodgkin lymphoma is associated with eosinophilia and seen in immunocompromised patients."
+  },
+  {
+    "id": 2941,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A lymph node biopsy shows a t(14;18) translocation causing indolent, waxing and waning adenopathy. Which cellular mechanism is inhibited by the overexpressed gene?",
+    "options": [
+      "A. Cell cycle progression",
+      "B. DNA replication",
+      "C. Apoptosis",
+      "D. Microtubule disassembly",
+      "E. Topoisomerase II activity"
+    ],
+    "correct_answer": "C",
+    "explanation": "Follicular lymphoma overexpresses BCL-2, which normally inhibits apoptosis."
+  },
+  {
+    "id": 2942,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with advanced gastric MALT lymphoma tests positive for H. pylori. Which translocation is typically associated with this malignancy?",
+    "options": [
+      "A. t(8;14)",
+      "B. t(11;14)",
+      "C. t(11;18)",
+      "D. t(15;17)",
+      "E. t(9;22)"
+    ],
+    "correct_answer": "C",
+    "explanation": "Marginal zone lymphoma is associated with t(11;18) and chronic inflammatory states."
+  },
+  {
+    "id": 2943,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An adult male presents with a very aggressive lymphoma. Genetics reveal a t(11;14) translocation. Which gene is aberrantly overexpressed?",
+    "options": [
+      "A. c-myc",
+      "B. Cyclin D1",
+      "C. BCL-2",
+      "D. BCL-6",
+      "E. BCR-ABL"
+    ],
+    "correct_answer": "B",
+    "explanation": "Mantle cell lymphoma involves a t(11;14) translocation, overexpressing Cyclin D1."
+  },
+  {
+    "id": 2944,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An older patient with back pain has hypercalcemia and monoclonal light chains in their urine. What is the typical appearance of the predominant marrow cell's chromatin?",
+    "options": [
+      "A. Cerebriform",
+      "B. Bilobed",
+      "C. Starry sky",
+      "D. Clock-face",
+      "E. Hair-like projections"
+    ],
+    "correct_answer": "D",
+    "explanation": "Multiple myeloma features monoclonal plasma cells with 'clock-face' chromatin."
+  },
+  {
+    "id": 2945,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 70-year-old presents with headaches and ataxia. Serum electrophoresis shows an IgM spike without lytic bone lesions. What retinal finding is characteristic?",
+    "options": [
+      "A. Cherry-red spot",
+      "B. Flame-shaped hemorrhages",
+      "C. Sausage link appearance of veins",
+      "D. Cotton-wool spots",
+      "E. Optic disc pallor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Waldenstr\u00f6m macroglobulinemia causes hyperviscosity, leading to segmented 'sausage link' retinal veins."
+  },
+  {
+    "id": 2946,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 65-year-old asymptomatic patient has an M spike of 2.0 g/dL without end-organ damage. What is the estimated yearly risk of malignant progression?",
+    "options": [
+      "A. Less than 0.5%",
+      "B. 1-2%",
+      "C. 5-10%",
+      "D. 20-25%",
+      "E. 50%"
+    ],
+    "correct_answer": "B",
+    "explanation": "MGUS has a 1-2% risk per year of progressing to multiple myeloma."
+  },
+  {
+    "id": 2947,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An adult patient presents with massive splenomegaly and a dry bone marrow tap. Neoplastic cells stain positive for TRAP. Which genetic mutation is closely associated?",
+    "options": [
+      "A. JAK2",
+      "B. MYC",
+      "C. BRAF",
+      "D. BCR-ABL",
+      "E. BCL-2"
+    ],
+    "correct_answer": "C",
+    "explanation": "Hairy cell leukemia is associated with BRAF mutations and stains TRAP positive."
+  },
+  {
+    "id": 2948,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 4-year-old with Down syndrome presents with severe anemia. Bone marrow blasts express TdT. Which translocation implies a favorable prognosis?",
+    "options": [
+      "A. t(9;22)",
+      "B. t(12;21)",
+      "C. t(15;17)",
+      "D. t(8;14)",
+      "E. t(11;14)"
+    ],
+    "correct_answer": "B",
+    "explanation": "In acute lymphoblastic leukemia (ALL), the t(12;21) translocation portends a better prognosis."
+  },
+  {
+    "id": 2949,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 65-year-old has painless adenopathy and a peripheral smear showing 'smudge cells'. This condition is a neoplasm of which specific cell phenotype?",
+    "options": [
+      "A. CD5+ and CD20+ B cells",
+      "B. CD1a+ and S-100+ cells",
+      "C. CD15+ and CD30+ B cells",
+      "D. TdT+ and CD10+ lymphoblasts",
+      "E. Myeloperoxidase+ myeloblasts"
+    ],
+    "correct_answer": "A",
+    "explanation": "Chronic lymphocytic leukemia is a CD20+, CD23+, CD5+ B-cell neoplasm featuring smudge cells."
+  },
+  {
+    "id": 2950,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with a t(15;17) translocation presents with widespread microthrombi. Which specific agent induces differentiation of these malignant cells?",
+    "options": [
+      "A. Imatinib",
+      "B. Cladribine",
+      "C. All-trans retinoic acid",
+      "D. Rituximab",
+      "E. Ruxolitinib"
+    ],
+    "correct_answer": "C",
+    "explanation": "APL responds to all-trans retinoic acid and arsenic trioxide, which induce differentiation."
+  },
+  {
+    "id": 2951,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with dysregulated granulocyte production and splenomegaly harbors a BCR-ABL fusion. Which phase of cell division is primarily targeted by its standard curative drug?",
+    "options": [
+      "A. Target is topoisomerase II in G2",
+      "B. Drug is a tyrosine kinase inhibitor, not cell cycle specific",
+      "C. Target is microtubule disassembly in M phase",
+      "D. Drug acts on S phase by inhibiting ribonucleotide reductase",
+      "E. Drug prevents G1 progression by inhibiting CDKs"
+    ],
+    "correct_answer": "B",
+    "explanation": "CML is treated with imatinib, a tyrosine kinase inhibitor that is not cell cycle specific."
+  },
+  {
+    "id": 2952,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with intense itching after bathing and episodic severe burning pain in their toes. Which mutation is most likely responsible?",
+    "options": [
+      "A. BCR-ABL",
+      "B. JAK2",
+      "C. c-myc",
+      "D. BCL-6",
+      "E. Cyclin D1"
+    ],
+    "correct_answer": "B",
+    "explanation": "Polycythemia vera presents with aquagenic pruritus, erythromelalgia, and is driven by a JAK2 mutation."
+  },
+  {
+    "id": 2953,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with reactive neutrophilia >50,000 cells/mm3 due to severe infection, which characteristic distinguishes it from chronic myelogenous leukemia?",
+    "options": [
+      "A. Decreased LAP score",
+      "B. Increased eosinophils",
+      "C. High LAP score",
+      "D. Presence of Philadelphia chromosome",
+      "E. Pseudo-Pelger-Huet anomaly"
+    ],
+    "correct_answer": "C",
+    "explanation": "A leukemoid reaction has a high LAP score, whereas CML has a low LAP score."
+  },
+  {
+    "id": 2954,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An athlete abuses synthetic androgens. What is the expected pattern of their RBC mass, O2 saturation, and EPO levels?",
+    "options": [
+      "A. Normal RBC mass, low O2 sat, high EPO",
+      "B. High RBC mass, normal O2 sat, high EPO",
+      "C. High RBC mass, normal O2 sat, low EPO",
+      "D. Low RBC mass, normal O2 sat, normal EPO",
+      "E. High RBC mass, low O2 sat, high EPO"
+    ],
+    "correct_answer": "B",
+    "explanation": "Exogenous androgens cause inappropriate absolute polycythemia with high RBC mass, normal O2 saturation, and high EPO."
+  },
+  {
+    "id": 2955,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A toddler presents with a mastoid bone mass. Electron microscopy of the biopsy reveals tennis racket-shaped granules. What functional capacity do these neoplastic cells lack?",
+    "options": [
+      "A. Production of specific antibodies",
+      "B. Effective stimulation of primary T cells",
+      "C. Secretion of large von Willebrand multimers",
+      "D. Synthesis of porphobilinogen",
+      "E. Phagocytosis of encapsulated bacteria"
+    ],
+    "correct_answer": "B",
+    "explanation": "Langerhans cell histiocytosis features immature antigen-presenting cells that fail to effectively stimulate primary T cells."
+  },
+  {
+    "id": 2956,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following aggressive induction therapy for lymphoma, a patient experiences muscle weakness and ECG changes. Which prophylactic intervention directly prevents the associated acute kidney injury?",
+    "options": [
+      "A. IV calcium gluconate",
+      "B. Potassium-binding resins",
+      "C. Rasburicase",
+      "D. Sodium bicarbonate",
+      "E. Aluminum hydroxide"
+    ],
+    "correct_answer": "C",
+    "explanation": "Tumor lysis syndrome causes hyperuricemia leading to AKI. Rasburicase and allopurinol prevent this."
+  },
+  {
+    "id": 2957,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A chemotherapeutic agent directly breaks DNA strands and is G2/M phase specific. Which severe adverse effect is uniquely associated with this drug?",
+    "options": [
+      "A. Hemorrhagic cystitis",
+      "B. Pulmonary fibrosis",
+      "C. Dilated cardiomyopathy",
+      "D. Hand-foot syndrome",
+      "E. Folate deficiency"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bleomycin causes DNA strand breaks, is G2/M specific, and leads to pulmonary fibrosis."
+  },
+  {
+    "id": 2958,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient receiving an intercalator that inhibits topoisomerase II develops irreversible cardiac dilation. Which class of medication was administered?",
+    "options": [
+      "A. Platinum compounds",
+      "B. Antimetabolites",
+      "C. Anthracyclines",
+      "D. Vinca alkaloids",
+      "E. Taxanes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Anthracyclines (like doxorubicin) intercalate DNA and inhibit topoisomerase II, causing dilated cardiomyopathy."
+  },
+  {
+    "id": 2959,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A purine analog prodrug is activated by HGPRT and inactivated by an enzyme blocked by allopurinol. Which agent is this?",
+    "options": [
+      "A. Cladribine",
+      "B. 5-Fluorouracil",
+      "C. Azathioprine",
+      "D. Cytarabine",
+      "E. Methotrexate"
+    ],
+    "correct_answer": "C",
+    "explanation": "Azathioprine converts to 6-MP, which is activated by HGPRT and inactivated by xanthine oxidase."
+  },
+  {
+    "id": 2960,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pyrimidine analog that inhibits DNA polymerase causes severe myelosuppression. Which phase of the cell cycle is targeted by arabinofuranosyl cytidine?",
+    "options": [
+      "A. G0",
+      "B. G1",
+      "C. S",
+      "D. G2",
+      "E. M"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cytarabine is an S-phase specific antimetabolite that inhibits DNA polymerase."
+  },
+  {
+    "id": 2961,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The toxic effects of a certain pyrimidine analog are significantly enhanced by leucovorin. Which enzyme does the bioactivated form of this drug inhibit?",
+    "options": [
+      "A. Dihydrofolate reductase",
+      "B. Thymidylate synthase",
+      "C. Ribonucleotide reductase",
+      "D. Topoisomerase I",
+      "E. Adenosine deaminase"
+    ],
+    "correct_answer": "B",
+    "explanation": "5-Fluorouracil inhibits thymidylate synthase, and its effects are enhanced by leucovorin."
+  },
+  {
+    "id": 2962,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient takes a folate analog that competitively inhibits dihydrofolate reductase. What teratogenic side effect might occur in a pregnant individual taking this?",
+    "options": [
+      "A. Palmar-plantar erythrodysesthesia",
+      "B. Hand-foot syndrome",
+      "C. Folate deficiency",
+      "D. Irreversible cardiomyopathy",
+      "E. Reye syndrome"
+    ],
+    "correct_answer": "C",
+    "explanation": "Methotrexate inhibits DHFR, leading to teratogenic folate deficiency."
+  },
+  {
+    "id": 2963,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which class of cell cycle specific chemotherapeutics halts mitosis by inhibiting microtubule disassembly?",
+    "options": [
+      "A. Vinca alkaloids",
+      "B. Topoisomerase inhibitors",
+      "C. Anthracyclines",
+      "D. Taxanes",
+      "E. Antimetabolites"
+    ],
+    "correct_answer": "D",
+    "explanation": "Taxanes inhibit microtubule disassembly, whereas Vinca alkaloids inhibit formation."
+  },
+  {
+    "id": 2964,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A 64-year-old with a massive spleen has a marrow biopsy showing obliteration with fibrosis. Which cytokine drives the excessive fibroblast activity in this condition?",
+    "options": [
+      "A. IL-1",
+      "B. TNF-alpha",
+      "C. TGF-beta",
+      "D. IL-6",
+      "E. EPO"
+    ],
+    "correct_answer": "C",
+    "explanation": "In myelofibrosis, atypical megakaryocytes secrete high levels of TGF-beta, causing marrow fibrosis."
+  },
+  {
+    "id": 2965,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which finding most specifically distinguishes essential thrombocythemia from polycythemia vera?",
+    "options": [
+      "A. Presence of JAK2 mutations",
+      "B. Erythromelalgia",
+      "C. Normal RBC mass",
+      "D. Bleeding and thrombosis",
+      "E. Increased platelet count"
+    ],
+    "correct_answer": "C",
+    "explanation": "Unlike polycythemia vera, essential thrombocythemia features a normal RBC mass despite possible JAK2 mutations."
+  },
+  {
+    "id": 2966,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An elderly man has an M-spike on serum electrophoresis. A bone marrow biopsy reveals <10% monoclonal plasma cells and no 'CRAB' symptoms. What is the diagnosis?",
+    "options": [
+      "A. Multiple myeloma",
+      "B. Waldenstrom macroglobulinemia",
+      "C. Monoclonal gammopathy of undetermined significance",
+      "D. Chronic lymphocytic leukemia",
+      "E. Myelodysplastic syndrome"
+    ],
+    "correct_answer": "C",
+    "explanation": "MGUS features an M spike <3 g/dL, <10% plasma cells, and lacks CRAB symptoms."
+  },
+  {
+    "id": 2967,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pregnant woman with DVT is given a low-molecular-weight heparin. This drug primarily targets which component of the coagulation cascade?",
+    "options": [
+      "A. Thrombin (Factor IIa)",
+      "B. Factor VIIa",
+      "C. Factor Xa",
+      "D. Factor IXa",
+      "E. Plasminogen"
+    ],
+    "correct_answer": "C",
+    "explanation": "Low-molecular-weight heparins primarily act on factor Xa, unlike unfractionated heparin which acts on both IIa and Xa."
+  },
+  {
+    "id": 2968,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with absent cremasteric reflex and numbness over the anterior thigh beneath the inguinal ligament. Which surgical procedure most likely caused this?",
+    "options": [
+      "Appendectomy",
+      "Laparoscopic surgery",
+      "Inguinal hernia repair via open approach",
+      "Pelvic lymph node dissection",
+      "Femoral artery bypass"
+    ],
+    "correct_answer": "B",
+    "explanation": "Genitofemoral nerve injury frequently complicates laparoscopic surgery, resulting in absent cremasteric reflex and sensory loss over the lateral part of the femoral triangle."
+  },
+  {
+    "id": 2969,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An obese patient reports tingling and burning pain over the anterolateral thigh. Which nerve roots contribute to the affected nerve?",
+    "options": [
+      "L1-L2",
+      "L2-L3",
+      "L2-L4",
+      "L4-S1",
+      "L4-S3"
+    ],
+    "correct_answer": "B",
+    "explanation": "Meralgia paresthetica involves the lateral femoral cutaneous nerve, derived from L2-L3 nerve roots."
+  },
+  {
+    "id": 2970,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient sustains a pelvic fracture and subsequent retroperitoneal hematoma. Which clinical finding is most expected?",
+    "options": [
+      "Weakness of thigh adduction",
+      "Decreased patellar reflex",
+      "Absent Achilles reflex",
+      "Loss of sensation on the medial thigh",
+      "Inability to flex the knee"
+    ],
+    "correct_answer": "B",
+    "explanation": "Femoral nerve (L2-L4) injury can result from retroperitoneal hematoma, leading to weakness of leg extension and a decreased patellar reflex."
+  },
+  {
+    "id": 2971,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A pelvic surgery results in medial thigh sensory loss and impaired thigh adduction. Which muscle's innervation is most likely compromised?",
+    "options": [
+      "Sartorius",
+      "Pectineus",
+      "Gracilis",
+      "Semitendinosus",
+      "Iliacus"
+    ],
+    "correct_answer": "C",
+    "explanation": "Obturator nerve injury impairs thigh adduction and denervates the gracilis muscle, among other adductors."
+  },
+  {
+    "id": 2972,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Herniation of a lumbosacral disc posterolaterally is primarily facilitated by which anatomical feature?",
+    "options": [
+      "Thick anterior longitudinal ligament",
+      "Thin posterior longitudinal ligament",
+      "Thick ligamentum flavum",
+      "Thin annulus fibrosus",
+      "Interspinous ligament laxity"
+    ],
+    "correct_answer": "B",
+    "explanation": "Disc herniation typically occurs posterolaterally because the posterior longitudinal ligament is thin and fails to adequately reinforce this region."
+  },
+  {
+    "id": 2973,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient has foot drop and a 'steppage gait' following a fibular neck fracture. Which specific nerve is directly responsible for the sensory loss in the webspace between the first and second digits?",
+    "options": [
+      "Superficial peroneal nerve",
+      "Deep peroneal nerve",
+      "Sural nerve",
+      "Tibial nerve",
+      "Saphenous nerve"
+    ],
+    "correct_answer": "B",
+    "explanation": "The deep peroneal nerve innervates the tibialis anterior (responsible for dorsiflexion) and provides sensation to the webspace between the hallux and second digit."
+  },
+  {
+    "id": 2974,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which structure physically shifts to expose myosin-binding sites on the actin filament during skeletal muscle contraction?",
+    "options": [
+      "Troponin C",
+      "Troponin T",
+      "Tropomyosin",
+      "Dihydropyridine receptor",
+      "Ryanodine receptor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Calcium binds to troponin C, causing a conformational change that shifts tropomyosin away from the myosin-binding sites on actin."
+  },
+  {
+    "id": 2975,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is unable to stand on their tiptoes after a knee trauma. Sensation is lost on the sole of the foot. Which muscle's function is compromised?",
+    "options": [
+      "Tibialis anterior",
+      "Peroneus longus",
+      "Plantaris",
+      "Extensor digitorum longus",
+      "Biceps femoris short head"
+    ],
+    "correct_answer": "C",
+    "explanation": "Tibial nerve (L4-S3) injury causes loss of plantarflexion and inversion. It innervates the triceps surae, plantaris, popliteus, and flexor muscles of the foot."
+  },
+  {
+    "id": 2976,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A misplaced intramuscular injection in the superomedial gluteal quadrant leads to a pelvic tilt. Which nerve is injured?",
+    "options": [
+      "Superior gluteal nerve",
+      "Inferior gluteal nerve",
+      "Sciatic nerve",
+      "Pudendal nerve",
+      "Obturator nerve"
+    ],
+    "correct_answer": "A",
+    "explanation": "The superior gluteal nerve (L4-S1) is injured by superomedial gluteal injections, causing Trendelenburg sign due to paralysis of gluteus medius and minimus."
+  },
+  {
+    "id": 2977,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In a patient with Trendelenburg gait, the pelvis tilts downward on the left side when standing on the right leg. Where is the nerve lesion located?",
+    "options": [
+      "Left superior gluteal nerve",
+      "Right superior gluteal nerve",
+      "Left inferior gluteal nerve",
+      "Right inferior gluteal nerve",
+      "Right sciatic nerve"
+    ],
+    "correct_answer": "B",
+    "explanation": "The lesion is contralateral to the side of the dropped hip, meaning the right superior gluteal nerve is damaged, preventing the right leg from maintaining pelvic alignment."
+  },
+  {
+    "id": 2978,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Posterior hip dislocation frequently causes difficulty rising from a seated position and loss of hip extension. Which nerve roots primarily contribute to the damaged nerve?",
+    "options": [
+      "L4-S1",
+      "L5-S2",
+      "L2-L4",
+      "S2-S4",
+      "L4-S3"
+    ],
+    "correct_answer": "B",
+    "explanation": "The inferior gluteal nerve (L5-S2) innervates the gluteus maximus, which extends the hip and aids in rising from a seated position."
+  },
+  {
+    "id": 2979,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A prolonged bicycle ride results in fecal incontinence and perineal sensory loss. Which anatomical landmark is utilized for anesthetic blockade of the responsible nerve?",
+    "options": [
+      "Pubic symphysis",
+      "Ischial spine",
+      "Greater sciatic foramen",
+      "Sacral promontory",
+      "Anterior superior iliac spine"
+    ],
+    "correct_answer": "B",
+    "explanation": "The pudendal nerve (S2-S4) can be compressed during prolonged cycling and is blocked using the ischial spine as a landmark."
+  },
+  {
+    "id": 2980,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient sustains a high ankle sprain. Which ligament is most frequently torn in this specific injury?",
+    "options": [
+      "Anterior talofibular ligament",
+      "Posterior talofibular ligament",
+      "Calcaneofibular ligament",
+      "Anterior inferior tibiofibular ligament",
+      "Posterior inferior tibiofibular ligament"
+    ],
+    "correct_answer": "D",
+    "explanation": "The anterior inferior tibiofibular ligament is the most commonly injured ligament in high ankle sprains."
+  },
+  {
+    "id": 2981,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The most common overall ankle sprain occurs due to overinversion. Which ligament always tears first?",
+    "options": [
+      "Calcaneofibular ligament",
+      "Anterior inferior tibiofibular ligament",
+      "Anterior talofibular ligament",
+      "Posterior talofibular ligament",
+      "Deltoid ligament"
+    ],
+    "correct_answer": "C",
+    "explanation": "The anterior talofibular ligament is the most frequently injured ligament in low ankle sprains due to foot supination/overinversion."
+  },
+  {
+    "id": 2982,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an L3-L4 intervertebral disc protrusion presents with radicular pain. Which nerve root is directly compressed?",
+    "options": [
+      "L3",
+      "L4",
+      "L5",
+      "S1",
+      "S2"
+    ],
+    "correct_answer": "B",
+    "explanation": "Disc herniation typically affects the nerve root below the level of the disc. L3-L4 herniation compresses the L4 nerve root."
+  },
+  {
+    "id": 2983,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient presents with weakness in heel walking and normal patellar and Achilles reflexes. At which disc level is the herniation most likely located?",
+    "options": [
+      "L2-L3",
+      "L3-L4",
+      "L4-L5",
+      "L5-S1",
+      "S1-S2"
+    ],
+    "correct_answer": "C",
+    "explanation": "L4-L5 herniation compresses the L5 nerve root, causing weakness of dorsiflexion (difficulty in heel walking) but sparing patellar (L4) and Achilles (S1) reflexes."
+  },
+  {
+    "id": 2984,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A fracture of the midshaft of the humerus is most likely to compromise which accompanying vascular structure?",
+    "options": [
+      "Posterior circumflex artery",
+      "Deep brachial artery",
+      "Brachial artery",
+      "Lateral thoracic artery",
+      "Radial artery"
+    ],
+    "correct_answer": "B",
+    "explanation": "The radial nerve runs with the deep brachial artery along the midshaft of the humerus."
+  },
+  {
+    "id": 2985,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A lesion posterior to the medial malleolus compresses the tibial nerve. Which artery is typically paired with the nerve at this location?",
+    "options": [
+      "Popliteal artery",
+      "Anterior tibial artery",
+      "Posterior tibial artery",
+      "Fibular artery",
+      "Dorsalis pedis artery"
+    ],
+    "correct_answer": "C",
+    "explanation": "The tibial nerve runs posterior to the medial malleolus alongside the posterior tibial artery."
+  },
+  {
+    "id": 2986,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Surgical repair of the axilla damages the lateral thoracic artery. Which nerve is most susceptible to simultaneous injury?",
+    "options": [
+      "Axillary nerve",
+      "Long thoracic nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Musculocutaneous nerve"
+    ],
+    "correct_answer": "B",
+    "explanation": "The long thoracic nerve is paired with the lateral thoracic artery in the axilla/lateral thorax region."
+  },
+  {
+    "id": 2987,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During skeletal muscle contraction, what directly triggers the release of inorganic phosphate (Pi)?",
+    "options": [
+      "Binding of ATP to myosin",
+      "Myosin head binding strongly to actin",
+      "Calcium binding to troponin C",
+      "Tropomyosin shifting off actin",
+      "Hydrolysis of ATP into ADP and Pi"
+    ],
+    "correct_answer": "B",
+    "explanation": "The myosin head binds strongly to actin forming a crossbridge, which immediately triggers the release of Pi and initiates the power stroke."
+  },
+  {
+    "id": 2988,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Following the power stroke during muscle contraction, which molecule is directly released from the myosin head?",
+    "options": [
+      "ATP",
+      "ADP",
+      "Inorganic phosphate",
+      "Calcium",
+      "Acetylcholine"
+    ],
+    "correct_answer": "B",
+    "explanation": "ADP is released at the end of the power stroke, leaving the myosin head attached to actin in a rigor state until a new ATP binds."
+  },
+  {
+    "id": 2989,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which sarcomere band or line completely maintains its original length during maximal muscle contraction?",
+    "options": [
+      "H band",
+      "I band",
+      "Z line",
+      "A band",
+      "Sarcomere length"
+    ],
+    "correct_answer": "D",
+    "explanation": "The A band (composed of thick myosin filaments) always remains the same length during muscle shortening."
+  },
+  {
+    "id": 2990,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Reuptake of calcium by the sarco(endo)plasmic reticulum Ca2+ ATPase (SERCA) directly results in which physiological event?",
+    "options": [
+      "Exposing myosin-binding sites",
+      "Action potential propagation",
+      "Muscle relaxation",
+      "Crossbridge formation",
+      "ATP hydrolysis"
+    ],
+    "correct_answer": "C",
+    "explanation": "SERCA re-sequesters calcium into the SR, causing tropomyosin to re-cover the myosin-binding sites, which leads to muscle relaxation."
+  },
+  {
+    "id": 2991,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient sustains a supracondylar humerus fracture affecting the cubital fossa. Which neurovascular pair is primarily at risk?",
+    "options": [
+      "Radial nerve and deep brachial artery",
+      "Median nerve and brachial artery",
+      "Ulnar nerve and superior ulnar collateral artery",
+      "Axillary nerve and posterior circumflex artery",
+      "Tibial nerve and popliteal artery"
+    ],
+    "correct_answer": "B",
+    "explanation": "The median nerve pairs with the brachial artery at the distal humerus/cubital fossa."
+  },
+  {
+    "id": 2992,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "L5-S1 disc protrusion typically results in difficulty toe walking. Which reflex is demonstrably weakened or absent?",
+    "options": [
+      "Patellar reflex",
+      "Cremasteric reflex",
+      "Achilles reflex",
+      "Babinski reflex",
+      "Bulbocavernosus reflex"
+    ],
+    "correct_answer": "C",
+    "explanation": "L5-S1 herniation affects the S1 nerve root, causing weakness of plantar flexion (toe walking) and a decreased Achilles reflex."
+  },
+  {
+    "id": 2993,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient with an isolated deep peroneal nerve injury will most likely exhibit which of the following deficits?",
+    "options": [
+      "Inability to evert the foot",
+      "Sensory loss over the entire dorsum of the foot",
+      "Loss of sensation between the first and second toes",
+      "Inability to plantarflex the foot",
+      "Absence of the Achilles reflex"
+    ],
+    "correct_answer": "C",
+    "explanation": "Deep peroneal nerve injury causes loss of dorsiflexion and sensory loss isolated to the webspace between the first and second toes."
+  },
+  {
+    "id": 2994,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A Baker cyst compresses a proximal nerve in the popliteal fossa. The patient will likely present with the foot in which resting position?",
+    "options": [
+      "Inverted and dorsiflexed",
+      "Everted at rest",
+      "Inverted and plantarflexed",
+      "Plantarflexed at rest",
+      "Drop foot"
+    ],
+    "correct_answer": "B",
+    "explanation": "In proximal tibial nerve lesions, the foot is everted at rest and there is weakened inversion and plantar flexion."
+  },
+  {
+    "id": 2995,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "An individual with piriformis syndrome complains of radiating leg pain. Which muscle's innervation is primarily compromised by this compression?",
+    "options": [
+      "Pectineus",
+      "Biceps femoris",
+      "Iliacus",
+      "Gracilis",
+      "Gluteus medius"
+    ],
+    "correct_answer": "B",
+    "explanation": "Piriformis syndrome compresses the sciatic nerve, which innervates the hamstrings including the biceps femoris."
+  },
+  {
+    "id": 2996,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "What specific conformational change allows calcium release into the sarcoplasm following T-tubule depolarization?",
+    "options": [
+      "Opening of voltage-gated calcium channels on the sarcolemma",
+      "Conformational change in the dihydropyridine receptor",
+      "ATP binding to the myosin head",
+      "SERCA pump activation",
+      "Troponin C detaching from tropomyosin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Membrane depolarization changes the conformation of the voltage-sensitive dihydropyridine receptor (DHPR), which mechanically opens the ryanodine receptor to release calcium."
+  },
+  {
+    "id": 2997,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "During muscle contraction, the distance between which two structures demonstrably shortens?",
+    "options": [
+      "A band boundaries",
+      "M lines",
+      "Z lines",
+      "Thick filaments",
+      "Thin filaments"
+    ],
+    "correct_answer": "C",
+    "explanation": "During the power stroke, muscle shortening occurs, pulling the Z lines closer together. The H and I bands shorten, but the A band remains unchanged."
+  },
+  {
+    "id": 2998,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The sensory innervation for the medial leg is provided by a branch of which nerve?",
+    "options": [
+      "Sciatic",
+      "Tibial",
+      "Obturator",
+      "Femoral",
+      "Common peroneal"
+    ],
+    "correct_answer": "D",
+    "explanation": "The femoral nerve (L2-L4) provides sensory innervation to the anterior thigh and medial leg (via the saphenous nerve)."
+  },
+  {
+    "id": 2999,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which muscle is directly innervated by the same nerve that supplies the adductor longus?",
+    "options": [
+      "Sartorius",
+      "Biceps femoris short head",
+      "Pectineus",
+      "Obturator externus",
+      "Semimembranosus"
+    ],
+    "correct_answer": "D",
+    "explanation": "The obturator nerve innervates the obturator externus, adductor longus, adductor brevis, gracilis, pectineus, and adductor magnus."
+  },
+  {
+    "id": 3000,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which nerve injury directly prevents a patient from successfully completing a reverse straight leg raise (femoral stretch test) without pain?",
+    "options": [
+      "L2-L4",
+      "L4-S1",
+      "L5-S2",
+      "S2-S4",
+      "L4-S3"
+    ],
+    "correct_answer": "A",
+    "explanation": "A positive reverse straight leg raise (femoral stretch) indicates L2-L4 (femoral nerve) radiculopathy."
+  },
+  {
+    "id": 3001,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The superficial peroneal nerve is solely responsible for which of the following motor actions?",
+    "options": [
+      "Foot inversion",
+      "Foot eversion",
+      "Foot dorsiflexion",
+      "Toe flexion",
+      "Knee extension"
+    ],
+    "correct_answer": "B",
+    "explanation": "The superficial peroneal nerve innervates the peroneus longus and brevis, which are responsible for eversion."
+  },
+  {
+    "id": 3002,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Detachment of the myosin head from the actin filament requires which biochemical event?",
+    "options": [
+      "ATP hydrolysis",
+      "Binding of a new ATP molecule",
+      "Release of ADP",
+      "Release of inorganic phosphate",
+      "Binding of calcium to troponin C"
+    ],
+    "correct_answer": "B",
+    "explanation": "The binding of a new ATP molecule to the myosin head causes it to detach from the actin filament."
+  },
+  {
+    "id": 3003,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient sustains a posterior hip dislocation. Which associated neurological deficit is most likely to be observed?",
+    "options": [
+      "Loss of patellar reflex",
+      "Weakness in thigh adduction",
+      "Inability to curl toes",
+      "Weakness in hip extension",
+      "Loss of perineal sensation"
+    ],
+    "correct_answer": "D",
+    "explanation": "Posterior hip dislocation can damage the inferior gluteal nerve, leading to gluteus maximus weakness and loss of hip extension."
+  },
+  {
+    "id": 3004,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "In the sarcomere, which specific zone or band contains exclusively thick filaments at rest and shortens during contraction?",
+    "options": [
+      "A band",
+      "I band",
+      "H band",
+      "M line",
+      "Z line"
+    ],
+    "correct_answer": "C",
+    "explanation": "The H band consists of only thick myosin filaments and shortens during contraction."
+  },
+  {
+    "id": 3005,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient is unable to initiate the power stroke in skeletal muscle. Assuming adequate calcium, which step is likely failing?",
+    "options": [
+      "Release of ADP",
+      "Release of inorganic phosphate (Pi)",
+      "Hydrolysis of ATP",
+      "Binding of ATP",
+      "Tropomyosin shift"
+    ],
+    "correct_answer": "B",
+    "explanation": "The power stroke is initiated specifically by the release of Pi after the myosin head forms a strong crossbridge with actin."
+  },
+  {
+    "id": 3006,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which nerve roots supply the sensory innervation to the perineum?",
+    "options": [
+      "L1-L2",
+      "L2-L3",
+      "L4-S1",
+      "S1-S2",
+      "S2-S4"
+    ],
+    "correct_answer": "E",
+    "explanation": "The pudendal nerve (S2-S4) provides sensory innervation to the perineum."
+  },
+  {
+    "id": 3007,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "What mechanism directly returns the myosin head to its high-energy, 'cocked' position?",
+    "options": [
+      "Release of ADP",
+      "Binding of new ATP",
+      "ATP hydrolysis into ADP and Pi",
+      "Calcium binding to Troponin C",
+      "Action potential reaching the motor end plate"
+    ],
+    "correct_answer": "C",
+    "explanation": "ATP hydrolysis into ADP and Pi provides the energy to return the myosin head to the cocked (high-energy) position."
+  },
+  {
+    "id": 3008,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient suffering from tarsal tunnel syndrome will most likely exhibit which of the following deficits?",
+    "options": [
+      "Inability to evert the foot",
+      "Weakness in foot dorsiflexion",
+      "Inability to curl toes",
+      "Loss of sensation on the dorsum of the foot",
+      "Decreased patellar reflex"
+    ],
+    "correct_answer": "C",
+    "explanation": "Tarsal tunnel syndrome compresses the distal tibial nerve, causing an inability to curl toes and loss of sensation on the sole of the foot."
+  },
+  {
+    "id": 3009,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which nerve is responsible for the motor innervation of the tensor fascia latae?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Superior gluteal nerve",
+      "Inferior gluteal nerve",
+      "Sciatic nerve"
+    ],
+    "correct_answer": "C",
+    "explanation": "The superior gluteal nerve innervates the gluteus medius, gluteus minimus, and tensor fascia latae."
+  },
+  {
+    "id": 3010,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The surgical neck of the humerus is fractured. Which accompanying artery is at highest risk of injury?",
+    "options": [
+      "Deep brachial artery",
+      "Brachial artery",
+      "Lateral thoracic artery",
+      "Posterior circumflex artery",
+      "Popliteal artery"
+    ],
+    "correct_answer": "D",
+    "explanation": "The axillary nerve pairs with the posterior circumflex artery at the surgical neck of the humerus."
+  },
+  {
+    "id": 3011,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient has an absent cremasteric reflex and anterior thigh sensory loss. Which nerve root is most likely affected?",
+    "options": [
+      "L1",
+      "L3",
+      "L5",
+      "S1",
+      "S3"
+    ],
+    "correct_answer": "A",
+    "explanation": "The genitofemoral nerve arises from L1-L2 roots and is responsible for the cremasteric reflex and anterior thigh sensation."
+  },
+  {
+    "id": 3012,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient experiences trauma to the lateral aspect of the leg resulting in a fibular neck fracture. Which motor action is completely preserved?",
+    "options": [
+      "Foot eversion",
+      "Foot dorsiflexion",
+      "Toe extension",
+      "Foot plantarflexion",
+      "Lifting the lateral edge of the foot"
+    ],
+    "correct_answer": "D",
+    "explanation": "Fibular neck fractures injure the common peroneal nerve, losing eversion and dorsiflexion. Tibial nerve-mediated plantarflexion is preserved."
+  },
+  {
+    "id": 3013,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which muscle is uniquely innervated by the femoral nerve but not by the obturator nerve despite their overlapping origins?",
+    "options": [
+      "Pectineus",
+      "Adductor brevis",
+      "Gracilis",
+      "Sartorius",
+      "Adductor longus"
+    ],
+    "correct_answer": "D",
+    "explanation": "The sartorius is innervated exclusively by the femoral nerve, while the pectineus is innervated by both, and the adductors/gracilis by the obturator nerve."
+  },
+  {
+    "id": 3014,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "The anterior inferior tibiofibular ligament is torn. How is this injury typically classified?",
+    "options": [
+      "Low ankle sprain",
+      "High ankle sprain",
+      "Eversion sprain",
+      "Tarsal coalition",
+      "Plantar fasciitis"
+    ],
+    "correct_answer": "B",
+    "explanation": "The anterior inferior tibiofibular ligament tear is the most common high ankle sprain."
+  },
+  {
+    "id": 3015,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which nerve explicitly innervates the long head of the biceps femoris?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Common peroneal nerve",
+      "Tibial nerve",
+      "Inferior gluteal nerve"
+    ],
+    "correct_answer": "D",
+    "explanation": "The tibial nerve (L4-S3) provides motor innervation to the biceps femoris long head, triceps surae, plantaris, popliteus, and flexor muscles of the foot."
+  },
+  {
+    "id": 3016,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "A patient cannot maintain horizontal pelvic alignment while standing on one leg. Which quadrant of the gluteal region likely received a misplaced intramuscular injection?",
+    "options": [
+      "Superolateral",
+      "Superomedial",
+      "Inferolateral",
+      "Inferomedial",
+      "Anterolateral"
+    ],
+    "correct_answer": "B",
+    "explanation": "Superomedial gluteal injections risk injuring the superior gluteal nerve, causing a positive Trendelenburg sign. Injections should be superolateral or anterolateral."
+  },
+  {
+    "id": 3017,
+    "category": "FCPS Topic (Extreme Level 2)",
+    "question": "Which protein serves as an intracellular buffer for calcium within the sarcoplasmic reticulum?",
+    "options": [
+      "Troponin C",
+      "Calmodulin",
+      "Calsequestrin",
+      "Tropomyosin",
+      "Ryanodine"
+    ],
+    "correct_answer": "C",
+    "explanation": "Calcium is buffered by calsequestrin inside the sarcoplasmic reticulum before release."
   }
 ];
