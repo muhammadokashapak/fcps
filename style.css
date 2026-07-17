@@ -75,9 +75,15 @@ body { font-family: var(--font-ui); background: var(--bg-main); color: var(--tex
 .btn-icon-lg:hover { color: var(--warning); background: #fffbeb; }
 
 /* Form Controls */
-.form-select { width: 100%; padding: 14px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-ui); font-size: 1rem; outline: none; background: #fff; cursor: pointer; transition: 0.2s;}
-.form-select:focus { border-color: var(--primary-light); box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
+.form-select, .form-input { width: 100%; padding: 14px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-ui); font-size: 1rem; outline: none; background: #fff; transition: 0.2s;}
+.form-select { cursor: pointer; }
+.form-select:focus, .form-input:focus { border-color: var(--primary-light); box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1); }
 .input-group label { display: block; margin-bottom: 8px; font-weight: 500; color: var(--text-main); font-size: 0.95rem; }
+
+/* Login Layout */
+.login-layout { justify-content: center; align-items: center; background: linear-gradient(135deg, #f8fafc, #e2e8f0); }
+.login-card { background: var(--surface); padding: 50px 40px; border-radius: 20px; box-shadow: 0 10px 40px rgba(0,0,0,0.08); width: 100%; max-width: 420px; border: 1px solid white; }
+
 
 /* Dashboard Layout */
 .portal-layout { flex-direction: row; }

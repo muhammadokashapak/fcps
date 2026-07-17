@@ -8,6 +8,7 @@ let userData = {
 
 // DOM Elements
 const screens = {
+    login: document.getElementById('login-screen'),
     user: document.getElementById('user-screen'),
     quiz: document.getElementById('quiz-screen'),
     res: document.getElementById('res-screen')
@@ -20,25 +21,66 @@ function switchScreen(scr) {
 
 // Initialization
 document.addEventListener("DOMContentLoaded", () => {
-    // Load local storage data
-    const saved = localStorage.getItem('fcps_guest_user');
+    // Check if user is logged in
+    const authUser = localStorage.getItem('fcps_auth_user');
+    if (authUser) {
+        loadUserData(authUser);
+        initUser();
+    } else {
+        switchScreen('login');
+    }
+});
+
+function loadUserData(username) {
+    const saved = localStorage.getItem('fcps_data_' + username);
     if (saved) {
         userData = JSON.parse(saved);
         if(!userData.mistakesBank) userData.mistakesBank = [];
     } else {
+        userData = { stats: { attempted: 0, correct: 0, incorrect: 0 }, history: [], seenMap: {}, mistakesBank: [] };
         saveProgress();
     }
-    initUser();
-});
+}
 
 function saveProgress() {
-    localStorage.setItem('fcps_guest_user', JSON.stringify(userData));
+    const authUser = localStorage.getItem('fcps_auth_user');
+    if(authUser) {
+        localStorage.setItem('fcps_data_' + authUser, JSON.stringify(userData));
+    }
+}
+
+// ==========================================
+// LOGIN SYSTEM
+// ==========================================
+function handleLogin(e) {
+    e.preventDefault();
+    const username = document.getElementById('login-username').value.trim();
+    if (!username) return;
+    
+    // Save auth state
+    localStorage.setItem('fcps_auth_user', username);
+    
+    // Load their specific data
+    loadUserData(username);
+    
+    // Go to dashboard
+    initUser();
+}
+
+function logout() {
+    localStorage.removeItem('fcps_auth_user');
+    document.getElementById('login-username').value = '';
+    document.getElementById('login-password').value = '';
+    switchScreen('login');
 }
 
 // ==========================================
 // USER PORTAL
 // ==========================================
 function initUser() {
+    const authUser = localStorage.getItem('fcps_auth_user') || 'Dr. Guest';
+    document.getElementById('display-username').innerText = authUser;
+
     document.getElementById('user-attempted-mcqs').innerText = userData.stats.attempted;
     const acc = userData.stats.attempted > 0 ? Math.round((userData.stats.correct / userData.stats.attempted)*100) : 0;
     document.getElementById('user-accuracy').innerText = acc + "%";
