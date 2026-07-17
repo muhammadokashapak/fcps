@@ -21,6 +21,7 @@ function switchScreen(scr) {
 
 // Initialization
 document.addEventListener("DOMContentLoaded", () => {
+    initDB();
     // Check if user is logged in
     const authUser = localStorage.getItem('fcps_auth_user');
     if (authUser) {
@@ -30,6 +31,12 @@ document.addEventListener("DOMContentLoaded", () => {
         switchScreen('login');
     }
 });
+
+function initDB() {
+    if (!localStorage.getItem('fcps_users_db')) {
+        localStorage.setItem('fcps_users_db', JSON.stringify({}));
+    }
+}
 
 function loadUserData(username) {
     const saved = localStorage.getItem('fcps_data_' + username);
@@ -50,27 +57,94 @@ function saveProgress() {
 }
 
 // ==========================================
-// LOGIN SYSTEM
+// FULL MOCK AUTHENTICATION SYSTEM
 // ==========================================
+
+function toggleAuthView(viewId) {
+    document.getElementById('view-login').classList.add('hidden');
+    document.getElementById('view-register').classList.add('hidden');
+    document.getElementById('view-forgot').classList.add('hidden');
+    
+    document.getElementById(viewId).classList.remove('hidden');
+    document.getElementById('auth-alert').classList.add('hidden');
+    
+    // Clear forms
+    document.getElementById('login-form').reset();
+    document.getElementById('register-form').reset();
+    document.getElementById('forgot-form').reset();
+}
+
+function showAuthAlert(msg, type) {
+    const alertDiv = document.getElementById('auth-alert');
+    alertDiv.innerText = msg;
+    alertDiv.className = `auth-alert ${type}`;
+    alertDiv.classList.remove('hidden');
+}
+
+function handleRegister(e) {
+    e.preventDefault();
+    const name = document.getElementById('reg-name').value.trim();
+    const email = document.getElementById('reg-email').value.trim().toLowerCase();
+    const pass = document.getElementById('reg-password').value;
+    const conf = document.getElementById('reg-confirm').value;
+
+    if (pass !== conf) {
+        return showAuthAlert("Passwords do not match.", "error");
+    }
+
+    const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+    if (db[email]) {
+        return showAuthAlert("Account with this email already exists.", "error");
+    }
+
+    db[email] = { name, password: pass };
+    localStorage.setItem('fcps_users_db', JSON.stringify(db));
+
+    toggleAuthView('view-login');
+    showAuthAlert("Account created successfully! Please log in.", "success");
+}
+
 function handleLogin(e) {
     e.preventDefault();
-    const username = document.getElementById('login-username').value.trim();
-    if (!username) return;
+    const email = document.getElementById('login-email').value.trim().toLowerCase();
+    const pass = document.getElementById('login-password').value;
     
-    // Save auth state
-    localStorage.setItem('fcps_auth_user', username);
+    const db = JSON.parse(localStorage.getItem('fcps_users_db'));
     
-    // Load their specific data
-    loadUserData(username);
+    if (!db[email]) {
+        return showAuthAlert("Account not found. Please register.", "error");
+    }
     
-    // Go to dashboard
+    if (db[email].password !== pass) {
+        return showAuthAlert("Incorrect password.", "error");
+    }
+    
+    // Login successful
+    localStorage.setItem('fcps_auth_user', email);
+    localStorage.setItem('fcps_auth_name', db[email].name);
+    
+    loadUserData(email);
     initUser();
+}
+
+function handleForgot(e) {
+    e.preventDefault();
+    const email = document.getElementById('forgot-email').value.trim().toLowerCase();
+    const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+    
+    if (!db[email]) {
+        return showAuthAlert("No account found with this email.", "error");
+    }
+    
+    // Mocking success
+    toggleAuthView('view-login');
+    showAuthAlert("A password reset link has been sent to your email.", "success");
 }
 
 function logout() {
     localStorage.removeItem('fcps_auth_user');
-    document.getElementById('login-username').value = '';
-    document.getElementById('login-password').value = '';
+    localStorage.removeItem('fcps_auth_name');
+    toggleAuthView('view-login');
     switchScreen('login');
 }
 
@@ -78,8 +152,8 @@ function logout() {
 // USER PORTAL
 // ==========================================
 function initUser() {
-    const authUser = localStorage.getItem('fcps_auth_user') || 'Dr. Guest';
-    document.getElementById('display-username').innerText = authUser;
+    const authName = localStorage.getItem('fcps_auth_name') || 'Dr. Guest';
+    document.getElementById('display-username').innerText = authName;
 
     document.getElementById('user-attempted-mcqs').innerText = userData.stats.attempted;
     const acc = userData.stats.attempted > 0 ? Math.round((userData.stats.correct / userData.stats.attempted)*100) : 0;

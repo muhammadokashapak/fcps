@@ -13,27 +13,86 @@
 </head>
 <body>
 
-    <!-- SCREEN: LOGIN -->
+    <!-- SCREEN: AUTH (Login/Register/Forgot) -->
     <div id="login-screen" class="screen login-layout active">
-        <div class="login-card">
+        <div class="login-card" style="max-height: 90vh; overflow-y: auto;">
             <div class="brand mb-4 text-center" style="justify-content: center; border-bottom: none; color: var(--primary);">
                 <i class="fa-solid fa-stethoscope fa-2x mb-2" style="display: block;"></i>
                 <span style="font-size: 1.8rem;">FCPS Pro</span>
             </div>
-            <h3 class="mb-2 text-center" style="color: var(--primary);">Welcome Back</h3>
-            <p class="text-muted text-center mb-4">Log in to access your question bank and analytics.</p>
             
-            <form id="login-form" onsubmit="handleLogin(event)">
-                <div class="input-group mb-3">
-                    <label>Full Name / Email</label>
-                    <input type="text" id="login-username" class="form-input" placeholder="e.g. Dr. Ali" required>
+            <div id="auth-alert" class="auth-alert hidden"></div>
+
+            <!-- VIEW: LOGIN -->
+            <div id="view-login">
+                <h3 class="mb-2 text-center" style="color: var(--primary);">Welcome Back</h3>
+                <p class="text-muted text-center mb-4">Log in to access your question bank and analytics.</p>
+                
+                <form id="login-form" onsubmit="handleLogin(event)">
+                    <div class="input-group mb-3">
+                        <label>Email Address</label>
+                        <input type="email" id="login-email" class="form-input" placeholder="dr@example.com" required>
+                    </div>
+                    <div class="input-group mb-2">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <label class="mb-0">Password</label>
+                            <a href="#" class="auth-link" onclick="toggleAuthView('view-forgot'); return false;">Forgot password?</a>
+                        </div>
+                        <input type="password" id="login-password" class="form-input mt-2" placeholder="••••••••" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg w-100 mt-3">Sign In</button>
+                </form>
+                <div class="text-center mt-4 pt-3 border-top">
+                    <p class="text-muted" style="font-size: 0.95rem;">New to FCPS Pro? <a href="#" class="auth-link fw-bold" onclick="toggleAuthView('view-register'); return false;">Create an account</a></p>
                 </div>
-                <div class="input-group mb-4">
-                    <label>Password</label>
-                    <input type="password" id="login-password" class="form-input" placeholder="••••••••" required>
+            </div>
+
+            <!-- VIEW: REGISTER -->
+            <div id="view-register" class="hidden">
+                <h3 class="mb-2 text-center" style="color: var(--primary);">Create Account</h3>
+                <p class="text-muted text-center mb-4">Join to save your progress and access the QBank.</p>
+                
+                <form id="register-form" onsubmit="handleRegister(event)">
+                    <div class="input-group mb-3">
+                        <label>Full Name</label>
+                        <input type="text" id="reg-name" class="form-input" placeholder="e.g. Dr. Ali" required>
+                    </div>
+                    <div class="input-group mb-3">
+                        <label>Email Address</label>
+                        <input type="email" id="reg-email" class="form-input" placeholder="dr@example.com" required>
+                    </div>
+                    <div class="input-group mb-3">
+                        <label>Password</label>
+                        <input type="password" id="reg-password" class="form-input" placeholder="Create a password" required minlength="6">
+                    </div>
+                    <div class="input-group mb-4">
+                        <label>Confirm Password</label>
+                        <input type="password" id="reg-confirm" class="form-input" placeholder="Repeat password" required minlength="6">
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg w-100">Sign Up</button>
+                </form>
+                <div class="text-center mt-4 pt-3 border-top">
+                    <p class="text-muted" style="font-size: 0.95rem;">Already have an account? <a href="#" class="auth-link fw-bold" onclick="toggleAuthView('view-login'); return false;">Sign In</a></p>
                 </div>
-                <button type="submit" class="btn btn-primary btn-lg w-100">Sign In to Dashboard</button>
-            </form>
+            </div>
+
+            <!-- VIEW: FORGOT PASSWORD -->
+            <div id="view-forgot" class="hidden">
+                <h3 class="mb-2 text-center" style="color: var(--primary);">Reset Password</h3>
+                <p class="text-muted text-center mb-4">Enter your email and we'll send you a link to reset your password.</p>
+                
+                <form id="forgot-form" onsubmit="handleForgot(event)">
+                    <div class="input-group mb-4">
+                        <label>Email Address</label>
+                        <input type="email" id="forgot-email" class="form-input" placeholder="dr@example.com" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-lg w-100">Send Reset Link</button>
+                </form>
+                <div class="text-center mt-4 pt-3 border-top">
+                    <a href="#" class="auth-link fw-bold" onclick="toggleAuthView('view-login'); return false;"><i class="fa-solid fa-arrow-left"></i> Back to Login</a>
+                </div>
+            </div>
+
         </div>
     </div>
 
