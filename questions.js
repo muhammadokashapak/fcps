@@ -26836,5 +26836,5605 @@ window.bankData = [
     ],
     "correct_answer": "E",
     "explanation": "Familial Hypercholesterolemia (Type IIa familial dyslipidemia) is most commonly an autosomal dominant disorder caused by a mutation in the LDL receptor gene. This leads to defective receptor-mediated endocytosis of LDL by the liver, resulting in astronomically high serum LDL levels from birth. This causes accelerated atherosclerosis (early, severe myocardial infarctions), tendon xanthomas (especially Achilles), and premature corneal arcus."
+  },
+  {
+    "id": 1918,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pathogen causing a pseudomembranous pharyngitis elaborates a toxin that shares its mechanism of action with an exotoxin from which other organism?",
+    "options": [
+      "Bordetella pertussis",
+      "Pseudomonas aeruginosa",
+      "Shigella dysenteriae",
+      "Bacillus anthracis",
+      "Vibrio cholerae"
+    ],
+    "correct_answer": "B",
+    "explanation": "C. diphtheriae toxin inactivates EF-2 via ADP-ribosylation, identical to the mechanism of Pseudomonas Exotoxin A."
+  },
+  {
+    "id": 1919,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 5-year-old boy presents with acute kidney injury, thrombocytopenia, and hemolytic anemia after consuming an undercooked hamburger. Which ribosomal subunit is primarily targeted by the causal bacterial toxin?",
+    "options": [
+      "30S",
+      "40S",
+      "60S",
+      "50S",
+      "70S"
+    ],
+    "correct_answer": "C",
+    "explanation": "EHEC produces Shiga-like toxin, which removes adenine from rRNA to inactivate the 60S ribosomal subunit."
+  },
+  {
+    "id": 1920,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A traveler develops watery diarrhea mediated by a bacterial toxin that overactivates guanylate cyclase. What is the precise effect of this toxin on intestinal ion transport?",
+    "options": [
+      "Decreased sodium and water resorption",
+      "Increased chloride secretion",
+      "Increased potassium efflux",
+      "Decreased bicarbonate secretion",
+      "Increased chloride resorption"
+    ],
+    "correct_answer": "A",
+    "explanation": "ETEC heat-stable toxin (ST) overactivates guanylate cyclase (increasing cGMP), leading to decreased resorption of NaCl and H2O in the gut."
+  },
+  {
+    "id": 1921,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with severe paroxysmal coughing fits has an exotoxin-mediated disease that alters intracellular signaling. By what specific molecular mechanism does this toxin elevate intracellular cyclic AMP?",
+    "options": [
+      "Permanently activating Gs",
+      "Mimicking host adenylate cyclase",
+      "Directly cleaving ATP into cAMP",
+      "Inactivating the inhibitory subunit Gi",
+      "Overactivating guanylate cyclase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Pertussis toxin disables Gi, removing the inhibition on adenylate cyclase, resulting in increased cAMP."
+  },
+  {
+    "id": 1922,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A newborn born to an unvaccinated mother develops severe muscle spasms and a characteristic facial grimace. The responsible exotoxin prevents the release of which pair of neurotransmitters?",
+    "options": [
+      "Acetylcholine and glutamate",
+      "Dopamine and serotonin",
+      "Norepinephrine and epinephrine",
+      "GABA and acetylcholine",
+      "GABA and glycine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Tetanospasmin (from C. tetani) cleaves SNARE proteins, preventing the release of inhibitory neurotransmitters GABA and glycine from Renshaw cells."
+  },
+  {
+    "id": 1923,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with myonecrosis has wound cultures growing a gram-positive rod that degrades phospholipids. The toxin responsible for this tissue destruction shares enzymatic activity with which of the following?",
+    "options": [
+      "Lecithinase",
+      "Protease",
+      "Adenylate cyclase",
+      "ADP-ribosyltransferase",
+      "Superantigen"
+    ],
+    "correct_answer": "A",
+    "explanation": "Clostridium perfringens alpha toxin is a lecithinase (phospholipase) that degrades tissue and cell membranes."
+  },
+  {
+    "id": 1924,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient goes into shock after using high-absorbency tampons, driven by a toxin that links TCR to MHC class II. What critical feature of this binding differentiates it from conventional antigen recognition?",
+    "options": [
+      "It binds the alpha region of the TCR",
+      "It binds outside the standard antigen-binding site",
+      "It requires prior processing by macrophages",
+      "It selectively activates CD8+ T cells",
+      "It inhibits IL-1 and TNF-alpha release"
+    ],
+    "correct_answer": "B",
+    "explanation": "Superantigens like TSST-1 cross-link the beta region of TCR to MHC class II on APCs entirely outside of the normal antigen-binding site."
+  },
+  {
+    "id": 1925,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient in septic shock is found to have circulating lipooligosaccharides derived from Neisseria. Which specific component is most directly responsible for triggering the macrophage activation and severe hypotension?",
+    "options": [
+      "O-antigen",
+      "Core polysaccharide",
+      "Lipid A",
+      "Peptidoglycan",
+      "Teichoic acid"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lipid A is the toxic component of endotoxin (LPS/LOS) responsible for macrophage activation, TLR4 signaling, and shock."
+  },
+  {
+    "id": 1926,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During an infection with Staphylococcus aureus, a host defense mechanism is profoundly inhibited by a specific bacterial surface virulence factor. To which portion of the host's immunoglobulins does this virulence factor bind?",
+    "options": [
+      "Fab region of IgG",
+      "Fab region of IgA",
+      "Fc region of IgM",
+      "Fc region of IgG",
+      "Secretory piece of IgA"
+    ],
+    "correct_answer": "D",
+    "explanation": "Protein A of S. aureus binds to the Fc region of IgG, inhibiting complement activation and phagocytosis."
+  },
+  {
+    "id": 1927,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 22-year-old female presents with dysuria and frequency; cultures reveal a coagulase-negative, urease-positive, gram-positive coccus. What is the expected response of this organism to novobiocin?",
+    "options": [
+      "Highly susceptible",
+      "Intermediate sensitivity",
+      "Paradoxical enhancement",
+      "Dependent on mannitol fermentation",
+      "Completely resistant"
+    ],
+    "correct_answer": "E",
+    "explanation": "Staphylococcus saprophyticus is a common cause of uncomplicated UTI in young females and is notoriously novobiocin resistant."
+  },
+  {
+    "id": 1928,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops infective endocarditis with a gram-positive, alpha-hemolytic organism that synthesizes dextrans from dietary sucrose. Which host structures do these dextrans most directly bind to facilitate colonization?",
+    "options": [
+      "Fibrin-platelet aggregates",
+      "Endothelial tight junctions",
+      "Exposed subendothelial collagen",
+      "Macrophage Fc receptors",
+      "Red blood cell membranes"
+    ],
+    "correct_answer": "A",
+    "explanation": "Viridans group streptococci (e.g., S. sanguinis) make dextrans that specifically bind to fibrin-platelet aggregates on damaged heart valves."
+  },
+  {
+    "id": 1929,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child with honey-crusted facial lesions is at risk for a post-infectious renal complication. The causal pathogen produces a specific cell-wall virulence factor that structurally mimics which host protein?",
+    "options": [
+      "Actin",
+      "Myosin",
+      "Tropomyosin",
+      "Vimentin",
+      "Desmin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Streptococcus pyogenes has M protein, which structurally mimics host proteins such as myosin, potentially leading to autoimmunity."
+  },
+  {
+    "id": 1930,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Pregnant women are screened at 35-37 weeks for a colonizing bacterium that enlarges the hemolysis zone formed by Staphylococcus aureus. What is the correct classification of this organism's hemolysis and pyrrolidonyl arylamidase (PYR) status?",
+    "options": [
+      "Alpha-hemolytic, PYR positive",
+      "Gamma-hemolytic, PYR negative",
+      "Beta-hemolytic, PYR negative",
+      "Beta-hemolytic, PYR positive",
+      "Alpha-hemolytic, PYR negative"
+    ],
+    "correct_answer": "C",
+    "explanation": "Streptococcus agalactiae (Group B Strep) produces CAMP factor (enlarging S. aureus hemolysis) and is beta-hemolytic and PYR negative."
+  },
+  {
+    "id": 1931,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient diagnosed with infective endocarditis is found to have blood cultures positive for an alpha-hemolytic organism that grows in bile but cannot grow in 6.5% NaCl. What additional screening is highly recommended for this patient?",
+    "options": [
+      "Echocardiogram for congenital defects",
+      "Bone marrow biopsy for multiple myeloma",
+      "Chest CT for cavitary lesions",
+      "Colonoscopy for gastrointestinal malignancy",
+      "Lumbar puncture for meningitis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Streptococcus gallolyticus (formerly S. bovis) endocarditis is strongly associated with an increased incidence of colon cancer."
+  },
+  {
+    "id": 1932,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospital patient develops a urinary tract infection from a pathogen that grows in both 6.5% NaCl and bile. Which of the following phenotypic features most accurately distinguishes this organism from group A streptococci?",
+    "options": [
+      "Catalase positivity",
+      "Complete lack of pyrrolidonyl arylamidase (PYR) activity",
+      "Sensitivity to bacitracin",
+      "Production of an extensive polysaccharide capsule",
+      "Usually nonhemolytic or alpha-hemolytic growth"
+    ],
+    "correct_answer": "E",
+    "explanation": "Enterococci grow in 6.5% NaCl and bile, are PYR positive, and are typically nonhemolytic or alpha-hemolytic, whereas group A strep is uniquely beta-hemolytic."
+  },
+  {
+    "id": 1933,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A sheep farmer presents with a black eschar surrounded by edematous borders. The causative pathogen's capsule is uniquely composed of which of the following substances?",
+    "options": [
+      "Poly-D-glutamate",
+      "Polysaccharide",
+      "Hyaluronic acid",
+      "Lipooligosaccharide",
+      "Peptidoglycan"
+    ],
+    "correct_answer": "A",
+    "explanation": "Bacillus anthracis possesses a unique polypeptide capsule exclusively composed of poly-D-glutamate."
+  },
+  {
+    "id": 1934,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Six hours after eating reheated fried rice, a student develops severe nausea and vomiting. Which feature best characterizes the specific etiology of these rapid-onset gastrointestinal symptoms?",
+    "options": [
+      "In vivo production of enterotoxin",
+      "Ingestion of a preformed cereulide toxin",
+      "Ingestion of a heat-labile enterotoxin",
+      "Bacterial invasion of the intestinal mucosa",
+      "Germination of spores in the acidic stomach"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bacillus cereus emetic-type food poisoning is caused by the rapid ingestion of the preformed cereulide toxin."
+  },
+  {
+    "id": 1935,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient on prolonged fluoroquinolone therapy develops severe diarrhea and toxic megacolon. The causative pathogen produces Toxins A and B; what is the primary pathogenic consequence of these toxins?",
+    "options": [
+      "Overactivation of adenylate cyclase",
+      "Degradation of tissue via phospholipase",
+      "Direct enterocyte damage leading to watery diarrhea",
+      "Cleavage of SNARE proteins",
+      "Removing adenine from rRNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "Clostridioides difficile Toxins A and B directly damage enterocytes, resulting in watery diarrhea and pseudomembranous colitis."
+  },
+  {
+    "id": 1936,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An older patient with an undiagnosed colonic malignancy presents with spontaneous soft tissue crepitus without antecedent trauma. What is the most likely causative organism?",
+    "options": [
+      "Clostridium perfringens",
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Clostridium septicum",
+      "Bacteroides fragilis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Spontaneous gas gangrene, particularly associated with underlying colonic malignancy via hematogenous seeding, is most commonly caused by Clostridium septicum."
+  },
+  {
+    "id": 1937,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child presents with a grayish-white pharyngeal membrane and severe lymphadenopathy. Which specific genetic element encodes the toxin responsible for this clinical picture?",
+    "options": [
+      "Chromosomal pathogenicity island",
+      "Conjugative plasmid",
+      "Transposon",
+      "Polysaccharide capsule",
+      "Beta-prophage"
+    ],
+    "correct_answer": "E",
+    "explanation": "The exotoxin of Corynebacterium diphtheriae is encoded by a bacteriophage (beta-prophage)."
+  },
+  {
+    "id": 1938,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An immunocompromised patient develops meningitis caused by a pathogen exhibiting tumbling motility at room temperature. How does this bacterium escape the phagosome after ingestion by a macrophage?",
+    "options": [
+      "Synthesizing listeriolysin to generate pores",
+      "Utilizing actin polymerization",
+      "Inhibiting phagolysosomal fusion via sulfatides",
+      "Neutralizing vacuolar pH with urease",
+      "Blocking host MAP kinase signaling"
+    ],
+    "correct_answer": "A",
+    "explanation": "Listeria monocytogenes utilizes listeriolysin to generate pores in phagosomes, escaping into the cytoplasm, while actin polymerization allows cell-to-cell spread."
+  },
+  {
+    "id": 1939,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with poor dentition develops a facial abscess that drains yellow particulate matter. The causative organism is best described by which set of laboratory characteristics?",
+    "options": [
+      "Aerobic, acid-fast, branching filaments",
+      "Anaerobic, not acid-fast, branching filaments",
+      "Anaerobic, acid-fast, spore-forming rods",
+      "Aerobic, not acid-fast, cocci in clusters",
+      "Anaerobic, partially acid-fast, spirilla"
+    ],
+    "correct_answer": "B",
+    "explanation": "Actinomyces is an anaerobic, non-acid-fast bacterium that forms long, branching filaments and distinctive yellow sulfur granules."
+  },
+  {
+    "id": 1940,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with pulmonary tuberculosis exhibits large caseating granulomas on chest imaging. Which mycobacterial virulence factor is most directly responsible for activating macrophages and promoting this granuloma formation?",
+    "options": [
+      "Mycolic acid",
+      "Sulfatides",
+      "Cord factor",
+      "Lipoarabinomannan",
+      "Purified protein derivative"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cord factor activates macrophages, strongly promoting granuloma formation, and induces the release of TNF-alpha."
+  },
+  {
+    "id": 1941,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with Leonine facies and extensive skin involvement is diagnosed with leprosy. What is the expected predominant immunologic response and bacterial load in this specific manifestation?",
+    "options": [
+      "Th1 response with high bacterial load",
+      "Th1 response with low bacterial load",
+      "Balanced Th1/Th2 response with undetectable bacteria",
+      "Th2 response with high bacterial load",
+      "Th2 response with low bacterial load"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lepromatous leprosy (characterized by Leonine facies) has a largely Th2 response, deficient cell-mediated immunity, and a highly communicable bacterial load."
+  },
+  {
+    "id": 1942,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A college student presents with petechial hemorrhages and gangrene of the toes, alongside symptoms of severe adrenal insufficiency. The responsible pathogen is differentiated from its close relative by which of the following metabolic capabilities?",
+    "options": [
+      "Fermentation of glucose",
+      "Production of IgA protease",
+      "Presence of lipooligosaccharide",
+      "Intracellular localization",
+      "Fermentation of maltose"
+    ],
+    "correct_answer": "E",
+    "explanation": "Neisseria meningitidis (causing Waterhouse-Friderichsen syndrome) ferments both maltose and glucose, unlike N. gonorrhoeae which only ferments glucose."
+  },
+  {
+    "id": 1943,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A sexually active female diagnosed with pelvic inflammatory disease develops right upper quadrant pain indicating Fitz-Hugh-Curtis syndrome. What unique outer membrane feature of the etiologic agent significantly contributes to its pathogenesis and evasion of long-term immunity?",
+    "options": [
+      "Antigenic variation of pilus proteins",
+      "A prominent poly-D-glutamate capsule",
+      "Metachromatic intracellular granules",
+      "A robust polysaccharide capsule",
+      "Peritrichous flagella"
+    ],
+    "correct_answer": "A",
+    "explanation": "N. gonorrhoeae evades host immunity through extreme antigenic variation of its pilus proteins, preventing effective vaccine development."
+  },
+  {
+    "id": 1944,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 3-year-old unimmunized child presents with a cherry red epiglottis and respiratory distress. Culturing the responsible pathogen requires chocolate agar supplemented with specific factors; what are these two essential factors?",
+    "options": [
+      "Hematin and Pyocyanin",
+      "NAD+ and Hematin",
+      "Cysteine and Iron",
+      "NAD+ and Lecithin",
+      "Thayer-Martin and Hematin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Haemophilus influenzae requires factors V (NAD+) and X (hematin) for sufficient growth on chocolate agar."
+  },
+  {
+    "id": 1945,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with cystic fibrosis is being evaluated for a lung transplant but is declined due to colonization by a specific aerobic, catalase-positive, gram-negative rod. What is the most likely pathogen?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Haemophilus influenzae",
+      "Burkholderia cepacia complex",
+      "Legionella pneumophila",
+      "Acinetobacter baumannii"
+    ],
+    "correct_answer": "C",
+    "explanation": "Burkholderia cepacia complex infection is a relative contraindication to lung transplant in CF patients due to its association with severely poor outcomes."
+  },
+  {
+    "id": 1946,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 4-year-old with intense paroxysms of coughing and a distinct inspiratory sound has a markedly elevated lymphocyte count. Which of the following virulence factors produced by the causative agent is responsible for increasing intracellular cyclic AMP by disabling the inhibitory G protein subunit?",
+    "options": [
+      "Adenylate cyclase toxin",
+      "Tracheal cytotoxin",
+      "Shiga-like toxin",
+      "Pertussis toxin",
+      "Exotoxin A"
+    ],
+    "correct_answer": "D",
+    "explanation": "Pertussis toxin disables Gi, directly removing inhibition on host adenylate cyclase and increasing cAMP."
+  },
+  {
+    "id": 1947,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A veterinarian experiences undulant fever, night sweats, and arthralgia. Biopsy of a reticuloendothelial organ reveals non-caseating granulomas. What is the most appropriate dual-therapy treatment for this condition?",
+    "options": [
+      "Ceftriaxone + azithromycin",
+      "Amoxicillin + clavulanate",
+      "Penicillin G + gentamicin",
+      "Ciprofloxacin + metronidazole",
+      "Doxycycline + rifampin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Brucellosis, acquired from animals, is treated effectively with doxycycline combined with either rifampin or streptomycin."
+  },
+  {
+    "id": 1948,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 65-year-old smoker develops unilateral lobar pneumonia and hyponatremia. The causative pathogen was traced to the hospital's hot water tank. Which of the following is required to successfully culture this organism?",
+    "options": [
+      "Charcoal yeast extract medium with iron and cysteine",
+      "Blood agar supplemented with bile",
+      "Chocolate agar with factors V and X",
+      "MacConkey agar at 42 degrees Celsius",
+      "Thiosulfate-citrate-bile salts-sucrose agar"
+    ],
+    "correct_answer": "A",
+    "explanation": "Legionella pneumophila strictly requires charcoal yeast extract medium enriched with iron and cysteine."
+  },
+  {
+    "id": 1949,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A burn victim develops a rapidly progressive, necrotic cutaneous lesion associated with a gram-negative rod that produces a blue-green pigment. What is the mechanism of the exotoxin A produced by this bacterium?",
+    "options": [
+      "Cleaves SNARE proteins",
+      "Inactivates elongation factor 2",
+      "Overactivates guanylate cyclase",
+      "Activates Toll-like receptor 4",
+      "Degrades cellular phospholipids"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pseudomonas aeruginosa produces Exotoxin A, which profoundly inactivates EF-2, similar to diphtheria toxin."
+  },
+  {
+    "id": 1950,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient returns from overseas with a salmon-colored macular rash, abdominal pain, and pulse-temperature dissociation. The causative organism utilizes a specific virulence factor that is the basis for its intramuscular vaccine. What is this factor?",
+    "options": [
+      "Lipid A",
+      "Shiga toxin",
+      "Vi capsular polysaccharide",
+      "M protein",
+      "O-antigen"
+    ],
+    "correct_answer": "C",
+    "explanation": "Salmonella typhi possesses a Vi capsular polysaccharide, which serves as the core component of the intramuscular typhoid vaccine."
+  },
+  {
+    "id": 1951,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During an outbreak of bloody diarrhea, a pathogen is isolated that requires an extremely low infectious dose because it is highly resistant to gastric acid. How does this pathogen initially invade the gastrointestinal tract?",
+    "options": [
+      "Via apical attachment and flattening of villi",
+      "By permanent activation of Gs proteins",
+      "Via flagellar motility through the mucus layer",
+      "Through invasion of M cells in Peyer patches",
+      "By ascending the biliary tree"
+    ],
+    "correct_answer": "D",
+    "explanation": "Shigella is acid-stable (low ID50) and invades the gastrointestinal mucosa primarily via the M cells of Peyer patches."
+  },
+  {
+    "id": 1952,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with acute right lower abdominal pain that mimics appendicitis. The suspected pathogen is a pleomorphic gram-negative rod with bipolar staining. Which animal source is most commonly associated with the transmission of this infection?",
+    "options": [
+      "Armadillos",
+      "Deer ticks",
+      "Poultry and eggs",
+      "Raw shellfish",
+      "Pet feces (cats/dogs) or pork"
+    ],
+    "correct_answer": "E",
+    "explanation": "Yersinia enterocolitica frequently causes pseudoappendicitis and is typically transmitted from pet feces, contaminated milk, or pork."
+  },
+  {
+    "id": 1953,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops a urinary tract infection from an organism that produces pink colonies on MacConkey agar and has a green sheen on EMB agar. Which specific bacterial structure is most directly responsible for causing cystitis in this infection?",
+    "options": [
+      "P pili (fimbriae)",
+      "Lipopolysaccharide",
+      "K capsule",
+      "Shiga-like toxin",
+      "Heat-labile toxin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Escherichia coli expresses P pili (fimbriae), which are paramount for its adhesion to the uroepithelium, causing cystitis and pyelonephritis."
+  },
+  {
+    "id": 1954,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An infant in a developing country presents with severe watery diarrhea without mucosal inflammation. The causative organism adheres to the apical surface, flattens the villi, and prevents absorption without producing any known toxin. Which strain of E. coli is responsible?",
+    "options": [
+      "Enteroinvasive E. coli (EIEC)",
+      "Enteropathogenic E. coli (EPEC)",
+      "Enterohemorrhagic E. coli (EHEC)",
+      "Enterotoxigenic E. coli (ETEC)",
+      "Uropathogenic E. coli (UPEC)"
+    ],
+    "correct_answer": "B",
+    "explanation": "Enteropathogenic E. coli (EPEC) typically causes diarrhea in pediatrics by adhering to the apical surface and flattening villi, without producing toxins."
+  },
+  {
+    "id": 1955,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with heavy alcohol use develops lobar pneumonia producing dark red, currant jelly sputum. The causative organism is a non-motile, lactose-fermenting bacillus. Which structural feature provides its characteristic mucoid colony appearance?",
+    "options": [
+      "Polypeptide capsule",
+      "Thick peptidoglycan layer",
+      "Abundant polysaccharide capsule",
+      "Dense peritrichous flagella",
+      "Extracellular dextran matrix"
+    ],
+    "correct_answer": "C",
+    "explanation": "Klebsiella produces highly mucoid colonies directly caused by its exceedingly abundant polysaccharide capsules."
+  },
+  {
+    "id": 1956,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 5-year-old child presents with bloody diarrhea after consuming undercooked poultry. Stool culture grows a curved, oxidase-positive, gram-negative rod at 42\u00b0C. Infection with this organism is a known antecedent to which neurologic condition?",
+    "options": [
+      "Waterhouse-Friderichsen syndrome",
+      "Bell palsy",
+      "Spastic paralysis",
+      "Guillain-Barr\u00e9 syndrome",
+      "Descending flaccid paralysis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Campylobacter jejuni is a major cause of bloody diarrhea from poultry and is a prominent antecedent to Guillain-Barr\u00e9 syndrome."
+  },
+  {
+    "id": 1957,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An aid worker in a developing nation contracts profuse rice-water diarrhea. The causative comma-shaped bacterium possesses a high infectious dose under normal conditions. What host factor would dramatically lower the infectious dose required for this specific pathogen?",
+    "options": [
+      "Impaired cell-mediated immunity",
+      "Splenectomy",
+      "IgA deficiency",
+      "Previous appendectomy",
+      "Reduced gastric acidity"
+    ],
+    "correct_answer": "E",
+    "explanation": "Vibrio cholerae is exceptionally acid-labile, requiring a large inoculum unless the host experiences reduced gastric acidity."
+  },
+  {
+    "id": 1958,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a history of hemochromatosis develops severe necrotizing fasciitis following exposure to sea water. What is the morphology of the most likely etiologic agent?",
+    "options": [
+      "Gram-negative bacillus",
+      "Gram-positive spore-forming rod",
+      "Gram-negative diplococcus",
+      "Spirochete with axial filaments",
+      "Acid-fast branching bacillus"
+    ],
+    "correct_answer": "A",
+    "explanation": "Vibrio vulnificus is described as a gram-negative bacillus found in marine environments, causing severe wound infections particularly in patients with liver disease."
+  },
+  {
+    "id": 1959,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a duodenal ulcer undergoes a urea breath test which returns positive. The responsible organism produces an enzyme that facilitates its survival. What is the direct product of this enzymatic reaction that neutralizes the local environment?",
+    "options": [
+      "Carbon dioxide",
+      "Ammonia",
+      "Bicarbonate",
+      "Hydrogen sulfide",
+      "Nitric oxide"
+    ],
+    "correct_answer": "B",
+    "explanation": "Helicobacter pylori utilizes urease to produce ammonia, successfully creating an alkaline environment to survive in gastric acid."
+  },
+  {
+    "id": 1960,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hiker treated with antibiotics for a spirochetal infection suddenly develops fever, chills, and severe myalgias. This sudden worsening of symptoms is fundamentally driven by the release of which of the following?",
+    "options": [
+      "Preformed enterotoxins",
+      "Exotoxin A",
+      "Bacterial antigens",
+      "Histamine from mast cells",
+      "Intracellular calcium"
+    ],
+    "correct_answer": "C",
+    "explanation": "The Jarisch-Herxheimer reaction is a systemic host response triggered by the sudden, massive release of bacterial antigens as spirochetes are destroyed by antibiotics."
+  },
+  {
+    "id": 1961,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient from the northeastern United States presents with bilateral facial nerve palsy and an AV block. He recalls an expanding, target-shaped skin lesion several weeks prior. Which of the following stains is capable of visualizing the causative organism under light microscopy?",
+    "options": [
+      "Gram stain",
+      "India ink",
+      "Acid-fast stain",
+      "Wright or Giemsa stain",
+      "Mucicarmine stain"
+    ],
+    "correct_answer": "D",
+    "explanation": "Borrelia burgdorferi causes Lyme disease (Stage 2: carditis/AV block, Bell palsy) and can be distinctly visualized using aniline dyes like Wright or Giemsa stain."
+  },
+  {
+    "id": 1962,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A deer tick bite transmits a pathogen causing erythema migrans. While the tick acts as the vector, which animal serves as the essential natural reservoir for the causative bacterium?",
+    "options": [
+      "White-tailed deer",
+      "Domestic dog",
+      "Armadillo",
+      "Raccoon",
+      "Mouse"
+    ],
+    "correct_answer": "E",
+    "explanation": "For Lyme disease (Borrelia burgdorferi), the natural reservoir is the mouse; deer are crucial for the tick life cycle but do not harbor Borrelia."
+  },
+  {
+    "id": 1963,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospitalized patient treated aggressively with cephalosporins develops toxic megacolon. The causative pathogen's toxins damage the colonic mucosa. What diagnostic methodology is most appropriate for identifying the active disease?",
+    "options": [
+      "Detection of toxins via PCR or antigen test in stool",
+      "Blood culture in anaerobic media",
+      "Stool culture on MacConkey agar",
+      "Serologic testing for specific IgM",
+      "Detection of urinary antigens"
+    ],
+    "correct_answer": "A",
+    "explanation": "Clostridioides difficile active infection is diagnosed accurately by PCR or antigen detection of one or both toxins (A and B) directly in the stool."
+  },
+  {
+    "id": 1964,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with descending flaccid paralysis after consuming home-canned vegetables. The responsible toxin leads to this specific presentation by inhibiting the release of a neurotransmitter. Which receptor does the blocked neurotransmitter normally bind to?",
+    "options": [
+      "GABA-A receptor",
+      "Nicotinic acetylcholine receptor",
+      "Glycine receptor",
+      "Alpha-1 adrenergic receptor",
+      "Dopamine D2 receptor"
+    ],
+    "correct_answer": "B",
+    "explanation": "Botulinum toxin inhibits ACh release at the neuromuscular junction; acetylcholine normally binds to nicotinic acetylcholine receptors."
+  },
+  {
+    "id": 1965,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An adolescent experiences severe pharyngitis with a grayish membrane. A test is ordered to confirm that the isolated Corynebacterium is toxigenic. Which specific laboratory test is used to directly detect this toxin?",
+    "options": [
+      "CAMP test",
+      "Hippurate hydrolysis",
+      "Elek test",
+      "Optochin test",
+      "PYR test"
+    ],
+    "correct_answer": "C",
+    "explanation": "The Elek test is an immunodiffusion assay used specifically for the laboratory diagnosis of C. diphtheriae to confirm the presence of the exotoxin."
+  },
+  {
+    "id": 1966,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate is diagnosed with meningitis, and CSF cultures grow an organism that requires growth on chocolate agar with factors V and X. The vaccine designed to prevent this specific invasive infection targets which component of the pathogen?",
+    "options": [
+      "Poly-D-glutamate capsule",
+      "Lipooligosaccharide",
+      "Pilus proteins",
+      "Type b capsular polysaccharide",
+      "IgA protease"
+    ],
+    "correct_answer": "D",
+    "explanation": "The Haemophilus influenzae type b (Hib) vaccine contains the type b capsular polysaccharide (polyribosylribitol phosphate) conjugated to a carrier protein."
+  },
+  {
+    "id": 1967,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receives a PPD skin test which returns intensely positive. Biopsy of a pulmonary nodule reveals fused macrophages. What is the precise name of the giant cells formed by these fused macrophages in this secondary infection?",
+    "options": [
+      "Reed-Sternberg cells",
+      "Langerhans cells",
+      "Aschoff bodies",
+      "Warthin-Finkeldey giant cells",
+      "Langhans giant cells"
+    ],
+    "correct_answer": "E",
+    "explanation": "Caseating granulomas in secondary tuberculosis notably contain Langhans giant cells (fused macrophages), which must not be confused with Langerhans cells (dermal APCs)."
+  },
+  {
+    "id": 1968,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A surfer presents with fever, jaundice, and photophobia. Examination reveals conjunctival erythema without exudate. Which of the following best describes the pathogenesis of the severe form of this illness?",
+    "options": [
+      "Immune complex deposition causing azotemia and liver dysfunction",
+      "Hepatic and renal dysfunction due to systemic spread of a hook-shaped spirochete",
+      "Granulomatous inflammation resulting in gumma formation",
+      "Intracellular replication within erythrocytes leading to hemolytic anemia",
+      "Direct invasion of the vasa vasorum leading to aortitis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Leptospira interrogans causes Weil disease, characterized by jaundice and azotemia from liver and kidney dysfunction."
+  },
+  {
+    "id": 1969,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a history of painless genital ulcers develops patchy hair loss and smooth, white genital lesions. Which test provides a specific confirmation of this diagnosis?",
+    "options": [
+      "Dark-field microscopy",
+      "RPR",
+      "FTA-ABS",
+      "PCR of the lesions",
+      "VDRL"
+    ],
+    "correct_answer": "C",
+    "explanation": "Secondary syphilis presents with condylomata lata and patchy hair loss. FTA-ABS is the specific treponemal test for confirmation, while VDRL/RPR are nonspecific."
+  },
+  {
+    "id": 1970,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 25-year-old female being evaluated for joint pain and a facial rash has a positive VDRL test. Subsequent treponemal testing is negative. Which underlying factor explains this discrepancy?",
+    "options": [
+      "Insufficient treponemal load in the early latent phase",
+      "Cross-reactivity with beef cardiolipin due to anticardiolipin antibodies",
+      "Prior treatment with penicillin G masking true positivity",
+      "Concomitant infection with Epstein-Barr virus suppressing immunity",
+      "Molecular mimicry by a concomitant Chlamydial infection"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lupus (SLE) patients can have anticardiolipin antibodies, which react with beef cardiolipin used in VDRL, causing a false-positive result."
+  },
+  {
+    "id": 1971,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An infant exhibits rhagades, saddle nose, and a staccato cough is absent. The causative organism typically avoids placental transmission until which stage of development?",
+    "options": [
+      "Throughout the first trimester",
+      "During fertilization",
+      "After the first trimester",
+      "Exclusively during vaginal delivery",
+      "Throughout the third trimester only"
+    ],
+    "correct_answer": "C",
+    "explanation": "Congenital syphilis. Placental transmission typically occurs after the first trimester, requiring early treatment of the mother."
+  },
+  {
+    "id": 1972,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An organism causing reactive arthritis and neonatal conjunctivitis cannot produce its own ATP. Which of the following forms is responsible for entering the host cell?",
+    "options": [
+      "Amastigote via macrophage engulfment",
+      "Reticulate body via phagocytosis",
+      "Spherule via active membrane penetration",
+      "Elementary body via endocytosis",
+      "Trophozoite via receptor-mediated endocytosis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Chlamydia trachomatis elementary bodies are infectious and enter via endocytosis, while reticulate bodies replicate."
+  },
+  {
+    "id": 1973,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A newborn develops bilateral conjunctivitis 10 days after a vaginal delivery. The infectious agent's cell wall lacks classic peptidoglycan. Which serotype is primarily responsible?",
+    "options": [
+      "Types O, P, and Q",
+      "Types 1 through 4",
+      "Types D through K",
+      "Types L1, L2, and L3",
+      "Types A, B, and C"
+    ],
+    "correct_answer": "C",
+    "explanation": "Chlamydia trachomatis types D-K cause neonatal conjunctivitis (1-2 weeks after birth) and neonatal pneumonia."
+  },
+  {
+    "id": 1974,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A female patient has a nonpainful vaginal discharge with a pH of 5.0. Mixing the discharge with 10% KOH produces a fishy odor. What is the primary mechanism leading to this condition?",
+    "options": [
+      "Overgrowth of anaerobic bacteria due to decreased lactobacilli",
+      "Infection by an obligate intracellular pathogen lacking muramic acid",
+      "Introduction of a motile protozoan via sexual transmission",
+      "Cross-infection from a systemic spirochete dissemination",
+      "Fungal overgrowth following broad-spectrum antibiotic use"
+    ],
+    "correct_answer": "A",
+    "explanation": "Bacterial vaginosis (Gardnerella vaginalis) results from anaerobic overgrowth due to reduced protective lactobacilli."
+  },
+  {
+    "id": 1975,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A veterinarian suffers from recurring undulant fevers. Which of the following zoonotic pathogens is most likely responsible?",
+    "options": [
+      "Coxiella burnetii",
+      "Brucella species",
+      "Bartonella henselae",
+      "Pasteurella multocida",
+      "Leptospira interrogans"
+    ],
+    "correct_answer": "B",
+    "explanation": "Brucella spp. cause brucellosis (undulant fever), often acquired from unpasteurized dairy or contact with infected animal tissues."
+  },
+  {
+    "id": 1976,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops a vasculitic rash that starts on the wrists and spreads to the trunk. Despite its vector, this disease predominantly occurs in the South Atlantic states. Which organism causes this?",
+    "options": [
+      "Rickettsia rickettsii",
+      "Rickettsia prowazekii",
+      "Anaplasma phagocytophilum",
+      "Borrelia recurrentis",
+      "Rickettsia typhi"
+    ],
+    "correct_answer": "A",
+    "explanation": "Rocky Mountain spotted fever (Rickettsia rickettsii) presents with a rash starting at wrists/ankles and spreading centrally."
+  },
+  {
+    "id": 1977,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient bitten by an Amblyomma tick presents with fever and leukopenia. Examination of a blood smear reveals mulberry-like inclusions within monocytes. What is the diagnosis?",
+    "options": [
+      "Q fever",
+      "Rocky Mountain spotted fever",
+      "Epidemic typhus",
+      "Ehrlichiosis",
+      "Anaplasmosis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ehrlichiosis (Ehrlichia chaffeensis) features morulae in monocytes (MEGA: Monocytes = Ehrlichiosis)."
+  },
+  {
+    "id": 1978,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A cattle farmer presents with a culture-negative endocarditis and pneumonia but lacks any rash or history of arthropod bite. Which of the following characteristics defines the causative agent?",
+    "options": [
+      "It replicates inside erythrocytes causing hemolysis",
+      "It presents as a broad-based budding yeast",
+      "It relies on an avian reservoir for transmission",
+      "It survives outside the host as an endospore",
+      "It forms granulomas in the liver"
+    ],
+    "correct_answer": "D",
+    "explanation": "Coxiella burnetii causes Q fever, inhaled as aerosols, has no rash/vector, and survives outside via endospores."
+  },
+  {
+    "id": 1979,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A college student develops an insidious nonproductive cough. Serology reveals high titers of IgM that agglutinate RBCs in cold temperatures. Which of the following explains the lack of efficacy of penicillin for this patient?",
+    "options": [
+      "The organism resides exclusively within macrophages",
+      "The organism's cell wall lacks muramic acid",
+      "The organism is a dimorphic fungus",
+      "The organism produces potent beta-lactamases",
+      "The organism completely lacks a cell wall"
+    ],
+    "correct_answer": "E",
+    "explanation": "Mycoplasma pneumoniae lacks a cell wall (membrane has sterols), rendering beta-lactams like penicillin ineffective."
+  },
+  {
+    "id": 1980,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A cave explorer in the Ohio River Valley presents with palatal ulcers and hepatosplenomegaly. Biopsy shows intracellular structures smaller than RBCs. Where does this organism characteristically reside in the host?",
+    "options": [
+      "Within macrophages",
+      "Within squamous epithelial cells",
+      "Extracellularly in the alveoli",
+      "Within erythrocytes",
+      "Within neutrophils"
+    ],
+    "correct_answer": "A",
+    "explanation": "Histoplasma capsulatum is a dimorphic fungus that hides within macrophages ('Histo hides')."
+  },
+  {
+    "id": 1981,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with inflammatory lung disease develops verrucous skin lesions mimicking squamous cell carcinoma. Tissue analysis reveals broad-based budding yeasts approximately the size of an RBC. Which organism is this?",
+    "options": [
+      "Blastomyces dermatitidis",
+      "Coccidioides immitis",
+      "Paracoccidioides brasiliensis",
+      "Cryptococcus neoformans",
+      "Histoplasma capsulatum"
+    ],
+    "correct_answer": "A",
+    "explanation": "Blastomycosis presents with broad-based budding yeasts ('Blasto buds broadly') about the same size as an RBC."
+  },
+  {
+    "id": 1982,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Following an earthquake in California, a patient develops 'desert rheumatism' and erythema nodosum. Which of the following forms of the pathogen is found in human tissue at 37\u00b0C?",
+    "options": [
+      "Budding yeast with a clear halo",
+      "Spherule filled with endospores",
+      "Nonseptate hyphae with wide-angle branching",
+      "Pseudohyphae and budding yeasts",
+      "Cigar-shaped yeast"
+    ],
+    "correct_answer": "B",
+    "explanation": "Coccidioides is the only systemic dimorphic fungus that forms a spherule (not yeast) in human tissue."
+  },
+  {
+    "id": 1983,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A Brazilian man presents with severe inflammatory lung disease. Microscopy demonstrates a budding yeast much larger than an RBC, resembling a 'captain's wheel.' Which treatment is indicated for systemic disease?",
+    "options": [
+      "Praziquantel",
+      "Doxycycline",
+      "Penicillin G",
+      "Metronidazole",
+      "Amphotericin B"
+    ],
+    "correct_answer": "E",
+    "explanation": "Paracoccidioidomycosis. Treatment for systemic fungal infections is generally amphotericin B."
+  },
+  {
+    "id": 1984,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A diabetic patient develops oral thrush and vulvovaginitis. At 37\u00b0C in the laboratory, the causative dimorphic fungus primarily forms which of the following structures?",
+    "options": [
+      "Spherules",
+      "True septate hyphae",
+      "Germ tubes",
+      "Pseudohyphae",
+      "Arthroconidia"
+    ],
+    "correct_answer": "C",
+    "explanation": "Candida albicans forms germ tubes at 37\u00b0C and pseudohyphae/budding yeasts at 20\u00b0C."
+  },
+  {
+    "id": 1985,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A leukemic patient develops hemoptysis and a lung cavity lesion. Biopsy shows septate hyphae branching at 45\u00b0. Why are patients with chronic granulomatous disease highly susceptible to this specific pathogen?",
+    "options": [
+      "It completely inhibits phagolysosome fusion",
+      "It rapidly mutates its surface antigens",
+      "It mimics host mucopolysaccharides",
+      "It degrades reactive oxygen species via catalase",
+      "It relies on iron sequestration from host tissues"
+    ],
+    "correct_answer": "D",
+    "explanation": "Aspergillus is catalase-positive, allowing it to degrade H2O2, severely affecting patients with CGD who cannot produce their own H2O2."
+  },
+  {
+    "id": 1986,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with AIDS develops meningitis. India ink preparation of CSF reveals a clear halo around the yeast. Which of the following describes the unique morphological trait of this fungus?",
+    "options": [
+      "It is dimorphic and forms germ tubes",
+      "It branches at wide angles",
+      "It exhibits broad-based budding",
+      "It is heavily encapsulated and not dimorphic",
+      "It forms a 'captain's wheel'"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cryptococcus neoformans is a heavily encapsulated yeast and is not dimorphic."
+  },
+  {
+    "id": 1987,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient in diabetic ketoacidosis presents with a black eschar on the face and cavernous sinus thrombosis. The invading pathogen typically penetrates which anatomical structure to enter the brain?",
+    "options": [
+      "Optic chiasm",
+      "Superior orbital fissure",
+      "Cribriform plate",
+      "Foramen rotundum",
+      "Jugular foramen"
+    ],
+    "correct_answer": "C",
+    "explanation": "Mucor and Rhizopus species proliferate in blood vessels and penetrate the cribriform plate to enter the brain."
+  },
+  {
+    "id": 1988,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A transplant recipient presents with a diffuse interstitial pneumonia. Silver stain of bronchoalveolar lavage fluid reveals disc-shaped yeasts. Which of the following is the first-line prophylactic agent for this infection?",
+    "options": [
+      "Dapsone-pyrimethamine",
+      "Amphotericin B",
+      "Caspofungin",
+      "Flucytosine",
+      "Trimethoprim-sulfamethoxazole"
+    ],
+    "correct_answer": "E",
+    "explanation": "Pneumocystis jirovecii pneumonia (PCP) is treated and prophylaxed with TMP-SMX."
+  },
+  {
+    "id": 1989,
+    "category": "FCPS Topic (Extreme)",
+    "question": "After pricking a finger on a rose thorn, a gardener develops a local pustule and ascending lymphangitis. What is the environmental form of the causative organism found in soil?",
+    "options": [
+      "Spherule with endospores",
+      "Trophozoite",
+      "Hyphae with spores (conidia)",
+      "Reticulate body",
+      "Cigar-shaped yeast"
+    ],
+    "correct_answer": "C",
+    "explanation": "Sporothrix schenckii is dimorphic: cigar-shaped yeast in the human body (37\u00b0C) and hyphae with spores in soil (20\u00b0C)."
+  },
+  {
+    "id": 1990,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient has foul-smelling, fatty diarrhea after a camping trip. The causative organism is detected in the stool. Which medication is appropriate for treatment?",
+    "options": [
+      "Albendazole",
+      "Praziquantel",
+      "Diethylcarbamazine",
+      "Ivermectin",
+      "Nitazoxanide"
+    ],
+    "correct_answer": "E",
+    "explanation": "Giardia lamblia is treated with metronidazole, tinidazole, or nitazoxanide."
+  },
+  {
+    "id": 1991,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with right upper quadrant pain has an 'anchovy paste' liver abscess. Stool microscopy shows trophozoites with engulfed red blood cells. Which of the following is the most likely pathogen?",
+    "options": [
+      "Entamoeba histolytica",
+      "Giardia lamblia",
+      "Toxoplasma gondii",
+      "Trypanosoma cruzi",
+      "Cryptosporidium"
+    ],
+    "correct_answer": "A",
+    "explanation": "Entamoeba histolytica causes amebiasis, characterized by bloody diarrhea, liver abscesses, and trophozoites engulfing RBCs."
+  },
+  {
+    "id": 1992,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with advanced HIV presents with severe, unrelenting watery diarrhea. Oocysts are identified on acid-fast stain of the stool. What is the primary method of preventing this specific infection in a community?",
+    "options": [
+      "Administering prophylactic metronidazole",
+      "Avoiding contact with cat feces",
+      "Thoroughly cooking all pork products",
+      "Using permethrin-treated bed nets",
+      "Filtering city water supplies"
+    ],
+    "correct_answer": "E",
+    "explanation": "Cryptosporidium is transmitted via water and is prevented by filtering city water supplies, as it is highly resistant to chlorination."
+  },
+  {
+    "id": 1993,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A newborn is diagnosed with hydrocephalus, intracranial calcifications, and chorioretinitis. Which of the following prophylactic regimens should the mother have received if her CD4+ count was critically low prior to pregnancy?",
+    "options": [
+      "Ganciclovir",
+      "Isoniazid",
+      "Azithromycin",
+      "Fluconazole",
+      "TMP-SMX"
+    ],
+    "correct_answer": "E",
+    "explanation": "Toxoplasma gondii congenital triad. Prophylaxis for Toxoplasma in AIDS patients with CD4 < 100 is TMP-SMX."
+  },
+  {
+    "id": 1994,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 12-year-old boy dies from a rapidly fatal meningoencephalitis after swimming in a warm freshwater lake. The pathogen involved was likely observed in the CSF in which morphological form?",
+    "options": [
+      "Trypomastigote",
+      "Oocyst",
+      "Trophozoite",
+      "Amastigote",
+      "Amoeba"
+    ],
+    "correct_answer": "E",
+    "explanation": "Naegleria fowleri is an amoeba found in warm freshwater that enters the CNS via the cribriform plate."
+  },
+  {
+    "id": 1995,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with somnolence and coma. A blood smear shows trypomastigotes. Which of the following treatments is required for CNS penetration of this disease?",
+    "options": [
+      "Benznidazole",
+      "Nifurtimox",
+      "Suramin",
+      "Sodium stibogluconate",
+      "Melarsoprol"
+    ],
+    "correct_answer": "E",
+    "explanation": "Trypanosoma brucei (African sleeping sickness). Melarsoprol is used for CNS penetration ('mellow when sleeping')."
+  },
+  {
+    "id": 1996,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient has malaria with irregular fever patterns and cerebral capillary occlusion. Blood smear shows headphone-shaped trophozoite rings. Which organism is this?",
+    "options": [
+      "Plasmodium vivax",
+      "Plasmodium malariae",
+      "Plasmodium ovale",
+      "Plasmodium falciparum",
+      "Babesia microti"
+    ],
+    "correct_answer": "D",
+    "explanation": "P falciparum causes severe, irregular fevers, cerebral malaria, and shows headphone-shaped rings and crescent-shaped gametocytes."
+  },
+  {
+    "id": 1997,
+    "category": "FCPS Topic (Extreme)",
+    "question": "In a patient treated for Plasmodium vivax, which drug is essential to target the dormant liver forms to prevent relapse?",
+    "options": [
+      "Primaquine",
+      "Chloroquine",
+      "Artesunate",
+      "Atovaquone",
+      "Mefloquine"
+    ],
+    "correct_answer": "A",
+    "explanation": "Primaquine targets the hypnozoite (dormant) forms of P vivax and P ovale in the liver."
+  },
+  {
+    "id": 1998,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient from the northeastern US develops fever and hemolytic anemia. A blood smear shows a 'Maltese cross' formation. This organism shares a vector with which of the following pathogens?",
+    "options": [
+      "Borrelia burgdorferi",
+      "Leishmania donovani",
+      "Wuchereria bancrofti",
+      "Trypanosoma cruzi",
+      "Rickettsia prowazekii"
+    ],
+    "correct_answer": "A",
+    "explanation": "Babesia microti is transmitted by the Ixodes tick, which also transmits Borrelia burgdorferi and Anaplasma."
+  },
+  {
+    "id": 1999,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient from South America has a markedly dilated heart with apical atrophy and megaesophagus. What insect vector transmitted the causative parasite?",
+    "options": [
+      "Anopheles mosquito",
+      "Ixodes tick",
+      "Sandfly",
+      "Triatomine insect",
+      "Tsetse fly"
+    ],
+    "correct_answer": "D",
+    "explanation": "Trypanosoma cruzi (Chagas disease) is transmitted by the Triatomine (kissing) bug."
+  },
+  {
+    "id": 2000,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with cutaneous ulcers also develops spiking fevers and pancytopenia. Macrophages containing amastigotes are identified. The vector responsible for transmission is:",
+    "options": [
+      "Triatomine bug",
+      "Sandfly",
+      "Black fly",
+      "Deer fly",
+      "Louse"
+    ],
+    "correct_answer": "B",
+    "explanation": "Leishmania spp. (visceral and cutaneous leishmaniasis) are transmitted by the Sandfly."
+  },
+  {
+    "id": 2001,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient is diagnosed with vaginitis showing motile trophozoites on a wet mount. Why must the patient's asymptomatic sexual partners also be treated with metronidazole?",
+    "options": [
+      "The organism is exclusively sexually transmitted",
+      "The organism can rapidly form resistant cysts in males",
+      "The organism is a common cause of bacterial vaginosis",
+      "The organism frequently causes pelvic inflammatory disease in males",
+      "The organism exhibits antigenic variation"
+    ],
+    "correct_answer": "A",
+    "explanation": "Trichomonas vaginalis is an STI and lacks a cyst stage, requiring partner treatment to prevent reinfection."
+  },
+  {
+    "id": 2002,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child with nocturnal perianal pruritus is diagnosed via the tape test. Which drug class is the most appropriate first-line therapy?",
+    "options": [
+      "Polyenes",
+      "Macrolides",
+      "Echinocandins",
+      "Bendazoles",
+      "Aminoglycosides"
+    ],
+    "correct_answer": "D",
+    "explanation": "Enterobius vermicularis (pinworm) is treated with bendazoles or pyrantel pamoate."
+  },
+  {
+    "id": 2003,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient suffers from biliary obstruction and pulmonary eosinophilia. Feces show knobby-coated, oval eggs. Which nematode is implicated?",
+    "options": [
+      "Ancylostoma duodenale",
+      "Trichuris trichiura",
+      "Strongyloides stercoralis",
+      "Enterobius vermicularis",
+      "Ascaris lumbricoides"
+    ],
+    "correct_answer": "E",
+    "explanation": "Ascaris lumbricoides (giant roundworm) can obstruct the biliary tract/ileocecal valve and causes L\u00f6effler syndrome."
+  },
+  {
+    "id": 2004,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Rhabditiform larvae are seen in the stool of an immunocompromised patient with dry cough and hemoptysis. How did the initial infection most likely occur?",
+    "options": [
+      "Mosquito bite transmitting microfilariae",
+      "Ingestion of cysts in undercooked meat",
+      "Larvae in soil penetrating the skin",
+      "Direct human-to-human contact",
+      "Ingestion of eggs in contaminated water"
+    ],
+    "correct_answer": "C",
+    "explanation": "Strongyloides stercoralis larvae in soil penetrate the skin."
+  },
+  {
+    "id": 2005,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops a pruritic, serpiginous rash on his foot after walking on a beach, later developing microcytic anemia. The anemia is caused by:",
+    "options": [
+      "Parasite competition for Vitamin B12",
+      "Bone marrow suppression",
+      "Sucking of blood from the intestinal wall",
+      "Autoimmune destruction of red blood cells",
+      "Hemolysis inside erythrocytes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Hookworms (Ancylostoma, Necator) cause cutaneous larva migrans and microcytic anemia by sucking blood from the intestinal wall."
+  },
+  {
+    "id": 2006,
+    "category": "FCPS Topic (Extreme)",
+    "question": "After eating wild boar meat, a patient experiences nausea, periorbital edema, and severe muscle pain. Where do the larvae of the causative nematode encyst?",
+    "options": [
+      "Cardiac muscle",
+      "Brain tissue",
+      "Striated muscle",
+      "Smooth muscle of the gut",
+      "Hepatic parenchyma"
+    ],
+    "correct_answer": "C",
+    "explanation": "Trichinella spiralis larvae enter the bloodstream and encyst in striated muscle, causing myositis."
+  },
+  {
+    "id": 2007,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Visceral larva migrans leading to visual impairment and seizures is most commonly associated with the ingestion of eggs from which animal's feces?",
+    "options": [
+      "Cow",
+      "Cat",
+      "Pig",
+      "Dog",
+      "Sheep"
+    ],
+    "correct_answer": "D",
+    "explanation": "Toxocara canis causes visceral larva migrans, transmitted via fecal-oral route from dogs."
+  },
+  {
+    "id": 2008,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with river blindness and black skin nodules is treated with ivermectin. What is the vector for the responsible nematode?",
+    "options": [
+      "Deer fly",
+      "Female black fly",
+      "Sandfly",
+      "Female mosquito",
+      "Tsetse fly"
+    ],
+    "correct_answer": "B",
+    "explanation": "Onchocerca volvulus, causing river blindness, is transmitted by the female black fly."
+  },
+  {
+    "id": 2009,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient exhibits massive swelling of the lower extremities due to lymphatic filariasis. The causative organisms (Wuchereria bancrofti) were introduced via:",
+    "options": [
+      "Ingestion of contaminated water",
+      "Female mosquito bite",
+      "Deer fly bite",
+      "Cutaneous larval penetration",
+      "Direct human-to-human contact"
+    ],
+    "correct_answer": "B",
+    "explanation": "Wuchereria bancrofti is transmitted by the female mosquito and invades lymph nodes causing elephantiasis."
+  },
+  {
+    "id": 2010,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient suffers from neurocysticercosis resulting in brain cysts and seizures. This specific disease manifestation was acquired by:",
+    "options": [
+      "Ingestion of larvae encysted in undercooked pork",
+      "Ingestion of eggs from human feces-contaminated food",
+      "Bite of a triatomine bug",
+      "Ingestion of raw freshwater fish",
+      "Penetration of larvae through bare feet"
+    ],
+    "correct_answer": "B",
+    "explanation": "Taenia solium causes neurocysticercosis when eggs are ingested via human feces. Ingesting encysted larvae in pork causes intestinal tapeworm."
+  },
+  {
+    "id": 2011,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops megaloblastic anemia. History includes eating raw freshwater fish. Which cestode is competing for nutrients in the patient's intestine?",
+    "options": [
+      "Taenia solium",
+      "Clonorchis sinensis",
+      "Echinococcus granulosus",
+      "Diphyllobothrium latum",
+      "Schistosoma mansoni"
+    ],
+    "correct_answer": "D",
+    "explanation": "Diphyllobothrium latum competes for Vitamin B12, causing megaloblastic anemia."
+  },
+  {
+    "id": 2012,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An ultrasound shows 'eggshell calcification' in the liver of a sheep farmer. Which of the following is the definitive host for this parasite?",
+    "options": [
+      "Dog",
+      "Sheep",
+      "Human",
+      "Snail",
+      "Pig"
+    ],
+    "correct_answer": "A",
+    "explanation": "Echinococcus granulosus causes hydatid cysts. Humans ingest eggs from dog feces, making dogs the definitive host and sheep the intermediate host."
+  },
+  {
+    "id": 2013,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient who recently bathed in an Egyptian lake develops painless hematuria. Which feature characterizes the egg of the organism predisposing him to bladder cancer?",
+    "options": [
+      "Lateral spine",
+      "Knobby-coated oval shape",
+      "Flask-shaped",
+      "Operculated with a small knob",
+      "Terminal spine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Schistosoma haematobium eggs have a terminal spine and cause squamous cell carcinoma of the bladder."
+  },
+  {
+    "id": 2014,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a history of consuming undercooked fish develops pigmented gallstones. This trematode infection is strongly associated with the development of:",
+    "options": [
+      "Cholangiocarcinoma",
+      "Squamous cell carcinoma of the bladder",
+      "Gastric adenocarcinoma",
+      "Hepatocellular carcinoma",
+      "Colorectal cancer"
+    ],
+    "correct_answer": "A",
+    "explanation": "Clonorchis sinensis causes biliary tract inflammation, pigmented gallstones, and cholangiocarcinoma."
+  },
+  {
+    "id": 2015,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child with head lice is treated with pyrethroids. Which of the following must also be considered regarding school attendance?",
+    "options": [
+      "The child must be quarantined for 14 days",
+      "All classmates must receive prophylactic ivermectin",
+      "The child can be treated at home without interrupting school attendance",
+      "The school must be fumigated to eradicate endospores",
+      "The child requires systemic antibiotics to prevent typhus"
+    ],
+    "correct_answer": "C",
+    "explanation": "Children with head lice can be treated at home without interrupting school attendance."
+  },
+  {
+    "id": 2016,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A traveler awakens with a clustered pattern of pruritic, erythematous papules with central hemorrhagic punctums. What is the most appropriate management?",
+    "options": [
+      "Excision of the lesions to prevent systemic spread",
+      "Eradication of the insect infestation in the dwelling",
+      "Immediate administration of permethrin cream to the lesions",
+      "Administration of praziquantel",
+      "Oral ivermectin for 7 days"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bed bugs (Cimex lectularius). Bites self-resolve; eradication of the infestation is critical."
+  },
+  {
+    "id": 2017,
+    "category": "FCPS Topic (Extreme)",
+    "question": "When an organism infected with two different viruses produces a progeny virion containing the genome of virus A coated with the surface proteins of virus B, which genetic phenomenon has occurred?",
+    "options": [
+      "Transformation",
+      "Phenotypic mixing",
+      "Recombination",
+      "Reassortment",
+      "Complementation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Phenotypic mixing occurs when genome A is coated by surface proteins of virus B, determining the tropism of the hybrid virus. Subsequent progeny will have type A coat."
+  },
+  {
+    "id": 2018,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A viral genome is experimentally injected naked into a human cell and initiates infection. Which agent does this genome most likely belong to?",
+    "options": [
+      "Rhinovirus",
+      "Influenza virus",
+      "Rabies virus",
+      "Poxvirus",
+      "Hepatitis B virus"
+    ],
+    "correct_answer": "A",
+    "explanation": "Naked +ssRNA viruses (like Rhinovirus) are infectious. Negative-strand RNA viruses (Influenza, Rabies) and Pox/HBV DNA require viral polymerases."
+  },
+  {
+    "id": 2019,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A virus exits the host cell but its acquired envelope contains nuclear membrane proteins rather than plasma membrane proteins. Which family does it belong to?",
+    "options": [
+      "Poxviridae",
+      "Herpesviridae",
+      "Flaviviridae",
+      "Hepadnaviridae",
+      "Orthomyxoviridae"
+    ],
+    "correct_answer": "B",
+    "explanation": "Herpesviruses are uniquely enveloped by budding through the host nuclear membrane."
+  },
+  {
+    "id": 2020,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An enveloped DNA virus is observed replicating entirely outside the host cell nucleus. What is a key structural feature of this agent?",
+    "options": [
+      "Circular dsDNA",
+      "Icosahedral capsid",
+      "Partially dsDNA",
+      "Linear ssDNA",
+      "Linear dsDNA"
+    ],
+    "correct_answer": "E",
+    "explanation": "Poxvirus replicates in the cytoplasm, carrying its own DNA-dependent RNA polymerase, and has a linear dsDNA genome."
+  },
+  {
+    "id": 2021,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A virus known to cause progressive multifocal leukoencephalopathy is analyzed. Its genome is best described as:",
+    "options": [
+      "Linear ssDNA",
+      "Linear dsDNA",
+      "Circular dsDNA",
+      "Circular ssDNA",
+      "Segmented dsRNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "JC virus is a Polyomavirus, which has a circular dsDNA genome."
+  },
+  {
+    "id": 2022,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An adult patient with rheumatoid arthritis-like symptoms is diagnosed with a viral infection that commonly targets RBC precursors. Which characteristic defines this virus?",
+    "options": [
+      "It has a single-stranded linear genome.",
+      "It is a naked dsDNA virus.",
+      "It possesses an envelope.",
+      "It is the largest DNA virus.",
+      "It replicates in the cytoplasm."
+    ],
+    "correct_answer": "A",
+    "explanation": "Parvovirus B19 is a naked, linear ssDNA virus, the smallest DNA virus."
+  },
+  {
+    "id": 2023,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Keratinocytes from a flesh-colored papule with central umbilication contain distinct intracytoplasmic inclusions. Which virus is the most likely etiology?",
+    "options": [
+      "Herpes simplex virus 1",
+      "Human papillomavirus 6",
+      "Varicella-zoster virus",
+      "Molluscum contagiosum virus",
+      "Adenovirus"
+    ],
+    "correct_answer": "D",
+    "explanation": "Molluscum contagiosum is a Poxvirus, characterized by cytoplasmic molluscum bodies and umbilicated papules."
+  },
+  {
+    "id": 2024,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A transplant patient develops hemorrhagic cystitis. The suspected naked DNA virus is characterized by:",
+    "options": [
+      "Circular dsDNA",
+      "Circular ssDNA",
+      "Linear dsDNA",
+      "Linear ssDNA",
+      "Segmented dsRNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "Adenovirus causes acute hemorrhagic cystitis and has a linear dsDNA genome."
+  },
+  {
+    "id": 2025,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops rapidly progressive altered mental status and aphasia due to a virus latent in the trigeminal ganglia. The etiology is:",
+    "options": [
+      "HSV-1",
+      "HSV-2",
+      "VZV",
+      "CMV",
+      "EBV"
+    ],
+    "correct_answer": "A",
+    "explanation": "HSV-1 is latent in the trigeminal ganglia and is the most common cause of sporadic encephalitis, often affecting the temporal lobe."
+  },
+  {
+    "id": 2026,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A college student presents with fatigue and lymphadenopathy, but heterophile antibodies are absent. Infected cells will likely show:",
+    "options": [
+      "Intranuclear owl eye inclusions",
+      "Warthin-Finkeldey giant cells",
+      "Intranuclear Cowdry A inclusions",
+      "Cytoplasmic Negri bodies",
+      "Eosinophilic apoptotic globules"
+    ],
+    "correct_answer": "A",
+    "explanation": "CMV causes Monospot-negative mononucleosis and is characterized by owl eye intranuclear inclusions."
+  },
+  {
+    "id": 2027,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An immunosuppressed patient develops violaceous skin plaques representing vascular proliferations. The genome of the causative virus is:",
+    "options": [
+      "Naked circular dsDNA",
+      "Naked linear dsDNA",
+      "Enveloped linear dsDNA",
+      "Enveloped circular dsDNA",
+      "Enveloped linear ssRNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "HHV-8 causes Kaposi sarcoma and is a herpesvirus (enveloped, linear dsDNA)."
+  },
+  {
+    "id": 2028,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A virus that immortalizes B cells avoids neutralizing antibodies initially by utilizing which host receptor?",
+    "options": [
+      "CD21",
+      "CD4",
+      "P antigen",
+      "Integrins",
+      "ICAM-1"
+    ],
+    "correct_answer": "A",
+    "explanation": "Epstein-Barr virus infects B cells by binding to CD21."
+  },
+  {
+    "id": 2029,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An individual is exposed to a neurotropic virus that replicates locally before migrating retrograde up nerve axons. The virus binds to:",
+    "options": [
+      "Heparan sulfate",
+      "ACE2",
+      "CXCR4",
+      "Nicotinic acetylcholine receptor",
+      "CD4"
+    ],
+    "correct_answer": "D",
+    "explanation": "Rabies virus travels retrograde via dynein motors after binding to nicotinic ACh receptors."
+  },
+  {
+    "id": 2030,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient suffers from a common cold that is acid-labile. The causative agent is from which viral family?",
+    "options": [
+      "Coronaviridae",
+      "Orthomyxoviridae",
+      "Adenoviridae",
+      "Picornaviridae",
+      "Paramyxoviridae"
+    ],
+    "correct_answer": "D",
+    "explanation": "Rhinovirus is a picornavirus that is acid-labile."
+  },
+  {
+    "id": 2031,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 1-year-old child requires hospitalization for severe dehydration due to gastroenteritis. The pathogen contains a genome consisting of:",
+    "options": [
+      "Enveloped dsRNA",
+      "Naked +ssRNA",
+      "Naked dsRNA",
+      "Enveloped +ssRNA",
+      "Naked dsDNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "Rotavirus, a reovirus, has a segmented dsRNA genome and is naked."
+  },
+  {
+    "id": 2032,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops encephalitis after a mosquito bite. The causative virus is enveloped and has an ambisense circular RNA genome. The family is:",
+    "options": [
+      "Arenaviridae",
+      "Togaviridae",
+      "Bunyaviridae",
+      "Flaviviridae",
+      "Rhabdoviridae"
+    ],
+    "correct_answer": "A",
+    "explanation": "Arenaviruses have a multisegmented ambisense circular RNA genome."
+  },
+  {
+    "id": 2033,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which of the following describes a virus that utilizes reverse transcriptase but does not integrate its genome into host DNA as a provirus?",
+    "options": [
+      "Retrovirus",
+      "Flavivirus",
+      "Togavirus",
+      "Hepadnavirus",
+      "Matonavirus"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hepadnaviruses (HBV) use reverse transcriptase but do not strictly integrate as a core part of their replication cycle like retroviruses."
+  },
+  {
+    "id": 2034,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient returning from West Africa develops a severe hemorrhagic fever transmitted by rodents. The genome of the virus is:",
+    "options": [
+      "SS negative linear RNA",
+      "SS negative circular RNA",
+      "SS positive and negative circular RNA",
+      "DS linear RNA",
+      "SS positive linear RNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lassa fever is caused by an Arenavirus, which has an ambisense (positive and negative) circular RNA genome."
+  },
+  {
+    "id": 2035,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An enveloped virus with a helical capsid and a positive-sense single-stranded RNA genome is responsible for which disease?",
+    "options": [
+      "Rabies",
+      "Ebola hemorrhagic fever",
+      "Measles",
+      "Influenza",
+      "COVID-19"
+    ],
+    "correct_answer": "E",
+    "explanation": "Coronaviruses (SARS-CoV-2) are enveloped +ssRNA viruses with helical capsids."
+  },
+  {
+    "id": 2036,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pregnant patient with pre-existing liver disease experiences rapid hepatic failure. The superinfecting virus depends completely on which protein?",
+    "options": [
+      "Core antigen",
+      "E antigen",
+      "RNA-dependent RNA polymerase",
+      "Surface antigen",
+      "Integrase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hepatitis D virus requires Hepatitis B surface antigen (HBsAg) for its envelope."
+  },
+  {
+    "id": 2037,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Routine vaccination of an infant against a major global cause of gastroenteritis carries a rare risk of:",
+    "options": [
+      "Aseptic meningitis",
+      "Encephalopathy",
+      "Intussusception",
+      "Myocarditis",
+      "Hemolytic uremic syndrome"
+    ],
+    "correct_answer": "C",
+    "explanation": "The rotavirus vaccine carries a rare risk of intussusception."
+  },
+  {
+    "id": 2038,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pandemic strain of a respiratory virus emerges rapidly. This abrupt major genetic change is exclusively driven by:",
+    "options": [
+      "Random HA mutations",
+      "Poor RNA polymerase proofreading",
+      "Host alternative splicing",
+      "Transposon integration",
+      "RNA segment reassortment"
+    ],
+    "correct_answer": "E",
+    "explanation": "Antigenic shift in Influenza (which has a segmented genome) occurs via RNA segment reassortment."
+  },
+  {
+    "id": 2039,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate is born with a patent ductus arteriosus, cataracts, and deafness. The mother was likely infected by a virus belonging to which family?",
+    "options": [
+      "Togaviridae",
+      "Matonaviridae",
+      "Flaviviridae",
+      "Parvoviridae",
+      "Paramyxoviridae"
+    ],
+    "correct_answer": "B",
+    "explanation": "Rubella (formerly a togavirus, now a matonavirus) causes congenital rubella syndrome."
+  },
+  {
+    "id": 2040,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An infant with bronchiolitis receives a monoclonal antibody directed against the F protein. This target normally facilitates:",
+    "options": [
+      "Viral attachment to sialic acid",
+      "Release of progeny virions",
+      "Evasion of host immune response",
+      "Integration into the host genome",
+      "Formation of multinucleated giant cells"
+    ],
+    "correct_answer": "E",
+    "explanation": "The Fusion (F) protein in Paramyxoviruses causes respiratory epithelial cells to fuse, forming syncytia."
+  },
+  {
+    "id": 2041,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 12-year-old child develops progressive dementia and autonomic dysfunction years after a childhood illness featuring Koplik spots. The original illness featured:",
+    "options": [
+      "Intranuclear owl eye inclusions",
+      "Eosinophilic apoptotic globules",
+      "Warthin-Finkeldey giant cells",
+      "Negri bodies",
+      "Molluscum bodies"
+    ],
+    "correct_answer": "C",
+    "explanation": "The child has SSPE caused by prior Measles infection. Measles histology shows Warthin-Finkeldey giant cells."
+  },
+  {
+    "id": 2042,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A traveler develops high fever, severe polyarthritis, and a maculopapular rash. Which vector most likely transmitted this alphavirus?",
+    "options": [
+      "Anopheles mosquito",
+      "Ixodes tick",
+      "Culex mosquito",
+      "Sandfly",
+      "Aedes mosquito"
+    ],
+    "correct_answer": "E",
+    "explanation": "Chikungunya is an alphavirus transmitted by Aedes mosquitoes."
+  },
+  {
+    "id": 2043,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An outbreak of a viral illness causes microcephaly in newborns. The causative agent is an enveloped +ssRNA virus with an icosahedral capsid belonging to:",
+    "options": [
+      "Togaviridae",
+      "Flaviviridae",
+      "Matonaviridae",
+      "Bunyaviridae",
+      "Arenaviridae"
+    ],
+    "correct_answer": "B",
+    "explanation": "Zika virus is a Flavivirus."
+  },
+  {
+    "id": 2044,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient dies from a severe hemorrhagic fever with jaundice. Liver biopsy shows eosinophilic apoptotic globules. The pathogen's genome is:",
+    "options": [
+      "Segmented dsRNA",
+      "Linear -ssRNA",
+      "Circular +ssRNA",
+      "Circular dsDNA",
+      "Linear +ssRNA"
+    ],
+    "correct_answer": "E",
+    "explanation": "Yellow fever virus (a flavivirus) has a linear +ssRNA genome."
+  },
+  {
+    "id": 2045,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A victim of a skunk bite develops hydrophobia and hypersalivation. Postexposure prophylaxis must include:",
+    "options": [
+      "Killed vaccine and immunoglobulin",
+      "Acyclovir therapy",
+      "Live attenuated vaccine",
+      "Monoclonal F protein antibodies",
+      "Ribavirin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Rabies PEP involves wound cleaning, killed vaccine, and rabies immunoglobulin."
+  },
+  {
+    "id": 2046,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A severe acute respiratory virus utilizes ACE2 for host entry. Which of its structural proteins mediates this binding?",
+    "options": [
+      "Matrix (M) protein",
+      "Envelope (E) protein",
+      "Hemagglutinin",
+      "Spike (S) protein",
+      "Neuraminidase"
+    ],
+    "correct_answer": "D",
+    "explanation": "SARS-CoV-2 uses the Spike (S) protein to bind ACE2."
+  },
+  {
+    "id": 2047,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A chronic hepatitis infection features a virus with high antigenic variation in its envelope. The molecular basis for this is the lack of:",
+    "options": [
+      "Reverse transcriptase activity",
+      "RNA-dependent RNA polymerase",
+      "Endonuclease activity",
+      "3'-5' exonuclease activity",
+      "5'-3' exonuclease activity"
+    ],
+    "correct_answer": "D",
+    "explanation": "HCV lacks 3'-5' exonuclease (proofreading) activity, leading to antigenic variation."
+  },
+  {
+    "id": 2048,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An expecting mother traveling in Asia develops fulminant hepatic failure. The most likely etiology is a virus belonging to:",
+    "options": [
+      "Picornaviridae",
+      "Hepeviridae",
+      "Flaviviridae",
+      "Hepadnaviridae",
+      "Deltaviridae"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hepatitis E (Hepeviridae) has a high mortality rate in pregnant women."
+  },
+  {
+    "id": 2049,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a chronic bloodborne viral infection develops essential mixed cryoglobulinemia. Which other extrahepatic manifestation is classic for this virus?",
+    "options": [
+      "Sporadic porphyria cutanea tarda",
+      "Lichen planus",
+      "Aplastic anemia",
+      "Polyarteritis nodosa",
+      "Membranous glomerulonephritis"
+    ],
+    "correct_answer": "A",
+    "explanation": "HCV extrahepatic manifestations include porphyria cutanea tarda and essential mixed cryoglobulinemia."
+  },
+  {
+    "id": 2050,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A healthcare worker\u2019s hepatitis panel shows HBsAg (-), Anti-HBs (+), Anti-HBc IgG (-), and HBeAg (-). This profile indicates:",
+    "options": [
+      "Immunization",
+      "Window period",
+      "Chronic low infectivity",
+      "Acute infection",
+      "Recovery from past infection"
+    ],
+    "correct_answer": "A",
+    "explanation": "Positive Anti-HBs with negative Anti-HBc IgG indicates immunity through vaccination."
+  },
+  {
+    "id": 2051,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During the window period of a hepatitis B infection, which of the following is the sole positive marker detectable?",
+    "options": [
+      "HBsAg",
+      "Anti-HBs",
+      "HBeAg",
+      "Anti-HBe IgG",
+      "Anti-HBc IgM"
+    ],
+    "correct_answer": "E",
+    "explanation": "Anti-HBc IgM may be the sole positive marker during the window period."
+  },
+  {
+    "id": 2052,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV protein undergoes cleavage to form two envelope glycoproteins. Which gene encodes the precursor of these glycoproteins?",
+    "options": [
+      "gag",
+      "pol",
+      "tat",
+      "rev",
+      "env"
+    ],
+    "correct_answer": "E",
+    "explanation": "The env gene codes for gp160, which is cleaved into gp120 and gp41."
+  },
+  {
+    "id": 2053,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient is found to be immune to early-infection strains of HIV. They most likely harbor a homozygous mutation in the gene for:",
+    "options": [
+      "CD4",
+      "CXCR4",
+      "gp120",
+      "CCR5",
+      "gp41"
+    ],
+    "correct_answer": "D",
+    "explanation": "Homozygous CCR5 mutation confers immunity to HIV."
+  },
+  {
+    "id": 2054,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient has a reactive HIV-1/2 antigen/antibody combination immunoassay. The next appropriate step in diagnosis is:",
+    "options": [
+      "Western blot testing",
+      "HIV-1/2 antibody differentiation immunoassay",
+      "Qualitative HIV-1 NAAT",
+      "Quantitative viral load PCR",
+      "CD4+ T-cell count measurement"
+    ],
+    "correct_answer": "B",
+    "explanation": "A positive initial screen is followed by a confirmatory HIV-1/2 differentiation immunoassay."
+  },
+  {
+    "id": 2055,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV patient presents with an unscrapable white plaque on the lateral tongue. The causative agent is structurally characterized as:",
+    "options": [
+      "Naked circular dsDNA",
+      "Enveloped linear +ssRNA",
+      "Enveloped linear dsDNA",
+      "Naked linear +ssRNA",
+      "Naked linear dsDNA"
+    ],
+    "correct_answer": "C",
+    "explanation": "Oral hairy leukoplakia is caused by EBV, a herpesvirus (enveloped, linear dsDNA)."
+  },
+  {
+    "id": 2056,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV-positive patient develops progressive multifocal leukoencephalopathy. The virus responsible belongs to a family characterized by:",
+    "options": [
+      "Enveloped dsDNA linear genome",
+      "Naked ssDNA linear genome",
+      "Naked dsDNA circular genome",
+      "Enveloped dsRNA genome",
+      "Naked ssRNA positive genome"
+    ],
+    "correct_answer": "C",
+    "explanation": "JC virus is a Polyomavirus (naked dsDNA circular)."
+  },
+  {
+    "id": 2057,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with AIDS presents with multiple red-purple skin nodules. Biopsy shows neutrophilic inflammation. The pathogen responsible is:",
+    "options": [
+      "Human herpesvirus 8",
+      "Bartonella spp",
+      "Histoplasma capsulatum",
+      "Cryptosporidium spp",
+      "Candida albicans"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bacillary angiomatosis is caused by Bartonella spp. (HHV-8 causes Kaposi sarcoma, characterized by lymphocytic/spindle cell histology)."
+  },
+  {
+    "id": 2058,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a CD4 count of 45/mm3 develops multiple ring-enhancing lesions on MRI. The most likely etiology is:",
+    "options": [
+      "Epstein-Barr virus",
+      "Toxoplasma gondii",
+      "JC virus",
+      "Cryptococcus neoformans",
+      "Cytomegalovirus"
+    ],
+    "correct_answer": "B",
+    "explanation": "Toxoplasma gondii causes multiple ring-enhancing lesions in the brain in AIDS patients."
+  },
+  {
+    "id": 2059,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV patient with a CD4 count of 40/mm3 develops a solitary ring-enhancing lesion in the CNS. The virus associated with this lesion primarily targets which cells?",
+    "options": [
+      "T lymphocytes",
+      "Macrophages",
+      "Endothelial cells",
+      "Microglia",
+      "B lymphocytes"
+    ],
+    "correct_answer": "E",
+    "explanation": "Primary CNS lymphoma is caused by EBV, which infects B cells."
+  },
+  {
+    "id": 2060,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 1-year-old child has high fevers for 3 days followed by a diffuse macular rash that spreads from the trunk to the extremities. The responsible virus belongs to:",
+    "options": [
+      "Herpesviridae",
+      "Togaviridae",
+      "Matonaviridae",
+      "Paramyxoviridae",
+      "Parvoviridae"
+    ],
+    "correct_answer": "A",
+    "explanation": "Roseola is caused by HHV-6 (a herpesvirus)."
+  },
+  {
+    "id": 2061,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A virus replicating in hepatocytes transcribes mRNA from viral DNA, then uses this mRNA to synthesize progeny viral DNA. This polymerase activity is uniquely found in:",
+    "options": [
+      "Flaviviruses",
+      "Retroviruses",
+      "Deltaviruses",
+      "Hepadnaviruses",
+      "Hepeviruses"
+    ],
+    "correct_answer": "D",
+    "explanation": "HBV (Hepadnavirus) uses an RNA intermediate to replicate its DNA genome."
+  },
+  {
+    "id": 2062,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An RNA virus is translated into a single large polypeptide that is subsequently cleaved into functional proteins. This virus could be the causative agent of:",
+    "options": [
+      "Influenza",
+      "Rabies",
+      "Polio",
+      "Mumps",
+      "Rotavirus gastroenteritis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Picornaviruses (like Poliovirus) are translated into one large polypeptide that is cleaved."
+  },
+  {
+    "id": 2063,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An enveloped virus with a segmented negative-sense RNA genome frequently causes seasonal epidemics due to:",
+    "options": [
+      "Antigenic shift",
+      "Antigenic drift",
+      "Exonuclease deficiency",
+      "Reassortment with animal strains",
+      "Reverse transcriptase errors"
+    ],
+    "correct_answer": "B",
+    "explanation": "Antigenic drift (random mutations) causes seasonal epidemics of Influenza."
+  },
+  {
+    "id": 2064,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops a chronic liver infection. Cytotoxic T cells mediate damage against infected hepatocytes which exhibit a 'ground glass' appearance. The viral genome is:",
+    "options": [
+      "Linear +ssRNA",
+      "Partially ds circular DNA",
+      "Circular -ssRNA",
+      "Linear -ssRNA",
+      "Linear dsDNA"
+    ],
+    "correct_answer": "B",
+    "explanation": "HBV has a partially ds circular DNA genome."
+  },
+  {
+    "id": 2065,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child develops an acute asymmetric flaccid paralysis. The causative flavivirus was likely transmitted by a mosquito. Which virus is responsible?",
+    "options": [
+      "Chikungunya virus",
+      "Dengue virus",
+      "Zika virus",
+      "Yellow fever virus",
+      "West Nile virus"
+    ],
+    "correct_answer": "E",
+    "explanation": "West Nile virus (a flavivirus) causes meningoencephalitis and acute asymmetric flaccid paralysis."
+  },
+  {
+    "id": 2066,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A virus utilizes a host integrin (heparan sulfate) as a cellular receptor. Infection in an immunocompromised patient can lead to:",
+    "options": [
+      "Cotton-wool exudates and vision loss",
+      "Progressive multifocal leukoencephalopathy",
+      "Aplastic crisis",
+      "Oral hairy leukoplakia",
+      "Bacillary angiomatosis"
+    ],
+    "correct_answer": "A",
+    "explanation": "CMV binds integrins and causes AIDS retinitis with cotton-wool spots."
+  },
+  {
+    "id": 2067,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A premature infant is prophylactically given palivizumab. This monoclonal antibody provides protection against a virus with which genomic characteristic?",
+    "options": [
+      "Segmented dsRNA",
+      "Linear +ssRNA",
+      "Circular +ssRNA",
+      "Linear -ssRNA",
+      "Partially ds circular DNA"
+    ],
+    "correct_answer": "D",
+    "explanation": "Palivizumab protects against RSV, a paramyxovirus, which has a linear -ssRNA genome."
+  },
+  {
+    "id": 2068,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which conformational alteration characterizes the infectious agent resistant to standard autoclaving and protease degradation?",
+    "options": [
+      "Alpha-helix to beta-pleated sheet transition",
+      "Beta-pleated sheet to alpha-helix transition",
+      "Alpha-helix to random coil transition",
+      "Beta-barrel to alpha-helix transition",
+      "Random coil to beta-pleated sheet transition"
+    ],
+    "correct_answer": "A",
+    "explanation": "Prion diseases are caused by the conversion of normal alpha-helical prion protein to a beta-pleated form, rendering it resistant to proteases and autoclaving."
+  },
+  {
+    "id": 2069,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate delivered by cesarean section is most likely to exhibit a microbiome enriched with which type of organisms compared to vaginal delivery?",
+    "options": [
+      "Skin commensals",
+      "Vaginal commensals",
+      "Enteric pathogens",
+      "Oropharyngeal flora",
+      "Colonic anaerobes"
+    ],
+    "correct_answer": "A",
+    "explanation": "Neonates delivered by C-section bypass the birth canal and acquire microbiota enriched in skin commensals rather than vaginal or enteric flora."
+  },
+  {
+    "id": 2070,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which organism constitutes the most prominent component of the normal colonic microbiota?",
+    "options": [
+      "Bacteroides fragilis",
+      "Enterococcus faecalis",
+      "Escherichia coli",
+      "Lactobacillus species",
+      "Clostridium difficile"
+    ],
+    "correct_answer": "A",
+    "explanation": "Bacteroides fragilis is the dominant species in the colonic normal microbiota, outnumbering E. coli."
+  },
+  {
+    "id": 2071,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops gastroenteritis shortly after eating reheated meat. Which organism is most specifically associated with this transmission vehicle?",
+    "options": [
+      "Clostridium perfringens",
+      "Bacillus cereus",
+      "Staphylococcus aureus",
+      "Clostridium botulinum",
+      "Salmonella enteritidis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Clostridium perfringens food poisoning is classically associated with consuming improperly reheated meat."
+  },
+  {
+    "id": 2072,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child presents with pseudoappendicitis following a suspected daycare outbreak. What is the most likely causative agent?",
+    "options": [
+      "Yersinia enterocolitica",
+      "Shigella dysenteriae",
+      "Campylobacter jejuni",
+      "Enterohemorrhagic E coli",
+      "Enteroinvasive E coli"
+    ],
+    "correct_answer": "A",
+    "explanation": "Yersinia enterocolitica classically causes outbreaks in daycares and mimics appendicitis (pseudoappendicitis)."
+  },
+  {
+    "id": 2073,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which diarrheal pathogen is characterized by an extremely low infectious dose and relies entirely on an exclusive human reservoir?",
+    "options": [
+      "Shigella species",
+      "Salmonella typhi",
+      "Campylobacter jejuni",
+      "Vibrio cholerae",
+      "Yersinia enterocolitica"
+    ],
+    "correct_answer": "A",
+    "explanation": "Shigella causes bacillary dysentery, requires a very low infectious dose (ID50), and is restricted to a human reservoir."
+  },
+  {
+    "id": 2074,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 50-year-old patient with alcohol use disorder presents with foul-smelling sputum and a lung infiltrate. Which group of organisms is most likely responsible?",
+    "options": [
+      "Peptostreptococcus and Fusobacterium",
+      "Mycoplasma and Chlamydophila",
+      "Staphylococcus aureus and Pseudomonas",
+      "Haemophilus influenzae and Moraxella",
+      "Legionella and Adenovirus"
+    ],
+    "correct_answer": "A",
+    "explanation": "Alcohol overuse predisposes to aspiration pneumonia, typically involving oral anaerobes like Peptostreptococcus, Fusobacterium, Prevotella, and Bacteroides."
+  },
+  {
+    "id": 2075,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which pathogen is uniquely associated with pneumonia in patients with cystic fibrosis but rarely causes pneumonia in healthy adults?",
+    "options": [
+      "Burkholderia cepacia",
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Klebsiella pneumoniae",
+      "Moraxella catarrhalis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Burkholderia cepacia, along with Pseudomonas and S. aureus, is a major cause of pneumonia in cystic fibrosis patients."
+  },
+  {
+    "id": 2076,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 4-month-old infant develops acute bacterial meningitis. Based on age demographics, which pathogen represents the most likely etiology?",
+    "options": [
+      "Group B Streptococcus",
+      "Neisseria meningitidis",
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae type b",
+      "Herpes simplex virus type 2"
+    ],
+    "correct_answer": "A",
+    "explanation": "Group B Streptococcus, E. coli, and Listeria are the most common causes of meningitis in newborns (0-6 months)."
+  },
+  {
+    "id": 2077,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Cerebrospinal fluid analysis reveals an elevated opening pressure, decreased glucose, and a marked lymphocytic pleocytosis. What is the most likely diagnosis?",
+    "options": [
+      "Fungal or TB meningitis",
+      "Bacterial meningitis",
+      "Viral meningitis",
+      "Subarachnoid hemorrhage",
+      "Enteroviral encephalitis"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fungal and TB meningitis present with increased opening pressure, decreased glucose, increased protein, and a lymphocytic predominance."
+  },
+  {
+    "id": 2078,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A solitary brain abscess located in the temporal lobe most likely originated from a contiguous infection in which anatomical structure?",
+    "options": [
+      "Frontal sinus",
+      "Middle ear and mastoid",
+      "Maxillary sinus",
+      "Dental root",
+      "Ethmoid sinus"
+    ],
+    "correct_answer": "B",
+    "explanation": "Contiguous spread from otitis media and mastoiditis typically results in single brain abscesses within the temporal lobe or cerebellum."
+  },
+  {
+    "id": 2079,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with sickle cell disease develops severe long bone osteomyelitis. Which two organisms represent the most statistically likely etiologies?",
+    "options": [
+      "Pasteurella multocida and Pseudomonas",
+      "Staphylococcus aureus and Salmonella",
+      "Streptococcus pyogenes and Neisseria",
+      "Mycobacterium tuberculosis and Candida",
+      "Escherichia coli and Enterobacter"
+    ],
+    "correct_answer": "B",
+    "explanation": "While S. aureus is the most common overall, patients with sickle cell disease have a unique and highly specific susceptibility to Salmonella osteomyelitis."
+  },
+  {
+    "id": 2080,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which childhood exanthem is characterized by an asymptomatic maculopapular rash that paradoxically erupts only after several days of high fever resolve?",
+    "options": [
+      "Rubeola",
+      "Human herpesvirus 6",
+      "Rubella",
+      "Erythema infectiosum",
+      "Chickenpox"
+    ],
+    "correct_answer": "B",
+    "explanation": "Roseola infantum, caused by HHV-6, classically presents with a high fever that breaks before the appearance of a rose-colored truncal rash."
+  },
+  {
+    "id": 2081,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child presents with a distinctive sandpaper-like truncal rash, marked circumoral pallor, and a strawberry tongue. What virulence factor is directly responsible for this rash?",
+    "options": [
+      "Endotoxin release",
+      "Erythrogenic toxin",
+      "Direct viral cytopathic effect",
+      "Immune complex deposition",
+      "Type IV hypersensitivity"
+    ],
+    "correct_answer": "B",
+    "explanation": "Scarlet fever is caused by Streptococcus pyogenes, which secretes an erythrogenic toxin responsible for the characteristic sandpaper-like rash."
+  },
+  {
+    "id": 2082,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient's urinary tract infection is complicated by the rapid formation of struvite stones. The causative organism most likely exhibits which distinct laboratory feature?",
+    "options": [
+      "Strong pink lactose fermentation",
+      "Swarming motility on agar",
+      "Blue-green pigment production",
+      "Red pigment at room temperature",
+      "Large mucoid capsule"
+    ],
+    "correct_answer": "B",
+    "explanation": "Proteus mirabilis produces urease, leading to struvite stone formation, and displays characteristic swarming motility on agar."
+  },
+  {
+    "id": 2083,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A female patient exhibits a thin, white vaginal discharge with a prominent fishy odor. Microscopic examination of the discharge will most likely reveal what finding?",
+    "options": [
+      "Motile pear-shaped organisms",
+      "Clue cells",
+      "Pseudohyphae and budding yeast",
+      "Multinucleated giant cells",
+      "Intracellular gram-negative diplococci"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bacterial vaginosis presents with a thin white discharge, a fishy odor, and the presence of clue cells (epithelial cells coated with bacteria) on microscopy."
+  },
+  {
+    "id": 2084,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which sexually transmitted infection classically presents with a painless, beefy red ulcer that bleeds readily and exhibits intracytoplasmic bipolar-staining bodies?",
+    "options": [
+      "Lymphogranuloma venereum",
+      "Granuloma inguinale",
+      "Chancroid",
+      "Primary syphilis",
+      "Herpes genitalis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Granuloma inguinale (Donovanosis), caused by Klebsiella granulomatis, is characterized by painless beefy red ulcers and cytoplasmic Donovan bodies."
+  },
+  {
+    "id": 2085,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate presents with a classic triad of chorioretinitis, hydrocephalus, and intracranial calcifications. What is the most likely route of maternal acquisition?",
+    "options": [
+      "Respiratory droplets",
+      "Ingestion of undercooked meat or cat feces",
+      "Sexual contact",
+      "Intravenous drug use",
+      "Skin contact with vesicular lesions"
+    ],
+    "correct_answer": "B",
+    "explanation": "The classic triad points to congenital toxoplasmosis, which mothers typically acquire by ingesting Toxoplasma gondii cysts in undercooked meat or oocysts in cat feces."
+  },
+  {
+    "id": 2086,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A newborn exhibits cataracts, severe sensorineural deafness, and a patent ductus arteriosus. The pathogen responsible typically causes which maternal symptoms?",
+    "options": [
+      "Vesicular rash and neuralgia",
+      "Rash, lymphadenopathy, and polyarthritis",
+      "Asymptomatic mononucleosis-like illness",
+      "Painless chancre and disseminated rash",
+      "Recurrent opportunistic infections"
+    ],
+    "correct_answer": "B",
+    "explanation": "Congenital rubella syndrome causes cataracts, deafness, and PDA. Maternal symptoms of rubella include a fine rash, postauricular lymphadenopathy, and polyarthritis."
+  },
+  {
+    "id": 2087,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which generation of cephalosporins uniquely provides broad coverage against MRSA but paradoxically lacks activity against Pseudomonas species?",
+    "options": [
+      "First generation",
+      "Ceftaroline",
+      "Third generation",
+      "Fourth generation",
+      "Second generation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ceftaroline, a 5th-generation cephalosporin, uniquely binds to mutant PBPs to cover MRSA but does not cover Pseudomonas."
+  },
+  {
+    "id": 2088,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospitalized patient develops new-onset seizures while being treated with a broad-spectrum beta-lactamase-resistant antibiotic. Which drug was most likely administered?",
+    "options": [
+      "Ceftriaxone",
+      "Vancomycin",
+      "Imipenem",
+      "Aztreonam",
+      "Piperacillin"
+    ],
+    "correct_answer": "C",
+    "explanation": "Carbapenems, particularly imipenem, are known to lower the seizure threshold and cause CNS toxicity at high plasma levels."
+  },
+  {
+    "id": 2089,
+    "category": "FCPS Topic (Extreme)",
+    "question": "To prevent rapid renal inactivation, imipenem must be co-administered with a compound that inhibits which specific enzyme?",
+    "options": [
+      "Beta-lactamase",
+      "Cytochrome P450 3A4",
+      "Renal dehydropeptidase I",
+      "UDP-glucuronosyltransferase",
+      "Dihydropteroate synthase"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cilastatin blocks renal dehydropeptidase I in the renal tubules, preventing the premature breakdown of imipenem."
+  },
+  {
+    "id": 2090,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which antimicrobial agent binds specifically to penicillin-binding protein 3 and exhibits selective activity exclusively against gram-negative rods?",
+    "options": [
+      "Meropenem",
+      "Cefepime",
+      "Aztreonam",
+      "Piperacillin",
+      "Tigecycline"
+    ],
+    "correct_answer": "C",
+    "explanation": "Aztreonam is a monobactam that strictly targets gram-negative rods by binding to PBP3, making it useful in penicillin-allergic patients."
+  },
+  {
+    "id": 2091,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receiving intravenous vancomycin develops diffuse flushing and erythema. This reaction can be largely mitigated by which direct intervention?",
+    "options": [
+      "Administration of systemic corticosteroids",
+      "Switching to an oral formulation",
+      "Pretreatment with antihistamines and slower infusion",
+      "Co-administration with cilastatin",
+      "Supplementation with vitamin K"
+    ],
+    "correct_answer": "C",
+    "explanation": "Vancomycin infusion reaction (red man syndrome) is an idiopathic, non-allergic histamine release that can be prevented by antihistamines and a slower infusion rate."
+  },
+  {
+    "id": 2092,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Resistance to vancomycin in Enterococcus species is primarily mediated by which precise molecular alteration?",
+    "options": [
+      "Efflux pump upregulation",
+      "Beta-lactamase production",
+      "Target site mutation from D-Ala-D-Ala to D-Ala-D-Lac",
+      "Plasmid-encoded acetyltransferase modification",
+      "Outer membrane porin structural change"
+    ],
+    "correct_answer": "C",
+    "explanation": "Vancomycin resistance in bacteria occurs via an amino acid modification in cell wall precursors, shifting D-Ala-D-Ala to D-Ala-D-Lac."
+  },
+  {
+    "id": 2093,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Aminoglycosides are intrinsically ineffective against obligate anaerobes due to which specific biochemical limitation?",
+    "options": [
+      "Lack of target 30S ribosomal subunits",
+      "Inability to penetrate the thick peptidoglycan wall",
+      "Requirement of oxygen-dependent active transport for cellular uptake",
+      "Rapid enzymatic degradation in acidic anaerobic environments",
+      "Enhanced efflux pump activity in the absence of oxygen"
+    ],
+    "correct_answer": "C",
+    "explanation": "Aminoglycosides require an oxygen-dependent active transport system to cross the bacterial cell membrane, rendering them useless against anaerobes."
+  },
+  {
+    "id": 2094,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which tetracycline derivative is primarily eliminated via the fecal route, permitting its safe systemic administration in patients with severe renal failure?",
+    "options": [
+      "Minocycline",
+      "Demeclocycline",
+      "Doxycycline",
+      "Tigecycline",
+      "Tetracycline"
+    ],
+    "correct_answer": "C",
+    "explanation": "Doxycycline undergoes prominent fecal elimination and requires no dose adjustment in patients with renal impairment."
+  },
+  {
+    "id": 2095,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A premature infant develops profound cyanosis and cardiovascular collapse after receiving a broad-spectrum antibiotic. What enzyme deficiency explains this drug toxicity?",
+    "options": [
+      "Glucose-6-phosphate dehydrogenase",
+      "Renal dehydropeptidase I",
+      "Liver UDP-glucuronosyltransferase",
+      "Dihydropteridine reductase",
+      "Peptidyl transferase"
+    ],
+    "correct_answer": "C",
+    "explanation": "Chloramphenicol causes gray baby syndrome in premature infants due to a lack of mature liver UDP-glucuronosyltransferase to properly metabolize the drug."
+  },
+  {
+    "id": 2096,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Clindamycin is classically indicated over metronidazole for the treatment of anaerobic infections affecting which specific anatomical region?",
+    "options": [
+      "Aerobic gram-negative rod infections in the urinary tract",
+      "Anaerobic infections located below the diaphragm",
+      "Anaerobic infections located above the diaphragm",
+      "Intracellular atypical bacterial infections in the lungs",
+      "Enterococcus species colonization in the gut"
+    ],
+    "correct_answer": "C",
+    "explanation": "Clindamycin is preferred for anaerobic infections above the diaphragm (e.g., lung abscesses, oral infections), while metronidazole handles anaerobes below the diaphragm."
+  },
+  {
+    "id": 2097,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient diagnosed with Fitz-Hugh-Curtis syndrome exhibits 'violin string' adhesions. This complication is an extrapelvic sequela of ascending infection most commonly caused by:",
+    "options": [
+      "Treponema pallidum",
+      "Haemophilus ducreyi",
+      "Chlamydia trachomatis",
+      "Gardnerella vaginalis",
+      "Klebsiella granulomatis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Chlamydia trachomatis is the most common cause of PID, which can ascend to cause perihepatitis and 'violin string' adhesions of the peritoneum to the liver."
+  },
+  {
+    "id": 2098,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A mechanically ventilated patient acutely develops a new lung infiltrate and sweet-smelling purulent sputum. Which opportunistic pathogen is most likely responsible?",
+    "options": [
+      "Acinetobacter baumannii",
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa",
+      "Streptococcus pneumoniae"
+    ],
+    "correct_answer": "D",
+    "explanation": "Pseudomonas aeruginosa is a classic cause of ventilator-associated pneumonia and typically produces a sweet, fruity odor."
+  },
+  {
+    "id": 2099,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A completely unimmunized child presents with severe dysphagia, drooling, and an acute inspiratory stridor. Which pathogen is the classic cause of this life-threatening airway edema?",
+    "options": [
+      "Corynebacterium diphtheriae",
+      "Streptococcus pyogenes",
+      "Bordetella pertussis",
+      "Haemophilus influenzae type b",
+      "Parainfluenza virus"
+    ],
+    "correct_answer": "D",
+    "explanation": "Haemophilus influenzae type b is the quintessential cause of acute epiglottitis, especially in unvaccinated children."
+  },
+  {
+    "id": 2100,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child develops a confluent rash beginning at the head and migrating downward, preceded by cough, coryza, and conjunctivitis. Which unique mucosal finding preceded this rash?",
+    "options": [
+      "Strawberry tongue",
+      "Oral herpangina vesicles",
+      "Grayish pseudomembranes",
+      "Blue-white Koplik spots",
+      "Beefy red palatal petechiae"
+    ],
+    "correct_answer": "D",
+    "explanation": "Measles (rubeola) is preceded by the 3 C's and Koplik spots on the buccal mucosa before the descending rash appears."
+  },
+  {
+    "id": 2101,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An empiric antibiotic regimen consisting of amoxicillin and clavulanic acid is prescribed. What is the precise mechanistic role of the clavulanic acid?",
+    "options": [
+      "Broaden direct coverage to intracellular organisms",
+      "Enhance overall gastrointestinal drug absorption",
+      "Prevent rapid renal tubular drug excretion",
+      "Irreversibly inhibit bacterial beta-lactamases",
+      "Synergistically inhibit the 30S bacterial ribosome"
+    ],
+    "correct_answer": "D",
+    "explanation": "Clavulanic acid acts as a beta-lactamase inhibitor, preventing the enzymatic destruction of the co-administered amoxicillin."
+  },
+  {
+    "id": 2102,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which specific third-generation cephalosporin is heavily relied upon to cross the blood-brain barrier for meningitis and effectively treat disseminated Lyme disease?",
+    "options": [
+      "Cefazolin",
+      "Cefoxitin",
+      "Cefepime",
+      "Ceftriaxone",
+      "Ceftaroline"
+    ],
+    "correct_answer": "D",
+    "explanation": "Ceftriaxone provides excellent CNS penetration and is a first-line agent for bacterial meningitis, gonorrhea, and disseminated Lyme disease."
+  },
+  {
+    "id": 2103,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 65-year-old patient develops life-threatening pseudomembranous colitis following prolonged clindamycin therapy. Which antimicrobial formulation is optimal to treat this condition directly?",
+    "options": [
+      "Intravenous metronidazole",
+      "Intravenous vancomycin",
+      "Oral amoxicillin",
+      "Oral vancomycin",
+      "Oral azithromycin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Oral vancomycin remains localized in the gastrointestinal tract and is a preferred treatment for Clostridioides difficile colitis."
+  },
+  {
+    "id": 2104,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which group of antibiotics exerts its bactericidal effect by generating localized free radicals that explicitly compromise DNA integrity in the target pathogens?",
+    "options": [
+      "Fluoroquinolones",
+      "Sulfonamides",
+      "Trimethoprim",
+      "Metronidazole",
+      "Rifampin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Metronidazole is uniquely activated in anaerobic conditions to form free radicals that damage bacterial DNA integrity."
+  },
+  {
+    "id": 2105,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A male patient develops a localized, painless chancre accompanied by prominent regional lymphadenopathy. Which specific pathogen is responsible for this primary stage of infection?",
+    "options": [
+      "Haemophilus ducreyi",
+      "Chlamydia trachomatis L1-L3",
+      "Klebsiella granulomatis",
+      "Treponema pallidum",
+      "Herpes simplex virus type 2"
+    ],
+    "correct_answer": "D",
+    "explanation": "Treponema pallidum causes primary syphilis, characterized by a single painless chancre and non-tender regional lymphadenopathy."
+  },
+  {
+    "id": 2106,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 22-year-old sexually active female presents with uncomplicated cystitis. Following E. coli, which organism is the second leading statistical cause of her condition?",
+    "options": [
+      "Klebsiella pneumoniae",
+      "Proteus mirabilis",
+      "Serratia marcescens",
+      "Staphylococcus saprophyticus",
+      "Enterococcus faecalis"
+    ],
+    "correct_answer": "D",
+    "explanation": "Staphylococcus saprophyticus is the second most common cause of uncomplicated urinary tract infections in young, sexually active females."
+  },
+  {
+    "id": 2107,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which class of protein synthesis inhibitors acts specifically at the 30S ribosomal subunit to competitively prevent the initial attachment of aminoacyl-tRNA?",
+    "options": [
+      "Macrolides",
+      "Chloramphenicol",
+      "Linezolid",
+      "Tetracyclines",
+      "Aminoglycosides"
+    ],
+    "correct_answer": "D",
+    "explanation": "Tetracyclines are bacteriostatic antibiotics that bind the 30S subunit, sterically blocking the A-site to prevent aminoacyl-tRNA attachment."
+  },
+  {
+    "id": 2108,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospitalized immunocompromised patient requires aggressive therapy for a severe Pseudomonas aeruginosa infection. Which extended-spectrum penicillin derivative specifically targets this pathogen?",
+    "options": [
+      "Dicloxacillin",
+      "Amoxicillin",
+      "Nafcillin",
+      "Penicillin V",
+      "Piperacillin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Piperacillin is an antipseudomonal penicillin specifically designed with extended coverage against gram-negative rods, including Pseudomonas."
+  },
+  {
+    "id": 2109,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate is evaluated for microcephaly, distinct periventricular calcifications, and a petechial rash. The mother was most likely infected by which agent during pregnancy?",
+    "options": [
+      "Toxoplasma gondii",
+      "Rubella virus",
+      "Herpes simplex virus type 2",
+      "Treponema pallidum",
+      "Cytomegalovirus"
+    ],
+    "correct_answer": "E",
+    "explanation": "Congenital CMV classically presents with hearing loss, a blueberry muffin rash, and periventricular calcifications (unlike the diffuse intracranial calcifications of Toxoplasmosis)."
+  },
+  {
+    "id": 2110,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which bacterial pathogen is notoriously associated with the production of both heat-labile and heat-stable enterotoxins causing severe traveler's diarrhea?",
+    "options": [
+      "Vibrio cholerae",
+      "Enterohemorrhagic E coli",
+      "Enteroinvasive E coli",
+      "Campylobacter jejuni",
+      "Enterotoxigenic E coli"
+    ],
+    "correct_answer": "E",
+    "explanation": "Enterotoxigenic E. coli (ETEC) produces Heat-Labile (LT) and Heat-Stable (ST) toxins, driving the hypersecretion characteristic of traveler's diarrhea."
+  },
+  {
+    "id": 2111,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child presents with an abrupt fever followed immediately by a distinct, bright red facial rash that markedly spares the nasolabial folds. What is the underlying causative agent?",
+    "options": [
+      "Measles virus",
+      "Rubella virus",
+      "Streptococcus pyogenes",
+      "Human herpesvirus 6",
+      "Parvovirus B19"
+    ],
+    "correct_answer": "E",
+    "explanation": "Erythema infectiosum (fifth disease), caused by Parvovirus B19, presents with the classic 'slapped cheek' rash on the face."
+  },
+  {
+    "id": 2112,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which singular pathophysiologic characteristic decisively differentiates Enterohemorrhagic E coli (EHEC) from alternative strains precipitating bloody diarrhea?",
+    "options": [
+      "Its intrinsic capacity to elaborate a powerful Shiga toxin",
+      "Its invariable failure to ferment lactose on MacConkey agar",
+      "Its prominent association with localized day care outbreaks",
+      "Its absolute restriction to an exclusive human reservoir",
+      "Its specific serotype O157:H7 and potential to trigger Hemolytic Uremic Syndrome"
+    ],
+    "correct_answer": "E",
+    "explanation": "EHEC (specifically O157:H7) is differentiated by its ability to cause Hemolytic Uremic Syndrome (HUS), alongside producing a Shiga-like toxin."
+  },
+  {
+    "id": 2113,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presenting with neurologic deficits is found to have multiple, diffuse brain abscesses on MRI. These lesions are most likely the direct result of which underlying pathophysiologic process?",
+    "options": [
+      "Direct anterior extension from an acute mastoiditis",
+      "Contiguous anatomic spread from a severe dental root infection",
+      "Ascending neural transport via the olfactory tracts",
+      "Reactivation of latent Toxoplasma cysts strictly in the basal ganglia",
+      "Hematogenous dissemination from an active systemic bacteremia"
+    ],
+    "correct_answer": "E",
+    "explanation": "While single brain abscesses stem from contiguous sites, multiple brain abscesses typically result from hematogenous spread due to bacteremia."
+  },
+  {
+    "id": 2114,
+    "category": "FCPS Topic (Extreme)",
+    "question": "The employment of nafcillin is clinically optimal for treating methicillin-sensitive Staphylococcus aureus infections primarily because of which inherent structural feature?",
+    "options": [
+      "It structurally mimics the D-Ala-D-Ala cell wall precursor",
+      "It functions as an irreversible inhibitor of the bacterial initiation complex",
+      "It acts as an active beta-lactamase enzyme that cleaves bacterial defensive rings",
+      "It maintains an exceptionally strong affinity for the 50S ribosomal subunit",
+      "It possesses a bulky R group that physically blocks access by beta-lactamases"
+    ],
+    "correct_answer": "E",
+    "explanation": "Penicillinase-resistant penicillins like nafcillin and dicloxacillin have bulky R groups that sterically hinder beta-lactamase from accessing the beta-lactam ring."
+  },
+  {
+    "id": 2115,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient diagnosed with secondary syphilis is clinically most likely to exhibit which distinct physical manifestation during this systemic phase?",
+    "options": [
+      "A solitary painless chancre accompanied by regional lymphadenopathy",
+      "Tabes dorsalis, general paresis, and progressive aortitis",
+      "Disfiguring gummas and an Argyll Robertson pupil",
+      "Severe chorioretinitis paired with massive hydrocephalus",
+      "Diffuse lymphadenopathy seamlessly paired with condylomata lata"
+    ],
+    "correct_answer": "E",
+    "explanation": "Secondary syphilis is characterized by a disseminated rash (including palms and soles), diffuse lymphadenopathy, and condylomata lata."
+  },
+  {
+    "id": 2116,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Which specific antimicrobial medication operates by directly disrupting target bacterial cell membrane integrity, specifically exhibiting activity against gram-positive organisms?",
+    "options": [
+      "Polymyxins",
+      "Bacitracin",
+      "Vancomycin",
+      "Aztreonam",
+      "Daptomycin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Daptomycin inserts into the cell membrane of gram-positive organisms, disrupting membrane integrity, whereas polymyxins target gram-negative membranes."
+  },
+  {
+    "id": 2117,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient sustains a penetrating bite wound from a domesticated feline and rapidly develops an aggressive, localized soft tissue infection. Which organism is the most statistically likely culprit?",
+    "options": [
+      "Staphylococcus aureus",
+      "Pseudomonas aeruginosa",
+      "Bartonella henselae",
+      "Neisseria gonorrhoeae",
+      "Pasteurella multocida"
+    ],
+    "correct_answer": "E",
+    "explanation": "Pasteurella multocida is a common resident of the oral cavity of cats and dogs and classically causes rapid-onset skin infections following bites."
+  },
+  {
+    "id": 2118,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 45-year-old male on a psychiatric medication develops fever, altered mental status, and autonomic instability shortly after initiating an antibiotic for a VRE infection. Which ribosomal subunit is primarily targeted by the offending antimicrobial?",
+    "options": [
+      "23S rRNA",
+      "16S rRNA",
+      "30S rRNA",
+      "40S rRNA",
+      "50S protein"
+    ],
+    "correct_answer": "A",
+    "explanation": "The patient has serotonin syndrome due to partial MAO inhibition by linezolid, which acts by binding the 23S rRNA of the 50S ribosomal subunit."
+  },
+  {
+    "id": 2119,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient treated for atypical pneumonia develops a severe arrhythmia. Which underlying resistance mechanism is most characteristic for the drug responsible?",
+    "options": [
+      "Methylation of the 23S rRNA-binding site",
+      "Acetylation of the antibiotic",
+      "Point mutation of DNA gyrase",
+      "Active efflux via plasmid-encoded pumps",
+      "Cleavage of the macrocyclic lactone ring"
+    ],
+    "correct_answer": "A",
+    "explanation": "Macrolides cause prolonged QT intervals and arrhythmias. Resistance occurs via methylation of the 23S rRNA-binding site."
+  },
+  {
+    "id": 2120,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A multi-drug resistant Pseudomonas infection is treated with an agent that acts primarily as a cation polypeptide. Which adverse effect is most likely to necessitate discontinuation?",
+    "options": [
+      "Slurred speech and paresthesias",
+      "Prolonged QT interval",
+      "Agranulocytosis",
+      "Optic neuritis",
+      "Red-orange body fluids"
+    ],
+    "correct_answer": "A",
+    "explanation": "Polymyxins (cation polypeptides) are used for multidrug-resistant Gram-negative bacteria and are notable for significant neurotoxicity and nephrotoxicity."
+  },
+  {
+    "id": 2121,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate develops kernicterus after the mother is treated for a UTI late in pregnancy. The offending agent's primary bacteriostatic action involves competitive inhibition of which enzyme?",
+    "options": [
+      "Dihydropteroate synthase",
+      "Dihydrofolate reductase",
+      "Thymidylate synthase",
+      "Squalene epoxidase",
+      "RNA-dependent RNA polymerase"
+    ],
+    "correct_answer": "A",
+    "explanation": "Sulfonamides inhibit dihydropteroate synthase and displace bilirubin from albumin, increasing the risk of kernicterus in infants."
+  },
+  {
+    "id": 2122,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receiving trimethoprim-sulfamethoxazole develops isolated granulocytopenia. Which concomitant supplement would most likely have prevented this specific hematologic abnormality?",
+    "options": [
+      "Leucovorin",
+      "Pyridoxine",
+      "Cyanocobalamin",
+      "Ergocalciferol",
+      "Ascorbic acid"
+    ],
+    "correct_answer": "A",
+    "explanation": "Trimethoprim inhibits bacterial dihydrofolate reductase and can cause cytopenias, which may be avoided with coadministration of leucovorin (folinic acid)."
+  },
+  {
+    "id": 2123,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 65-year-old taking prednisone experiences sudden heel pain and swelling following a recent antibiotic course. What is the mechanism of action of the implicated drug?",
+    "options": [
+      "Inhibition of topoisomerase II and IV",
+      "Irreversible binding to the 30S subunit",
+      "Inhibition of dihydropteroate synthase",
+      "Creation of transmembrane channels",
+      "Disruption of cell membrane phospholipids"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fluoroquinolones inhibit DNA gyrase and topoisomerase IV and carry a risk of tendonitis or tendon rupture, particularly in older patients on glucocorticoids."
+  },
+  {
+    "id": 2124,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with right-sided infective endocarditis is given an intravenous lipopeptide antibiotic. Why is this specific agent contraindicated if the infection disseminates to the pulmonary parenchyma?",
+    "options": [
+      "Avid binding to pulmonary surfactant causes inactivation",
+      "Rapid renal clearance limits alveolar penetration",
+      "Pro-arrhythmogenic effects are exacerbated by hypoxia",
+      "It induces severe bronchospasm via histamine release",
+      "Metabolism by alveolar macrophages generates toxic radicals"
+    ],
+    "correct_answer": "A",
+    "explanation": "Daptomycin is a lipopeptide that binds to and is inactivated by pulmonary surfactant, making it ineffective for pneumonia."
+  },
+  {
+    "id": 2125,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient treated for a deep tissue abscess below the diaphragm develops severe flushing, tachycardia, and hypotension after consuming a glass of wine. What is the primary mechanism of the prescribed antibiotic?",
+    "options": [
+      "Generation of toxic free radical metabolites",
+      "Inhibition of squalene epoxidase",
+      "Binding to the 50S ribosomal subunit",
+      "Blockade of peptidoglycan cross-linking",
+      "Disruption of the fungal cell membrane"
+    ],
+    "correct_answer": "A",
+    "explanation": "Metronidazole covers anaerobes below the diaphragm and can cause a disulfiram-like reaction. It works by forming toxic free radical metabolites that damage DNA."
+  },
+  {
+    "id": 2126,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 35-year-old HIV-positive patient is started on antituberculous therapy and soon develops subtherapeutic levels of their protease inhibitor. Which fundamental bacterial process is directly inhibited by the drug responsible for this pharmacokinetic interaction?",
+    "options": [
+      "DNA-dependent RNA polymerase",
+      "Mycolic acid synthesis",
+      "Arabinogalactan synthesis",
+      "Topoisomerase IV",
+      "30S ribosomal translation"
+    ],
+    "correct_answer": "A",
+    "explanation": "Rifampin is a potent CYP450 inducer causing the drug interaction, and its antibacterial mechanism is the inhibition of DNA-dependent RNA polymerase."
+  },
+  {
+    "id": 2127,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient on antituberculous therapy develops new-onset seizures that are refractory to benzodiazepines. Mutations in which bacterial gene most likely confer resistance to the responsible medication?",
+    "options": [
+      "katG",
+      "rpoB",
+      "embB",
+      "gyrA",
+      "pncA"
+    ],
+    "correct_answer": "A",
+    "explanation": "Isoniazid toxicity causes B6 deficiency and refractory seizures. It requires activation by bacterial catalase-peroxidase, encoded by the katG gene."
+  },
+  {
+    "id": 2128,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient being treated for active tuberculosis complains of severe joint pain and is found to have hyperuricemia. The drug most likely responsible for this finding exerts its maximal bactericidal activity in which environment?",
+    "options": [
+      "Extracellular fluid",
+      "Acidic host phagolysosomes",
+      "Alkaline cavities",
+      "Caseating granuloma centers",
+      "Cerebrospinal fluid"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pyrazinamide causes hyperuricemia and works best at the acidic pH found inside host phagolysosomes."
+  },
+  {
+    "id": 2129,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 42-year-old man taking a multi-drug regimen for tuberculosis develops progressively diminished visual acuity and red-green color blindness. Which cellular component's synthesis is inhibited by the offending agent?",
+    "options": [
+      "Mycolic acid",
+      "Arabinogalactan",
+      "Peptidoglycan",
+      "Ergosterol",
+      "Beta-glucan"
+    ],
+    "correct_answer": "B",
+    "explanation": "Ethambutol causes optic neuropathy and acts by inhibiting arabinosyltransferase, thus blocking arabinogalactan synthesis."
+  },
+  {
+    "id": 2130,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pregnant patient tests positive for group B Streptococcus colonization at 36 weeks gestation. Which prophylactic strategy should be instituted to prevent neonatal transmission?",
+    "options": [
+      "Maternal oral erythromycin immediately",
+      "Intrapartum maternal intravenous ampicillin",
+      "Neonatal intramuscular ceftriaxone at birth",
+      "Neonatal oral TMP-SMX for 7 days",
+      "Maternal oral cefazolin during the third trimester"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pregnant patients carrying group B strep should receive intrapartum prophylaxis with intravenous penicillin G or ampicillin."
+  },
+  {
+    "id": 2131,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with AIDS has a CD4+ T-cell count of 85 cells/mm3. Which prophylactic regimen is most appropriate to prevent both Pneumocystis pneumonia and toxoplasmosis?",
+    "options": [
+      "Azithromycin",
+      "Trimethoprim-sulfamethoxazole",
+      "Fluconazole",
+      "Valganciclovir",
+      "Isoniazid and pyridoxine"
+    ],
+    "correct_answer": "B",
+    "explanation": "For patients with a CD4+ count below 100 cells/mm3, TMP-SMX is indicated for the prophylaxis of both Pneumocystis pneumonia and toxoplasmosis."
+  },
+  {
+    "id": 2132,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receiving intravenous therapy for cryptococcal meningitis develops severe hypokalemia and hypomagnesemia. The mechanism of the responsible drug involves binding to which specific structural element?",
+    "options": [
+      "Squalene epoxidase",
+      "Ergosterol",
+      "Beta-glucan synthase",
+      "Lanosterol 14-alpha-demethylase",
+      "Cytosine deaminase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Amphotericin B alters renal tubule permeability and causes electrolyte wasting. It works by binding directly to ergosterol to form membrane pores."
+  },
+  {
+    "id": 2133,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient being treated for systemic candidiasis develops profound leukopenia and thrombocytopenia. The combined agent administered alongside amphotericin B requires which host or pathogen enzyme for activation?",
+    "options": [
+      "Thymidine kinase",
+      "Cytosine deaminase",
+      "Squalene epoxidase",
+      "RNA-dependent DNA polymerase",
+      "Integrase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Flucytosine acts synergistically with amphotericin B but can cause myelosuppression. It must be converted to 5-fluorouracil by fungal cytosine deaminase."
+  },
+  {
+    "id": 2134,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A male patient being treated for a severe fungal infection develops gynecomastia. The implicated drug inhibits the synthesis of ergosterol directly from which precursor molecule?",
+    "options": [
+      "Squalene",
+      "Lanosterol",
+      "Squalene epoxide",
+      "Cholesterol",
+      "Beta-glucan"
+    ],
+    "correct_answer": "B",
+    "explanation": "Azoles (like ketoconazole, which causes gynecomastia) inhibit the cytochrome P-450 enzyme that converts lanosterol to ergosterol."
+  },
+  {
+    "id": 2135,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with severe onychomycosis is prescribed an oral antifungal that primarily inhibits squalene epoxidase. Which adverse effect is most uniquely associated with this agent compared to other antifungals?",
+    "options": [
+      "Severe nephrotoxicity",
+      "Taste disturbance",
+      "Gynecomastia",
+      "Red-green color blindness",
+      "Prolonged QT interval"
+    ],
+    "correct_answer": "B",
+    "explanation": "Terbinafine inhibits squalene epoxidase and is notably associated with taste disturbances, as well as GI upset and hepatotoxicity."
+  },
+  {
+    "id": 2136,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receiving an intravenous antifungal for invasive aspergillosis experiences sudden generalized flushing mediated by histamine release. What is the target of the administered medication?",
+    "options": [
+      "Fungal cell membrane synthesis",
+      "Synthesis of beta-glucan",
+      "Squalene epoxidase",
+      "Microtubule function",
+      "Lanosterol 14-alpha-demethylase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Echinocandins (like caspofungin) inhibit cell wall synthesis by blocking beta-glucan synthesis and can cause histamine-mediated flushing."
+  },
+  {
+    "id": 2137,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child with severe tinea capitis is given an oral drug that disrupts fungal mitosis. Which phenomenon is a recognized consequence of systemic treatment with this agent?",
+    "options": [
+      "Irreversible bone marrow suppression",
+      "Induction of cytochrome P-450 enzymes",
+      "Deposition in growing cartilage",
+      "Precipitation of acute gouty arthritis",
+      "Inhibition of host cell dihydrofolate reductase"
+    ],
+    "correct_answer": "B",
+    "explanation": "Griseofulvin interferes with microtubule function to disrupt mitosis. It is a known inducer of cytochrome P-450 enzymes."
+  },
+  {
+    "id": 2138,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A traveler taking malaria prophylaxis develops a progressive loss of central vision. The drug responsible exerts its antimalarial effect through which mechanism?",
+    "options": [
+      "Inhibition of plasmodial dihydrofolate reductase",
+      "Free radical oxidative damage to the parasitic membrane",
+      "Blockade of heme detoxification into hemozoin",
+      "Depolarization of the parasite's resting membrane potential",
+      "Disruption of plasmodial microtubule assembly"
+    ],
+    "correct_answer": "C",
+    "explanation": "Chloroquine can cause dose-dependent retinopathy. It functions by blocking the detoxification of heme into hemozoin within the parasite."
+  },
+  {
+    "id": 2139,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with a two-day history of high fever, myalgias, and a nonproductive cough. They are prescribed an oral medication that inhibits a viral surface enzyme; what is the precise consequence of this drug's mechanism?",
+    "options": [
+      "Prevention of viral entry into the respiratory epithelium",
+      "Inhibition of viral RNA-dependent RNA polymerase",
+      "Decreased release of progeny virus from infected cells",
+      "Failure of the 5' cap transfer onto viral mRNA",
+      "Interruption of viral uncoating within the endosome"
+    ],
+    "correct_answer": "C",
+    "explanation": "Oseltamivir is a neuraminidase inhibitor used for influenza A and B, which impairs the release of newly formed progeny virions."
+  },
+  {
+    "id": 2140,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient diagnosed with influenza A is given a single-dose medication that inhibits viral cap snatching. Which viral enzyme's activity is directly impaired by this drug?",
+    "options": [
+      "Neuraminidase",
+      "Protease",
+      "Endonuclease",
+      "Exoribonuclease",
+      "Thymidine kinase"
+    ],
+    "correct_answer": "C",
+    "explanation": "Baloxavir inhibits the cap snatching endonuclease activity of the influenza virus RNA polymerase, thus reducing viral replication."
+  },
+  {
+    "id": 2141,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospitalized patient with severe COVID-19 is treated with a nucleotide prodrug. How does the active form of this medication overcome the intrinsic resistance of SARS-CoV-2?",
+    "options": [
+      "By inhibiting the viral protease and preventing polyprotein cleavage",
+      "By irreversibly binding the viral spike protein",
+      "By evading proofreading by the viral exoribonuclease",
+      "By degrading the viral RNA genome directly via RNase H activity",
+      "By preventing viral attachment to the ACE2 receptor"
+    ],
+    "correct_answer": "C",
+    "explanation": "Remdesivir is an ATP analog that inhibits the viral RNA-dependent RNA polymerase and specifically evades proofreading by the viral exoribonuclease (ExoN)."
+  },
+  {
+    "id": 2142,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A renal transplant recipient receiving high-dose acyclovir for recurrent herpes simplex virus develops acute kidney injury. Which primary characteristic of this drug dictates its high therapeutic index against HSV?",
+    "options": [
+      "Rapid renal excretion before host cell penetration",
+      "Selective inhibition of host cellular DNA polymerase",
+      "Requirement for monophosphorylation by a specific viral kinase",
+      "Resistance to degradation by host exoribonucleases",
+      "Absolute lack of penetration into non-infected neurons"
+    ],
+    "correct_answer": "C",
+    "explanation": "Acyclovir is a guanosine analog that causes obstructive crystalline nephropathy. It is highly selective because its first phosphorylation step requires HSV/VZV thymidine kinase."
+  },
+  {
+    "id": 2143,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An immunocompromised patient treated for CMV retinitis develops profound neutropenia. The active triphosphate form of the responsible drug is synthesized by the concerted action of which enzymes?",
+    "options": [
+      "Viral thymidine kinase followed by viral endonuclease",
+      "Host cell kinases alone",
+      "Viral kinase followed by host cellular kinases",
+      "Viral integrase followed by host RNA polymerase",
+      "Host cytosine deaminase followed by viral phosphorylase"
+    ],
+    "correct_answer": "C",
+    "explanation": "Ganciclovir (which causes myelosuppression) is first monophosphorylated by a CMV viral kinase, and then converted to the active triphosphate form by host cellular kinases."
+  },
+  {
+    "id": 2144,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with an acyclovir-resistant HSV infection is treated with an intravenous alternative but subsequently develops generalized seizures due to profound electrolyte derangements. How does the administered drug inhibit viral replication?",
+    "options": [
+      "Chain termination following incorporation into viral DNA",
+      "Competitive inhibition of viral thymidine kinase",
+      "Binding to the pyrophosphate-binding site of viral DNA polymerase",
+      "Cleavage of viral mRNA transcripts",
+      "Blockade of viral entry into the host cell"
+    ],
+    "correct_answer": "C",
+    "explanation": "Foscarnet is a pyrophosphate analog that directly binds the pyrophosphate-binding site of the viral DNA polymerase and does not require activation by viral kinases."
+  },
+  {
+    "id": 2145,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receiving long-term treatment for CMV retinitis develops severe nephrotoxicity despite aggressive intravenous hydration. The mechanism of the offending drug distinguishes itself from ganciclovir in which fundamental way?",
+    "options": [
+      "It does not require any phosphorylation steps",
+      "It directly inhibits viral uncoating rather than DNA synthesis",
+      "It lacks requirement for phosphorylation by a viral kinase",
+      "It acts strictly as an RNA-dependent RNA polymerase inhibitor",
+      "It binds exclusively to host cell ribosomes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cidofovir preferentially inhibits viral DNA polymerase but completely bypasses the need for initial phosphorylation by a viral kinase."
+  },
+  {
+    "id": 2146,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient newly diagnosed with HIV requires antiretroviral therapy. Genetic screening for the HLA-B*5701 mutation is mandatory prior to initiating which medication?",
+    "options": [
+      "Zidovudine",
+      "Efavirenz",
+      "Abacavir",
+      "Darunavir",
+      "Dolutegravir"
+    ],
+    "correct_answer": "C",
+    "explanation": "Abacavir is contraindicated in patients possessing the HLA-B*5701 mutation due to a markedly increased risk of severe hypersensitivity reactions."
+  },
+  {
+    "id": 2147,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV-positive patient is started on a regimen containing a specific antiretroviral drug that uniquely exists as a nucleoTide analog, circumventing one step of intracellular phosphorylation. Which drug fits this description?",
+    "options": [
+      "Emtricitabine",
+      "Lamivudine",
+      "Tenofovir",
+      "Zidovudine",
+      "Efavirenz"
+    ],
+    "correct_answer": "C",
+    "explanation": "Among the NRTIs, tenofovir is unique because it is a nucleoTide analog, whereas the rest are nucleoside analogs."
+  },
+  {
+    "id": 2148,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with HIV presents complaining of vivid, disturbing dreams and central nervous system symptoms shortly after initiating a new multi-drug antiretroviral regimen. The responsible drug binds directly to which viral target?",
+    "options": [
+      "The active site of the viral protease",
+      "The gp41 transmembrane envelope protein",
+      "The CCR-5 coreceptor on the host macrophage",
+      "A site on reverse transcriptase distinct from the active nucleotide-binding site",
+      "The catalytic core of the viral integrase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Efavirenz is an NNRTI known for CNS symptoms. NNRTIs inhibit reverse transcriptase by binding to an allosteric site rather than the active nucleotide-binding site."
+  },
+  {
+    "id": 2149,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV-positive patient stabilized on antiretroviral therapy notices an unexplained 10 kg weight gain and a marked elevation in their serum creatine kinase levels. Which specific medication class is most likely responsible?",
+    "options": [
+      "Nucleoside reverse transcriptase inhibitors",
+      "Protease inhibitors",
+      "Entry inhibitors targeting gp120",
+      "Integrase strand transfer inhibitors",
+      "Non-nucleoside reverse transcriptase inhibitors"
+    ],
+    "correct_answer": "D",
+    "explanation": "Integrase strand transfer inhibitors (such as dolutegravir or bictegravir) are associated with weight gain and increased creatine kinase levels."
+  },
+  {
+    "id": 2150,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient taking ritonavir-boosted darunavir for HIV develops marked hyperglycemia and gastrointestinal intolerance. What is the fundamental mechanism of the primary therapeutic agent in this regimen?",
+    "options": [
+      "Prevention of viral genome integration into host DNA",
+      "Inhibition of reverse transcriptase by chain termination",
+      "Blockade of viral fusion with the host cell membrane",
+      "Prevention of viral maturation by blocking polypeptide cleavage",
+      "Inhibition of the viral envelope's interaction with host CD4 receptors"
+    ],
+    "correct_answer": "D",
+    "explanation": "Darunavir is a protease inhibitor. These agents prevent the maturation of new virions by inhibiting the cleavage of polypeptide products encoded by the HIV mRNA."
+  },
+  {
+    "id": 2151,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An HIV-positive patient is started on a subcutaneous injection that targets viral entry, leading to localized skin reactions at the injection site. Which specific viral or host protein is directly inhibited by this drug?",
+    "options": [
+      "Host CD4 receptor",
+      "Viral gp120",
+      "Host CCR5 coreceptor",
+      "Viral gp41",
+      "Viral reverse transcriptase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Enfuvirtide is an entry inhibitor that functions by binding directly to the viral gp41 envelope glycoprotein to inhibit fusion."
+  },
+  {
+    "id": 2152,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient being treated for chronic Hepatitis C with velpatasvir complains of persistent headache and diarrhea. The targeted viral component, NS5A, normally functions as what type of molecule?",
+    "options": [
+      "An RNA-dependent RNA polymerase",
+      "A viral protease",
+      "An entry coreceptor",
+      "A phosphoprotein involved in RNA replication",
+      "A viral integrase"
+    ],
+    "correct_answer": "D",
+    "explanation": "NS5A is a viral phosphoprotein that plays a critical role in HCV RNA replication, making it a key target for NS5A inhibitors."
+  },
+  {
+    "id": 2153,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with chronic HCV infection is prescribed sofosbuvir. By acting as a chain terminator, this drug specifically inhibits which critical viral enzyme?",
+    "options": [
+      "Viral protease NS3/4A",
+      "Viral phosphoprotein NS5A",
+      "IMP dehydrogenase",
+      "RNA-dependent RNA polymerase NS5B",
+      "Viral reverse transcriptase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Sofosbuvir is an NS5B inhibitor. NS5B is the HCV RNA-dependent RNA polymerase that is inhibited when the drug acts as a chain terminator."
+  },
+  {
+    "id": 2154,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Instruments in a surgical suite are subjected to pressurized steam at >120\u00b0C for sterilization. Despite this rigorous procedure, which infectious agent may reliably survive this process?",
+    "options": [
+      "Clostridium botulinum spores",
+      "Hepatitis B virus",
+      "Mycobacterium tuberculosis",
+      "Prions",
+      "Bacillus anthracis spores"
+    ],
+    "correct_answer": "D",
+    "explanation": "Autoclaving utilizes pressurized steam at >120\u00b0C, which inactivates most microbes including spores, but may not reliably inactivate prions."
+  },
+  {
+    "id": 2155,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A surgical pre-operative scrub utilizes an agent that functions via the halogenation of DNA, RNA, and proteins. Which compound is most likely being utilized?",
+    "options": [
+      "Ethylene oxide",
+      "Chlorhexidine",
+      "Quaternary amines",
+      "Iodophors",
+      "Hydrogen peroxide"
+    ],
+    "correct_answer": "D",
+    "explanation": "Iodine and iodophors exert their antimicrobial effect through the direct halogenation of DNA, RNA, and proteins."
+  },
+  {
+    "id": 2156,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pregnant patient requires treatment for an infection, but a specific antibiotic is withheld due to the risk of fetal cartilage damage. Which class of antimicrobials was deemed contraindicated?",
+    "options": [
+      "Sulfonamides",
+      "Tetracyclines",
+      "Aminoglycosides",
+      "Fluoroquinolones",
+      "Macrolides"
+    ],
+    "correct_answer": "D",
+    "explanation": "Fluoroquinolones are generally contraindicated in pregnancy due to the associated risk of causing severe cartilage damage to the developing fetus."
+  },
+  {
+    "id": 2157,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 55-year-old chronic smoker is found to have respiratory ciliated columnar epithelium replaced by stratified squamous epithelium in the trachea. This reversible change is most accurately described as arising from which underlying process?",
+    "options": [
+      "Uncontrolled proliferation of existing differentiated squamous cells",
+      "Hypertrophy of the underlying submucosal glands",
+      "Downregulation of the ubiquitin-proteasome pathway",
+      "Reprogramming of local stem cells",
+      "Disordered, precancerous epithelial cell growth"
+    ],
+    "correct_answer": "D",
+    "explanation": "This describes metaplasia, an adaptive response characterized by the reprogramming of stem cells to replace one cell type with another that can better withstand the stress."
+  },
+  {
+    "id": 2158,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient's arm is casted for 6 weeks, resulting in significantly reduced muscle mass. Which specific intracellular mechanism is primarily responsible for the reduction in individual muscle cell size?",
+    "options": [
+      "Activation of the perforin/granzyme B pathway",
+      "Uncontrolled leakage of cytosolic troponin",
+      "Overexpression of the Bcl-2 protein",
+      "Failure of the Na+/K+ ATPase pump",
+      "Upregulation of the ubiquitin-proteasome pathway"
+    ],
+    "correct_answer": "E",
+    "explanation": "Disuse atrophy occurs through decreased protein synthesis and increased cytoskeleton degradation, which is mediated directly by the ubiquitin-proteasome pathway and autophagy."
+  },
+  {
+    "id": 2159,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A portion of the myocardium undergoes transient ischemia, resulting in a sudden drop in intracellular ATP levels. Which morphologic change represents the earliest manifestation of this cellular injury?",
+    "options": [
+      "Nuclear pyknosis",
+      "Karyorrhexis",
+      "Amorphous densities in mitochondria",
+      "Lysosomal rupture",
+      "Cellular swelling"
+    ],
+    "correct_answer": "E",
+    "explanation": "With reduced ATP, the Na+/K+ ATPase pump fails, leading to an influx of Na+ and water, making cellular swelling the earliest morphologic manifestation of reversible cell injury."
+  },
+  {
+    "id": 2160,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A tissue biopsy demonstrates cells with nuclear fragmentation driven by endonuclease-mediated cleavage. Which term most accurately describes this specific nuclear change?",
+    "options": [
+      "Pyknosis",
+      "Karyolysis",
+      "Blebbing",
+      "Autolysis",
+      "Karyorrhexis"
+    ],
+    "correct_answer": "E",
+    "explanation": "Karyorrhexis refers specifically to the fragmentation of the condensed nucleus, caused by endonuclease-mediated cleavage during irreversible cell injury."
+  },
+  {
+    "id": 2161,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Withdrawal of an essential growth factor triggers cellular shrinkage, chromatin condensation, and phagocytosis without significant surrounding inflammation. Which proapoptotic proteins are directly responsible for mitochondrial pore formation in this process?",
+    "options": [
+      "Bcl-2 and Bcl-xL",
+      "Caspase-8 and Caspase-10",
+      "Perforin and Granzyme B",
+      "Fas and FasL",
+      "BAX and BAK"
+    ],
+    "correct_answer": "E",
+    "explanation": "In the intrinsic apoptotic pathway, growth factor withdrawal promotes BAX and BAK, which form pores in the mitochondrial membrane to release cytochrome C."
+  },
+  {
+    "id": 2162,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient is diagnosed with follicular lymphoma characterized by a t(14;18) translocation. Tumorigenesis in this condition is fundamentally driven by overexpression of a protein that mediates which specific intracellular effect?",
+    "options": [
+      "Increased release of cytochrome C",
+      "Direct cleavage of executioner caspases",
+      "Facilitation of DNA laddering into 180 bp fragments",
+      "Upregulation of the extrinsic death receptor pathway",
+      "Prevention of mitochondrial membrane permeability"
+    ],
+    "correct_answer": "E",
+    "explanation": "The t(14;18) translocation overexpresses Bcl-2, an antiapoptotic protein that prevents mitochondrial membrane permeability and cytochrome C release."
+  },
+  {
+    "id": 2163,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 4-year-old child presents with generalized lymphadenopathy, hepatosplenomegaly, and autoimmune hemolytic anemia. This syndrome primarily impairs which cellular interaction necessary for thymic medullary negative selection?",
+    "options": [
+      "BAX-BAK oligomerization",
+      "Cytochrome C release",
+      "Perforin pore formation",
+      "TNF-alpha receptor down-regulation",
+      "Fas-FasL binding"
+    ],
+    "correct_answer": "E",
+    "explanation": "Autoimmune lymphoproliferative syndrome is caused by defective Fas-FasL interaction, an essential component of the extrinsic death receptor pathway for clonal deletion."
+  },
+  {
+    "id": 2164,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient from a developing nation receives a combination regimen for tuberculoid leprosy, featuring a drug that structurally resembles sulfonamides. Which adverse effect is uniquely associated with this specific agent in susceptible patients?",
+    "options": [
+      "Cartilage damage",
+      "Optic neuropathy",
+      "Red-orange body fluids",
+      "Disulfiram-like reaction",
+      "Methemoglobinemia"
+    ],
+    "correct_answer": "E",
+    "explanation": "Dapsone is used to treat leprosy and structurally resembles sulfonamides. It can cause methemoglobinemia, a unique adverse effect, as well as hemolysis in G6PD deficiency."
+  },
+  {
+    "id": 2165,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A newly diagnosed HIV patient's viral isolate is exclusively CXCR4-tropic. Which antiretroviral medication will be completely ineffective in this patient, due to its specific host-cell target?",
+    "options": [
+      "Enfuvirtide",
+      "Atazanavir",
+      "Rilpivirine",
+      "Bictegravir",
+      "Maraviroc"
+    ],
+    "correct_answer": "E",
+    "explanation": "Maraviroc specifically binds to the CCR-5 coreceptor on host macrophages/T cells to inhibit docking, making it ineffective against CXCR4-tropic strains of HIV."
+  },
+  {
+    "id": 2166,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient being evaluated for a Hepatitis C treatment regimen has a known history of severe hemolytic anemia. If included, which specific drug in the potential regimen is most likely to exacerbate this underlying condition?",
+    "options": [
+      "Sofosbuvir",
+      "Ledipasvir",
+      "Glecaprevir",
+      "Ritonavir",
+      "Ribavirin"
+    ],
+    "correct_answer": "E",
+    "explanation": "Ribavirin inhibits IMP dehydrogenase but acts as a severe teratogen and is classically associated with dose-dependent hemolytic anemia."
+  },
+  {
+    "id": 2167,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospital protocol mandates handwashing with a specific agent that functions by simultaneously disrupting cell membranes and coagulating intracellular components. Which chemical agent fits this specific mechanistic description?",
+    "options": [
+      "Hydrogen peroxide",
+      "Quaternary amines",
+      "Ethylene oxide",
+      "Alcohols",
+      "Chlorhexidine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Chlorhexidine exerts its disinfection and sterilization properties through the disruption of cell membranes and coagulation of intracellular components."
+  },
+  {
+    "id": 2168,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A preeclamptic patient's placental vessels exhibit an eosinophilic layer of proteinaceous material on histology. Which mechanism primarily drives this specific pattern of necrosis?",
+    "options": [
+      "Enzymatic degradation by local lipases",
+      "Denaturation of structural intracellular proteins",
+      "Granular debris accumulation from walled-off pathogens",
+      "Release of lysosomal enzymes from invading neutrophils",
+      "Leakage of plasma proteins from damaged vessels"
+    ],
+    "correct_answer": "E",
+    "explanation": "Fibrinoid necrosis, typically seen in preeclampsia, is driven by immune complex deposition or plasma protein leakage from damaged vessels."
+  },
+  {
+    "id": 2169,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During acute pancreatitis, the peripancreatic fat turns chalky-white. Which histological feature distinguishes this specific necrotic process?",
+    "options": [
+      "Outlines of dead cells lacking peripheral nuclei",
+      "Preservation of cellular architecture with intact nuclei",
+      "Cystic spaces filled with lipid and cellular debris",
+      "Concentrically laminated calcified spherules",
+      "Extracellular deposition of beta-pleated sheets"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fat necrosis is histologically characterized by outlines of dead fat cells without peripheral nuclei, accompanied by saponification of fat."
+  },
+  {
+    "id": 2170,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient suffers a massive cerebral infarction. During the early stages of the resulting liquefactive necrosis, which cells are predominantly responsible for digesting the brain tissue?",
+    "options": [
+      "Microglia",
+      "Neutrophils",
+      "Astrocytes",
+      "Lymphocytes",
+      "Fibroblasts"
+    ],
+    "correct_answer": "B",
+    "explanation": "In liquefactive necrosis caused by CNS infarcts or abscesses, early digestion of tissue is driven by lysosomal enzymes released from neutrophils, followed later by macrophages."
+  },
+  {
+    "id": 2171,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Following chronic peripheral ischemia, a patient's distal extremity exhibits dry gangrene. If a superinfection occurs, which superimposed process converts this to wet gangrene?",
+    "options": [
+      "Caseous necrosis",
+      "Fibrinoid necrosis",
+      "Liquefactive necrosis",
+      "Coagulative necrosis",
+      "Fat necrosis"
+    ],
+    "correct_answer": "C",
+    "explanation": "Wet gangrene occurs when liquefactive necrosis from a bacterial superinfection is superimposed on the initial coagulative necrosis of dry gangrene."
+  },
+  {
+    "id": 2172,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A myocardial infarction classically results in coagulative necrosis. Why do the necrotic cardiomyocytes persistently display preserved cellular architecture on early histological evaluation?",
+    "options": [
+      "Calcium deposition stabilizes the cell membrane",
+      "Macrophage infiltration rapidly walls off the tissue",
+      "Lysosomal enzymes selectively target the nucleus",
+      "Ischemic injury denatures cellular proteolytic enzymes",
+      "Free radicals cross-link the intracellular matrix"
+    ],
+    "correct_answer": "D",
+    "explanation": "Coagulative necrosis preserves cellular architecture because the ischemic injury denatures structural proteins as well as the enzymes responsible for proteolysis."
+  },
+  {
+    "id": 2173,
+    "category": "FCPS Topic (Extreme)",
+    "question": "In a patient experiencing profound hypovolemic shock, the kidneys suffer ischemic injury. Which specific region of the kidney is most vulnerable to this ischemic insult?",
+    "options": [
+      "Cortical renal corpuscle",
+      "Medullary thin descending limb",
+      "Cortical distal convoluted tubule",
+      "Papillary collecting duct",
+      "Medullary straight segment of the proximal tubule"
+    ],
+    "correct_answer": "E",
+    "explanation": "The straight segment of the proximal tubule and the thick ascending limb in the medulla are highly vulnerable to hypoxia and ischemia."
+  },
+  {
+    "id": 2174,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient suffers a stroke localized to the cerebral watershed areas. Which specific neuronal cells are most inherently vulnerable to this hypoxic-ischemic insult?",
+    "options": [
+      "Purkinje cells of the cerebellum",
+      "Stellate cells of the cerebral cortex",
+      "Granule cells of the dentate gyrus",
+      "Dopaminergic neurons of the substantia nigra",
+      "Motor neurons of the anterior horn"
+    ],
+    "correct_answer": "A",
+    "explanation": "Neurons most vulnerable to hypoxic-ischemic insults include the Purkinje cells of the cerebellum and the pyramidal cells of the hippocampus and neocortex."
+  },
+  {
+    "id": 2175,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A testicular torsion is manually detorsed after 6 hours, restoring blood flow. This reperfusion injury is predominantly mediated by which of the following?",
+    "options": [
+      "Fibrinoid necrosis of testicular venules",
+      "Generation of toxic free radicals",
+      "Rapid influx of inflammatory lymphocytes",
+      "Excessive complement cascade activation",
+      "Accumulation of intracellular lipofuscin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Reperfusion injury, which can occur after restoring blood flow to ischemic tissue, is primarily driven by damage from newly generated free radicals."
+  },
+  {
+    "id": 2176,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with a pale infarct of the left kidney. What anatomic feature dictates that the kidney suffers a pale rather than a red infarct?",
+    "options": [
+      "Presence of a dual blood supply",
+      "High resting oxygen extraction ratio",
+      "Single end-arterial blood supply",
+      "Dense capillary network in the medulla",
+      "Direct venous drainage to the inferior vena cava"
+    ],
+    "correct_answer": "C",
+    "explanation": "Pale infarcts occur in solid organs like the heart and kidney that possess a single, end-arterial blood supply."
+  },
+  {
+    "id": 2177,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Carbon tetrachloride exposure leads to centrilobular liver necrosis and fatty change. What is the immediate consequence of the CCl3 free radical generation in these hepatocytes?",
+    "options": [
+      "Inhibition of mitochondrial oxidative phosphorylation",
+      "Excessive peroxidation of nuclear DNA",
+      "Direct competitive inhibition of cytochrome P-450",
+      "Decreased synthesis of apolipoproteins",
+      "Exhaustion of intracellular catalase"
+    ],
+    "correct_answer": "D",
+    "explanation": "CCl3 free radicals cause cellular injury that leads to decreased apolipoprotein synthesis, subsequently trapping fat within the hepatocytes to cause fatty liver change."
+  },
+  {
+    "id": 2178,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Patients with Wilson disease accumulate copper, leading to free radical injury. Which chemical reaction specifically utilizes this transition metal to generate toxic free radicals?",
+    "options": [
+      "Haber-Weiss reaction",
+      "Respiratory burst",
+      "Cytochrome P-450 metabolism",
+      "Saponification",
+      "Fenton reaction"
+    ],
+    "correct_answer": "E",
+    "explanation": "Transition metals such as copper and iron form reactive free radicals through the Fenton reaction, contributing to metal storage disease pathology."
+  },
+  {
+    "id": 2179,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Hemochromatosis results in free radical-mediated tissue injury. Which endogenous mechanism is normally responsible for neutralizing these specific transition metal-induced radicals?",
+    "options": [
+      "Binding to carrier proteins like transferrin",
+      "Degradation by superoxide dismutase",
+      "Oxidation by local myeloperoxidase",
+      "Spontaneous decay in the extracellular space",
+      "Sequestration within cellular lysosomes"
+    ],
+    "correct_answer": "A",
+    "explanation": "Free radicals formed by transition metals are normally kept in check by metal carrier proteins such as transferrin and ceruloplasmin."
+  },
+  {
+    "id": 2180,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient exposed to a sudden, massive dose of ionizing radiation from a reactor accident develops acute radiation syndrome. Which actively regenerating tissue is most susceptible to this injury?",
+    "options": [
+      "Myocardium",
+      "Gastrointestinal tract epithelium",
+      "Skeletal muscle",
+      "Hepatic parenchyma",
+      "Pulmonary alveolar lining"
+    ],
+    "correct_answer": "B",
+    "explanation": "Stem cells of rapidly regenerating tissues, such as the skin, bone marrow, gonads, and the GI tract epithelium, are the most susceptible to ionizing radiation."
+  },
+  {
+    "id": 2181,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Radiotherapy is highly effective against rapidly dividing cancer cells. What specific cellular deficit makes cancer cells uniquely vulnerable to ionizing radiation compared to healthy cells?",
+    "options": [
+      "Lack of endogenous antioxidants",
+      "Overexpression of p53",
+      "Dysfunctional DNA repair mechanisms",
+      "Inability to undergo apoptosis",
+      "Absence of cytochrome P-450 enzymes"
+    ],
+    "correct_answer": "C",
+    "explanation": "Cancer cells are more susceptible to radiotherapy due to their inherently dysfunctional DNA repair mechanisms paired with high replicative rates."
+  },
+  {
+    "id": 2182,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with sarcoidosis is found to have diffuse calcifications in the gastric mucosa. Why is the gastric mucosa selectively predisposed to this metastatic calcification?",
+    "options": [
+      "Low local pH from continuous acid production",
+      "High concentration of local calcium-binding proteins",
+      "Abundant presence of alkaline phosphatase",
+      "Rapid loss of acid favoring a high local pH",
+      "Chronic granulomatous inflammation in the lamina propria"
+    ],
+    "correct_answer": "D",
+    "explanation": "Metastatic calcification predominantly occurs in tissues that lose acid quickly (like the kidney, lung, and gastric mucosa), creating a high pH environment that favors calcium deposition."
+  },
+  {
+    "id": 2183,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 65-year-old woman with a history of rheumatic fever has a heavily calcified aortic valve. Her serum calcium levels are normal. Which process primarily dictates this localized calcification?",
+    "options": [
+      "Chronic hyperphosphatemia",
+      "Primary hyperparathyroidism",
+      "Increased 1-alpha-hydroxylase activity",
+      "Widespread metastatic deposition",
+      "Dystrophic tissue injury"
+    ],
+    "correct_answer": "E",
+    "explanation": "Dystrophic calcification occurs locally in abnormal or diseased tissues (like a damaged aortic valve) secondary to injury or necrosis, with normal systemic calcium levels."
+  },
+  {
+    "id": 2184,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A biopsy of an ovarian mass reveals concentrically laminated calcified spherules. Which other neoplasm classically exhibits these identical histological structures?",
+    "options": [
+      "Meningioma",
+      "Follicular thyroid carcinoma",
+      "Hepatocellular carcinoma",
+      "Renal cell carcinoma",
+      "Small cell lung carcinoma"
+    ],
+    "correct_answer": "A",
+    "explanation": "Psammoma bodies are concentrically laminated calcified spherules characteristically seen in Papillary thyroid carcinoma, Meningioma, Serous ovarian carcinoma, and Mesothelioma."
+  },
+  {
+    "id": 2185,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with chronic kidney disease develops nephrocalcinosis in the collecting ducts. What is the primary systemic trigger for this specific pattern of calcium deposition?",
+    "options": [
+      "Decreased parathyroid hormone secretion",
+      "Chronic hyperphosphatemia",
+      "Excessive dietary calcium intake",
+      "Diffuse liquefactive necrosis",
+      "Localized trauma to the renal pelvis"
+    ],
+    "correct_answer": "B",
+    "explanation": "Metastatic calcification in normal tissues is often secondary to hyperphosphatemia (common in chronic kidney disease) or systemic hypercalcemia."
+  },
+  {
+    "id": 2186,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A multiple myeloma patient develops restrictive cardiomyopathy due to primary amyloidosis. Which protein constitutes the fibrillar deposits in this patient's myocardium?",
+    "options": [
+      "Serum amyloid A",
+      "Transthyretin",
+      "Immunoglobulin light chains",
+      "Beta-2 microglobulin",
+      "Islet amyloid polypeptide"
+    ],
+    "correct_answer": "C",
+    "explanation": "Primary systemic amyloidosis is driven by the deposition of AL amyloid, which is derived from immunoglobulin light chains in plasma cell dyscrasias like multiple myeloma."
+  },
+  {
+    "id": 2187,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with familial Mediterranean fever presents with hepatosplenomegaly and proteinuria. Biopsy reveals amyloid deposits. Which precursor protein is responsible for this secondary amyloidosis?",
+    "options": [
+      "AL protein",
+      "Transthyretin",
+      "Beta-2 microglobulin",
+      "Serum amyloid A",
+      "Beta-amyloid protein"
+    ],
+    "correct_answer": "D",
+    "explanation": "Secondary amyloidosis is composed of AA fibrils, derived from Serum Amyloid A, an acute-phase reactant elevated in chronic inflammatory states."
+  },
+  {
+    "id": 2188,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An 80-year-old man dies of heart failure, and autopsy shows wild-type transthyretin amyloidosis in the myocardium. Which of the following statements differentiates this from hereditary transthyretin amyloidosis?",
+    "options": [
+      "It presents primarily with familial polyneuropathy",
+      "It typically involves end-stage renal disease",
+      "It is derived from immunoglobulin light chains",
+      "It significantly increases the risk of Alzheimer disease",
+      "It is sporadic and slowly progressive with aging"
+    ],
+    "correct_answer": "E",
+    "explanation": "Wild-type transthyretin amyloidosis is a sporadic, age-related condition that slowly progresses to affect the heart, contrasting with the mutated familial form that causes polyneuropathy."
+  },
+  {
+    "id": 2189,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient on dialysis for 15 years develops profound carpal tunnel syndrome. The deposited fibril protein is most likely derived from which of the following?",
+    "options": [
+      "Beta-2 microglobulin",
+      "Cleaved amyloid precursor protein",
+      "Mutated transthyretin",
+      "Calcitonin",
+      "Atrial natriuretic peptide"
+    ],
+    "correct_answer": "A",
+    "explanation": "Dialysis-related amyloidosis is caused by the systemic deposition of beta-2 microglobulin, which fails to be cleared by long-term dialysis."
+  },
+  {
+    "id": 2190,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An elderly patient develops atrial fibrillation due to isolated atrial amyloidosis. What is the specific fibril protein deposited in this localized disease?",
+    "options": [
+      "Amylin",
+      "Atrial natriuretic peptide",
+      "Beta-amyloid protein",
+      "Serum amyloid A",
+      "Calcitonin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Isolated atrial amyloidosis, which increases the risk of atrial fibrillation with age, is caused by the deposition of atrial natriuretic peptide (ANP)."
+  },
+  {
+    "id": 2191,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A skin laceration rapidly develops rubor and calor. Which trio of mediators is primarily responsible for the vasodilation driving these signs?",
+    "options": [
+      "Leukotrienes, serotonin, C5a",
+      "TNF, IL-1, IL-6",
+      "Histamine, prostaglandins, bradykinin",
+      "Nitric oxide, endothelin, thromboxane",
+      "IL-8, kallikrein, PAF"
+    ],
+    "correct_answer": "C",
+    "explanation": "The redness (rubor) and warmth (calor) of acute inflammation are caused by vasodilation mediated primarily by histamine, prostaglandins, bradykinin, and nitric oxide."
+  },
+  {
+    "id": 2192,
+    "category": "FCPS Topic (Extreme)",
+    "question": "The swelling (tumor) observed in acute inflammation results from increased vascular permeability. Which mediators specifically induce the required endothelial contraction?",
+    "options": [
+      "IL-1, TNF, prostaglandins",
+      "Bradykinin, NO, PGE2",
+      "IL-8, LTB4, C5a",
+      "Leukotrienes C4, D4, E4, histamine, serotonin",
+      "C-reactive protein, ferritin, hepcidin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Endothelial contraction in postcapillary venules increases vascular permeability and is driven by leukotrienes (C4, D4, E4), histamine, and serotonin."
+  },
+  {
+    "id": 2193,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a bacterial abscess develops a high fever. Which terminal mediator directly alters the temperature set point in the perivascular cells of the anterior hypothalamus?",
+    "options": [
+      "Interleukin-1",
+      "Tumor necrosis factor",
+      "Cyclooxygenase",
+      "Lipopolysaccharide",
+      "Prostaglandin E2"
+    ],
+    "correct_answer": "E",
+    "explanation": "Pyrogens induce macrophages to release IL-1 and TNF, which upregulate cyclooxygenase. This produces PGE2, which directly alters the temperature set point."
+  },
+  {
+    "id": 2194,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During a severe systemic infection, the liver dramatically decreases the production of certain proteins. Which of the following is an example of such a downregulated reactant?",
+    "options": [
+      "Transferrin",
+      "C-reactive protein",
+      "Fibrinogen",
+      "Haptoglobin",
+      "Hepcidin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Transferrin, albumin, and transthyretin are negative acute-phase reactants that are downregulated by the liver during inflammation to conserve amino acids."
+  },
+  {
+    "id": 2195,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with chronic inflammation presents with anemia. Which acute-phase reactant is directly responsible for sequestering iron within macrophages to cause this anemia?",
+    "options": [
+      "Ferritin",
+      "Hepcidin",
+      "Transferrin",
+      "Procalcitonin",
+      "Haptoglobin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hepcidin causes the anemia of chronic disease by degrading ferroportin, thereby reducing iron absorption and preventing iron release from macrophages."
+  },
+  {
+    "id": 2196,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pregnant woman's laboratory results show an elevated erythrocyte sedimentation rate (ESR). Which other condition would conversely decrease a patient's ESR?",
+    "options": [
+      "Multiple myeloma",
+      "Rheumatoid arthritis",
+      "Polycythemia",
+      "End-stage renal disease",
+      "Macrocytic anemia"
+    ],
+    "correct_answer": "C",
+    "explanation": "Polycythemia increases the number of RBCs, effectively diluting the aggregation factors and resulting in a lower ESR."
+  },
+  {
+    "id": 2197,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During acute inflammation, ESR typically rises due to increased RBC aggregation. Which molecule primarily coats the RBCs to reduce their negative charge and facilitate this?",
+    "options": [
+      "Albumin",
+      "Hepcidin",
+      "Transthyretin",
+      "Fibrinogen",
+      "Transferrin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Inflammatory products like fibrinogen coat RBCs, decreasing their repelling negative charges and causing them to aggregate and fall faster, raising the ESR."
+  },
+  {
+    "id": 2198,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child with recurrent skin infections lacks pus formation. Genetic analysis reveals defective leukocyte margination and rolling. Which molecule is likely deficient?",
+    "options": [
+      "CD18 integrin",
+      "ICAM-1",
+      "PECAM-1",
+      "VLA-4 integrin",
+      "Sialyl Lewis X"
+    ],
+    "correct_answer": "E",
+    "explanation": "Leukocyte Adhesion Deficiency Type 2 is characterized by a defect in Sialyl Lewis X, severely impairing the margination and rolling phase of extravasation."
+  },
+  {
+    "id": 2199,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Leukocyte tight binding to the endothelium is defective in Leukocyte Adhesion Deficiency Type 1. This condition specifically lacks which critical leukocyte surface subunit?",
+    "options": [
+      "CD18 integrin",
+      "L-selectin",
+      "Sialyl Lewis X",
+      "PECAM-1",
+      "Mac-1"
+    ],
+    "correct_answer": "A",
+    "explanation": "LAD Type 1 is caused by a deficiency in the CD18 integrin subunit, which is essential for the tight binding and adhesion of leukocytes to ICAM-1 and VCAM-1."
+  },
+  {
+    "id": 2200,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During the diapedesis phase of leukocyte extravasation, which homologous cellular adhesion molecule allows the WBC to traverse the interendothelial junction?",
+    "options": [
+      "VCAM-1",
+      "PECAM-1",
+      "GlyCAM-1",
+      "ICAM-1",
+      "E-selectin"
+    ],
+    "correct_answer": "B",
+    "explanation": "PECAM-1 (CD31) is expressed on both leukocytes and endothelial cells, and their interaction is essential for transmigration (diapedesis) into the interstitium."
+  },
+  {
+    "id": 2201,
+    "category": "FCPS Topic (Extreme)",
+    "question": "After a neutrophil crosses the endothelium, it migrates toward a bacterial infection. Which set of chemotactic factors directly guides this interstitial migration?",
+    "options": [
+      "IL-1, TNF, IL-6",
+      "Histamine, bradykinin, serotonin",
+      "C5a, IL-8, LTB4",
+      "TGF-beta, PDGF, EGF",
+      "Prostacyclin, NO, endothelin"
+    ],
+    "correct_answer": "C",
+    "explanation": "The primary chemotactic factors that guide neutrophils to the site of injury include complement C5a, Interleukin-8, and Leukotriene B4."
+  },
+  {
+    "id": 2202,
+    "category": "FCPS Topic (Extreme)",
+    "question": "In resolving acute inflammation, macrophages alter their cytokine profile to promote healing instead of continued recruitment. Which cytokine primarily drives this resolution phase?",
+    "options": [
+      "Interleukin-8",
+      "Interleukin-12",
+      "Interferon-gamma",
+      "Interleukin-10",
+      "Tumor necrosis factor"
+    ],
+    "correct_answer": "D",
+    "explanation": "Macrophage secretion of IL-10 and TGF-beta downregulates the inflammatory response, promoting resolution and tissue healing."
+  },
+  {
+    "id": 2203,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with chronic hepatitis C exhibits persistent liver inflammation. The classical activation of macrophages in this state is predominantly driven by which Th1-secreted cytokine?",
+    "options": [
+      "Interleukin-4",
+      "Interleukin-13",
+      "Transforming growth factor-beta",
+      "Interleukin-10",
+      "Interferon-gamma"
+    ],
+    "correct_answer": "E",
+    "explanation": "Th1 cells secrete IFN-gamma to promote the classical, pro-inflammatory activation of macrophages during chronic inflammation."
+  },
+  {
+    "id": 2204,
+    "category": "FCPS Topic (Extreme)",
+    "question": "In a healing surgical wound, myofibroblasts mediate wound contraction. During which specific phase of wound healing do these cells primarily execute this function?",
+    "options": [
+      "Proliferative phase",
+      "Inflammatory phase",
+      "Remodeling phase",
+      "Hemostasis phase",
+      "Maturation phase"
+    ],
+    "correct_answer": "A",
+    "explanation": "The proliferative phase occurs from day 3 to weeks after injury and is characterized by granulation tissue deposition, angiogenesis, and wound contraction mediated by myofibroblasts."
+  },
+  {
+    "id": 2205,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A malnourished patient suffers from delayed wound healing due to a zinc deficiency. Which critical process in the remodeling phase is most directly impaired by lacking this cofactor?",
+    "options": [
+      "Deposition of granulation tissue",
+      "Breakdown of type III collagen by collagenases",
+      "Cross-linking of collagen by lysyl oxidase",
+      "Angiogenesis stimulated by VEGF",
+      "Dissolution of the initial fibrin clot"
+    ],
+    "correct_answer": "B",
+    "explanation": "Zinc is an essential cofactor for collagenases, which break down type III collagen so it can be replaced by stronger type I collagen during the remodeling phase."
+  },
+  {
+    "id": 2206,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A histological slide of a pulmonary granuloma reveals central necrosis surrounded by multinucleated giant cells. Which specific cellular fusion event forms these giant cells?",
+    "options": [
+      "Aggregation of activated Th1 lymphocytes",
+      "Fusion of hyperactive fibroblasts",
+      "Coalescence of multiple activated macrophages",
+      "Syncytium formation by epithelioid cells",
+      "Merging of exhausted cytotoxic T cells"
+    ],
+    "correct_answer": "C",
+    "explanation": "Multinucleated giant cells in granulomas are formed strictly by the fusion of several activated macrophages."
+  },
+  {
+    "id": 2207,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with suspected tuberculosis is scheduled to begin anti-TNF therapy for concurrent rheumatoid arthritis. Why must latent TB be ruled out before initiating this drug?",
+    "options": [
+      "Direct acceleration of mycobacterial replication",
+      "Conversion of noncaseating granulomas to caseating",
+      "Rapid induction of liquefactive lung necrosis",
+      "Breakdown of sequestering granulomas",
+      "Prevention of initial macrophage antigen presentation"
+    ],
+    "correct_answer": "D",
+    "explanation": "Anti-TNF therapy inhibits the cytokine required to maintain granuloma structure, leading to the breakdown of sequestering granulomas and disseminated disease."
+  },
+  {
+    "id": 2208,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with sarcoidosis develops hypercalcemia. Which specific alteration within the activated macrophages of the granuloma is directly responsible?",
+    "options": [
+      "Production of parathyroid hormone-related peptide",
+      "Decreased expression of calcium-sensing receptors",
+      "Enhanced osteoclast-activating factor secretion",
+      "Overproduction of endogenous calcitonin",
+      "Increased 1-alpha-hydroxylase activity"
+    ],
+    "correct_answer": "E",
+    "explanation": "Activated macrophages in granulomas have elevated 1-alpha-hydroxylase activity, converting vitamin D to its active form and thereby inducing hypercalcemia."
+  },
+  {
+    "id": 2209,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with a large, claw-like scar on their chest following a minor laceration months ago. What primary collagen composition defines this specific type of aberrant scar?",
+    "options": [
+      "Disorganized Types I and III collagen",
+      "Solely disorganized Type I collagen",
+      "Solely parallel Type III collagen",
+      "Parallel Types II and IV collagen",
+      "Disorganized Types I and IV collagen"
+    ],
+    "correct_answer": "A",
+    "explanation": "Keloid scars extend beyond the original wound borders and are uniquely composed of disorganized bundles of both Type I and Type III collagen."
+  },
+  {
+    "id": 2210,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A cervical biopsy shows severe dysplasia involving the entire thickness of the epithelium, with an intact basement membrane. Which term most accurately classifies this lesion?",
+    "options": [
+      "High-grade invasive carcinoma",
+      "Carcinoma in situ",
+      "Metaplastic transformation",
+      "Benign epithelial adenoma",
+      "Desmoplastic stroma"
+    ],
+    "correct_answer": "B",
+    "explanation": "Carcinoma in situ describes severe dysplasia spanning the entire epithelial thickness without penetrating the intact basement membrane."
+  },
+  {
+    "id": 2211,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A tumor mass demonstrates aggressive local invasion. The physical detachment of these neoplastic cells from one another is primarily mediated by the inactivation of which molecule?",
+    "options": [
+      "Laminin",
+      "Fibronectin",
+      "E-cadherin",
+      "Metalloproteinase",
+      "VEGF"
+    ],
+    "correct_answer": "C",
+    "explanation": "Inactivation of E-cadherin results in the loss of intercellular contacts and contact inhibition, permitting tumor cells to detach and invade surrounding tissue."
+  },
+  {
+    "id": 2212,
+    "category": "FCPS Topic (Extreme)",
+    "question": "When distinguishing between the grade and stage of a newly diagnosed colorectal cancer, which parameter provides the most significant prognostic value for patient survival?",
+    "options": [
+      "The degree of cellular pleomorphism",
+      "The mitotic index of the tumor cells",
+      "The presence of anaplasia on histology",
+      "The spread of the tumor to distant organs",
+      "The specific tissue of origin"
+    ],
+    "correct_answer": "D",
+    "explanation": "Tumor stage (the degree of invasion and metastasis, denoted by TNM) fundamentally determines survival and holds significantly more prognostic value than tumor grade."
+  },
+  {
+    "id": 2213,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 50-year-old man undergoes resection of a lung mass, which pathology reveals as a hamartoma. Which defining feature characterizes this non-neoplastic malformation?",
+    "options": [
+      "It contains normal tissue located in a foreign, ectopic site",
+      "It represents a monoclonal proliferation of well-differentiated cells",
+      "It completely lacks an intact basement membrane despite benign histology",
+      "It routinely displays a high mitotic rate without triggering metastasis",
+      "It is a disorganized overgrowth of tissues in their native location"
+    ],
+    "correct_answer": "E",
+    "explanation": "A hamartoma is a disorganized, non-neoplastic overgrowth of tissues residing in their native, anatomically correct location."
+  },
+  {
+    "id": 2214,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Cancer cells rapidly metabolize glucose via aerobic glycolysis despite adequate oxygen (Warburg effect). What is the primary functional benefit of this metabolic reprogramming for the tumor?",
+    "options": [
+      "It provides carbon intermediates necessary for macromolecular synthesis",
+      "It generates substantially more ATP than oxidative phosphorylation",
+      "It minimizes the intracellular production of toxic free radicals",
+      "It completely shuts down mitochondrial apoptotic pathways",
+      "It lowers the local pH to directly dissolve the basement membrane"
+    ],
+    "correct_answer": "A",
+    "explanation": "The Warburg effect allows rapidly dividing cancer cells to bypass oxidative phosphorylation, utilizing aerobic glycolysis to generate the carbon substrates required for synthesizing new cellular structures."
+  },
+  {
+    "id": 2215,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A tumor upregulates programmed death ligand 1 (PD-L1) to evade the immune system. Which specific receptor on host T cells interacts with PD-L1 to induce functional exhaustion?",
+    "options": [
+      "CTLA-4",
+      "PD-1",
+      "CD28",
+      "B7",
+      "MHC Class I"
+    ],
+    "correct_answer": "B",
+    "explanation": "PD-L1 expressed on tumor cells interacts with the PD-1 receptor on T cells, leading to immune evasion through T-cell dysfunction and exhaustion."
+  },
+  {
+    "id": 2216,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A metastatic workup for a patient with prostate cancer reveals blastic bone lesions. Which other primary malignancy classically produces an identical osteoblastic metastatic pattern?",
+    "options": [
+      "Renal cell carcinoma",
+      "Melanoma",
+      "Small cell lung cancer",
+      "Colorectal adenocarcinoma",
+      "Breast ductal carcinoma"
+    ],
+    "correct_answer": "C",
+    "explanation": "Both prostate cancer and small cell lung cancer characteristically produce blastic (osteosclerotic) metastases in bone."
+  },
+  {
+    "id": 2217,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Certain carcinomas defy the general rule of lymphatic spread and instead route hematogenously. Which of the following is one of these specific hematogenously spreading carcinomas?",
+    "options": [
+      "Papillary thyroid carcinoma",
+      "Squamous cell lung carcinoma",
+      "Pancreatic adenocarcinoma",
+      "Follicular thyroid carcinoma",
+      "Prostatic adenocarcinoma"
+    ],
+    "correct_answer": "D",
+    "explanation": "Follicular thyroid carcinoma, choriocarcinoma, renal cell carcinoma, and hepatocellular carcinoma are the major exceptions that spread via the hematogenous route rather than lymphatics."
+  },
+  {
+    "id": 2218,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with mucosal neuromas and thyroid masses has a genetic mutation. The mutated gene product is normally a receptor for which class of signaling molecules?",
+    "options": [
+      "Serine/threonine kinases",
+      "Cytokines",
+      "Non-receptor tyrosine kinases",
+      "Transcription factors",
+      "Tyrosine kinases"
+    ],
+    "correct_answer": "E",
+    "explanation": "The patient has MEN2B, driven by a RET gain-of-function mutation. RET normally encodes a receptor tyrosine kinase."
+  },
+  {
+    "id": 2219,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with massive splenomegaly is found to have a neoplastic proliferation driven by a fusion gene. The anomalous protein generated by this gene normally functions in which subcellular capacity?",
+    "options": [
+      "Transmembrane cytokine receptor",
+      "Antiapoptotic mitochondrial protein",
+      "Nuclear transcription factor",
+      "Cytoplasmic non-receptor tyrosine kinase",
+      "Membrane-bound RAS GTPase"
+    ],
+    "correct_answer": "D",
+    "explanation": "The BCR-ABL fusion gene drives Chronic Myeloid Leukemia (CML). ABL is normally a non-receptor tyrosine kinase."
+  },
+  {
+    "id": 2220,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a BRAF mutation develops a hematologic malignancy. The mutated enzyme is intrinsically responsible for phosphorylating which specific amino acid residues?",
+    "options": [
+      "Serine and threonine",
+      "Tyrosine and threonine",
+      "Tyrosine and serine",
+      "Histidine and serine",
+      "Tyrosine exclusively"
+    ],
+    "correct_answer": "A",
+    "explanation": "BRAF mutations are associated with hairy cell leukemia. The normal BRAF gene product is a serine/threonine kinase."
+  },
+  {
+    "id": 2221,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child with an abdominal mass has a loss-of-function mutation in a gene normally inhibiting hypoxia-inducible factor 1a. Which associated neoplasm is most probable in this syndrome?",
+    "options": [
+      "Nephroblastoma",
+      "Hepatocellular carcinoma",
+      "Retinoblastoma",
+      "Neuroblastoma",
+      "Renal cell carcinoma"
+    ],
+    "correct_answer": "E",
+    "explanation": "The VHL tumor suppressor inhibits HIF-1a. Its loss is classically associated with bilateral renal cell carcinomas."
+  },
+  {
+    "id": 2222,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops pancreatic cancer and is found to have a germline mutation that blocks the G1 to S phase cell cycle transition. Which specific gene product is most likely rendered dysfunctional?",
+    "options": [
+      "p53",
+      "p16",
+      "p21",
+      "Merlin",
+      "Menin"
+    ],
+    "correct_answer": "B",
+    "explanation": "CDKN2A encodes p16, which blocks G1 to S phase progression. Its mutation is strongly associated with pancreatic cancer and melanoma."
+  },
+  {
+    "id": 2223,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A woman with endometrial cancer lacks the functional product of a tumor suppressor gene. This absent product normally exerts its inhibitory effect on which intracellular signaling cascade?",
+    "options": [
+      "WNT/beta-catenin",
+      "MAPK/ERK",
+      "PI3K/AKT",
+      "JAK/STAT",
+      "RAS/RAF"
+    ],
+    "correct_answer": "C",
+    "explanation": "Endometrial cancer is frequently driven by loss of PTEN. PTEN normally acts as a negative regulator of the PI3K/AKT pathway."
+  },
+  {
+    "id": 2224,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with familial adenomatous polyposis is at increased risk for colorectal carcinoma due to a primary genetic defect. The affected tumor suppressor normally negatively regulates which molecule?",
+    "options": [
+      "Beta-catenin",
+      "p53",
+      "E2F",
+      "Hamartin",
+      "Hypoxia-inducible factor 1a"
+    ],
+    "correct_answer": "A",
+    "explanation": "FAP is caused by an APC gene mutation. The APC protein normally serves as a negative regulator of the WNT/beta-catenin pathway."
+  },
+  {
+    "id": 2225,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A textile industry worker develops hematuria secondary to transitional cell carcinoma of the bladder. Which specific occupational exposure is most directly implicated in this pathogenesis?",
+    "options": [
+      "Arsenic",
+      "Beryllium",
+      "Aflatoxin",
+      "Benzidine",
+      "Vinyl chloride"
+    ],
+    "correct_answer": "D",
+    "explanation": "Occupational exposure to aromatic amines, such as benzidine and 2-naphthylamine in textile dyes, causes transitional cell carcinoma."
+  },
+  {
+    "id": 2226,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient living in an older home with deteriorated insulation develops a malignant tumor of the pleura. Although this tumor is characteristic, which malignancy is actually the most common outcome of this specific exposure?",
+    "options": [
+      "Mesothelioma",
+      "Squamous cell carcinoma of the larynx",
+      "Bronchogenic carcinoma",
+      "Angiosarcoma of the liver",
+      "Clear cell renal carcinoma"
+    ],
+    "correct_answer": "C",
+    "explanation": "Asbestos exposure typically occurs with old roofing and insulation. Bronchogenic carcinoma is more common than mesothelioma in these patients."
+  },
+  {
+    "id": 2227,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A worker manufacturing PVC pipes is diagnosed with a hepatic malignancy. Which specific type of tumor is most classically associated with this exact occupational exposure?",
+    "options": [
+      "Hepatocellular carcinoma",
+      "Hepatic angiosarcoma",
+      "Hepatic adenoma",
+      "Cholangiocarcinoma",
+      "Hepatoblastoma"
+    ],
+    "correct_answer": "B",
+    "explanation": "Vinyl chloride exposure during the manufacture of PVC pipes is classically linked to hepatic angiosarcoma."
+  },
+  {
+    "id": 2228,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An immigrant with a history of consuming raw freshwater fish develops a malignancy of the biliary tree. Which infectious agent is the most direct cause of this neoplasm?",
+    "options": [
+      "Hepatitis B virus",
+      "Helicobacter pylori",
+      "Schistosoma haematobium",
+      "Human herpesvirus 8",
+      "Clonorchis sinensis"
+    ],
+    "correct_answer": "E",
+    "explanation": "Clonorchis sinensis, the liver fluke acquired from raw fish, is directly associated with the development of cholangiocarcinoma."
+  },
+  {
+    "id": 2229,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with profound immunodeficiency develops primary central nervous system lymphoma. The oncogenic microbe responsible for this tumor is also closely linked to which other malignancy?",
+    "options": [
+      "Kaposi sarcoma",
+      "Hepatocellular carcinoma",
+      "Nasopharyngeal carcinoma",
+      "Adult T-cell leukemia",
+      "Squamous cell bladder cancer"
+    ],
+    "correct_answer": "C",
+    "explanation": "Epstein-Barr virus (EBV) causes primary CNS lymphoma in immunocompromised hosts and is also responsible for nasopharyngeal carcinoma."
+  },
+  {
+    "id": 2230,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a mixed germ cell tumor has remarkably elevated serum alpha-fetoprotein. During normal embryonic development, which condition is classically associated with abnormally low levels of this exact same marker?",
+    "options": [
+      "Down syndrome",
+      "Gastroschisis",
+      "Spina bifida",
+      "Anencephaly",
+      "Omphalocele"
+    ],
+    "correct_answer": "A",
+    "explanation": "Alpha-fetoprotein (AFP) is elevated in neural tube/abdominal wall defects, but classically low levels are associated with Down syndrome."
+  },
+  {
+    "id": 2231,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 60-year-old male with generalized bone pain has highly elevated alkaline phosphatase. To accurately distinguish between osteoblastic metastasis and hepatic involvement, which serum marker must be checked next?",
+    "options": [
+      "Acid phosphatase",
+      "Carcinoembryonic antigen",
+      "Alpha-fetoprotein",
+      "Gamma-glutamyl transferase",
+      "Lactate dehydrogenase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Hepatic origin of alkaline phosphatase elevation can be excluded by checking Liver Function Tests (LFTs) and GGT levels."
+  },
+  {
+    "id": 2232,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a lung mass undergoes biopsy, and immunohistochemical staining reveals the presence of chromogranin and synaptophysin. These findings most strongly indicate a tumor originating from which cell type?",
+    "options": [
+      "Squamous epithelial cells",
+      "Endothelial cells",
+      "Mesenchymal cells",
+      "Neural crest cells",
+      "Neuroendocrine cells"
+    ],
+    "correct_answer": "E",
+    "explanation": "Chromogranin and synaptophysin are immunohistochemical stains that specifically target and identify neuroendocrine cells."
+  },
+  {
+    "id": 2233,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A brain tumor biopsy shows cells that stain strongly positive for glial fibrillary acidic protein (GFAP). The origin of this neoplasm most likely involves which of the following cell lineages?",
+    "options": [
+      "Neurons",
+      "Astrocytes",
+      "Meningothelial cells",
+      "Microglia",
+      "Endothelial cells"
+    ],
+    "correct_answer": "B",
+    "explanation": "GFAP is an immunohistochemical marker for neuroglia, including astrocytes, making it useful in identifying astrocytomas and glioblastomas."
+  },
+  {
+    "id": 2234,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with severe proximal muscle weakness, a heliotrope rash, and Gottron papules is evaluated for an underlying malignancy. Which tumor is most frequently associated with this specific paraneoplastic presentation?",
+    "options": [
+      "Ovarian adenocarcinoma",
+      "Small cell lung cancer",
+      "Gastric adenocarcinoma",
+      "Renal cell carcinoma",
+      "Hepatocellular carcinoma"
+    ],
+    "correct_answer": "A",
+    "explanation": "Dermatomyositis presents as a paraneoplastic syndrome most commonly associated with adenocarcinomas, especially ovarian cancer."
+  },
+  {
+    "id": 2235,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An elderly man is diagnosed with profound hypogammaglobulinemia accompanied by a mediastinal mass. This immunologic deficit is most classically a paraneoplastic manifestation of which tumor?",
+    "options": [
+      "Small cell lung cancer",
+      "Bronchogenic carcinoma",
+      "Gastric adenocarcinoma",
+      "Thymoma",
+      "Pancreatic adenocarcinoma"
+    ],
+    "correct_answer": "D",
+    "explanation": "Good syndrome is a paraneoplastic condition defined by hypogammaglobulinemia, occurring predominantly in patients with thymomas."
+  },
+  {
+    "id": 2236,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 3-year-old child presents with irregular, rapid eye movements and involuntary myoclonic jerks of the extremities. This neurologic paraneoplastic syndrome most strongly warrants an investigation for which primary tumor?",
+    "options": [
+      "Retinoblastoma",
+      "Medulloblastoma",
+      "Neuroblastoma",
+      "Wilms tumor",
+      "Hepatoblastoma"
+    ],
+    "correct_answer": "C",
+    "explanation": "Opsoclonus-myoclonus ataxia syndrome ('dancing eyes, dancing feet') is a paraneoplastic manifestation of neuroblastoma in children."
+  },
+  {
+    "id": 2237,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a known gynecologic malignancy develops severe truncal ataxia and dysarthria. These neurological symptoms are most likely mediated by autoantibodies targeting which specific cellular antigen?",
+    "options": [
+      "Anti-Hu",
+      "Anti-Tr",
+      "Anti-NMDA",
+      "Presynaptic calcium channels",
+      "Anti-Yo"
+    ],
+    "correct_answer": "E",
+    "explanation": "Paraneoplastic cerebellar degeneration in the context of gynecologic and breast cancers is classically mediated by anti-Yo antibodies."
+  },
+  {
+    "id": 2238,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A previously healthy woman experiences acute psychiatric disturbances, memory deficits, and profound autonomic instability. An undiagnosed tumor in which organ is the most likely trigger for this autoimmune encephalitis?",
+    "options": [
+      "Ovary",
+      "Lung",
+      "Thymus",
+      "Thyroid",
+      "Kidney"
+    ],
+    "correct_answer": "A",
+    "explanation": "Anti-NMDA receptor encephalitis often presents with prominent psychiatric and autonomic dysfunction and is strongly associated with ovarian teratomas."
+  },
+  {
+    "id": 2239,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During an autopsy of an 85-year-old man, myocardial cells exhibit abundant yellow-brown, autofluorescent intracellular granules. These pigment deposits most likely originated from which biochemical process?",
+    "options": [
+      "Deamination of nucleic acids",
+      "Precipitation of calcium and phosphate",
+      "Accumulation of advanced glycation end products",
+      "Lipid peroxidation of polyunsaturated lipids",
+      "Phagocytosis of degraded erythrocytes"
+    ],
+    "correct_answer": "D",
+    "explanation": "Lipofuscin is an autofluorescent 'wear and tear' pigment formed via lipid peroxidation of polyunsaturated lipids within subcellular membranes."
+  },
+  {
+    "id": 2240,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 75-year-old woman is noted to have significantly reduced central arterial compliance compared to her youth. This isolated age-related cardiovascular alteration directly results in which specific echocardiographic finding?",
+    "options": [
+      "Decreased left atrial cavity size",
+      "Decreased aortic diameter",
+      "Increased resting maximal heart rate",
+      "Thinning of the mitral valve leaflets",
+      "Sigmoid-shaped interventricular septum"
+    ],
+    "correct_answer": "E",
+    "explanation": "Decreased arterial compliance increases afterload, inducing myocardial hypertrophy which manifests structurally as a sigmoid-shaped interventricular septum."
+  },
+  {
+    "id": 2241,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An older adult is administered a novel vaccine but exhibits a dramatically blunted adaptive immune response. This age-related immunosenescence is most fundamentally characterized by which cellular shift?",
+    "options": [
+      "Depletion of memory B cells",
+      "Depletion of naive T cells",
+      "Expansion of naive B cells",
+      "Hyperactivity of memory T cells",
+      "Loss of innate phagocytic capacity"
+    ],
+    "correct_answer": "B",
+    "explanation": "Normal immune aging profoundly impacts adaptive immunity by decreasing the pool of naive B and T cells while preserving memory populations."
+  },
+  {
+    "id": 2242,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 70-year-old man undergoes baseline pulmonary function testing showing decreased FEV1 and FVC. Which specific pulmonary parameter most predictably increases as a natural consequence of intrinsic aging?",
+    "options": [
+      "Chest wall compliance",
+      "Total lung capacity",
+      "Residual volume",
+      "Lung elastic recoil",
+      "Respiratory muscle strength"
+    ],
+    "correct_answer": "C",
+    "explanation": "In normal aging, decreased elastic recoil increases lung compliance but decreases emptying, leading to an increased Residual Volume (RV)."
+  },
+  {
+    "id": 2243,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Evaluation of an older female's lower reproductive tract reveals marked vaginal shortening and dryness. Which additional local physiologic change directly correlates with this age-related vulvovaginal atrophy?",
+    "options": [
+      "Increased vaginal pH",
+      "Decreased vaginal pH",
+      "Hypertrophy of the labia minora",
+      "Increased mucosal elasticity",
+      "Expansion of lactobacillus colonization"
+    ],
+    "correct_answer": "A",
+    "explanation": "Age-related vulvovaginal atrophy is associated with vaginal shortening, thinning, severe dryness, and an increased (more alkaline) pH."
+  },
+  {
+    "id": 2244,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A researcher investigating an enzymatic reaction observes a sigmoidal velocity curve as substrate concentration increases. This specific kinetic profile most strongly indicates which property of the enzyme?",
+    "options": [
+      "Noncompetitive inhibition",
+      "Zero-order elimination",
+      "Irreversible active site binding",
+      "Cooperative kinetics",
+      "Extremely high Km value"
+    ],
+    "correct_answer": "D",
+    "explanation": "Unlike standard Michaelis-Menten hyperbolic kinetics, enzymatic reactions that exhibit a sigmoidal curve typically indicate cooperative kinetics (e.g., hemoglobin)."
+  },
+  {
+    "id": 2245,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An experimental drug reversibly binds to the active site of its target enzyme, mimicking the natural substrate. On a Lineweaver-Burk plot, how will the addition of this drug alter the X-intercept?",
+    "options": [
+      "It will shift further from zero.",
+      "It will become a positive value.",
+      "It will completely disappear.",
+      "It will remain absolutely unchanged.",
+      "It will shift closer to zero."
+    ],
+    "correct_answer": "E",
+    "explanation": "A competitive inhibitor increases apparent Km, meaning the absolute value of the negative X-intercept (-1/Km) becomes smaller, shifting it closer to zero."
+  },
+  {
+    "id": 2246,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A novel irreversible competitive inhibitor is added to an enzymatic reaction at sub-saturating concentrations. Which statement precisely describes the ultimate effect on the enzyme's kinetic parameters?",
+    "options": [
+      "Vmax decreases, Km is unchanged",
+      "Vmax decreases, Km increases",
+      "Vmax increases, Km decreases",
+      "Vmax is unchanged, Km increases",
+      "Vmax is unchanged, Km is unchanged"
+    ],
+    "correct_answer": "A",
+    "explanation": "Irreversible competitive inhibitors cannot be overcome by substrate, thereby permanently inactivating a fraction of the enzyme. This decreases Vmax but leaves Km unchanged."
+  },
+  {
+    "id": 2247,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A drug is administered intravenously at a dose of 200 mg, yielding an AUC of 400. An oral dose of 400 mg of the same drug yields an AUC of 200. What is the precise oral bioavailability of this agent?",
+    "options": [
+      "12.5%",
+      "100.0%",
+      "25.0%",
+      "75.0%",
+      "50.0%"
+    ],
+    "correct_answer": "C",
+    "explanation": "Bioavailability F = (AUC_oral x Dose_IV) / (AUC_IV x Dose_oral). Here, (200 x 200) / (400 x 400) = 40,000 / 160,000 = 0.25 or 25%."
+  },
+  {
+    "id": 2248,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A critically ill patient requires rapid attainment of steady-state plasma concentrations for a renally cleared drug. If the patient has severe renal failure, how should the initial loading dose be modified?",
+    "options": [
+      "Increased proportionally to the reduced clearance",
+      "Maintained strictly unchanged",
+      "Decreased proportionally to the reduced clearance",
+      "Increased by exactly fifty percent",
+      "Decreased by exactly fifty percent"
+    ],
+    "correct_answer": "B",
+    "explanation": "In renal or liver disease, the maintenance dose is decreased due to impaired clearance, but the loading dose relies strictly on Vd and generally remains unchanged."
+  },
+  {
+    "id": 2249,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A highly lipophilic medication is administered and subsequently binds extensively to tissue proteins throughout the body. Which specific pharmacokinetic parameter will be most dramatically elevated?",
+    "options": [
+      "Bioavailability",
+      "Clearance",
+      "Elimination rate constant",
+      "Area under the curve",
+      "Volume of distribution"
+    ],
+    "correct_answer": "E",
+    "explanation": "Small, lipophilic molecules that tightly bind to extra-vascular tissue proteins will exhibit a dramatically higher apparent volume of distribution (Vd)."
+  },
+  {
+    "id": 2250,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient is given a continuous intravenous infusion of a drug with a half-life of 6 hours. Assuming first-order kinetics, precisely how long will it take to reach 90% of the steady-state plasma concentration?",
+    "options": [
+      "12.0 hours",
+      "15.6 hours",
+      "30.0 hours",
+      "19.8 hours",
+      "24.0 hours"
+    ],
+    "correct_answer": "D",
+    "explanation": "In first-order kinetics, it predictably takes exactly 3.3 half-lives to attain 90% of the steady-state concentration. 3.3 x 6 hours = 19.8 hours."
+  },
+  {
+    "id": 2251,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient overdoses on aspirin, leading to toxic serum concentrations that saturate hepatic metabolic enzymes. The subsequent decline in drug concentration will most precisely exhibit which mathematical relationship?",
+    "options": [
+      "A constant fraction of the drug is eliminated per unit time",
+      "Plasma concentration decreases exponentially with time",
+      "A constant amount of the drug is eliminated per unit time",
+      "The elimination half-life becomes progressively shorter",
+      "The clearance rate increases proportionally with concentration"
+    ],
+    "correct_answer": "C",
+    "explanation": "At high toxic concentrations, aspirin clearance follows zero-order kinetics, meaning metabolic capacity is saturated and a constant absolute amount is eliminated over time."
+  },
+  {
+    "id": 2252,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A geriatric patient is noted to have a disproportionately prolonged half-life for a heavily metabolized drug. Which specific hepatic metabolic process is typically the first to decline during normal aging?",
+    "options": [
+      "Phase I oxidation",
+      "Glucuronidation",
+      "Sulfation",
+      "Acetylation",
+      "Phase II methylation"
+    ],
+    "correct_answer": "A",
+    "explanation": "Geriatric patients typically lose their capacity for Phase I (CYP450-dependent) metabolism prior to losing their capacity for Phase II conjugative reactions."
+  },
+  {
+    "id": 2253,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A teenager presents with severe tachycardia and dilated pupils following an amphetamine overdose. Which targeted alteration of the urine would most effectively accelerate the renal clearance of this toxic agent?",
+    "options": [
+      "Alkalinization to promote ionization",
+      "Acidification to promote non-ionization",
+      "Alkalinization to promote non-ionization",
+      "Neutralization to exactly pH 7.4",
+      "Acidification to promote ionization"
+    ],
+    "correct_answer": "E",
+    "explanation": "Amphetamines are weak bases. Acidifying the urine ensures the drug becomes ionized and trapped in the tubule lumen, preventing its reabsorption."
+  },
+  {
+    "id": 2254,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A newly synthesized weak acid drug has a precisely determined pKa of 4.0. In an alkaline environment with a pH of 8.0, the drug molecules will predominantly exist in which functional state?",
+    "options": [
+      "Ionized and highly lipid soluble",
+      "Nonionized and highly lipid soluble",
+      "Nonionized and highly water soluble",
+      "Ionized and highly water soluble",
+      "Covalently bound to plasma proteins"
+    ],
+    "correct_answer": "D",
+    "explanation": "At a pH above its pKa, a weak acid will predominantly lose its proton, becoming an ionized, highly polar, and highly water-soluble species."
+  },
+  {
+    "id": 2255,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Drug X is a full agonist that achieves maximal therapeutic effect at 10 mg. Drug Y is a full agonist that achieves the identical maximal effect at 50 mg. Which statement most accurately differentiates these two agents?",
+    "options": [
+      "Drug X demonstrates significantly higher efficacy.",
+      "Drug X demonstrates significantly higher potency.",
+      "Drug Y demonstrates significantly higher efficacy.",
+      "Drug X demonstrates significantly lower potency.",
+      "Both drugs possess an identical therapeutic index."
+    ],
+    "correct_answer": "B",
+    "explanation": "Since both achieve the same maximal effect, their efficacy is equal. Drug X requires a lower dose to reach that maximum, making it highly potent relative to Y."
+  },
+  {
+    "id": 2256,
+    "category": "FCPS Topic (Extreme)",
+    "question": "The addition of a noncompetitive antagonist completely fails to shift the EC50 of a full agonist to the right. Despite this, the clinical utility of the agonist is compromised due to a marked reduction in which parameter?",
+    "options": [
+      "Therapeutic index",
+      "Volume of distribution",
+      "Efficacy",
+      "Bioavailability",
+      "Potency"
+    ],
+    "correct_answer": "C",
+    "explanation": "A noncompetitive antagonist irreversibly limits the total number of available receptors, severely decreasing the maximal response (efficacy/Vmax) without changing the apparent potency."
+  },
+  {
+    "id": 2257,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Two distinct drugs are administered simultaneously to a patient; neither drug directly alters the receptor binding of the other. If their combined clinical effect exceeds the simple mathematical sum of their individual effects, this interaction is termed:",
+    "options": [
+      "Synergistic",
+      "Additive",
+      "Potentiation",
+      "Permissive",
+      "Tachyphylactic"
+    ],
+    "correct_answer": "A",
+    "explanation": "A synergistic effect occurs when two substances given together produce an effect that is strictly greater than the sum of their individual effects (2+2>4)."
+  },
+  {
+    "id": 2258,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient utilizing a specific intranasal decongestant for five consecutive days complains that the medication no longer relieves his symptoms. This acute decrease in therapeutic response is best defined as:",
+    "options": [
+      "Antagonism",
+      "Idiosyncrasy",
+      "Pharmacokinetic tolerance",
+      "Synergism",
+      "Tachyphylaxis"
+    ],
+    "correct_answer": "E",
+    "explanation": "Tachyphylaxis is defined as a rapid, acute decrease in response to a drug following repeated or initial administration, classically seen with intranasal decongestants."
+  },
+  {
+    "id": 2259,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A tumor cell line demonstrates intense expression of P-glycoprotein following multiple cycles of chemotherapy. The primary function of this transmembrane protein directly results in which cellular outcome?",
+    "options": [
+      "Enhanced intracellular sequestration of the drug",
+      "Decreased active cellular uptake of the drug",
+      "Rapid metabolic degradation of the drug",
+      "Increased ATP-dependent efflux of the drug",
+      "Prevention of drug binding to nuclear DNA"
+    ],
+    "correct_answer": "D",
+    "explanation": "P-glycoprotein is an ATP-dependent multidrug resistance pump (MDR1) expressed by cancer cells to aggressively pump out toxic chemotherapeutic agents."
+  },
+  {
+    "id": 2260,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A researcher evaluates a new oncology medication in animal models and calculates an extremely narrow therapeutic index. This derived value fundamentally represents the ratio of which two critical pharmacological metrics?",
+    "options": [
+      "ED50 to TD50",
+      "TD50 to ED50",
+      "Vmax to Km",
+      "Clearance to Volume of Distribution",
+      "Bioavailability to Half-life"
+    ],
+    "correct_answer": "B",
+    "explanation": "The therapeutic index is calculated as the median toxic dose (TD50) divided by the median effective dose (ED50), representing the drug's safety window."
+  },
+  {
+    "id": 2261,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient diagnosed with small cell lung cancer develops profound weakness that improves briefly with repeated muscle use. Antibodies in this paraneoplastic syndrome strictly target which structures at the neuromuscular junction?",
+    "options": [
+      "Postsynaptic acetylcholine receptors",
+      "Postsynaptic sodium channels",
+      "Presynaptic voltage-gated calcium channels",
+      "Synaptic cleft acetylcholinesterase",
+      "Presynaptic potassium channels"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lambert-Eaton myasthenic syndrome presents with weakness that improves with use and is caused by antibodies against presynaptic P/Q-type calcium channels."
+  },
+  {
+    "id": 2262,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient experiences recurrent, migratory episodes of superficial thrombophlebitis across different extremities. This specific vascular phenomenon, known as Trousseau syndrome, is most classically linked to which underlying malignancy?",
+    "options": [
+      "Pancreatic adenocarcinoma",
+      "Small cell lung carcinoma",
+      "Renal cell carcinoma",
+      "Prostatic adenocarcinoma",
+      "Medullary thyroid carcinoma"
+    ],
+    "correct_answer": "A",
+    "explanation": "Migratory superficial thrombophlebitis (Trousseau syndrome) is a highly specific paraneoplastic manifestation frequently heralding underlying adenocarcinomas, particularly pancreatic."
+  },
+  {
+    "id": 2263,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A young adult is diagnosed with a massive right-sided kidney mass and is found to have significant polycythemia. The paraneoplastic erythrocytosis in this patient is most likely driven by ectopic production of which hormone?",
+    "options": [
+      "Adrenocorticotropic hormone",
+      "Antidiuretic hormone",
+      "Calcitonin",
+      "Erythropoietin",
+      "Parathyroid hormone-related peptide"
+    ],
+    "correct_answer": "D",
+    "explanation": "Renal cell carcinoma is notorious for ectopically producing large quantities of erythropoietin, driving paraneoplastic polycythemia."
+  },
+  {
+    "id": 2264,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A widespread area of morphologically normal-appearing urothelium is deemed highly susceptible to developing multiple independent malignancies. This widespread premalignant state is best described by which conceptual term?",
+    "options": [
+      "Dysplasia",
+      "Anaplasia",
+      "Desmoplasia",
+      "Metaplasia",
+      "Field cancerization"
+    ],
+    "correct_answer": "E",
+    "explanation": "Field cancerization describes the replacement of a large area of cells by premalignant cells due to widespread carcinogen exposure, increasing the risk of multiple primary tumors."
+  },
+  {
+    "id": 2265,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A previously stable patient on continuous drug infusion experiences an acute decline in hepatic blood flow. Assuming the drug undergoes first-order elimination, which parameter will acutely change in direct proportion to this altered flow?",
+    "options": [
+      "Volume of distribution",
+      "Clearance",
+      "Elimination rate constant",
+      "Bioavailability",
+      "Loading dose"
+    ],
+    "correct_answer": "B",
+    "explanation": "First-order elimination is fundamentally a flow-dependent process. A decrease in blood flow to eliminating organs will directly and proportionately decrease drug clearance."
+  },
+  {
+    "id": 2266,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A neonate exhibits severe neurological deficits and facial anomalies, and maternal history reveals a transiently elevated alpha-fetoprotein during pregnancy. Which primary structural defect is most directly correlated with these specific prenatal findings?",
+    "options": [
+      "Down syndrome",
+      "Endodermal sinus tumor",
+      "Neural tube defect",
+      "Congenital heart block",
+      "Diaphragmatic hernia"
+    ],
+    "correct_answer": "C",
+    "explanation": "High levels of maternal serum alpha-fetoprotein during pregnancy strongly indicate the presence of severe fetal structural anomalies, most notably neural tube and abdominal wall defects."
+  },
+  {
+    "id": 2267,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient receives a drug that acts solely by blocking an enzyme, entirely to prevent the peripheral degradation of a primary therapeutic agent. This interaction, enhancing the primary drug's efficacy without direct receptor action, exemplifies:",
+    "options": [
+      "Additive interaction",
+      "Synergistic interaction",
+      "Competitive antagonism",
+      "Potentiation",
+      "Permissive interaction"
+    ],
+    "correct_answer": "D",
+    "explanation": "Potentiation occurs when a substance with absolutely no intrinsic therapeutic action on a receptor nonetheless vastly enhances the therapeutic action of another drug."
+  },
+  {
+    "id": 2268,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient experiences profound diaphoresis during a severe panic attack. Which neurotransmitter and receptor combination directly mediates this sympathetic glandular response?",
+    "options": [
+      "Norepinephrine at alpha-1 receptors",
+      "Epinephrine at beta-2 receptors",
+      "Acetylcholine at muscarinic M3 receptors",
+      "Acetylcholine at nicotinic Nn receptors",
+      "Dopamine at D1 receptors"
+    ],
+    "correct_answer": "C",
+    "explanation": "Sweat glands are innervated by the sympathetic nervous system but uniquely utilize acetylcholine acting on M3 muscarinic receptors to stimulate sweating."
+  },
+  {
+    "id": 2269,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A novel experimental drug selectively inhibits ganglionic transmission without affecting skeletal muscle function. Which receptor subtype is the most likely target of this drug?",
+    "options": [
+      "Muscarinic M2",
+      "Muscarinic M3",
+      "Nicotinic Nn",
+      "Nicotinic Nm",
+      "Adrenergic alpha-2"
+    ],
+    "correct_answer": "C",
+    "explanation": "Nicotinic Nn receptors are located in autonomic ganglia and the adrenal medulla, whereas Nm receptors are specifically found at the skeletal neuromuscular junction."
+  },
+  {
+    "id": 2270,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A 65-year-old woman with urgency incontinence is prescribed a medication that increases bladder capacity. What is the primary intracellular consequence of this drug's receptor binding?",
+    "options": [
+      "Decreased adenylyl cyclase activity",
+      "Increased intracellular cAMP concentration",
+      "Increased inositol triphosphate production",
+      "Decreased myosin light-chain kinase activity",
+      "Inhibition of presynaptic neurotransmitter release"
+    ],
+    "correct_answer": "B",
+    "explanation": "Mirabegron activates beta-3 receptors, which are Gs-coupled. This activation increases adenylyl cyclase activity and cAMP, leading to detrusor smooth muscle relaxation."
+  },
+  {
+    "id": 2271,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pharmacologist isolates a G-protein-coupled receptor that mediates ciliary muscle contraction and exocrine gland secretions. Which G-protein class is directly coupled to this receptor?",
+    "options": [
+      "Gi",
+      "Gs",
+      "G12/13",
+      "Go",
+      "Gq"
+    ],
+    "correct_answer": "E",
+    "explanation": "The M3 muscarinic receptor mediates ciliary muscle contraction and exocrine gland secretions. It is a Gq-coupled receptor that activates phospholipase C."
+  },
+  {
+    "id": 2272,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient is given a sympathomimetic that simultaneously inhibits insulin secretion and decreases aqueous humor production. Which mechanism directly links this receptor to its intracellular effect?",
+    "options": [
+      "Inhibition of adenylyl cyclase via Gi",
+      "Stimulation of adenylyl cyclase via Gs",
+      "Activation of phospholipase C via Gq",
+      "Opening of ligand-gated sodium channels",
+      "Inhibition of monoamine oxidase"
+    ],
+    "correct_answer": "A",
+    "explanation": "Alpha-2 adrenergic receptors inhibit insulin secretion and aqueous humor production. They are Gi-coupled, leading to the inhibition of adenylyl cyclase and a decrease in cAMP."
+  },
+  {
+    "id": 2273,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During synaptic transmission, amphetamines alter normal vesicular dynamics. Which protein is directly utilized by amphetamines to enter the neurosecretory vesicles and displace norepinephrine?",
+    "options": [
+      "Norepinephrine transporter (NET)",
+      "Choline acetyltransferase (ChAT)",
+      "Acetylcholinesterase (AChE)",
+      "Vesicular monoamine transporter (VMAT)",
+      "Tyrosine hydroxylase"
+    ],
+    "correct_answer": "D",
+    "explanation": "Amphetamines use the norepinephrine transporter (NET) to enter the terminal, then utilize the vesicular monoamine transporter (VMAT) to enter the vesicles and displace stored norepinephrine."
+  },
+  {
+    "id": 2274,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A farmer with severe organophosphate poisoning develops severe muscle fasciculations followed by paralysis. Which agent must be administered early to explicitly reverse this neuromuscular blockade?",
+    "options": [
+      "Atropine",
+      "Pralidoxime",
+      "Physostigmine",
+      "Neostigmine",
+      "Scopolamine"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pralidoxime regenerates acetylcholinesterase via dephosphorylation and reverses both muscarinic and nicotinic effects, explicitly rescuing the neuromuscular blockade which atropine cannot treat."
+  },
+  {
+    "id": 2275,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A myasthenia gravis patient taking pyridostigmine experiences severe abdominal cramping. Which medication should be added to control these symptoms without crossing the blood-brain barrier?",
+    "options": [
+      "Glycopyrrolate",
+      "Benztropine",
+      "Physostigmine",
+      "Scopolamine",
+      "Donepezil"
+    ],
+    "correct_answer": "A",
+    "explanation": "Glycopyrrolate is a muscarinic antagonist that does not penetrate the central nervous system. It is used alongside pyridostigmine to control peripheral parasympathetic side effects like cramping."
+  },
+  {
+    "id": 2276,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A child ingests Jimson weed, presenting with delirium, mydriasis, and hyperthermia. Which highly lipophilic antidote is most appropriate to reverse both the central and peripheral manifestations?",
+    "options": [
+      "Pralidoxime",
+      "Pyridostigmine",
+      "Neostigmine",
+      "Atropine",
+      "Physostigmine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Physostigmine is an indirect cholinomimetic that is uncharged and freely crosses the blood-brain barrier, making it the specific antidote to reverse anticholinergic CNS toxicity."
+  },
+  {
+    "id": 2277,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An intravenous infusion of an unknown drug dramatically lowers mean arterial pressure while significantly increasing both heart rate and cardiac output. Which agent was most likely administered?",
+    "options": [
+      "Norepinephrine",
+      "Phenylephrine",
+      "Epinephrine",
+      "Isoproterenol",
+      "Dobutamine"
+    ],
+    "correct_answer": "D",
+    "explanation": "Isoproterenol acts equally on beta-1 and beta-2 receptors, causing profound beta-2 mediated vasodilation (lowering MAP) and strong beta-1 chronotropy and inotropy (raising HR and CO)."
+  },
+  {
+    "id": 2278,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient pretreated with an unselective alpha-antagonist receives an injection of epinephrine, resulting in a paradoxical drop in mean arterial pressure. Which receptor primarily mediates this depressor effect?",
+    "options": [
+      "Alpha-1",
+      "Beta-1",
+      "Beta-2",
+      "Beta-3",
+      "Dopamine D1"
+    ],
+    "correct_answer": "C",
+    "explanation": "This demonstrates 'epinephrine reversal'. When alpha-1 mediated vasoconstriction is blocked, the unopposed beta-2 mediated vasodilation from epinephrine causes a net depressor effect."
+  },
+  {
+    "id": 2279,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Administration of a pure sympathomimetic causes elevated blood pressure but consistently decreases the patient's heart rate. Which receptor is predominantly stimulated by this drug?",
+    "options": [
+      "Beta-1",
+      "Alpha-1",
+      "Beta-2",
+      "Alpha-2",
+      "Dopamine D1"
+    ],
+    "correct_answer": "B",
+    "explanation": "Phenylephrine is a pure alpha-1 agonist that causes intense vasoconstriction, elevating blood pressure and triggering a reflex bradycardia that suppresses the heart rate."
+  },
+  {
+    "id": 2280,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A post-operative patient develops a hypertensive crisis and is treated with a short-acting vasodilator that also promotes natriuresis. Which receptor is directly agonized by this drug?",
+    "options": [
+      "Dopamine D1",
+      "Dopamine D2",
+      "Beta-1",
+      "Beta-2",
+      "Muscarinic M3"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fenoldopam is a selective D1 agonist used for post-operative hypertension. It promotes renal, splanchnic, and coronary vasodilation while increasing natriuresis."
+  },
+  {
+    "id": 2281,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Abrupt cessation of a centrally acting antihypertensive agent leads to severe rebound hypertension. Which drug is most likely responsible for this withdrawal phenomenon?",
+    "options": [
+      "Prazosin",
+      "Tizanidine",
+      "Alpha-methyldopa",
+      "Clonidine",
+      "Mirtazapine"
+    ],
+    "correct_answer": "D",
+    "explanation": "Clonidine is an alpha-2 agonist that decreases sympathetic outflow. Abrupt cessation leads to a massive rebound sympathetic surge and dangerous hypertension."
+  },
+  {
+    "id": 2282,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A pregnant woman treated for hypertension develops fatigue and pallor; laboratory tests reveal a positive direct Coombs test. Which medication most likely caused this adverse reaction?",
+    "options": [
+      "Clonidine",
+      "Labetalol",
+      "Prazosin",
+      "Nifedipine",
+      "Alpha-methyldopa"
+    ],
+    "correct_answer": "E",
+    "explanation": "Alpha-methyldopa is frequently used for hypertension in pregnancy. A classic and severe adverse effect of this medication is drug-induced, direct Coombs-positive hemolytic anemia."
+  },
+  {
+    "id": 2283,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with a pheochromocytoma requires preoperative alpha-blockade. Which medication irreversibly inhibits its target receptor to prevent a hypertensive crisis?",
+    "options": [
+      "Phenoxybenzamine",
+      "Phentolamine",
+      "Prazosin",
+      "Tamsulosin",
+      "Terazosin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Phenoxybenzamine is an irreversible, nonselective alpha-blocker used preoperatively in pheochromocytoma to prevent catecholamine surges from overcoming reversible blockades."
+  },
+  {
+    "id": 2284,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient with depression is prescribed a medication that increases appetite and acts selectively as an alpha-2 adrenergic antagonist. Which drug was administered?",
+    "options": [
+      "Clonidine",
+      "Guanfacine",
+      "Mirtazapine",
+      "Tizanidine",
+      "Phenoxybenzamine"
+    ],
+    "correct_answer": "C",
+    "explanation": "Mirtazapine is an atypical antidepressant that acts via selective alpha-2 receptor antagonism. Its notable side effects include sedation, weight gain, and increased appetite."
+  },
+  {
+    "id": 2285,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hypertensive patient is prescribed a highly selective beta-1 blocker that simultaneously decreases systemic vascular resistance via nitric oxide release. Which drug exhibits this dual mechanism?",
+    "options": [
+      "Carvedilol",
+      "Nebivolol",
+      "Labetalol",
+      "Esmolol",
+      "Bisoprolol"
+    ],
+    "correct_answer": "B",
+    "explanation": "Nebivolol is unique among beta-blockers as it combines cardioselective beta-1 blockade with direct stimulation of beta-3 receptors, which activates endothelial nitric oxide synthase."
+  },
+  {
+    "id": 2286,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient on chronic beta-blocker therapy develops worsening asthma symptoms and significant dyslipidemia. Which of the following medications is most strongly associated with this lipid alteration?",
+    "options": [
+      "Propranolol",
+      "Timolol",
+      "Nadolol",
+      "Esmolol",
+      "Metoprolol"
+    ],
+    "correct_answer": "E",
+    "explanation": "Metoprolol is notably associated with adverse lipid profile alterations (dyslipidemia) alongside standard beta-blocker side effects like masked hypoglycemia and asthma exacerbations."
+  },
+  {
+    "id": 2287,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient in cardiogenic shock is given an inotrope that increases cardiac contractility while simultaneously causing peripheral vasodilation. What is the intracellular target of this drug?",
+    "options": [
+      "Phosphodiesterase-5",
+      "Phosphodiesterase-4",
+      "Adenylyl cyclase",
+      "Phosphodiesterase-3",
+      "Phospholipase C"
+    ],
+    "correct_answer": "D",
+    "explanation": "Milrinone is a selective phosphodiesterase-3 (PDE-3) inhibitor. It increases cAMP in cardiomyocytes (inotropic effect) and in vascular smooth muscle (vasodilation)."
+  },
+  {
+    "id": 2288,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A man taking a medication for erectile dysfunction reports experiencing a temporary blue tint to his vision. Inhibition of which specific enzyme in the retina causes this symptom?",
+    "options": [
+      "Phosphodiesterase-3",
+      "Phosphodiesterase-4",
+      "Phosphodiesterase-6",
+      "Phosphodiesterase-5",
+      "Guanylyl cyclase"
+    ],
+    "correct_answer": "C",
+    "explanation": "Sildenafil can cause cyanopia (blue-tinted vision) due to off-target inhibition of phosphodiesterase-6 (PDE-6), an enzyme localized specifically within the retina."
+  },
+  {
+    "id": 2289,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An elderly patient with intermittent claudication is given a drug that increases platelet cAMP and acts as a direct vasodilator. Which medication was prescribed?",
+    "options": [
+      "Dipyridamole",
+      "Cilostazol",
+      "Aspirin",
+      "Roflumilast",
+      "Theophylline"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cilostazol is a PDE-3 inhibitor used for intermittent claudication. It increases cAMP in platelets (inhibiting aggregation) and in vascular smooth muscle (causing vasodilation)."
+  },
+  {
+    "id": 2290,
+    "category": "FCPS Topic (Extreme)",
+    "question": "Shortly after eating mahi-mahi, a woman develops an intense burning sensation in her mouth, facial flushing, and bronchospasm. Which enzyme activity in the spoiled fish is primarily responsible?",
+    "options": [
+      "Bacterial histidine decarboxylase",
+      "Monoamine oxidase",
+      "Cytochrome P450",
+      "Phospholipase A2",
+      "Cyclooxygenase"
+    ],
+    "correct_answer": "A",
+    "explanation": "Scombroid poisoning occurs when bacterial histidine decarboxylase in spoiled dark-meat fish converts histidine directly into histamine, resulting in anaphylaxis-like symptoms."
+  },
+  {
+    "id": 2291,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with paresthesias and loss of reflexes after consuming improperly prepared pufferfish. The offending toxin exerts its effect by directly targeting which neuronal component?",
+    "options": [
+      "Postsynaptic muscarinic receptors",
+      "Presynaptic calcium channels",
+      "Fast voltage-gated sodium channels",
+      "Ligand-gated potassium channels",
+      "Acetylcholinesterase"
+    ],
+    "correct_answer": "C",
+    "explanation": "Tetrodotoxin from pufferfish binds tightly to fast voltage-gated sodium channels in nerve tissue, physically preventing the inward sodium current and blocking depolarization."
+  },
+  {
+    "id": 2292,
+    "category": "FCPS Topic (Extreme)",
+    "question": "After eating snapper at a local restaurant, a man develops perioral numbness and a bizarre reversal of hot and cold sensations. What is the precise mechanism of the toxin involved?",
+    "options": [
+      "Prevents sodium channel depolarization",
+      "Irreversibly inhibits acetylcholinesterase",
+      "Blocks nicotinic acetylcholine receptors",
+      "Prevents presynaptic neurotransmitter vesicle fusion",
+      "Opens sodium channels causing continuous depolarization"
+    ],
+    "correct_answer": "E",
+    "explanation": "Ciguatoxin, commonly found in reef fish like snapper, forces voltage-gated sodium channels to remain open, causing continuous nerve depolarization and bizarre temperature sensory reversal."
+  },
+  {
+    "id": 2293,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An elderly patient experiences prolonged sedation after receiving a standard dose of a lipophilic drug. Which age-related pharmacokinetic change best explains this prolonged half-life?",
+    "options": [
+      "Decreased renal clearance",
+      "Decreased total body water",
+      "Decreased hepatic blood flow",
+      "Increased total body fat",
+      "Decreased first-pass metabolism"
+    ],
+    "correct_answer": "D",
+    "explanation": "Aging is associated with an increase in total body fat. This proportionally increases the volume of distribution (Vd) for highly lipophilic drugs, consequently increasing their half-life."
+  },
+  {
+    "id": 2294,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient intentionally overdoses on a common analgesic and presents with impending focal hepatic necrosis. The primary antidote administered functions by which mechanism?",
+    "options": [
+      "Chelating circulating drug molecules",
+      "Replenishing intracellular glutathione stores",
+      "Inducing cytochrome P450 enzymes",
+      "Directly inhibiting phase I drug metabolism",
+      "Reversing opioid receptor activation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Acetaminophen overdose leads to depletion of hepatic glutathione. The specific antidote, N-acetylcysteine, works directly by replenishing these critically low glutathione stores."
+  },
+  {
+    "id": 2295,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A toddler living in an old house presents with developmental delay and signs of severe anemia. Which chelator is the most appropriate primary treatment for this heavy metal toxicity?",
+    "options": [
+      "Dimercaprol",
+      "Penicillamine",
+      "Deferoxamine",
+      "Fomepizole",
+      "Flumazenil"
+    ],
+    "correct_answer": "A",
+    "explanation": "The child has lead poisoning from old house paint. Dimercaprol (along with EDTA and Succimer) is used specifically to chelate lead in severe pediatric toxicity."
+  },
+  {
+    "id": 2296,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient presents with severe cardiac arrhythmias and seizures following a suspected tricyclic antidepressant overdose. How does the standard antidote stabilize the cardiac cell membrane?",
+    "options": [
+      "Replenishing potassium stores",
+      "Blocking calcium channels",
+      "Alkalinizing the serum to alter sodium channel binding",
+      "Chelating free circulating drug",
+      "Directly activating beta-1 receptors"
+    ],
+    "correct_answer": "C",
+    "explanation": "Sodium bicarbonate (NaHCO3) is the antidote for TCA toxicity. It alkalinizes the serum and urine, which overcomes the sodium channel blockade that destabilizes the cardiac cell membrane."
+  },
+  {
+    "id": 2297,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A healthy young adult arrives at the emergency department with severe chest pain and ST-segment elevation after a party. Which substance is the most likely cause of this acute coronary vasospasm?",
+    "options": [
+      "Vancomycin",
+      "Niacin",
+      "Amiodarone",
+      "Hydralazine",
+      "Cocaine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Cocaine (along with Amphetamines, Sumatriptan, and Ergot alkaloids) is a classic cause of severe, acute, drug-induced coronary vasospasm mimicking myocardial infarction."
+  },
+  {
+    "id": 2298,
+    "category": "FCPS Topic (Extreme)",
+    "question": "During rapid intravenous administration of an antibiotic, a patient develops widespread pruritic erythema. Which agent most likely induced this rate-dependent phenomenon?",
+    "options": [
+      "Penicillin G",
+      "Ceftriaxone",
+      "Daptomycin",
+      "Vancomycin",
+      "Linezolid"
+    ],
+    "correct_answer": "D",
+    "explanation": "Vancomycin can trigger a non-IgE-mediated, rate-dependent histamine release leading to widespread pruritic flushing, commonly known as vancomycin infusion reaction."
+  },
+  {
+    "id": 2299,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A breast cancer patient treated with an anthracycline develops profound shortness of breath and an enlarged cardiac silhouette. Which drug toxicity has she most likely developed?",
+    "options": [
+      "Dilated cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Acute constrictive pericarditis",
+      "Coronary vasospasm"
+    ],
+    "correct_answer": "A",
+    "explanation": "Anthracyclines such as doxorubicin and daunorubicin can cause a dose-dependent dilated cardiomyopathy, which can be mitigated with dexrazoxane administration."
+  },
+  {
+    "id": 2300,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A hospitalized patient develops torsades de pointes after starting a new medication for atypical pneumonia. Which class of antibiotics is most strongly associated with this prolonged QT interval?",
+    "options": [
+      "Aminoglycosides",
+      "Macrolides",
+      "Tetracyclines",
+      "Cephalosporins",
+      "Sulfonamides"
+    ],
+    "correct_answer": "B",
+    "explanation": "Macrolides (and fluoroquinolones) are well-known to prolong the QT interval, thereby predisposing susceptible patients to the lethal arrhythmia torsades de pointes."
+  },
+  {
+    "id": 2301,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient being treated for bipolar disorder begins urinating large volumes of dilute urine daily. Which medication is the most likely cause of this drug-induced endocrine abnormality?",
+    "options": [
+      "Valproate",
+      "Carbamazepine",
+      "Lithium",
+      "Lamotrigine",
+      "Haloperidol"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lithium toxicity uniquely desensitizes the kidneys to ADH, precipitating nephrogenic diabetes insipidus characterized by polyuria and un-concentrated urine."
+  },
+  {
+    "id": 2302,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A man receiving treatment for a systemic fungal infection develops bilateral breast enlargement and tenderness. Which medication most likely caused this side effect by disrupting androgen production?",
+    "options": [
+      "Terbinafine",
+      "Fluconazole",
+      "Amphotericin B",
+      "Griseofulvin",
+      "Ketoconazole"
+    ],
+    "correct_answer": "E",
+    "explanation": "Ketoconazole inhibits multiple enzymes involved in steroidogenesis, powerfully decreasing androgen synthesis and resulting in classic adverse effects like gynecomastia."
+  },
+  {
+    "id": 2303,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A schizophrenic patient develops amenorrhea and galactorrhea. Her physician suspects the antipsychotic medication is responsible. Which alternative cardiovascular drug could also produce this exact endocrine profile?",
+    "options": [
+      "Methyldopa",
+      "Clonidine",
+      "Nifedipine",
+      "Amiodarone",
+      "Flecainide"
+    ],
+    "correct_answer": "A",
+    "explanation": "Methyldopa inhibits dopaminergic pathways similarly to antipsychotics, thereby disinhibiting prolactin release and causing hyperprolactinemia with hypogonadism and galactorrhea."
+  },
+  {
+    "id": 2304,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient on chemotherapy for lung cancer develops severe hyponatremia with highly concentrated urine. Which alkylating agent is notorious for causing this drug-induced syndrome?",
+    "options": [
+      "Cisplatin",
+      "Doxorubicin",
+      "Bleomycin",
+      "Cyclophosphamide",
+      "Paclitaxel"
+    ],
+    "correct_answer": "D",
+    "explanation": "Cyclophosphamide (along with carbamazepine and SSRIs) is a major pharmacological trigger for the Syndrome of Inappropriate Antidiuretic Hormone (SIADH), causing severe dilutional hyponatremia."
+  },
+  {
+    "id": 2305,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A woman treating her postmenopausal osteoporosis develops severe retrosternal pain and dysphagia due to localized caustic mucosal damage. Which drug class is primarily responsible?",
+    "options": [
+      "Selective estrogen receptor modulators",
+      "Bisphosphonates",
+      "Proton pump inhibitors",
+      "Nonsteroidal anti-inflammatory drugs",
+      "Glucocorticoids"
+    ],
+    "correct_answer": "B",
+    "explanation": "Bisphosphonates cause severe direct caustic pill esophagitis if they become lodged in the esophagus, which is why patients are instructed to remain upright and drink ample water after dosing."
+  },
+  {
+    "id": 2306,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient develops profuse, foul-smelling diarrhea secondary to a resistant bacterial superinfection after a dental procedure. Which antibiotic is classically responsible for predisposing the gut to this condition?",
+    "options": [
+      "Amoxicillin",
+      "Metronidazole",
+      "Clindamycin",
+      "Azithromycin",
+      "Doxycycline"
+    ],
+    "correct_answer": "C",
+    "explanation": "Clindamycin dramatically alters the normal gastrointestinal flora, making it notorious for predisposing patients to Clostridioides difficile overgrowth and pseudomembranous colitis."
+  },
+  {
+    "id": 2307,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient treated for refractory schizophrenia presents with sudden onset high fever and severe pharyngitis due to profound leukocyte depletion. Which medication requires strict hematologic monitoring to prevent this?",
+    "options": [
+      "Haloperidol",
+      "Risperidone",
+      "Olanzapine",
+      "Quetiapine",
+      "Clozapine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Clozapine can induce life-threatening agranulocytosis. Patients must undergo rigorous and regular complete blood count monitoring to detect potentially fatal leukocyte collapse early."
+  },
+  {
+    "id": 2308,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An immigrant child treated abroad for a severe systemic infection presents with a complete lack of new blood cell production in the marrow. Which antibiotic is classically associated with this fatal hematologic reaction?",
+    "options": [
+      "Chloramphenicol",
+      "Erythromycin",
+      "Tetracycline",
+      "Trimethoprim",
+      "Ciprofloxacin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Chloramphenicol is infamous for causing devastating, idiosyncratic aplastic anemia resulting in pancytopenia and empty bone marrow spaces, leading to restricted modern usage."
+  },
+  {
+    "id": 2309,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient started on an anti-epileptic develops a delayed hypersensitivity reaction characterized by diffuse rash, eosinophilia, and systemic visceral involvement. Which drug most likely triggered this type IV reaction?",
+    "options": [
+      "Ethosuximide",
+      "Phenytoin",
+      "Valproic acid",
+      "Gabapentin",
+      "Topiramate"
+    ],
+    "correct_answer": "B",
+    "explanation": "Phenytoin can trigger DRESS syndrome (Drug Reaction with Eosinophilia and Systemic Symptoms), an intense type IV delayed hypersensitivity response involving visceral organ damage."
+  },
+  {
+    "id": 2310,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A rheumatoid arthritis patient experiences worsening fatigue and is found to have significantly elevated mean corpuscular volume without neurologic deficits. Which disease-modifying drug is the primary culprit?",
+    "options": [
+      "Sulfasalazine",
+      "Leflunomide",
+      "Infliximab",
+      "Methotrexate",
+      "Hydroxychloroquine"
+    ],
+    "correct_answer": "D",
+    "explanation": "Methotrexate potently inhibits folate synthesis, classically inducing megaloblastic anemia characterized by an increased MCV without the neurologic symptoms seen in B12 deficiency."
+  },
+  {
+    "id": 2311,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient taking a Class IA antiarrhythmic develops a malar rash, joint pain, and positive antinuclear antibodies. Which specific medication is most heavily associated with this autoimmune-like syndrome?",
+    "options": [
+      "Flecainide",
+      "Amiodarone",
+      "Procainamide",
+      "Sotalol",
+      "Lidocaine"
+    ],
+    "correct_answer": "C",
+    "explanation": "Procainamide (along with hydralazine and quinidine) is heavily associated with drug-induced lupus, which typically presents with positive ANA and anti-histone antibodies."
+  },
+  {
+    "id": 2312,
+    "category": "FCPS Topic (Extreme)",
+    "question": "An organ transplant recipient on an immunosuppressive regimen develops noticeably swollen, enlarged, and easily bleeding gums. Which medication is the most likely cause of this oral complication?",
+    "options": [
+      "Tacrolimus",
+      "Mycophenolate mofetil",
+      "Azathioprine",
+      "Sirolimus",
+      "Cyclosporine"
+    ],
+    "correct_answer": "E",
+    "explanation": "Cyclosporine is a calcineurin inhibitor specifically associated with profound gingival hyperplasia. Unlike tacrolimus, cyclosporine prominently stimulates gingival fibroblast proliferation."
+  },
+  {
+    "id": 2313,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A tuberculosis patient develops severe, painful swelling in the first metatarsophalangeal joint. Which drug in their standard four-drug regimen commonly precipitates this crystallization due to decreased excretion?",
+    "options": [
+      "Pyrazinamide",
+      "Isoniazid",
+      "Rifampin",
+      "Ethambutol",
+      "Streptomycin"
+    ],
+    "correct_answer": "A",
+    "explanation": "Pyrazinamide dramatically decreases renal uric acid excretion, frequently resulting in hyperuricemia and acute gout flares localized commonly to the great toe."
+  },
+  {
+    "id": 2314,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient treated for a complicated skin infection develops severe muscle pain, weakness, and markedly elevated creatine kinase levels. Which novel lipopeptide antibiotic directly causes this muscular toxicity?",
+    "options": [
+      "Linezolid",
+      "Vancomycin",
+      "Tigecycline",
+      "Daptomycin",
+      "Ceftaroline"
+    ],
+    "correct_answer": "D",
+    "explanation": "Daptomycin can cause severe, sometimes irreversible myopathy and rhabdomyolysis. It specifically requires careful monitoring of creatine kinase during therapy."
+  },
+  {
+    "id": 2315,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A teenager treated for severe acne spends a day at the beach and develops an unusually severe, blistering sunburn. Which orally administered antibiotic directly predisposed them to this photosensitivity?",
+    "options": [
+      "Azithromycin",
+      "Tetracycline",
+      "Amoxicillin",
+      "Clindamycin",
+      "Cephalexin"
+    ],
+    "correct_answer": "B",
+    "explanation": "Tetracyclines are classic triggers for robust drug-induced photosensitivity reactions, greatly exacerbating cutaneous cellular damage upon direct exposure to UV radiation."
+  },
+  {
+    "id": 2316,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A patient started on a medication for partial seizures rapidly develops widespread epidermal sloughing and mucosal erosions. Which specific antiepileptic drug is heavily associated with this life-threatening dermatologic emergency?",
+    "options": [
+      "Levetiracetam",
+      "Valproic acid",
+      "Lamotrigine",
+      "Phenobarbital",
+      "Pregabalin"
+    ],
+    "correct_answer": "C",
+    "explanation": "Lamotrigine is notoriously associated with Stevens-Johnson syndrome, a massive immune-mediated epidermal detachment emergency requiring immediate drug cessation."
+  },
+  {
+    "id": 2317,
+    "category": "FCPS Topic (Extreme)",
+    "question": "A runner given an antibiotic for a urinary tract infection experiences sudden, sharp posterior heel pain and an inability to plantarflex their foot. Which class of antimicrobial agent was most likely prescribed?",
+    "options": [
+      "Fluoroquinolones",
+      "Aminoglycosides",
+      "Macrolides",
+      "Sulfonamides",
+      "Penicillins"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fluoroquinolones possess a unique toxic mechanism that disrupts collagen and cartilage structural integrity, strongly predisposing patients to sudden, spontaneous tendon rupture."
   }
 ];
