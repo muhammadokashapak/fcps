@@ -40,11 +40,17 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function initDB() {
-    if (!localStorage.getItem('fcps_users_db')) {
-        const initialDB = {
-            'admin@gmail.com': { name: 'Super Admin', password: 'admin', role: 'admin' }
-        };
-        localStorage.setItem('fcps_users_db', JSON.stringify(initialDB));
+    let db = localStorage.getItem('fcps_users_db');
+    if (!db) {
+        db = {};
+    } else {
+        db = JSON.parse(db);
+    }
+    
+    // Always ensure admin exists
+    if (!db['admin@gmail.com']) {
+        db['admin@gmail.com'] = { name: 'Super Admin', password: 'admin', role: 'admin' };
+        localStorage.setItem('fcps_users_db', JSON.stringify(db));
     }
 }
 
