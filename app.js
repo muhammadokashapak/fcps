@@ -9,6 +9,7 @@ let userData = {
 // DOM Elements
 const screens = {
     login: document.getElementById('login-screen'),
+    admin: document.getElementById('admin-screen'),
     user: document.getElementById('user-screen'),
     quiz: document.getElementById('quiz-screen'),
     res: document.getElementById('res-screen')
@@ -25,8 +26,14 @@ document.addEventListener("DOMContentLoaded", () => {
     // Check if user is logged in
     const authUser = localStorage.getItem('fcps_auth_user');
     if (authUser) {
-        loadUserData(authUser);
-        initUser();
+        // Route to Admin or User
+        const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+        if (db[authUser] && db[authUser].role === 'admin') {
+            initAdmin();
+        } else {
+            loadUserData(authUser);
+            initUser();
+        }
     } else {
         switchScreen('login');
     }
@@ -34,7 +41,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function initDB() {
     if (!localStorage.getItem('fcps_users_db')) {
-        localStorage.setItem('fcps_users_db', JSON.stringify({}));
+        const initialDB = {
+            'admin@gmail.com': { name: 'Super Admin', password: 'admin', role: 'admin' }
+        };
+        localStorage.setItem('fcps_users_db', JSON.stringify(initialDB));
     }
 }
 
@@ -123,8 +133,12 @@ function handleLogin(e) {
     localStorage.setItem('fcps_auth_user', email);
     localStorage.setItem('fcps_auth_name', db[email].name);
     
-    loadUserData(email);
-    initUser();
+    if (db[email].role === 'admin') {
+        initAdmin();
+    } else {
+        loadUserData(email);
+        initUser();
+    }
 }
 
 function handleForgot(e) {
@@ -146,6 +160,49 @@ function logout() {
     localStorage.removeItem('fcps_auth_name');
     toggleAuthView('view-login');
     switchScreen('login');
+}
+
+// ==========================================
+// ADMIN PORTAL
+// ==========================================
+function initAdmin() {
+    const tbody = document.getElementById('admin-users-tbody');
+    tbody.innerHTML = '';
+    
+    const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+    
+    for (const email in db) {
+        const u = db[email];
+        const isSelf = email === 'admin@gmail.com';
+        const roleHtml = u.role === 'admin' ? '<span class="role-badge admin">Admin</span>' : '<span class="role-badge">Student</span>';
+        const actionHtml = isSelf ? 
+            `<span class="text-muted" style="font-size:0.8rem;">Master</span>` : 
+            `<button class="btn btn-outline-danger btn-icon" onclick="deleteUser('${email}')" title="Delete User"><i class="fa-solid fa-trash"></i></button>`;
+            
+        tbody.innerHTML += `
+            <tr>
+                <td><strong>${u.name}</strong></td>
+                <td>${email}</td>
+                <td>${roleHtml}</td>
+                <td class="text-center">${actionHtml}</td>
+            </tr>
+        `;
+    }
+    
+    switchScreen('admin');
+}
+
+function deleteUser(email) {
+    if (confirm(`Are you sure you want to delete ${email}?\nThis action is irreversible and deletes their progress.`)) {
+        const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+        delete db[email];
+        localStorage.setItem('fcps_users_db', JSON.stringify(db));
+        
+        // Also clean up their progress data
+        localStorage.removeItem('fcps_data_' + email);
+        
+        initAdmin(); // Refresh table
+    }
 }
 
 // ==========================================

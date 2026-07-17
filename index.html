@@ -96,6 +96,65 @@
         </div>
     </div>
 
+    <!-- SCREEN: ADMIN PORTAL -->
+    <div id="admin-screen" class="screen portal-layout">
+        <aside class="sidebar" id="admin-sidebar" style="background: var(--primary);">
+            <div class="brand">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>Admin Panel</span>
+            </div>
+            
+            <nav class="nav-menu">
+                <a href="#" class="nav-link active"><i class="fa-solid fa-users-gear"></i> User Management</a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="user-info-sm mb-3">
+                    <div class="avatar" style="background: var(--danger);"><i class="fa-solid fa-user-shield"></i></div>
+                    <div class="details">
+                        <strong>Super Admin</strong>
+                        <span>System Control</span>
+                    </div>
+                </div>
+                <button class="btn btn-outline-danger w-100" onclick="logout()"><i class="fa-solid fa-right-from-bracket"></i> Logout</button>
+            </div>
+        </aside>
+        
+        <main class="main-content">
+            <header class="topbar">
+                <h2>User Management</h2>
+                <div class="user-badge" title="Admin Profile"><i class="fa-solid fa-shield"></i></div>
+            </header>
+            
+            <div class="content-body">
+                <div class="card p-5">
+                    <div class="d-flex justify-content-between align-items-center mb-4">
+                        <div>
+                            <h3 class="mb-2"><i class="fa-solid fa-users text-primary"></i> Registered Users</h3>
+                            <p class="text-muted">Manage all students enrolled in the FCPS Pro platform.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="table-responsive">
+                        <table class="admin-table w-100">
+                            <thead>
+                                <tr>
+                                    <th>Full Name</th>
+                                    <th>Email Address</th>
+                                    <th>Role</th>
+                                    <th class="text-center">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="admin-users-tbody">
+                                <!-- Users injected here via JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
     <!-- SCREEN: USER PORTAL -->
     <div id="user-screen" class="screen portal-layout">
         <aside class="sidebar" id="main-sidebar">
