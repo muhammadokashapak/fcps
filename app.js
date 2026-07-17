@@ -49,7 +49,7 @@ function initDB() {
     
     // Always ensure admin exists
     if (!db['admin@gmail.com']) {
-        db['admin@gmail.com'] = { name: 'Super Admin', password: 'admin', role: 'admin' };
+        db['admin@gmail.com'] = { name: 'Super Admin', password: 'admin', role: 'admin', joinDate: new Date().toLocaleDateString(), premium: true };
         localStorage.setItem('fcps_users_db', JSON.stringify(db));
     }
 }
@@ -113,7 +113,7 @@ function handleRegister(e) {
         return showAuthAlert("Account with this email already exists.", "error");
     }
 
-    db[email] = { name, password: pass };
+    db[email] = { name, password: pass, role: 'student', joinDate: new Date().toLocaleDateString(), premium: false };
     localStorage.setItem('fcps_users_db', JSON.stringify(db));
 
     toggleAuthView('view-login');
@@ -175,27 +175,65 @@ function initAdmin() {
     const tbody = document.getElementById('admin-users-tbody');
     tbody.innerHTML = '';
     
-    const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+    const db = JSON.parse(localStorage.getItem('fcps_users_db')) || {};
+    
+    let totalUsers = 0;
+    let premiumUsers = 0;
+    let totalMcqs = 0;
     
     for (const email in db) {
+        totalUsers++;
         const u = db[email];
+        if (u.premium) premiumUsers++;
+        
+        // Count MCQs
+        const uData = JSON.parse(localStorage.getItem('fcps_data_' + email));
+        if (uData && uData.stats && uData.stats.attempted) {
+            totalMcqs += uData.stats.attempted;
+        }
+
         const isSelf = email === 'admin@gmail.com';
-        const roleHtml = u.role === 'admin' ? '<span class="role-badge admin">Admin</span>' : '<span class="role-badge">Student</span>';
+        
+        let roleHtml = '';
+        if (u.role === 'admin') roleHtml = '<span class="role-badge admin">Admin</span>';
+        else if (u.premium) roleHtml = '<span class="role-badge premium">Premium <i class="fa-solid fa-crown" style="font-size:0.75rem;"></i></span>';
+        else roleHtml = '<span class="role-badge">Free Tier</span>';
+        
+        const joinDateHtml = u.joinDate || 'Legacy User';
+        
+        const toggleBtn = isSelf ? '' : `<button class="btn btn-outline btn-icon" onclick="togglePremium('${email}')" title="Toggle Premium"><i class="fa-solid fa-crown ${u.premium ? 'text-warning' : ''}"></i></button>`;
+        const deleteBtn = isSelf ? '' : `<button class="btn btn-outline-danger btn-icon" onclick="deleteUser('${email}')" title="Delete User"><i class="fa-solid fa-trash"></i></button>`;
+
         const actionHtml = isSelf ? 
             `<span class="text-muted" style="font-size:0.8rem;">Master</span>` : 
-            `<button class="btn btn-outline-danger btn-icon" onclick="deleteUser('${email}')" title="Delete User"><i class="fa-solid fa-trash"></i></button>`;
+            `<div class="d-flex justify-content-center gap-3">${toggleBtn}${deleteBtn}</div>`;
             
         tbody.innerHTML += `
             <tr>
                 <td><strong>${u.name}</strong></td>
                 <td>${email}</td>
+                <td>${joinDateHtml}</td>
                 <td>${roleHtml}</td>
                 <td class="text-center">${actionHtml}</td>
             </tr>
         `;
     }
     
+    // Update Stats
+    document.getElementById('admin-stat-users').innerText = totalUsers;
+    document.getElementById('admin-stat-premium').innerText = premiumUsers;
+    document.getElementById('admin-stat-mcqs').innerText = totalMcqs;
+    
     switchScreen('admin');
+}
+
+function togglePremium(email) {
+    const db = JSON.parse(localStorage.getItem('fcps_users_db'));
+    if (db[email]) {
+        db[email].premium = !db[email].premium;
+        localStorage.setItem('fcps_users_db', JSON.stringify(db));
+        initAdmin(); // Refresh
+    }
 }
 
 function deleteUser(email) {

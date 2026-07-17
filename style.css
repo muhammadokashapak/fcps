@@ -100,6 +100,7 @@ body { font-family: var(--font-ui); background: var(--bg-main); color: var(--tex
 .admin-table tr:hover td { background: #f1f5f9; }
 .role-badge { padding: 4px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; background: #e2e8f0; color: var(--text-main); display: inline-block; }
 .role-badge.admin { background: #fee2e2; color: #b91c1c; }
+.role-badge.premium { background: #fef3c7; color: #b45309; }
 
 /* Dashboard Layout */
 .portal-layout { flex-direction: row; }

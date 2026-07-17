@@ -127,11 +127,37 @@
             </header>
             
             <div class="content-body">
+                
+                <!-- Admin Analytics Grid -->
+                <div class="stats-grid mb-4">
+                    <div class="stat-card">
+                        <div class="icon"><i class="fa-solid fa-users"></i></div>
+                        <div class="info">
+                            <h4>Total Users</h4>
+                            <h2 id="admin-stat-users">0</h2>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="icon" style="background: #fef3c7; color: #d97706;"><i class="fa-solid fa-crown"></i></div>
+                        <div class="info">
+                            <h4>Premium Members</h4>
+                            <h2 id="admin-stat-premium">0</h2>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="icon" style="background: #fce7f3; color: #db2777;"><i class="fa-solid fa-layer-group"></i></div>
+                        <div class="info">
+                            <h4>Platform MCQs Solved</h4>
+                            <h2 id="admin-stat-mcqs">0</h2>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="card p-5">
                     <div class="d-flex justify-content-between align-items-center mb-4">
                         <div>
-                            <h3 class="mb-2"><i class="fa-solid fa-users text-primary"></i> Registered Users</h3>
-                            <p class="text-muted">Manage all students enrolled in the FCPS Pro platform.</p>
+                            <h3 class="mb-2"><i class="fa-solid fa-address-book text-primary"></i> User Directory</h3>
+                            <p class="text-muted">Manage all students, their subscription status, and platform access.</p>
                         </div>
                     </div>
                     
@@ -141,7 +167,8 @@
                                 <tr>
                                     <th>Full Name</th>
                                     <th>Email Address</th>
-                                    <th>Role</th>
+                                    <th>Join Date</th>
+                                    <th>Status / Role</th>
                                     <th class="text-center">Actions</th>
                                 </tr>
                             </thead>
