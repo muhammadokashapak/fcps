@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-2563EB?style=for-the-badge&logo=github&logoColor=white) ![Medical_Exam](https://img.shields.io/badge/Medical_Exam-2563EB?style=for-the-badge&logo=github&logoColor=white) 
+  <img src="https://img.shields.io/badge/JavaScript-=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/NodeJS-=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/TailwindCSS-=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> 
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="#-key-features">Key Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-getting-started">Getting Started</a> •
-  <a href="#-author--license">Author</a>
+  <a href="#-author">Author</a>
 </p>
 
 </div>
@@ -49,34 +49,34 @@ A dedicated revision platform containing categorized past paper questions, high-
 ## 🚀 Getting Started
 
 ### Prerequisites
-Make sure you have the required runtime installed:
-- **Git** installed on your system
-- **Python 3.9+ / Node.js 18+** (depending on the stack)
+Make sure you have the required runtime installed on your machine:
+- **Git**
+- **Python 3.9+ / Node.js 18+** (depending on the project)
 
-### Installation & Run
+### Quick Start
 
-`ash
+``bash
 # 1. Clone the repository
 git clone https://github.com/muhammadokashapak/fcps.git
 
 # 2. Navigate into the project directory
 cd fcps
-`
+``
 
 ---
 
-## 👨‍💻 Author & Connect
-
-**Muhammad Okasha**
-- GitHub: [@muhammadokashapak](https://github.com/muhammadokashapak)
-- LinkedIn: [Muhammad Okasha](https://linkedin.com/in/muhammad-okasha)
-
----
+## 👨‍💻 Author
 
 <div align="center">
 
-⭐ **Star this repository if you find it helpful!** ⭐
+**Muhammad Okasha**
+<br/>
+<a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-*© 2026 [Muhammad Okasha](https://github.com/muhammadokashapak). All rights reserved.*
+<br/><br/>
+
+*⭐ Star this repository if you find it helpful! • © 2026 [Muhammad Okasha](https://github.com/muhammadokashapak)*
 
 </div>
