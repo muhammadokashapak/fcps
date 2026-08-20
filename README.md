@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # 🩺 FCPS Medical Preparation Suite
 
@@ -7,15 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/NodeJS-=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/TailwindCSS-=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> 
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="Frontend-React" /> <img src="https://img.shields.io/badge/Backend-NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend-NodeJS" /> <img src="https://img.shields.io/badge/Focus-FCPS_Part_1_%26_2-FF8800?style=for-the-badge&logo=redcross&logoColor=white" alt="Focus-FCPS_Part_1_%26_2" /> <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="UI-TailwindCSS" />
 </p>
 
 <p align="center">
   <a href="#-overview">Overview</a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-author">Author</a>
+  <a href="#-system-architecture">Architecture</a> •
+  <a href="#-key-features--capabilities">Key Features</a> •
+  <a href="#-tech-stack--tools">Tech Stack</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-author--license">Author</a>
 </p>
 
 </div>
@@ -24,15 +25,26 @@
 
 ## 📌 Overview
 
-A dedicated revision platform containing categorized past paper questions, high-yield clinical scenarios, and self-assessment modules for FCPS (Fellow of College of Physicians and Surgeons) aspirants.
+A dedicated medical examination prep platform containing high-yield topic-wise questions, past paper recalls, and clinical scenario simulations for FCPS aspirants.
 
 ---
 
-## ✨ Key Features
+## 🏗️ System Architecture
 
-- 📖 **Topic-wise Question Bank**: Thorough coverage of Basic Medical Sciences and Clinical Specialties.
-- 🎯 **Past Papers Practice**: Simulates actual FCPS exam pattern with immediate scoring.
-- 📌 **Bookmark & Review**: Save difficult questions for high-yield revision before exam day.
+```mermaid
+graph LR
+    A[FCPS Candidate] --> B[Topic Question Bank]
+    B --> C[Past Papers Simulator]
+    C --> D[Bookmark High-Yield Questions]
+```
+
+---
+
+## ✨ Key Features & Capabilities
+
+- 📖 **Comprehensive Subject Coverage**: Basic Sciences, General Medicine, General Surgery, Pathology.
+- 🎯 **Past Paper Practice**: Simulates real CPSP examination conditions.
+- 📌 **Bookmarking & Revision**: Quick access to difficult high-yield clinical questions.
 
 ---
 
@@ -41,42 +53,44 @@ A dedicated revision platform containing categorized past paper questions, high-
 - **JavaScript**
 - **React.js**
 - **Node.js**
-- **JSON Database / MongoDB**
+- **JSON Database**
 - **Tailwind CSS**
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
-### Prerequisites
-Make sure you have the required runtime installed on your machine:
-- **Git**
-- **Python 3.9+ / Node.js 18+** (depending on the project)
+### 📋 Prerequisites
+Ensure you have the required runtime environment installed:
+* **Git** version 2.30+
+* **Python 3.9+** / **Node.js 18+** / **Android Studio** (depending on project stack)
 
-### Quick Start
+### 📥 Installation & Setup
 
-``bash
+```bash
 # 1. Clone the repository
 git clone https://github.com/muhammadokashapak/fcps.git
 
-# 2. Navigate into the project directory
+# 2. Enter the directory
 cd fcps
-``
+```
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & License
 
 <div align="center">
 
 **Muhammad Okasha**
 <br/>
-<a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+*Deep Learning & Mobile Software Engineer*
+<br/><br/>
+<a href="https://github.com/muhammadokashapak"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/muhammad-okasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muhammadokashapak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-*⭐ Star this repository if you find it helpful! • © 2026 [Muhammad Okasha](https://github.com/muhammadokashapak)*
+*⭐️ If you find this project helpful, please consider giving it a star! • © 2026 [Muhammad Okasha](https://github.com/muhammadokashapak)*
 
 </div>
