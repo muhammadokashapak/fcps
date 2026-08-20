@@ -1,31 +1,82 @@
-# FCPS Pro - Part 1 Question Bank 🩺
+﻿<div align="center">
 
-FCPS Pro is a dedicated, distraction-free web application designed to help medical students prepare for the FCPS Part 1 examination. It provides an immersive testing environment, sophisticated performance analytics, and a powerful "Review Mistakes" system.
+# 🩺 FCPS Medical Preparation Suite
 
-## 🌟 Key Features
+<p align="center">
+  <strong>Specialized Question Bank & Topic-wise Revision Tool for FCPS Part 1 & 2 Candidates</strong>
+</p>
 
-*   **Immersive Mock Exams:** A Zen-mode UI that hides distractions (sidebars, references) during timed tests, simulating the real FCPS exam environment.
-*   **Anti-Cheating Penalty:** Switching tabs or leaving the test window during a mock exam incurs a strict 5-MCQ penalty, marking unanswered questions as incorrect and returning them to the unseen pool for future tests.
-*   **Mistakes Bank:** Incorrectly answered questions are automatically saved to a dedicated "Mistakes Bank" where you can review them alongside detailed explanations, without impacting your original test scores.
-*   **Smart Difficulty Sorting:** In "Mock Test" mode, the engine prioritizes longer, more complex clinical vignettes to maximize the challenge.
-*   **Offline Ready:** Uses modern browser `localStorage` to save your progress, meaning no backend server is required.
+<p align="center">
+  ![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-2563EB?style=for-the-badge&logo=github&logoColor=white) ![Medical_Exam](https://img.shields.io/badge/Medical_Exam-2563EB?style=for-the-badge&logo=github&logoColor=white) 
+</p>
 
-## 🚀 How to Run (GitHub Pages)
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-key-features">Key Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-author--license">Author</a>
+</p>
 
-Because FCPS Pro is a pure Frontend application (HTML, CSS, JS), it can be run directly in your browser without any server setup.
-
-1.  Clone this repository or download the ZIP.
-2.  Open `index.html` in any modern web browser (Chrome, Edge, Safari, Firefox).
-3.  **Start Practicing!**
-
-*(Note: If you host this repository on GitHub Pages, it will be instantly accessible online for free).*
-
-## 📚 Future Roadmap
-
-*   **Topic-Wise Testing:** Allow generating tests exclusively for specific subjects (Anatomy, Physiology, etc.).
-*   **Spaced Repetition System (SRS):** Automatically reintroduce questions from the Mistakes Bank at strategic intervals to improve retention.
-*   **Visual Analytics:** Integrate line graphs to visualize accuracy trends over time.
+</div>
 
 ---
 
-*Good luck with your FCPS Part 1 Preparation!*
+## 📌 Overview
+
+A dedicated revision platform containing categorized past paper questions, high-yield clinical scenarios, and self-assessment modules for FCPS (Fellow of College of Physicians and Surgeons) aspirants.
+
+---
+
+## ✨ Key Features
+
+- 📖 **Topic-wise Question Bank**: Thorough coverage of Basic Medical Sciences and Clinical Specialties.
+- 🎯 **Past Papers Practice**: Simulates actual FCPS exam pattern with immediate scoring.
+- 📌 **Bookmark & Review**: Save difficult questions for high-yield revision before exam day.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **JavaScript**
+- **React.js**
+- **Node.js**
+- **JSON Database / MongoDB**
+- **Tailwind CSS**
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have the required runtime installed:
+- **Git** installed on your system
+- **Python 3.9+ / Node.js 18+** (depending on the stack)
+
+### Installation & Run
+
+`ash
+# 1. Clone the repository
+git clone https://github.com/muhammadokashapak/fcps.git
+
+# 2. Navigate into the project directory
+cd fcps
+`
+
+---
+
+## 👨‍💻 Author & Connect
+
+**Muhammad Okasha**
+- GitHub: [@muhammadokashapak](https://github.com/muhammadokashapak)
+- LinkedIn: [Muhammad Okasha](https://linkedin.com/in/muhammad-okasha)
+
+---
+
+<div align="center">
+
+⭐ **Star this repository if you find it helpful!** ⭐
+
+*© 2026 [Muhammad Okasha](https://github.com/muhammadokashapak). All rights reserved.*
+
+</div>
